@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "1.28",
-      "latest": "1.28.2",
-      "latestReleaseDate": "2026-04-07",
+      "latest": "1.28.3",
+      "latestReleaseDate": "2026-05-11",
       "lts": false,
-      "releaseDate": "2026-04-07"
+      "releaseDate": "2026-05-11"
     },
     {
       "cycle": "1.26",
@@ -114,10 +114,10 @@
       "releaseDate": "2013-08-28"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "gstreamer",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/gstreamer.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/gstreamer.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

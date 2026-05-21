@@ -11,16 +11,16 @@
     {
       "cycle": "2.3",
       "eol": "2028-04-30",
-      "latest": "2.3.0",
-      "latestReleaseDate": "2026-04-30",
+      "latest": "2.3.1",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
       "releaseDate": "2026-04-30"
     },
     {
       "cycle": "2.2",
       "eol": "2026-11-06",
-      "latest": "2.2.3",
-      "latestReleaseDate": "2026-04-14",
+      "latest": "2.2.4",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
       "releaseDate": "2025-11-05"
     },
@@ -34,15 +34,15 @@
     },
     {
       "cycle": "2.0",
-      "latest": "2.0.8",
-      "latestReleaseDate": "2026-04-14",
+      "latest": "2.0.9",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
       "releaseDate": "2024-11-05"
     },
     {
       "cycle": "1.7",
-      "latest": "1.7.31",
-      "latestReleaseDate": "2026-04-14",
+      "latest": "1.7.32",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
       "releaseDate": "2023-03-10"
     },
@@ -103,10 +103,10 @@
       "releaseDate": "2017-12-05"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "containerd",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/containerd.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/containerd.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

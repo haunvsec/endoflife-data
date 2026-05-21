@@ -9,18 +9,18 @@
   },
   "cycles": [
     {
+      "cycle": "2.14",
+      "latest": "2.14.4",
+      "latestReleaseDate": "2026-05-11",
+      "lts": false,
+      "releaseDate": "2026-05-11"
+    },
+    {
       "cycle": "2.15",
       "latest": "2.15.1",
       "latestReleaseDate": "2026-05-06",
       "lts": false,
       "releaseDate": "2026-05-06"
-    },
-    {
-      "cycle": "2.14",
-      "latest": "2.14.3",
-      "latestReleaseDate": "2026-03-10",
-      "lts": false,
-      "releaseDate": "2026-03-10"
     },
     {
       "cycle": "2.13",
@@ -191,10 +191,10 @@
       "releaseDate": "2017-06-09"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "harbor",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/harbor.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/harbor.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

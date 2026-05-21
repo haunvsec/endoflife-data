@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "26.5",
+      "latest": "26.5",
+      "latestReleaseDate": "2026-05-11",
+      "lts": false,
+      "releaseDate": "2026-05-11"
+    },
+    {
       "cycle": "26.4",
       "latest": "26.4",
       "latestReleaseDate": "2026-03-24",
@@ -450,10 +457,10 @@
       "releaseDate": "2015-12-08"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "apple-tvos",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/apple-tvos.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apple-tvos.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

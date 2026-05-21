@@ -11,9 +11,11 @@
     {
       "cycle": "6.2",
       "eol": "2027-12-31",
+      "latest": "6.2.0",
+      "latestReleaseDate": "2026-05-19",
       "lts": false,
       "pythonVersions": "3.10-3.14",
-      "releaseDate": "2026-01-15"
+      "releaseDate": "2026-05-19"
     },
     {
       "cycle": "6.1",
@@ -75,10 +77,10 @@
       "releaseDate": "2013-04-06"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "plone",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/plone.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/plone.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

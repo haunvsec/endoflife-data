@@ -9,6 +9,27 @@
   },
   "cycles": [
     {
+      "cycle": "26.2",
+      "latest": "26.2.0",
+      "latestReleaseDate": "2026-05-20",
+      "lts": false,
+      "releaseDate": "2026-05-20"
+    },
+    {
+      "cycle": "22.22",
+      "latest": "22.22.3",
+      "latestReleaseDate": "2026-05-13",
+      "lts": false,
+      "releaseDate": "2026-05-13"
+    },
+    {
+      "cycle": "26.1",
+      "latest": "26.1.0",
+      "latestReleaseDate": "2026-05-07",
+      "lts": false,
+      "releaseDate": "2026-05-07"
+    },
+    {
       "cycle": "26.0",
       "latest": "26.0.0",
       "latestReleaseDate": "2026-05-05",
@@ -39,13 +60,6 @@
     {
       "cycle": "24.14",
       "latest": "24.14.1",
-      "latestReleaseDate": "2026-03-24",
-      "lts": false,
-      "releaseDate": "2026-03-24"
-    },
-    {
-      "cycle": "22.22",
-      "latest": "22.22.2",
       "latestReleaseDate": "2026-03-24",
       "lts": false,
       "releaseDate": "2026-03-24"
@@ -2599,10 +2613,10 @@
       "releaseDate": "2015-01-24"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "nodejs",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/nodejs.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nodejs.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

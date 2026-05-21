@@ -9,18 +9,18 @@
   },
   "cycles": [
     {
-      "cycle": "3.12",
-      "latest": "3.12.9.1",
-      "latestReleaseDate": "2026-04-14",
+      "cycle": "3.11",
+      "latest": "3.11.14.4",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
-      "releaseDate": "2026-04-14"
+      "releaseDate": "2026-05-20"
     },
     {
-      "cycle": "3.11",
-      "latest": "3.11.14.3",
-      "latestReleaseDate": "2026-02-23",
+      "cycle": "3.12",
+      "latest": "3.12.9.2",
+      "latestReleaseDate": "2026-05-15",
       "lts": false,
-      "releaseDate": "2026-02-23"
+      "releaseDate": "2026-05-15"
     },
     {
       "cycle": "3.10",
@@ -198,10 +198,10 @@
       "releaseDate": "2012-09-03"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "arangodb",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/arangodb.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/arangodb.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

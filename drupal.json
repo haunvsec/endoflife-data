@@ -10,45 +10,45 @@
   "cycles": [
     {
       "cycle": "11.3",
-      "latest": "11.3.9",
-      "latestReleaseDate": "2026-05-06",
+      "latest": "11.3.10",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
-      "releaseDate": "2026-05-06"
+      "releaseDate": "2026-05-20"
     },
     {
       "cycle": "11.2",
-      "latest": "11.2.11",
-      "latestReleaseDate": "2026-04-15",
+      "latest": "11.2.12",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
-      "releaseDate": "2026-04-15"
-    },
-    {
-      "cycle": "10.6",
-      "latest": "10.6.7",
-      "latestReleaseDate": "2026-04-15",
-      "lts": false,
-      "releaseDate": "2026-04-15"
-    },
-    {
-      "cycle": "10.5",
-      "latest": "10.5.9",
-      "latestReleaseDate": "2026-04-15",
-      "lts": false,
-      "releaseDate": "2026-04-15"
+      "releaseDate": "2026-05-20"
     },
     {
       "cycle": "11.1",
-      "latest": "11.1.9",
-      "latestReleaseDate": "2025-11-12",
+      "latest": "11.1.10",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
-      "releaseDate": "2025-11-12"
+      "releaseDate": "2026-05-20"
+    },
+    {
+      "cycle": "10.6",
+      "latest": "10.6.9",
+      "latestReleaseDate": "2026-05-20",
+      "lts": false,
+      "releaseDate": "2026-05-20"
+    },
+    {
+      "cycle": "10.5",
+      "latest": "10.5.10",
+      "latestReleaseDate": "2026-05-20",
+      "lts": false,
+      "releaseDate": "2026-05-20"
     },
     {
       "cycle": "10.4",
-      "latest": "10.4.9",
-      "latestReleaseDate": "2025-11-12",
+      "latest": "10.4.10",
+      "latestReleaseDate": "2026-05-20",
       "lts": false,
-      "releaseDate": "2025-11-12"
+      "releaseDate": "2026-05-20"
     },
     {
       "cycle": "11.0",
@@ -1409,10 +1409,10 @@
       "releaseDate": "2001-01-15"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "drupal",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/drupal.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/drupal.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

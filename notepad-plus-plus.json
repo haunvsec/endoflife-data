@@ -1,19 +1,19 @@
 {
   "canonical": {
-    "cpe": "",
-    "display_name": "Notepad Plus Plus",
-    "mapping_source": "unmapped",
-    "product": "notepad_plus_plus",
+    "cpe": "cpe:2.3:a:don_ho:notepad\\+\\+:*:*:*:*:*:*:*:*",
+    "display_name": "Notepad++",
+    "mapping_source": "eol_product_mapping",
+    "product": "notepad\\+\\+",
     "purl": "",
-    "vendor": ""
+    "vendor": "don_ho"
   },
   "cycles": [
     {
       "cycle": "8.9",
-      "latest": "8.9.4",
-      "latestReleaseDate": "2026-04-26",
+      "latest": "8.9.6",
+      "latestReleaseDate": "2026-05-21",
       "lts": false,
-      "releaseDate": "2026-04-26"
+      "releaseDate": "2026-05-21"
     },
     {
       "cycle": "8.8",
@@ -324,10 +324,10 @@
       "releaseDate": "2015-03-27"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "notepad-plus-plus",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/notepad-plus-plus.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/notepad-plus-plus.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

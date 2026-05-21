@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "10.9",
+      "eol": "2027-05-13",
+      "lts": false,
+      "releaseDate": "2026-05-13",
+      "releaseLabel": "10.9"
+    },
+    {
       "cycle": "10.8",
       "eol": "2026-10-28",
       "lts": false,
@@ -72,10 +79,10 @@
       "releaseLabel": "10.0"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "zerto",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/zerto.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/zerto.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

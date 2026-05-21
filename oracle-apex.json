@@ -9,6 +9,11 @@
   },
   "cycles": [
     {
+      "cycle": "26.1",
+      "eol": "2027-11-30",
+      "lts": false
+    },
+    {
       "cycle": "24.2",
       "eol": "2027-07-31",
       "lts": false
@@ -24,10 +29,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "oracle-apex",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/oracle-apex.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/oracle-apex.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

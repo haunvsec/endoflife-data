@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "2.16",
-      "latest": "2.16.0",
-      "latestReleaseDate": "2026-04-22",
+      "latest": "2.16.1",
+      "latestReleaseDate": "2026-05-21",
       "lts": false,
-      "releaseDate": "2026-04-22"
+      "releaseDate": "2026-05-21"
     },
     {
       "cycle": "2.15",
@@ -226,10 +226,10 @@
       "releaseDate": "2010-08-18"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "icinga",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/icinga.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/icinga.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

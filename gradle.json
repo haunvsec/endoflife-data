@@ -10,10 +10,17 @@
   "cycles": [
     {
       "cycle": "9.5",
-      "latest": "9.5.0",
-      "latestReleaseDate": "2026-04-27",
+      "latest": "9.5.1",
+      "latestReleaseDate": "2026-05-09",
       "lts": false,
-      "releaseDate": "2026-04-27"
+      "releaseDate": "2026-05-09"
+    },
+    {
+      "cycle": "8.14",
+      "latest": "8.14.5",
+      "latestReleaseDate": "2026-05-07",
+      "lts": false,
+      "releaseDate": "2026-05-07"
     },
     {
       "cycle": "9.4",
@@ -28,13 +35,6 @@
       "latestReleaseDate": "2026-01-29",
       "lts": false,
       "releaseDate": "2026-01-29"
-    },
-    {
-      "cycle": "8.14",
-      "latest": "8.14.4",
-      "latestReleaseDate": "2026-01-23",
-      "lts": false,
-      "releaseDate": "2026-01-23"
     },
     {
       "cycle": "9.2",
@@ -443,10 +443,10 @@
       "releaseDate": "2016-08-15"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "gradle",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/gradle.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/gradle.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

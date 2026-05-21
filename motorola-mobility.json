@@ -9,6 +9,20 @@
   },
   "cycles": [
     {
+      "cycle": "motorola-razr-70-plus",
+      "eol": "2030-05-31",
+      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12558",
+      "lts": false,
+      "releaseDate": "2026-05-01"
+    },
+    {
+      "cycle": "motorola-razr+-2026",
+      "eol": "2030-05-31",
+      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12561",
+      "lts": false,
+      "releaseDate": "2026-05-01"
+    },
+    {
       "cycle": "motorola-edge-70-pro",
       "eol": "2031-04-30",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12564",
@@ -23,9 +37,37 @@
       "releaseDate": "2026-04-01"
     },
     {
+      "cycle": "moto-g-max",
+      "eol": "2030-06-30",
+      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12537",
+      "lts": false,
+      "releaseDate": "2026-04-01"
+    },
+    {
       "cycle": "moto-g87",
       "eol": "2030-06-30",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12536",
+      "lts": false,
+      "releaseDate": "2026-04-01"
+    },
+    {
+      "cycle": "moto-g47",
+      "eol": "2029-04-30",
+      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12567",
+      "lts": false,
+      "releaseDate": "2026-04-01"
+    },
+    {
+      "cycle": "moto-g37-power",
+      "eol": "2029-04-30",
+      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12569",
+      "lts": false,
+      "releaseDate": "2026-04-01"
+    },
+    {
+      "cycle": "moto-g37",
+      "eol": "2029-04-30",
+      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12568",
       "lts": false,
       "releaseDate": "2026-04-01"
     },
@@ -730,10 +772,10 @@
       "releaseDate": "2022-08-01"
     }
   ],
-  "fetched_at": "2026-05-21T07:21:34Z",
+  "fetched_at": "2026-05-21T15:49:17Z",
   "slug": "motorola-mobility",
   "source": "release-data",
-  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
-  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/motorola-mobility.json",
+  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/motorola-mobility.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
