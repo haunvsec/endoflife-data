@@ -1,0 +1,53 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:amazon:rds_mariadb:*:*:*:*:*:*:*:*",
+    "display_name": "Amazon Rds Mariadb",
+    "mapping_source": "slug_prefix",
+    "product": "rds_mariadb",
+    "purl": "",
+    "vendor": "amazon"
+  },
+  "cycles": [
+    {
+      "cycle": "11.8",
+      "eol": "2030-06-30",
+      "latest": "11.8.6",
+      "latestReleaseDate": "2026-02-10",
+      "lts": false
+    },
+    {
+      "cycle": "11.4",
+      "eol": "2029-05-31",
+      "latest": "11.4.10",
+      "latestReleaseDate": "2026-02-10",
+      "lts": false
+    },
+    {
+      "cycle": "10.11",
+      "eol": "2028-02-29",
+      "latest": "10.11.16",
+      "latestReleaseDate": "2026-02-10",
+      "lts": false
+    },
+    {
+      "cycle": "10.6",
+      "eol": "2026-08-31",
+      "latest": "10.6.25",
+      "latestReleaseDate": "2026-02-10",
+      "lts": false
+    },
+    {
+      "cycle": "10.5",
+      "eol": "2026-08-31",
+      "latest": "10.5.29",
+      "latestReleaseDate": "2025-05-20",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "amazon-rds-mariadb",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/amazon-rds-mariadb.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

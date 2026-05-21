@@ -1,0 +1,249 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:perl:perl:*:*:*:*:*:*:*:*",
+    "display_name": "Perl",
+    "mapping_source": "advisory-data",
+    "product": "perl",
+    "purl": "",
+    "vendor": "perl"
+  },
+  "cycles": [
+    {
+      "cycle": "5.42",
+      "latest": "5.42.2",
+      "latestReleaseDate": "2026-03-29",
+      "lts": false,
+      "releaseDate": "2026-03-29"
+    },
+    {
+      "cycle": "5.40",
+      "latest": "5.40.4",
+      "latestReleaseDate": "2026-03-29",
+      "lts": false,
+      "releaseDate": "2026-03-29"
+    },
+    {
+      "cycle": "5.38",
+      "latest": "5.38.5",
+      "latestReleaseDate": "2025-08-03",
+      "lts": false,
+      "releaseDate": "2025-08-03"
+    },
+    {
+      "cycle": "5.36",
+      "latest": "5.36.3",
+      "latestReleaseDate": "2023-11-29",
+      "lts": false,
+      "releaseDate": "2023-11-29"
+    },
+    {
+      "cycle": "5.34",
+      "latest": "5.34.3",
+      "latestReleaseDate": "2023-11-29",
+      "lts": false,
+      "releaseDate": "2023-11-29"
+    },
+    {
+      "cycle": "5.32",
+      "latest": "5.32.1",
+      "latestReleaseDate": "2021-01-23",
+      "lts": false,
+      "releaseDate": "2021-01-23"
+    },
+    {
+      "cycle": "5.30",
+      "latest": "5.30.3",
+      "latestReleaseDate": "2020-05-29",
+      "lts": false,
+      "releaseDate": "2020-05-29"
+    },
+    {
+      "cycle": "5.28",
+      "latest": "5.28.3",
+      "latestReleaseDate": "2020-05-29",
+      "lts": false,
+      "releaseDate": "2020-05-29"
+    },
+    {
+      "cycle": "5.10",
+      "latest": "5.10.1",
+      "latestReleaseDate": "2019-05-08",
+      "lts": false,
+      "releaseDate": "2019-05-08"
+    },
+    {
+      "cycle": "5.26",
+      "latest": "5.26.3",
+      "latestReleaseDate": "2018-11-28",
+      "lts": false,
+      "releaseDate": "2018-11-28"
+    },
+    {
+      "cycle": "5.24",
+      "latest": "5.24.4",
+      "latestReleaseDate": "2018-04-14",
+      "lts": false,
+      "releaseDate": "2018-04-14"
+    },
+    {
+      "cycle": "5.22",
+      "latest": "5.22.4",
+      "latestReleaseDate": "2017-07-15",
+      "lts": false,
+      "releaseDate": "2017-07-15"
+    },
+    {
+      "cycle": "5.20",
+      "latest": "5.20.3",
+      "latestReleaseDate": "2015-09-12",
+      "lts": false,
+      "releaseDate": "2015-09-12"
+    },
+    {
+      "cycle": "5.18",
+      "latest": "5.18.4",
+      "latestReleaseDate": "2014-10-01",
+      "lts": false,
+      "releaseDate": "2014-10-01"
+    },
+    {
+      "cycle": "5.16",
+      "latest": "5.16.3",
+      "latestReleaseDate": "2013-03-11",
+      "lts": false,
+      "releaseDate": "2013-03-11"
+    },
+    {
+      "cycle": "5.14",
+      "latest": "5.14.4",
+      "latestReleaseDate": "2013-03-10",
+      "lts": false,
+      "releaseDate": "2013-03-10"
+    },
+    {
+      "cycle": "5.12",
+      "latest": "5.12.5",
+      "latestReleaseDate": "2012-11-10",
+      "lts": false,
+      "releaseDate": "2012-11-10"
+    },
+    {
+      "cycle": "5.8",
+      "latest": "5.8.9",
+      "latestReleaseDate": "2008-12-14",
+      "lts": false,
+      "releaseDate": "2008-12-14"
+    },
+    {
+      "cycle": "5.9",
+      "latest": "5.9.5",
+      "latestReleaseDate": "2007-07-07",
+      "lts": false,
+      "releaseDate": "2007-07-07"
+    },
+    {
+      "cycle": "5.005",
+      "latest": "5.005.04",
+      "latestReleaseDate": "2004-03-01",
+      "lts": false,
+      "releaseDate": "2004-03-01"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.16",
+      "latestReleaseDate": "2003-12-18",
+      "lts": false,
+      "releaseDate": "2003-12-18"
+    },
+    {
+      "cycle": "5.6",
+      "latest": "5.6.2",
+      "latestReleaseDate": "2003-11-15",
+      "lts": false,
+      "releaseDate": "2003-11-15"
+    },
+    {
+      "cycle": "5.7",
+      "latest": "5.7.3",
+      "latestReleaseDate": "2002-03-05",
+      "lts": false,
+      "releaseDate": "2002-03-05"
+    },
+    {
+      "cycle": "5.004",
+      "latest": "5.004.05",
+      "latestReleaseDate": "1999-04-29",
+      "lts": false,
+      "releaseDate": "1999-04-29"
+    },
+    {
+      "cycle": "5.003",
+      "latest": "5.003.99a",
+      "latestReleaseDate": "1997-05-09",
+      "lts": false,
+      "releaseDate": "1997-05-09"
+    },
+    {
+      "cycle": "5.002",
+      "latest": "5.002.01",
+      "latestReleaseDate": "1996-03-15",
+      "lts": false,
+      "releaseDate": "1996-03-15"
+    },
+    {
+      "cycle": "5.001",
+      "latest": "5.001",
+      "latestReleaseDate": "1995-03-12",
+      "lts": false,
+      "releaseDate": "1995-03-12"
+    },
+    {
+      "cycle": "5.000",
+      "latest": "5.000",
+      "latestReleaseDate": "1994-10-17",
+      "lts": false,
+      "releaseDate": "1994-10-17"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.36",
+      "latestReleaseDate": "1993-02-04",
+      "lts": false,
+      "releaseDate": "1993-02-04"
+    },
+    {
+      "cycle": "3.044",
+      "latest": "3.044",
+      "latestReleaseDate": "1991-01-11",
+      "lts": false,
+      "releaseDate": "1991-01-11"
+    },
+    {
+      "cycle": "3.000",
+      "latest": "3.000",
+      "latestReleaseDate": "1989-10-18",
+      "lts": false,
+      "releaseDate": "1989-10-18"
+    },
+    {
+      "cycle": "2.001",
+      "latest": "2.001",
+      "latestReleaseDate": "1988-06-28",
+      "lts": false,
+      "releaseDate": "1988-06-28"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0",
+      "latestReleaseDate": "1988-06-05",
+      "lts": false,
+      "releaseDate": "1988-06-05"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "perl",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/perl.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

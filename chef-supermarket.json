@@ -1,0 +1,95 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:chef:supermarket:*:*:*:*:*:*:*:*",
+    "display_name": "Chef Supermarket",
+    "mapping_source": "slug_prefix",
+    "product": "supermarket",
+    "purl": "",
+    "vendor": "chef"
+  },
+  "cycles": [
+    {
+      "cycle": "5.3",
+      "latest": "5.3.0",
+      "latestReleaseDate": "2025-11-11",
+      "lts": false,
+      "releaseDate": "2025-11-11"
+    },
+    {
+      "cycle": "5.2",
+      "latest": "5.2.0",
+      "latestReleaseDate": "2025-06-02",
+      "lts": false,
+      "releaseDate": "2025-06-02"
+    },
+    {
+      "cycle": "5.1",
+      "latest": "5.1.80",
+      "latestReleaseDate": "2024-08-13",
+      "lts": false,
+      "releaseDate": "2024-08-13"
+    },
+    {
+      "cycle": "5.0",
+      "latest": "5.0.41",
+      "latestReleaseDate": "2022-02-28",
+      "lts": false,
+      "releaseDate": "2022-02-28"
+    },
+    {
+      "cycle": "4.2",
+      "latest": "4.2.89",
+      "latestReleaseDate": "2022-01-04",
+      "lts": false,
+      "releaseDate": "2022-01-04"
+    },
+    {
+      "cycle": "4.1",
+      "latest": "4.1.28",
+      "latestReleaseDate": "2021-10-18",
+      "lts": false,
+      "releaseDate": "2021-10-18"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.21",
+      "latestReleaseDate": "2021-09-23",
+      "lts": false,
+      "releaseDate": "2021-09-23"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.8",
+      "latestReleaseDate": "2021-03-05",
+      "lts": false,
+      "releaseDate": "2021-03-05"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.35",
+      "latestReleaseDate": "2020-09-29",
+      "lts": false,
+      "releaseDate": "2020-09-29"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.2",
+      "latestReleaseDate": "2019-03-14",
+      "lts": false,
+      "releaseDate": "2019-03-14"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.96",
+      "latestReleaseDate": "2018-12-12",
+      "lts": false,
+      "releaseDate": "2018-12-12"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "chef-supermarket",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/chef-supermarket.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

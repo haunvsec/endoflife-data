@@ -1,0 +1,53 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:memcached:memcached:*:*:*:*:*:*:*:*",
+    "display_name": "Memcached",
+    "mapping_source": "eol_product_mapping",
+    "product": "memcached",
+    "purl": "",
+    "vendor": "memcached"
+  },
+  "cycles": [
+    {
+      "cycle": "1.6",
+      "latest": "1.6.41",
+      "latestReleaseDate": "2026-03-06",
+      "lts": false,
+      "releaseDate": "2026-03-06"
+    },
+    {
+      "cycle": "1.5",
+      "latest": "1.5.22",
+      "latestReleaseDate": "2020-02-01",
+      "lts": false,
+      "releaseDate": "2020-02-01"
+    },
+    {
+      "cycle": "1.4",
+      "latest": "1.4.39",
+      "latestReleaseDate": "2017-07-04",
+      "lts": false,
+      "releaseDate": "2017-07-04"
+    },
+    {
+      "cycle": "1.2",
+      "latest": "1.2.8",
+      "latestReleaseDate": "2009-04-11",
+      "lts": false,
+      "releaseDate": "2009-04-11"
+    },
+    {
+      "cycle": "1.3",
+      "latest": "1.3.3",
+      "latestReleaseDate": "2009-04-03",
+      "lts": false,
+      "releaseDate": "2009-04-03"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "memcached",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/memcached.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

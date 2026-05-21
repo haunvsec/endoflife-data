@@ -1,0 +1,234 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:envoyproxy:envoy:*:*:*:*:*:*:*:*",
+    "display_name": "Envoy",
+    "mapping_source": "eol_product_mapping",
+    "product": "envoy",
+    "purl": "",
+    "vendor": "envoyproxy"
+  },
+  "cycles": [
+    {
+      "cycle": "1.38",
+      "eol": "2027-04-23",
+      "latest": "1.38.0",
+      "latestReleaseDate": "2026-04-24",
+      "lts": false,
+      "releaseDate": "2026-04-23"
+    },
+    {
+      "cycle": "1.37",
+      "eol": "2027-01-13",
+      "latest": "1.37.2",
+      "latestReleaseDate": "2026-04-10",
+      "lts": false,
+      "releaseDate": "2026-01-13"
+    },
+    {
+      "cycle": "1.36",
+      "eol": "2026-10-14",
+      "latest": "1.36.6",
+      "latestReleaseDate": "2026-04-10",
+      "lts": false,
+      "releaseDate": "2025-10-14"
+    },
+    {
+      "cycle": "1.35",
+      "eol": "2026-07-23",
+      "latest": "1.35.10",
+      "latestReleaseDate": "2026-04-10",
+      "lts": false,
+      "releaseDate": "2025-07-23"
+    },
+    {
+      "cycle": "1.34",
+      "eol": "2026-04-15",
+      "latest": "1.34.14",
+      "latestReleaseDate": "2026-04-10",
+      "lts": false,
+      "releaseDate": "2025-04-15"
+    },
+    {
+      "cycle": "1.33",
+      "eol": "2026-01-14",
+      "latest": "1.33.14",
+      "latestReleaseDate": "2025-12-10",
+      "lts": false,
+      "releaseDate": "2025-01-14"
+    },
+    {
+      "cycle": "1.32",
+      "eol": "2025-10-15",
+      "latest": "1.32.13",
+      "latestReleaseDate": "2025-10-13",
+      "lts": false,
+      "releaseDate": "2024-10-15"
+    },
+    {
+      "cycle": "1.31",
+      "eol": "2025-07-19",
+      "latest": "1.31.10",
+      "latestReleaseDate": "2025-07-18",
+      "lts": false,
+      "releaseDate": "2024-07-19"
+    },
+    {
+      "cycle": "1.30",
+      "eol": "2025-04-16",
+      "latest": "1.30.11",
+      "latestReleaseDate": "2025-03-25",
+      "lts": false,
+      "releaseDate": "2024-04-16"
+    },
+    {
+      "cycle": "1.29",
+      "eol": "2025-01-16",
+      "latest": "1.29.12",
+      "latestReleaseDate": "2024-12-18",
+      "lts": false,
+      "releaseDate": "2024-01-16"
+    },
+    {
+      "cycle": "1.28",
+      "eol": "2024-10-19",
+      "latest": "1.28.7",
+      "latestReleaseDate": "2024-09-19",
+      "lts": false,
+      "releaseDate": "2023-10-19"
+    },
+    {
+      "cycle": "1.27",
+      "eol": "2024-07-27",
+      "latest": "1.27.7",
+      "latestReleaseDate": "2024-06-29",
+      "lts": false,
+      "releaseDate": "2023-07-27"
+    },
+    {
+      "cycle": "1.26",
+      "eol": "2024-04-18",
+      "latest": "1.26.8",
+      "latestReleaseDate": "2024-04-04",
+      "lts": false,
+      "releaseDate": "2023-04-18"
+    },
+    {
+      "cycle": "1.25",
+      "eol": "2024-01-18",
+      "latest": "1.25.11",
+      "latestReleaseDate": "2023-10-17",
+      "lts": false,
+      "releaseDate": "2023-01-18"
+    },
+    {
+      "cycle": "1.24",
+      "eol": "2023-10-19",
+      "latest": "1.24.12",
+      "latestReleaseDate": "2023-10-17",
+      "lts": false,
+      "releaseDate": "2022-10-19"
+    },
+    {
+      "cycle": "1.23",
+      "eol": "2023-07-15",
+      "latest": "1.23.12",
+      "latestReleaseDate": "2023-07-25",
+      "lts": false,
+      "releaseDate": "2022-07-15"
+    },
+    {
+      "cycle": "1.22",
+      "eol": "2023-04-15",
+      "latest": "1.22.11",
+      "latestReleaseDate": "2023-04-12",
+      "lts": false,
+      "releaseDate": "2022-04-15"
+    },
+    {
+      "cycle": "1.21",
+      "eol": "2023-01-12",
+      "latest": "1.21.6",
+      "latestReleaseDate": "2022-11-28",
+      "lts": false,
+      "releaseDate": "2022-01-12"
+    },
+    {
+      "cycle": "1.20",
+      "eol": "2022-10-05",
+      "latest": "1.20.7",
+      "latestReleaseDate": "2022-07-21",
+      "lts": false,
+      "releaseDate": "2021-10-05"
+    },
+    {
+      "cycle": "1.19",
+      "eol": "2022-07-13",
+      "latest": "1.19.5",
+      "latestReleaseDate": "2022-06-08",
+      "lts": false,
+      "releaseDate": "2021-07-13"
+    },
+    {
+      "cycle": "1.18",
+      "eol": "2022-04-15",
+      "latest": "1.18.6",
+      "latestReleaseDate": "2022-02-21",
+      "lts": false,
+      "releaseDate": "2021-04-15"
+    },
+    {
+      "cycle": "1.17",
+      "eol": "2022-01-11",
+      "latest": "1.17.4",
+      "latestReleaseDate": "2021-08-24",
+      "lts": false,
+      "releaseDate": "2021-01-11"
+    },
+    {
+      "cycle": "1.16",
+      "eol": "2021-10-08",
+      "latest": "1.16.5",
+      "latestReleaseDate": "2021-08-24",
+      "lts": false,
+      "releaseDate": "2020-10-08"
+    },
+    {
+      "cycle": "1.15",
+      "eol": "2021-07-07",
+      "latest": "1.15.5",
+      "latestReleaseDate": "2021-05-11",
+      "lts": false,
+      "releaseDate": "2020-07-07"
+    },
+    {
+      "cycle": "1.14",
+      "eol": "2021-04-08",
+      "latest": "1.14.7",
+      "latestReleaseDate": "2021-04-15",
+      "lts": false,
+      "releaseDate": "2020-04-08"
+    },
+    {
+      "cycle": "1.13",
+      "eol": "2021-01-20",
+      "latest": "1.13.8",
+      "latestReleaseDate": "2021-01-17",
+      "lts": false,
+      "releaseDate": "2020-01-20"
+    },
+    {
+      "cycle": "1.12",
+      "eol": "2020-10-31",
+      "latest": "1.12.7",
+      "latestReleaseDate": "2020-09-29",
+      "lts": false,
+      "releaseDate": "2019-10-31"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "envoy",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/envoy.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,144 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:slackware:slackware:*:*:*:*:*:*:*:*",
+    "display_name": "Slackware Linux",
+    "mapping_source": "eol_product_mapping",
+    "product": "slackware",
+    "purl": "",
+    "vendor": "slackware"
+  },
+  "cycles": [
+    {
+      "cycle": "15.0",
+      "latest": "15.0",
+      "latestReleaseDate": "2022-02-03",
+      "lts": false,
+      "releaseDate": "2022-02-03"
+    },
+    {
+      "cycle": "14.2",
+      "latest": "14.2",
+      "latestReleaseDate": "2016-07-01",
+      "lts": false,
+      "releaseDate": "2016-07-01"
+    },
+    {
+      "cycle": "14.1",
+      "latest": "14.1",
+      "latestReleaseDate": "2013-11-07",
+      "lts": false,
+      "releaseDate": "2013-11-07"
+    },
+    {
+      "cycle": "14.0",
+      "latest": "14.0",
+      "latestReleaseDate": "2012-09-28",
+      "lts": false,
+      "releaseDate": "2012-09-28"
+    },
+    {
+      "cycle": "13.37",
+      "latest": "13.37",
+      "latestReleaseDate": "2011-04-28",
+      "lts": false,
+      "releaseDate": "2011-04-28"
+    },
+    {
+      "cycle": "13.1",
+      "latest": "13.1",
+      "latestReleaseDate": "2010-05-24",
+      "lts": false,
+      "releaseDate": "2010-05-24"
+    },
+    {
+      "cycle": "13.0",
+      "latest": "13.0",
+      "latestReleaseDate": "2009-08-28",
+      "lts": false,
+      "releaseDate": "2009-08-28"
+    },
+    {
+      "cycle": "12.2",
+      "latest": "12.2",
+      "latestReleaseDate": "2008-12-11",
+      "lts": false,
+      "releaseDate": "2008-12-11"
+    },
+    {
+      "cycle": "12.1",
+      "latest": "12.1",
+      "latestReleaseDate": "2008-05-02",
+      "lts": false,
+      "releaseDate": "2008-05-02"
+    },
+    {
+      "cycle": "12.0",
+      "latest": "12.0",
+      "latestReleaseDate": "2007-07-02",
+      "lts": false,
+      "releaseDate": "2007-07-02"
+    },
+    {
+      "cycle": "11.0",
+      "latest": "11.0",
+      "latestReleaseDate": "2006-10-03",
+      "lts": false,
+      "releaseDate": "2006-10-03"
+    },
+    {
+      "cycle": "10.2",
+      "latest": "10.2",
+      "latestReleaseDate": "2005-09-15",
+      "lts": false,
+      "releaseDate": "2005-09-15"
+    },
+    {
+      "cycle": "10.1",
+      "latest": "10.1",
+      "latestReleaseDate": "2005-02-07",
+      "lts": false,
+      "releaseDate": "2005-02-07"
+    },
+    {
+      "cycle": "10.0",
+      "latest": "10.0",
+      "latestReleaseDate": "2004-06-23",
+      "lts": false,
+      "releaseDate": "2004-06-23"
+    },
+    {
+      "cycle": "9.1",
+      "latest": "9.1",
+      "latestReleaseDate": "2003-09-26",
+      "lts": false,
+      "releaseDate": "2003-09-26"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0",
+      "latestReleaseDate": "2003-07-17",
+      "lts": false,
+      "releaseDate": "2003-07-17"
+    },
+    {
+      "cycle": "8.1",
+      "latest": "8.1",
+      "latestReleaseDate": "2002-06-19",
+      "lts": false,
+      "releaseDate": "2002-06-19"
+    },
+    {
+      "cycle": "8.0",
+      "latest": "8.0",
+      "latestReleaseDate": "2001-07-01",
+      "lts": false,
+      "releaseDate": "2001-07-01"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "slackware",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/slackware.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

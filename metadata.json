@@ -1,0 +1,97 @@
+{
+  "advisory_dir": "/Volumes/DATA/security_advisory/advisory-data",
+  "cache_dir": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data",
+  "cycles_total": 17347,
+  "duration_seconds": 23.22,
+  "errors": [],
+  "errors_count": 0,
+  "last_crawl_time": "2026-05-21T07:21:34Z",
+  "mapping_review_file": "endoflife-data/mapping-review.json",
+  "mapping_sources": {
+    "advisory-data": 12,
+    "eol_product_mapping": 242,
+    "product_rule": 1,
+    "slug_prefix": 61,
+    "unmapped": 78
+  },
+  "output_dir": "endoflife-data",
+  "products_crawled": 394,
+  "products_mapped": 316,
+  "products_mapped_percent": 80.2,
+  "products_needing_mapping_review": 78,
+  "products_needing_mapping_review_percent": 19.8,
+  "source": "endoflife-date/release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_url": "https://github.com/endoflife-date/release-data.git",
+  "warnings": [
+    {
+      "product": "amazon-glue",
+      "warning": "amazon-glue[0]: no lifecycle date fields"
+    },
+    {
+      "product": "amazon-glue",
+      "warning": "amazon-glue[1]: no lifecycle date fields"
+    },
+    {
+      "product": "amazon-glue",
+      "warning": "amazon-glue[2]: no lifecycle date fields"
+    },
+    {
+      "product": "amazon-glue",
+      "warning": "amazon-glue[3]: no lifecycle date fields"
+    },
+    {
+      "product": "drush",
+      "warning": "drush[0]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[0]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[1]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[2]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[3]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[4]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[5]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[6]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[7]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[8]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[9]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[10]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[11]: no lifecycle date fields"
+    }
+  ],
+  "warnings_count": 17
+}

@@ -1,0 +1,67 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:o:netbsd:netbsd:*:*:*:*:*:*:*:*",
+    "display_name": "NetBSD",
+    "mapping_source": "eol_product_mapping",
+    "product": "netbsd",
+    "purl": "",
+    "vendor": "netbsd"
+  },
+  "cycles": [
+    {
+      "cycle": "8",
+      "eol": "2024-05-04",
+      "latest": "8.3",
+      "latestReleaseDate": "2024-05-04",
+      "lts": false
+    },
+    {
+      "cycle": "7",
+      "eol": "2020-06-30",
+      "latest": "7.2",
+      "latestReleaseDate": "2018-08-29",
+      "lts": false
+    },
+    {
+      "cycle": "6",
+      "eol": "2018-08-23",
+      "latest": "6.1.5",
+      "latestReleaseDate": "2014-09-22",
+      "lts": false
+    },
+    {
+      "cycle": "5",
+      "eol": "2015-11-11",
+      "latest": "5.2.3",
+      "latestReleaseDate": "2014-11-15",
+      "lts": false
+    },
+    {
+      "cycle": "3",
+      "eol": "2009-05-30",
+      "latest": "3.1",
+      "latestReleaseDate": "2006-11-04",
+      "lts": false
+    },
+    {
+      "cycle": "2",
+      "eol": "2008-08-21",
+      "latest": "2.1",
+      "latestReleaseDate": "2005-11-02",
+      "lts": false
+    },
+    {
+      "cycle": "1",
+      "eol": "2006-05-17",
+      "latest": "1.6.2",
+      "latestReleaseDate": "2004-03-01",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "netbsd",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/netbsd.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

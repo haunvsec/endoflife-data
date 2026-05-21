@@ -1,0 +1,2332 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:samsung:mobile:*:*:*:*:*:*:*:*",
+    "display_name": "Samsung Mobile",
+    "mapping_source": "slug_prefix",
+    "product": "mobile",
+    "purl": "",
+    "vendor": "samsung"
+  },
+  "cycles": [
+    {
+      "cycle": "z4",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "z3-corporate",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "z3",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "z2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "z1",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "w26",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "W26"
+    },
+    {
+      "cycle": "w25-flip",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "W25 Flip"
+    },
+    {
+      "cycle": "w25",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "W25"
+    },
+    {
+      "cycle": "w24-flip",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "W24 Flip"
+    },
+    {
+      "cycle": "w24",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "W24"
+    },
+    {
+      "cycle": "w23-flip",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "W23 Flip"
+    },
+    {
+      "cycle": "w23",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "W23"
+    },
+    {
+      "cycle": "w22-5g",
+      "eol": "2025-11-04",
+      "lts": false,
+      "releaseLabel": "W22 5G"
+    },
+    {
+      "cycle": "i9301i-galaxy-s3-neo",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "i9300i-galaxy-s3-neo",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "i8200-galaxy-s-iii-mini-ve",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-sport",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-s3-frontier-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-s3-frontier",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-s3-classic-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-s3-classic",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-s2-classic-3g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-s2-classic",
+      "eol": "2018-03-26",
+      "lts": false
+    },
+    {
+      "cycle": "gear-s2-3g",
+      "eol": "2018-03-26",
+      "lts": false
+    },
+    {
+      "cycle": "gear-s2",
+      "eol": "2018-03-26",
+      "lts": false
+    },
+    {
+      "cycle": "gear-s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-live",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-2-neo",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "gear-2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-z-trifold",
+      "eol": "2032-12-01",
+      "lts": false,
+      "releaseLabel": "Galaxy Z TriFold"
+    },
+    {
+      "cycle": "galaxy-z-fold-special-edition",
+      "eol": "2031-10-24",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Fold Special Edition"
+    },
+    {
+      "cycle": "galaxy-z-fold-2",
+      "eol": "2024-09-18",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-z-fold7",
+      "eol": "2032-07-25",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Fold7"
+    },
+    {
+      "cycle": "galaxy-z-fold6",
+      "eol": "2031-07-24",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Fold6"
+    },
+    {
+      "cycle": "galaxy-z-fold5",
+      "eol": "2028-08-11",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Fold5"
+    },
+    {
+      "cycle": "galaxy-z-fold4",
+      "eol": "2027-08-25",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Fold4"
+    },
+    {
+      "cycle": "galaxy-z-fold3-5g",
+      "eol": "2026-08-27",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Fold3 5G"
+    },
+    {
+      "cycle": "galaxy-z-fold2-5g",
+      "eol": "2024-11-04",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-z-flip-5g",
+      "eol": "2024-08-07",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-z-flip7-fe",
+      "eol": "2032-07-25",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Flip7 FE"
+    },
+    {
+      "cycle": "galaxy-z-flip7",
+      "eol": "2032-07-25",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Flip7"
+    },
+    {
+      "cycle": "galaxy-z-flip6",
+      "eol": "2031-07-24",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Flip6"
+    },
+    {
+      "cycle": "galaxy-z-flip5",
+      "eol": "2028-08-11",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Flip5"
+    },
+    {
+      "cycle": "galaxy-z-flip4",
+      "eol": "2027-08-25",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Flip4"
+    },
+    {
+      "cycle": "galaxy-z-flip3-5g",
+      "eol": "2026-08-27",
+      "lts": false,
+      "releaseLabel": "Galaxy Z Flip3 5G"
+    },
+    {
+      "cycle": "galaxy-z-flip",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-young-2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-xcover-pro",
+      "eol": "2024-01-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-xcover-fieldpro",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-xcover-4s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-xcover-4",
+      "eol": "2019-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-xcover-3",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-xcover7-pro",
+      "eol": "2030-05-07",
+      "lts": false,
+      "releaseLabel": "Galaxy XCover7 Pro"
+    },
+    {
+      "cycle": "galaxy-xcover7",
+      "eol": "2030-01-10",
+      "lts": false,
+      "releaseLabel": "Galaxy XCover7"
+    },
+    {
+      "cycle": "galaxy-xcover6-pro",
+      "eol": "2027-07-13",
+      "lts": false,
+      "releaseLabel": "Galaxy XCover6 Pro"
+    },
+    {
+      "cycle": "galaxy-xcover5",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy XCover5"
+    },
+    {
+      "cycle": "galaxy-xcover3-g389f",
+      "eol": "2018-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-w",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-view2",
+      "eol": "2021-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-view",
+      "eol": "2018-01-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-v-plus",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-v",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-star-trios-s5283",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-star-2-plus",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-star-2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s-light-luxury",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s-duos-3",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s26-ultra",
+      "eol": "2033-03-06",
+      "lts": false,
+      "releaseLabel": "Galaxy S26 Ultra"
+    },
+    {
+      "cycle": "galaxy-s26+",
+      "eol": "2033-03-06",
+      "lts": false,
+      "releaseLabel": "Galaxy S26+"
+    },
+    {
+      "cycle": "galaxy-s26",
+      "eol": "2033-03-06",
+      "lts": false,
+      "releaseLabel": "Galaxy S26"
+    },
+    {
+      "cycle": "galaxy-s25-ultra",
+      "eol": "2032-02-03",
+      "lts": false,
+      "releaseLabel": "Galaxy S25 Ultra"
+    },
+    {
+      "cycle": "galaxy-s25-fe",
+      "eol": "2032-09-04",
+      "lts": false,
+      "releaseLabel": "Galaxy S25 FE"
+    },
+    {
+      "cycle": "galaxy-s25-edge",
+      "eol": "2032-05-29",
+      "lts": false,
+      "releaseLabel": "Galaxy S25 Edge"
+    },
+    {
+      "cycle": "galaxy-s25+",
+      "eol": "2032-02-03",
+      "lts": false,
+      "releaseLabel": "Galaxy S25+"
+    },
+    {
+      "cycle": "galaxy-s25",
+      "eol": "2032-02-03",
+      "lts": false,
+      "releaseLabel": "Galaxy S25"
+    },
+    {
+      "cycle": "galaxy-s24-ultra",
+      "eol": "2031-01-24",
+      "lts": false,
+      "releaseLabel": "Galaxy S24 Ultra"
+    },
+    {
+      "cycle": "galaxy-s24-fe",
+      "eol": "2031-09-26",
+      "lts": false,
+      "releaseLabel": "Galaxy S24 FE"
+    },
+    {
+      "cycle": "galaxy-s24+",
+      "eol": "2031-01-24",
+      "lts": false,
+      "releaseLabel": "Galaxy S24+"
+    },
+    {
+      "cycle": "galaxy-s24",
+      "eol": "2031-01-24",
+      "lts": false,
+      "releaseLabel": "Galaxy S24"
+    },
+    {
+      "cycle": "galaxy-s23-ultra",
+      "eol": "2028-02-17",
+      "lts": false,
+      "releaseLabel": "Galaxy S23 Ultra"
+    },
+    {
+      "cycle": "galaxy-s23-fe",
+      "eol": "2028-10-05",
+      "lts": false,
+      "releaseLabel": "Galaxy S23 FE"
+    },
+    {
+      "cycle": "galaxy-s23+",
+      "eol": "2028-02-17",
+      "lts": false,
+      "releaseLabel": "Galaxy S23+"
+    },
+    {
+      "cycle": "galaxy-s23",
+      "eol": "2028-02-17",
+      "lts": false,
+      "releaseLabel": "Galaxy S23"
+    },
+    {
+      "cycle": "galaxy-s22-ultra",
+      "eol": "2027-02-25",
+      "lts": false,
+      "releaseLabel": "Galaxy S22 Ultra"
+    },
+    {
+      "cycle": "galaxy-s22+",
+      "eol": "2027-02-25",
+      "lts": false,
+      "releaseLabel": "Galaxy S22+"
+    },
+    {
+      "cycle": "galaxy-s22",
+      "eol": "2027-02-25",
+      "lts": false,
+      "releaseLabel": "Galaxy S22"
+    },
+    {
+      "cycle": "galaxy-s21-ultra-5g",
+      "eol": "2026-02-21",
+      "lts": false,
+      "releaseLabel": "Galaxy S21 Ultra 5G"
+    },
+    {
+      "cycle": "galaxy-s21-fe-5g",
+      "eol": "2027-01-07",
+      "lts": false,
+      "releaseLabel": "Galaxy S21 FE 5G"
+    },
+    {
+      "cycle": "galaxy-s21-5g",
+      "eol": "2026-02-21",
+      "lts": false,
+      "releaseLabel": "Galaxy S21 5G"
+    },
+    {
+      "cycle": "galaxy-s21+-5g",
+      "eol": "2026-02-21",
+      "lts": false,
+      "releaseLabel": "Galaxy S21+ 5G"
+    },
+    {
+      "cycle": "galaxy-s20-ultra-5g",
+      "eol": "2025-03-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s20-ultra",
+      "eol": "2025-03-14",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s20-fe-2020",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s20-fe-5g",
+      "eol": "2025-11-04",
+      "lts": false,
+      "releaseLabel": "Galaxy S20 FE 5G"
+    },
+    {
+      "cycle": "galaxy-s20-fe",
+      "eol": "2025-11-04",
+      "lts": false,
+      "releaseLabel": "Galaxy S20 FE"
+    },
+    {
+      "cycle": "galaxy-s20-5g-uw",
+      "eol": "2024-06-04",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s20-5g",
+      "eol": "2025-03-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s20+-5g",
+      "eol": "2025-03-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s20+",
+      "eol": "2025-03-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s20",
+      "eol": "2025-03-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s10e",
+      "eol": "2023-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s10-lite",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s10-5g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s10+",
+      "eol": "2023-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s10",
+      "eol": "2023-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s9+",
+      "eol": "2022-04-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s9",
+      "eol": "2022-04-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s8-active",
+      "eol": "2021-11-17",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s8+",
+      "eol": "2021-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s8",
+      "eol": "2021-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s7-edge",
+      "eol": "2019-03-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s7-active",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s7",
+      "eol": "2019-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6-usa",
+      "eol": "2018-03-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6-edge-usa",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6-edge+-usa",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6-edge+-duos",
+      "eol": "2018-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6-edge+",
+      "eol": "2018-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6-edge",
+      "eol": "2018-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6-duos",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6-active",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s6",
+      "eol": "2018-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-sport",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-plus",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-octa-core",
+      "eol": "2017-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-neo",
+      "eol": "2018-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-mini-duos",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-mini",
+      "eol": "2017-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-lte-a-g906s",
+      "eol": "2017-01-04",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-lte-a-g901f",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-duos",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5-active",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s5",
+      "eol": "2017-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-s4-mini-i9195i",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-pocket-2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-on8",
+      "eol": "2019-01-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-on7-pro",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-on7-2016",
+      "eol": "2020-07-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-on7",
+      "eol": "2018-01-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-on6",
+      "eol": "2022-02-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-on5-pro",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-on5",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-pro-12.2-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-pro-12.2-3g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-pro-12.2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-fe",
+      "eol": "2019-03-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-edge",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-9",
+      "eol": "2022-07-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-7-usa",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-5-usa",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-5-duos",
+      "eol": "2018-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-5",
+      "eol": "2018-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-4-duos",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-3-neo-duos",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note-3-neo",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note20-ultra-5g",
+      "eol": "2025-09-02",
+      "lts": false,
+      "releaseLabel": "Galaxy Note20 Ultra 5G"
+    },
+    {
+      "cycle": "galaxy-note20-ultra",
+      "eol": "2025-09-02",
+      "lts": false,
+      "releaseLabel": "Galaxy Note20 Ultra"
+    },
+    {
+      "cycle": "galaxy-note20-5g",
+      "eol": "2025-09-02",
+      "lts": false,
+      "releaseLabel": "Galaxy Note20 5G"
+    },
+    {
+      "cycle": "galaxy-note20",
+      "eol": "2025-09-02",
+      "lts": false,
+      "releaseLabel": "Galaxy Note20"
+    },
+    {
+      "cycle": "galaxy-note10-lite",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note10-5g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note10+-5g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note10+",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note10",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note8",
+      "eol": "2021-11-17",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note7",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-note4",
+      "eol": "2017-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-mega-2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m62",
+      "eol": "2024-03-03",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m56-5g",
+      "eol": "2031-04-17",
+      "lts": false,
+      "releaseLabel": "Galaxy M56 5G"
+    },
+    {
+      "cycle": "galaxy-m55s-5g",
+      "eol": "2029-09-24",
+      "lts": false,
+      "releaseLabel": "Galaxy M55s 5G"
+    },
+    {
+      "cycle": "galaxy-m55-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M55 5G"
+    },
+    {
+      "cycle": "galaxy-m54-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M54 5G"
+    },
+    {
+      "cycle": "galaxy-m53-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M53 5G"
+    },
+    {
+      "cycle": "galaxy-m52-5g",
+      "eol": "2025-11-04",
+      "lts": false,
+      "releaseLabel": "Galaxy M52 5G"
+    },
+    {
+      "cycle": "galaxy-m51",
+      "eol": "2023-08-06",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m44-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M44 5G"
+    },
+    {
+      "cycle": "galaxy-m42-5g",
+      "eol": "2025-06-04",
+      "lts": false,
+      "releaseLabel": "Galaxy M42 5G"
+    },
+    {
+      "cycle": "galaxy-m40",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m36-5g",
+      "eol": "2031-07-12",
+      "lts": false,
+      "releaseLabel": "Galaxy M36 5G"
+    },
+    {
+      "cycle": "galaxy-m35-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M35 5G"
+    },
+    {
+      "cycle": "galaxy-m34-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M34 5G"
+    },
+    {
+      "cycle": "galaxy-m33-5g",
+      "eol": "2026-05-06",
+      "lts": false,
+      "releaseLabel": "Galaxy M33 5G"
+    },
+    {
+      "cycle": "galaxy-m32-5g",
+      "eol": "2025-10-10",
+      "lts": false,
+      "releaseLabel": "Galaxy M32 5G"
+    },
+    {
+      "cycle": "galaxy-m32",
+      "eol": "2025-08-05",
+      "lts": false,
+      "releaseLabel": "Galaxy M32"
+    },
+    {
+      "cycle": "galaxy-m31s",
+      "eol": "2024-02-09",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m31-prime",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m31",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m30s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m30",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m23-5g",
+      "eol": "2026-04-07",
+      "lts": false,
+      "releaseLabel": "Galaxy M23 5G"
+    },
+    {
+      "cycle": "galaxy-m22",
+      "eol": "2025-11-04",
+      "lts": false,
+      "releaseLabel": "Galaxy M22"
+    },
+    {
+      "cycle": "galaxy-m21s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m21-2021",
+      "eol": "2025-09-02",
+      "lts": false,
+      "releaseLabel": "Galaxy M21 2021"
+    },
+    {
+      "cycle": "galaxy-m21",
+      "eol": "2024-03-23",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m20",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m17e-5g",
+      "eol": "2032-03-20",
+      "lts": false,
+      "releaseLabel": "Galaxy M17e 5G"
+    },
+    {
+      "cycle": "galaxy-m17-5g",
+      "eol": "2031-10-13",
+      "lts": false,
+      "releaseLabel": "Galaxy M17 5G"
+    },
+    {
+      "cycle": "galaxy-m16-5g",
+      "eol": "2031-02-27",
+      "lts": false,
+      "releaseLabel": "Galaxy M16 5G"
+    },
+    {
+      "cycle": "galaxy-m15-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M15 5G"
+    },
+    {
+      "cycle": "galaxy-m14-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M14 5G"
+    },
+    {
+      "cycle": "galaxy-m14",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M14"
+    },
+    {
+      "cycle": "galaxy-m13-india",
+      "eol": "2025-07-23",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m13-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M13 5G"
+    },
+    {
+      "cycle": "galaxy-m13",
+      "eol": "2026-07-01",
+      "lts": false,
+      "releaseLabel": "Galaxy M13"
+    },
+    {
+      "cycle": "galaxy-m12-india",
+      "eol": "2024-03-18",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m12",
+      "eol": "2024-11-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m11",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m10s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m10",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m07",
+      "eol": "2031-10-01",
+      "lts": false,
+      "releaseLabel": "Galaxy M07"
+    },
+    {
+      "cycle": "galaxy-m06-5g",
+      "eol": "2029-02-27",
+      "lts": false,
+      "releaseLabel": "Galaxy M06 5G"
+    },
+    {
+      "cycle": "galaxy-m05",
+      "eol": "2028-09-12",
+      "lts": false,
+      "releaseLabel": "Galaxy M05"
+    },
+    {
+      "cycle": "galaxy-m04",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy M04"
+    },
+    {
+      "cycle": "galaxy-m02s",
+      "eol": "2024-01-07",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m02",
+      "eol": "2024-02-09",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m01s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m01-core",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-m01",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-k-zoom",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j-max",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j8",
+      "eol": "2021-09-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-v",
+      "eol": "2019-03-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-top",
+      "eol": "2021-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-pro",
+      "eol": "2019-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-prime-2",
+      "eol": "2021-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-prime",
+      "eol": "2020-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-neo",
+      "eol": "2019-05-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-max",
+      "eol": "2019-03-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-duo",
+      "eol": "2021-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-2018",
+      "eol": "2021-12-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-2017",
+      "eol": "2019-05-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7-2016",
+      "eol": "2019-11-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j7",
+      "eol": "2018-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j6+",
+      "eol": "2022-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j6",
+      "eol": "2022-02-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j5-prime",
+      "eol": "2020-10-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j5-2017",
+      "eol": "2019-03-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j5-2016",
+      "eol": "2019-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j5",
+      "eol": "2019-12-03",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j4-core",
+      "eol": "2020-12-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j4+",
+      "eol": "2020-12-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j4",
+      "eol": "2022-02-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j3-pro",
+      "eol": "2021-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j3-emerge",
+      "eol": "2019-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j3-2018",
+      "eol": "2021-11-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j3-2017",
+      "eol": "2019-07-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j3-2016",
+      "eol": "2019-04-02",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j2-pro-2018",
+      "eol": "2019-10-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j2-pro-2016",
+      "eol": "2019-10-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j2-prime",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j2-core-2020",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j2-core",
+      "eol": "2021-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j2-2017",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j2-2016",
+      "eol": "2018-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j1-nxt",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j1-mini-prime",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j1-ace",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j1-2016",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j1-4g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-j1",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-grand-prime-plus",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-grand-prime-duos-tv",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-grand-prime",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-grand-neo",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-grand-max",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-gear",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-folder2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-folder",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-fold-5g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-fold",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-f70e-5g",
+      "eol": "2032-02-17",
+      "lts": false,
+      "releaseLabel": "Galaxy F70e 5G"
+    },
+    {
+      "cycle": "galaxy-f62",
+      "eol": "2024-02-22",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-f56-5g",
+      "eol": "2031-05-14",
+      "lts": false,
+      "releaseLabel": "Galaxy F56 5G"
+    },
+    {
+      "cycle": "galaxy-f55-5g",
+      "eol": "2029-05-27",
+      "lts": false,
+      "releaseLabel": "Galaxy F55 5G"
+    },
+    {
+      "cycle": "galaxy-f54-5g",
+      "eol": "2028-06-06",
+      "lts": false,
+      "releaseLabel": "Galaxy F54 5G"
+    },
+    {
+      "cycle": "galaxy-f52-5g",
+      "eol": "2025-07-08",
+      "lts": false,
+      "releaseLabel": "Galaxy F52 5G"
+    },
+    {
+      "cycle": "galaxy-f42-5g",
+      "eol": "2025-10-10",
+      "lts": false,
+      "releaseLabel": "Galaxy F42 5G"
+    },
+    {
+      "cycle": "galaxy-f41",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-f36-5g",
+      "eol": "2031-07-22",
+      "lts": false,
+      "releaseLabel": "Galaxy F36 5G"
+    },
+    {
+      "cycle": "galaxy-f34-5g",
+      "eol": "2028-08-07",
+      "lts": false,
+      "releaseLabel": "Galaxy F34 5G"
+    },
+    {
+      "cycle": "galaxy-f23",
+      "eol": "2025-03-16",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-f22",
+      "eol": "2025-08-05",
+      "lts": false,
+      "releaseLabel": "Galaxy F22"
+    },
+    {
+      "cycle": "galaxy-f17-5g",
+      "eol": "2031-09-11",
+      "lts": false,
+      "releaseLabel": "Galaxy F17 5G"
+    },
+    {
+      "cycle": "galaxy-f16-5g",
+      "eol": "2031-03-13",
+      "lts": false,
+      "releaseLabel": "Galaxy F16 5G"
+    },
+    {
+      "cycle": "galaxy-f15-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy F15 5G"
+    },
+    {
+      "cycle": "galaxy-f14-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy F14 5G"
+    },
+    {
+      "cycle": "galaxy-f14",
+      "eol": "2028-09-05",
+      "lts": false,
+      "releaseLabel": "Galaxy F14"
+    },
+    {
+      "cycle": "galaxy-f13",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy F13"
+    },
+    {
+      "cycle": "galaxy-f12",
+      "eol": "2024-11-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-f07",
+      "eol": "2031-10-04",
+      "lts": false,
+      "releaseLabel": "Galaxy F07"
+    },
+    {
+      "cycle": "galaxy-f06-5g",
+      "eol": "2029-02-12",
+      "lts": false,
+      "releaseLabel": "Galaxy F06 5G"
+    },
+    {
+      "cycle": "galaxy-f05",
+      "eol": "2028-09-17",
+      "lts": false,
+      "releaseLabel": "Galaxy F05"
+    },
+    {
+      "cycle": "galaxy-f04",
+      "eol": "2027-01-12",
+      "lts": false,
+      "releaseLabel": "Galaxy F04"
+    },
+    {
+      "cycle": "galaxy-f02s",
+      "eol": "2024-04-09",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-express-prime",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-e7",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-e5",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-core-prime",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-core-lte-g386w",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-core-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-core-lite-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-core-ii",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-c55-5g",
+      "eol": "2029-04-22",
+      "lts": false,
+      "releaseLabel": "Galaxy C55 5G"
+    },
+    {
+      "cycle": "galaxy-c9-pro",
+      "eol": "2019-07-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-c7-pro",
+      "eol": "2019-05-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-c7-2017",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-c7",
+      "eol": "2018-10-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-c5-pro",
+      "eol": "2018-10-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-c5",
+      "eol": "2019-01-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-beam2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-avant",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-alpha-s801",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-alpha",
+      "eol": "2017-01-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-ace-style-lte-g357",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-ace-style",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-ace-nxt",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-ace-4-lte-g313",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-ace-4",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a-quantum2",
+      "eol": false,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a-quantum",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a90-5g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a82-5g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a80",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a73-5g",
+      "eol": "2027-04-22",
+      "lts": false,
+      "releaseLabel": "Galaxy A73 5G"
+    },
+    {
+      "cycle": "galaxy-a72",
+      "eol": "2025-03-26",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a71-5g-uw",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a71-5g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a71",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a70s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a70",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a60",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a57-5g",
+      "eol": "2032-04-10",
+      "lts": false,
+      "releaseLabel": "Galaxy A57 5G"
+    },
+    {
+      "cycle": "galaxy-a56-5g",
+      "eol": "2031-03-28",
+      "lts": false,
+      "releaseLabel": "Galaxy A56 5G"
+    },
+    {
+      "cycle": "galaxy-a55-5g",
+      "eol": "2029-03-11",
+      "lts": false,
+      "releaseLabel": "Galaxy A55 5G"
+    },
+    {
+      "cycle": "galaxy-a54-5g",
+      "eol": "2028-03-24",
+      "lts": false,
+      "releaseLabel": "Galaxy A54 5G"
+    },
+    {
+      "cycle": "galaxy-a53-5g",
+      "eol": "2027-04-01",
+      "lts": false,
+      "releaseLabel": "Galaxy A53 5G"
+    },
+    {
+      "cycle": "galaxy-a52s-5g",
+      "eol": "2025-10-10",
+      "lts": false,
+      "releaseLabel": "Galaxy A52s 5G"
+    },
+    {
+      "cycle": "galaxy-a52-5g",
+      "eol": "2025-03-17",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a52",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a51-5g-uw",
+      "eol": "2024-06-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a51-5g",
+      "eol": "2024-06-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a51",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a50s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a50",
+      "eol": "2023-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a42-5g",
+      "eol": "2024-06-20",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a41",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a40",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a37-5g",
+      "eol": "2032-04-10",
+      "lts": false,
+      "releaseLabel": "Galaxy A37 5G"
+    },
+    {
+      "cycle": "galaxy-a36-5g",
+      "eol": "2031-03-28",
+      "lts": false,
+      "releaseLabel": "Galaxy A36 5G"
+    },
+    {
+      "cycle": "galaxy-a35-5g",
+      "eol": "2029-03-11",
+      "lts": false,
+      "releaseLabel": "Galaxy A35 5G"
+    },
+    {
+      "cycle": "galaxy-a34-5g",
+      "eol": "2028-03-24",
+      "lts": false,
+      "releaseLabel": "Galaxy A34 5G"
+    },
+    {
+      "cycle": "galaxy-a33-5g",
+      "eol": "2027-04-01",
+      "lts": false,
+      "releaseLabel": "Galaxy A33 5G"
+    },
+    {
+      "cycle": "galaxy-a32-5g",
+      "eol": "2025-02-13",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a32",
+      "eol": "2025-02-13",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a31",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a30s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a30",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a26-5g",
+      "eol": "2031-03-28",
+      "lts": false,
+      "releaseLabel": "Galaxy A26 5G"
+    },
+    {
+      "cycle": "galaxy-a25-5g",
+      "eol": "2028-12-11",
+      "lts": false,
+      "releaseLabel": "Galaxy A25 5G"
+    },
+    {
+      "cycle": "galaxy-a24",
+      "eol": "2028-05-05",
+      "lts": false,
+      "releaseLabel": "Galaxy A24"
+    },
+    {
+      "cycle": "galaxy-a23-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy A23 5G"
+    },
+    {
+      "cycle": "galaxy-a23",
+      "eol": "2026-05-06",
+      "lts": false,
+      "releaseLabel": "Galaxy A23"
+    },
+    {
+      "cycle": "galaxy-a22-5g",
+      "eol": "2025-07-08",
+      "lts": false,
+      "releaseLabel": "Galaxy A22 5G"
+    },
+    {
+      "cycle": "galaxy-a22",
+      "eol": "2025-08-05",
+      "lts": false,
+      "releaseLabel": "Galaxy A22"
+    },
+    {
+      "cycle": "galaxy-a21s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a21",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a20s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a20e",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a20",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a17-5g",
+      "eol": "2031-08-27",
+      "lts": false,
+      "releaseLabel": "Galaxy A17 5G"
+    },
+    {
+      "cycle": "galaxy-a17",
+      "eol": "2031-08-27",
+      "lts": false,
+      "releaseLabel": "Galaxy A17"
+    },
+    {
+      "cycle": "galaxy-a16-5g",
+      "eol": "2030-10-25",
+      "lts": false,
+      "releaseLabel": "Galaxy A16 5G"
+    },
+    {
+      "cycle": "galaxy-a16",
+      "eol": "2030-11-20",
+      "lts": false,
+      "releaseLabel": "Galaxy A16"
+    },
+    {
+      "cycle": "galaxy-a15-5g",
+      "eol": "2028-12-11",
+      "lts": false,
+      "releaseLabel": "Galaxy A15 5G"
+    },
+    {
+      "cycle": "galaxy-a15",
+      "eol": "2028-12-11",
+      "lts": false,
+      "releaseLabel": "Galaxy A15"
+    },
+    {
+      "cycle": "galaxy-a14-5g",
+      "eol": "2027-01-05",
+      "lts": false,
+      "releaseLabel": "Galaxy A14 5G"
+    },
+    {
+      "cycle": "galaxy-a14",
+      "eol": "2027-05-22",
+      "lts": false,
+      "releaseLabel": "Galaxy A14"
+    },
+    {
+      "cycle": "galaxy-a13-sm-a137",
+      "eol": "2026-07-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a13-5g",
+      "eol": "2026-01-06",
+      "lts": false,
+      "releaseLabel": "Galaxy A13 5G"
+    },
+    {
+      "cycle": "galaxy-a13",
+      "eol": "2026-05-06",
+      "lts": false,
+      "releaseLabel": "Galaxy A13"
+    },
+    {
+      "cycle": "galaxy-a12-nacho",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a12-india",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a12",
+      "eol": "2024-11-24",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a11",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a10s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a10e",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a10",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a9-pro-2016",
+      "eol": "2019-02-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a9-2018",
+      "eol": "2022-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a9-2016",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a8s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a8-star",
+      "eol": "2022-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a8-duos",
+      "eol": "2017-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a8-2018-enterprise",
+      "eol": "2021-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a8-2018",
+      "eol": "2022-01-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a8-2016",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a8+-2018",
+      "eol": "2021-09-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a8",
+      "eol": "2017-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a7-duos",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a7-2018",
+      "eol": "2022-07-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a7-2017",
+      "eol": "2020-08-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a7-2016",
+      "eol": "2018-11-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a07-5g",
+      "eol": "2032-01-30",
+      "lts": false,
+      "releaseLabel": "Galaxy A07 5G"
+    },
+    {
+      "cycle": "galaxy-a07",
+      "eol": "2031-09-01",
+      "lts": false,
+      "releaseLabel": "Galaxy A07"
+    },
+    {
+      "cycle": "galaxy-a6s",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a6-2018",
+      "eol": "2022-03-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a06-5g",
+      "eol": "2031-02-19",
+      "lts": false,
+      "releaseLabel": "Galaxy A06 5G"
+    },
+    {
+      "cycle": "galaxy-a6+-2018",
+      "eol": "2021-12-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a06",
+      "eol": "2028-08-22",
+      "lts": false,
+      "releaseLabel": "Galaxy A06"
+    },
+    {
+      "cycle": "galaxy-a05s",
+      "eol": "2027-10-18",
+      "lts": false,
+      "releaseLabel": "Galaxy A05s"
+    },
+    {
+      "cycle": "galaxy-a5-duos",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a5-2017",
+      "eol": "2019-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a5-2016",
+      "eol": "2019-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a5",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a05",
+      "eol": "2027-10-15",
+      "lts": false,
+      "releaseLabel": "Galaxy A05"
+    },
+    {
+      "cycle": "galaxy-a04s",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy A04s"
+    },
+    {
+      "cycle": "galaxy-a04e",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy A04e"
+    },
+    {
+      "cycle": "galaxy-a04",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy A04"
+    },
+    {
+      "cycle": "galaxy-a03s",
+      "eol": "2025-10-10",
+      "lts": false,
+      "releaseLabel": "Galaxy A03s"
+    },
+    {
+      "cycle": "galaxy-a3-duos",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a03-core",
+      "eol": "2026-01-06",
+      "lts": false,
+      "releaseLabel": "Galaxy A03 core"
+    },
+    {
+      "cycle": "galaxy-a3-2017",
+      "eol": "2020-11-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a3-2016",
+      "eol": "2018-06-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a3",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a03",
+      "eol": "2026-02-21",
+      "lts": false,
+      "releaseLabel": "Galaxy A03"
+    },
+    {
+      "cycle": "galaxy-a02s",
+      "eol": "2025-01-04",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a2-core",
+      "eol": "2021-10-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a02",
+      "eol": "2024-03-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a01-core",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-a01",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "g3812b-galaxy-s3-slim",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "ativ-se",
+      "eol": true,
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "samsung-mobile",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/samsung-mobile.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

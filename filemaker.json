@@ -1,0 +1,75 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:filemaker:filemaker:*:*:*:*:*:*:*:*",
+    "display_name": "FileMaker",
+    "mapping_source": "eol_product_mapping",
+    "product": "filemaker",
+    "purl": "",
+    "vendor": "filemaker"
+  },
+  "cycles": [
+    {
+      "cycle": "2025",
+      "eol": "2027-07-31",
+      "lts": false,
+      "releaseDate": "2025-07-31"
+    },
+    {
+      "cycle": "2024",
+      "eol": "2026-06-30",
+      "lts": false,
+      "releaseDate": "2024-06-30"
+    },
+    {
+      "cycle": "2023",
+      "eol": "2025-12-31",
+      "lts": false,
+      "releaseDate": "2023-04-30"
+    },
+    {
+      "cycle": "19.6",
+      "eol": "2024-12-31",
+      "lts": false,
+      "releaseDate": "2022-12-31"
+    },
+    {
+      "cycle": "19.5",
+      "eol": "2024-06-30",
+      "lts": false,
+      "releaseDate": "2022-06-30"
+    },
+    {
+      "cycle": "19.2",
+      "eol": "2023-03-31",
+      "lts": false,
+      "releaseDate": "2021-03-31"
+    },
+    {
+      "cycle": "19",
+      "eol": "2022-05-31",
+      "lts": false,
+      "releaseDate": "2020-05-31"
+    },
+    {
+      "cycle": "19.4",
+      "eol": "2023-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "19.3",
+      "eol": "2023-07-31",
+      "lts": false
+    },
+    {
+      "cycle": "19.1",
+      "eol": "2022-10-31",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "filemaker",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/filemaker.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

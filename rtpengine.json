@@ -1,0 +1,210 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Rtpengine",
+    "mapping_source": "unmapped",
+    "product": "rtpengine",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "26.0",
+      "eol": "2029-05-01",
+      "latest": "26.0.1.4",
+      "latestReleaseDate": "2026-05-01",
+      "lts": false,
+      "releaseDate": "2026-05-01"
+    },
+    {
+      "cycle": "14.1",
+      "eol": "2026-05-01",
+      "latest": "14.1.1.8",
+      "latestReleaseDate": "2026-05-01",
+      "lts": false,
+      "releaseDate": "2026-02-28"
+    },
+    {
+      "cycle": "14.0",
+      "eol": "2026-02-28",
+      "latest": "14.0.1.7",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false,
+      "releaseDate": "2025-12-17"
+    },
+    {
+      "cycle": "13.5",
+      "eol": "2028-09-28",
+      "latest": "13.5.1.10",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false,
+      "releaseDate": "2025-09-26"
+    },
+    {
+      "cycle": "13.4",
+      "eol": "2025-09-26",
+      "latest": "13.4.1.10",
+      "latestReleaseDate": "2025-10-21",
+      "lts": false,
+      "releaseDate": "2025-06-27"
+    },
+    {
+      "cycle": "13.3",
+      "eol": "2025-06-27",
+      "latest": "13.3.1.16",
+      "latestReleaseDate": "2025-10-21",
+      "lts": false,
+      "releaseDate": "2025-05-14"
+    },
+    {
+      "cycle": "13.2",
+      "eol": "2025-05-14",
+      "latest": "13.2.1.16",
+      "latestReleaseDate": "2025-06-30",
+      "lts": false,
+      "releaseDate": "2025-02-21"
+    },
+    {
+      "cycle": "13.1",
+      "eol": "2025-02-21",
+      "latest": "13.1.1.16",
+      "latestReleaseDate": "2025-05-09",
+      "lts": false,
+      "releaseDate": "2024-12-20"
+    },
+    {
+      "cycle": "13.0",
+      "eol": "2024-12-20",
+      "latest": "13.0.1.10",
+      "latestReleaseDate": "2025-01-20",
+      "lts": false,
+      "releaseDate": "2024-11-08"
+    },
+    {
+      "cycle": "12.5",
+      "eol": "2027-09-24",
+      "latest": "12.5.1.53",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false,
+      "releaseDate": "2024-09-20"
+    },
+    {
+      "cycle": "12.4",
+      "eol": "2024-09-20",
+      "latest": "12.4.1.11",
+      "latestReleaseDate": "2024-10-22",
+      "lts": false,
+      "releaseDate": "2024-05-31"
+    },
+    {
+      "cycle": "12.3",
+      "eol": "2024-05-31",
+      "latest": "12.3.1.6",
+      "latestReleaseDate": "2024-10-22",
+      "lts": false,
+      "releaseDate": "2024-04-05"
+    },
+    {
+      "cycle": "12.2",
+      "eol": "2024-04-05",
+      "latest": "12.2.1.5",
+      "latestReleaseDate": "2024-03-20",
+      "lts": false,
+      "releaseDate": "2024-02-09"
+    },
+    {
+      "cycle": "12.1",
+      "eol": "2024-02-09",
+      "latest": "12.1.1.7",
+      "latestReleaseDate": "2024-02-16",
+      "lts": false,
+      "releaseDate": "2023-12-22"
+    },
+    {
+      "cycle": "12.0",
+      "eol": "2023-12-22",
+      "latest": "12.0.1.5",
+      "latestReleaseDate": "2023-12-21",
+      "lts": false,
+      "releaseDate": "2023-11-03"
+    },
+    {
+      "cycle": "11.5",
+      "eol": "2026-09-11",
+      "latest": "11.5.1.51",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false,
+      "releaseDate": "2023-09-22"
+    },
+    {
+      "cycle": "11.4",
+      "eol": "2023-09-08",
+      "latest": "11.4.1.8",
+      "latestReleaseDate": "2024-02-16",
+      "lts": false,
+      "releaseDate": "2023-07-21"
+    },
+    {
+      "cycle": "11.3",
+      "eol": "2023-07-21",
+      "latest": "11.3.1.15",
+      "latestReleaseDate": "2024-02-16",
+      "lts": false,
+      "releaseDate": "2023-04-14"
+    },
+    {
+      "cycle": "11.2",
+      "eol": "2023-04-14",
+      "latest": "11.2.1.12",
+      "latestReleaseDate": "2023-05-16",
+      "lts": false,
+      "releaseDate": "2023-02-17"
+    },
+    {
+      "cycle": "11.1",
+      "eol": "2023-02-17",
+      "latest": "11.1.1.12",
+      "latestReleaseDate": "2023-05-12",
+      "lts": false,
+      "releaseDate": "2022-10-28"
+    },
+    {
+      "cycle": "11.0",
+      "eol": "2022-10-28",
+      "latest": "11.0.1.7",
+      "latestReleaseDate": "2022-10-12",
+      "lts": false,
+      "releaseDate": "2022-09-02"
+    },
+    {
+      "cycle": "10.5",
+      "eol": "2025-09-05",
+      "latest": "10.5.9.1",
+      "latestReleaseDate": "2025-07-29",
+      "lts": false,
+      "releaseDate": "2022-07-08"
+    },
+    {
+      "cycle": "9.5",
+      "eol": "2024-09-06",
+      "latest": "9.5.9.1",
+      "latestReleaseDate": "2024-07-01",
+      "lts": false,
+      "releaseDate": "2021-07-02"
+    },
+    {
+      "cycle": "8.5",
+      "eol": "2023-12-08",
+      "latest": "8.5.12.2",
+      "latestReleaseDate": "2023-12-15",
+      "lts": false,
+      "releaseDate": "2020-07-31"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "rtpengine",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/rtpengine.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

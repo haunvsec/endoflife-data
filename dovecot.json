@@ -1,0 +1,53 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Dovecot",
+    "mapping_source": "unmapped",
+    "product": "dovecot",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "2.4",
+      "latest": "2.4.3",
+      "latestReleaseDate": "2026-03-27",
+      "lts": false,
+      "releaseDate": "2026-03-27"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.21.1",
+      "latestReleaseDate": "2024-08-14",
+      "lts": false,
+      "releaseDate": "2024-08-14"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.36.4",
+      "latestReleaseDate": "2019-08-28",
+      "lts": false,
+      "releaseDate": "2019-08-28"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.16",
+      "latestReleaseDate": "2013-04-05",
+      "lts": false,
+      "releaseDate": "2013-04-05"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.15",
+      "latestReleaseDate": "2011-09-16",
+      "lts": false,
+      "releaseDate": "2011-09-16"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "dovecot",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/dovecot.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

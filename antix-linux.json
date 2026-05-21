@@ -1,0 +1,60 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:o:antixlinux:antix_linux:*:*:*:*:*:*:*:*",
+    "display_name": "antiX Linux",
+    "mapping_source": "eol_product_mapping",
+    "product": "antix_linux",
+    "purl": "",
+    "vendor": "antixlinux"
+  },
+  "cycles": [
+    {
+      "cycle": "8.5",
+      "latest": "8.5",
+      "latestReleaseDate": "2010-04-13",
+      "lts": false,
+      "releaseDate": "2010-04-13"
+    },
+    {
+      "cycle": "8.2",
+      "latest": "8.2",
+      "latestReleaseDate": "2009-07-24",
+      "lts": false,
+      "releaseDate": "2009-07-24"
+    },
+    {
+      "cycle": "7.5",
+      "latest": "7.5",
+      "latestReleaseDate": "2008-08-24",
+      "lts": false,
+      "releaseDate": "2008-08-24"
+    },
+    {
+      "cycle": "7.2",
+      "latest": "7.2",
+      "latestReleaseDate": "2008-05-16",
+      "lts": false,
+      "releaseDate": "2008-05-16"
+    },
+    {
+      "cycle": "7.0",
+      "latest": "7.0",
+      "latestReleaseDate": "2007-10-30",
+      "lts": false,
+      "releaseDate": "2007-10-30"
+    },
+    {
+      "cycle": "6.5",
+      "latest": "6.5",
+      "latestReleaseDate": "2007-07-09",
+      "lts": false,
+      "releaseDate": "2007-07-09"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "antix-linux",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/antix-linux.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

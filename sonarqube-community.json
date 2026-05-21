@@ -1,0 +1,305 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:sonarsource:community:*:*:*:*:*:*:*:*",
+    "display_name": "SonarQube  Community",
+    "mapping_source": "slug_prefix",
+    "product": "community",
+    "purl": "",
+    "vendor": "sonarsource"
+  },
+  "cycles": [
+    {
+      "cycle": "26.4",
+      "latest": "26.4.0.121862",
+      "latestReleaseDate": "2026-04-10",
+      "lts": false,
+      "releaseDate": "2026-04-10"
+    },
+    {
+      "cycle": "26.3",
+      "latest": "26.3.0.120487",
+      "latestReleaseDate": "2026-03-03",
+      "lts": false,
+      "releaseDate": "2026-03-03"
+    },
+    {
+      "cycle": "26.2",
+      "latest": "26.2.0.119303",
+      "latestReleaseDate": "2026-02-04",
+      "lts": false,
+      "releaseDate": "2026-02-04"
+    },
+    {
+      "cycle": "26.1",
+      "latest": "26.1.0.118079",
+      "latestReleaseDate": "2026-01-06",
+      "lts": false,
+      "releaseDate": "2026-01-06"
+    },
+    {
+      "cycle": "25.12",
+      "latest": "25.12.0.117093",
+      "latestReleaseDate": "2025-12-23",
+      "lts": false,
+      "releaseDate": "2025-12-23"
+    },
+    {
+      "cycle": "25.11",
+      "latest": "25.11.0.114957",
+      "latestReleaseDate": "2025-11-05",
+      "lts": false,
+      "releaseDate": "2025-11-05"
+    },
+    {
+      "cycle": "25.10",
+      "latest": "25.10.0.114319",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "25.9",
+      "latest": "25.9.0.112764",
+      "latestReleaseDate": "2025-09-01",
+      "lts": false,
+      "releaseDate": "2025-09-01"
+    },
+    {
+      "cycle": "25.8",
+      "latest": "25.8.0.112029",
+      "latestReleaseDate": "2025-08-06",
+      "lts": false,
+      "releaseDate": "2025-08-06"
+    },
+    {
+      "cycle": "25.7",
+      "latest": "25.7.0.110598",
+      "latestReleaseDate": "2025-07-07",
+      "lts": false,
+      "releaseDate": "2025-07-07"
+    },
+    {
+      "cycle": "25.6",
+      "latest": "25.6.0.109173",
+      "latestReleaseDate": "2025-06-02",
+      "lts": false,
+      "releaseDate": "2025-06-02"
+    },
+    {
+      "cycle": "25.5",
+      "latest": "25.5.0.107428",
+      "latestReleaseDate": "2025-05-06",
+      "lts": false,
+      "releaseDate": "2025-05-06"
+    },
+    {
+      "cycle": "25.4",
+      "latest": "25.4.0.105899",
+      "latestReleaseDate": "2025-04-07",
+      "lts": false,
+      "releaseDate": "2025-04-07"
+    },
+    {
+      "cycle": "25.3",
+      "latest": "25.3.0.104237",
+      "latestReleaseDate": "2025-03-04",
+      "lts": false,
+      "releaseDate": "2025-03-04"
+    },
+    {
+      "cycle": "25.2",
+      "latest": "25.2.0.102705",
+      "latestReleaseDate": "2025-02-03",
+      "lts": false,
+      "releaseDate": "2025-02-03"
+    },
+    {
+      "cycle": "25.1",
+      "latest": "25.1.0.102122",
+      "latestReleaseDate": "2025-01-07",
+      "lts": false,
+      "releaseDate": "2025-01-07"
+    },
+    {
+      "cycle": "24.12",
+      "latest": "24.12.0.100206",
+      "latestReleaseDate": "2024-12-02",
+      "lts": false,
+      "releaseDate": "2024-12-02"
+    },
+    {
+      "cycle": "9.9",
+      "latest": "9.9.8.100196",
+      "latestReleaseDate": "2024-12-02",
+      "lts": false,
+      "releaseDate": "2024-12-02"
+    },
+    {
+      "cycle": "10.7",
+      "latest": "10.7.0.96327",
+      "latestReleaseDate": "2024-09-30",
+      "lts": false,
+      "releaseDate": "2024-09-30"
+    },
+    {
+      "cycle": "10.6",
+      "latest": "10.6.0.92116",
+      "latestReleaseDate": "2024-06-21",
+      "lts": false,
+      "releaseDate": "2024-06-21"
+    },
+    {
+      "cycle": "10.5",
+      "latest": "10.5.1.90531",
+      "latestReleaseDate": "2024-05-02",
+      "lts": false,
+      "releaseDate": "2024-05-02"
+    },
+    {
+      "cycle": "10.4",
+      "latest": "10.4.1.88267",
+      "latestReleaseDate": "2024-02-26",
+      "lts": false,
+      "releaseDate": "2024-02-26"
+    },
+    {
+      "cycle": "10.3",
+      "latest": "10.3.0.82913",
+      "latestReleaseDate": "2023-11-17",
+      "lts": false,
+      "releaseDate": "2023-11-17"
+    },
+    {
+      "cycle": "10.2",
+      "latest": "10.2.1.78527",
+      "latestReleaseDate": "2023-09-25",
+      "lts": false,
+      "releaseDate": "2023-09-25"
+    },
+    {
+      "cycle": "10.1",
+      "latest": "10.1.0.73491",
+      "latestReleaseDate": "2023-06-20",
+      "lts": false,
+      "releaseDate": "2023-06-20"
+    },
+    {
+      "cycle": "10.0",
+      "latest": "10.0.0.68432",
+      "latestReleaseDate": "2023-04-04",
+      "lts": false,
+      "releaseDate": "2023-04-04"
+    },
+    {
+      "cycle": "9.8",
+      "latest": "9.8.0.63668",
+      "latestReleaseDate": "2022-12-16",
+      "lts": false,
+      "releaseDate": "2022-12-16"
+    },
+    {
+      "cycle": "9.7",
+      "latest": "9.7.1.62043",
+      "latestReleaseDate": "2022-10-31",
+      "lts": false,
+      "releaseDate": "2022-10-31"
+    },
+    {
+      "cycle": "8.9",
+      "latest": "8.9.10.61524",
+      "latestReleaseDate": "2022-10-21",
+      "lts": false,
+      "releaseDate": "2022-10-21"
+    },
+    {
+      "cycle": "9.6",
+      "latest": "9.6.1.59531",
+      "latestReleaseDate": "2022-08-29",
+      "lts": false,
+      "releaseDate": "2022-08-29"
+    },
+    {
+      "cycle": "9.5",
+      "latest": "9.5.0.56709",
+      "latestReleaseDate": "2022-06-10",
+      "lts": false,
+      "releaseDate": "2022-06-10"
+    },
+    {
+      "cycle": "9.4",
+      "latest": "9.4.0.54424",
+      "latestReleaseDate": "2022-04-01",
+      "lts": false,
+      "releaseDate": "2022-04-01"
+    },
+    {
+      "cycle": "9.3",
+      "latest": "9.3.0.51899",
+      "latestReleaseDate": "2022-01-28",
+      "lts": false,
+      "releaseDate": "2022-01-28"
+    },
+    {
+      "cycle": "9.2",
+      "latest": "9.2.4.50792",
+      "latestReleaseDate": "2021-12-21",
+      "lts": false,
+      "releaseDate": "2021-12-21"
+    },
+    {
+      "cycle": "9.1",
+      "latest": "9.1.0.47736",
+      "latestReleaseDate": "2021-10-07",
+      "lts": false,
+      "releaseDate": "2021-10-07"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.1.46107",
+      "latestReleaseDate": "2021-10-07",
+      "lts": false,
+      "releaseDate": "2021-10-07"
+    },
+    {
+      "cycle": "7.9",
+      "latest": "7.9.6",
+      "latestReleaseDate": "2021-03-30",
+      "lts": false,
+      "releaseDate": "2021-03-30"
+    },
+    {
+      "cycle": "8.7",
+      "latest": "8.7.1.42226",
+      "latestReleaseDate": "2021-03-12",
+      "lts": false,
+      "releaseDate": "2021-03-12"
+    },
+    {
+      "cycle": "8.6",
+      "latest": "8.6.1.40680",
+      "latestReleaseDate": "2021-01-27",
+      "lts": false,
+      "releaseDate": "2021-01-27"
+    },
+    {
+      "cycle": "8.5",
+      "latest": "8.5.1.38104",
+      "latestReleaseDate": "2020-10-23",
+      "lts": false,
+      "releaseDate": "2020-10-23"
+    },
+    {
+      "cycle": "8.3",
+      "latest": "8.3.0.34182",
+      "latestReleaseDate": "2020-04-29",
+      "lts": false,
+      "releaseDate": "2020-04-29"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "sonarqube-community",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/sonarqube-community.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

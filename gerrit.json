@@ -1,0 +1,235 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Gerrit",
+    "mapping_source": "unmapped",
+    "product": "gerrit",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "3.13",
+      "latest": "3.13.6",
+      "latestReleaseDate": "2026-04-28",
+      "lts": false,
+      "releaseDate": "2026-04-28"
+    },
+    {
+      "cycle": "3.12",
+      "latest": "3.12.7",
+      "latestReleaseDate": "2026-04-28",
+      "lts": false,
+      "releaseDate": "2026-04-28"
+    },
+    {
+      "cycle": "3.11",
+      "latest": "3.11.11",
+      "latestReleaseDate": "2026-04-28",
+      "lts": false,
+      "releaseDate": "2026-04-28"
+    },
+    {
+      "cycle": "3.10",
+      "latest": "3.10.9",
+      "latestReleaseDate": "2025-11-03",
+      "lts": false,
+      "releaseDate": "2025-11-03"
+    },
+    {
+      "cycle": "3.9",
+      "latest": "3.9.11",
+      "latestReleaseDate": "2025-05-05",
+      "lts": false,
+      "releaseDate": "2025-05-05"
+    },
+    {
+      "cycle": "3.8",
+      "latest": "3.8.10",
+      "latestReleaseDate": "2024-11-26",
+      "lts": false,
+      "releaseDate": "2024-11-26"
+    },
+    {
+      "cycle": "3.7",
+      "latest": "3.7.9",
+      "latestReleaseDate": "2024-05-15",
+      "lts": false,
+      "releaseDate": "2024-05-15"
+    },
+    {
+      "cycle": "3.6",
+      "latest": "3.6.8",
+      "latestReleaseDate": "2023-11-23",
+      "lts": false,
+      "releaseDate": "2023-11-23"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.6",
+      "latestReleaseDate": "2023-05-08",
+      "lts": false,
+      "releaseDate": "2023-05-08"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.8",
+      "latestReleaseDate": "2022-11-08",
+      "lts": false,
+      "releaseDate": "2022-11-08"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.11",
+      "latestReleaseDate": "2022-05-21",
+      "lts": false,
+      "releaseDate": "2022-05-21"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.14",
+      "latestReleaseDate": "2021-11-21",
+      "lts": false,
+      "releaseDate": "2021-11-21"
+    },
+    {
+      "cycle": "2.16",
+      "latest": "2.16.28",
+      "latestReleaseDate": "2021-11-19",
+      "lts": false,
+      "releaseDate": "2021-11-19"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.16",
+      "latestReleaseDate": "2021-08-20",
+      "lts": false,
+      "releaseDate": "2021-08-20"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.16",
+      "latestReleaseDate": "2021-02-01",
+      "lts": false,
+      "releaseDate": "2021-02-01"
+    },
+    {
+      "cycle": "2.15",
+      "latest": "2.15.22",
+      "latestReleaseDate": "2021-02-01",
+      "lts": false,
+      "releaseDate": "2021-02-01"
+    },
+    {
+      "cycle": "2.14",
+      "latest": "2.14.22",
+      "latestReleaseDate": "2020-11-19",
+      "lts": false,
+      "releaseDate": "2020-11-19"
+    },
+    {
+      "cycle": "2.13",
+      "latest": "2.13.14",
+      "latestReleaseDate": "2019-04-19",
+      "lts": false,
+      "releaseDate": "2019-04-19"
+    },
+    {
+      "cycle": "2.12",
+      "latest": "2.12.9",
+      "latestReleaseDate": "2019-01-11",
+      "lts": false,
+      "releaseDate": "2019-01-11"
+    },
+    {
+      "cycle": "2.11",
+      "latest": "2.11.12",
+      "latestReleaseDate": "2019-01-11",
+      "lts": false,
+      "releaseDate": "2019-01-11"
+    },
+    {
+      "cycle": "2.10",
+      "latest": "2.10.8",
+      "latestReleaseDate": "2019-01-11",
+      "lts": false,
+      "releaseDate": "2019-01-11"
+    },
+    {
+      "cycle": "2.9",
+      "latest": "2.9.5",
+      "latestReleaseDate": "2019-01-10",
+      "lts": false,
+      "releaseDate": "2019-01-10"
+    },
+    {
+      "cycle": "2.8",
+      "latest": "2.8.6.1",
+      "latestReleaseDate": "2014-07-08",
+      "lts": false,
+      "releaseDate": "2014-07-08"
+    },
+    {
+      "cycle": "2.7",
+      "latest": "2.7",
+      "latestReleaseDate": "2013-09-18",
+      "lts": false,
+      "releaseDate": "2013-09-18"
+    },
+    {
+      "cycle": "2.5",
+      "latest": "2.5.6",
+      "latestReleaseDate": "2013-06-24",
+      "lts": false,
+      "releaseDate": "2013-06-24"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.4",
+      "latestReleaseDate": "2013-06-24",
+      "lts": false,
+      "releaseDate": "2013-06-24"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.10",
+      "latestReleaseDate": "2013-06-24",
+      "lts": false,
+      "releaseDate": "2013-06-24"
+    },
+    {
+      "cycle": "2.6",
+      "latest": "2.6.1",
+      "latestReleaseDate": "2013-06-22",
+      "lts": false,
+      "releaseDate": "2013-06-22"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.1",
+      "latestReleaseDate": "2012-06-25",
+      "lts": false,
+      "releaseDate": "2012-06-25"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.2.2",
+      "latestReleaseDate": "2012-06-25",
+      "lts": false,
+      "releaseDate": "2012-06-25"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.24.2",
+      "latestReleaseDate": "2009-11-05",
+      "lts": false,
+      "releaseDate": "2009-11-05"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "gerrit",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/gerrit.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

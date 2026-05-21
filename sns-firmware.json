@@ -1,0 +1,65 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Sns Firmware",
+    "mapping_source": "unmapped",
+    "product": "sns_firmware",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "5.0",
+      "lts": false,
+      "releaseDate": "2025-09-24"
+    },
+    {
+      "cycle": "4.7",
+      "eoas": "2024-11-12",
+      "lts": false,
+      "releaseDate": "2023-10-31"
+    },
+    {
+      "cycle": "4.6",
+      "eoas": "2024-02-22",
+      "lts": false,
+      "releaseDate": "2022-11-24"
+    },
+    {
+      "cycle": "4.5",
+      "eoas": "2022-11-24",
+      "lts": false,
+      "releaseDate": "2022-07-05"
+    },
+    {
+      "cycle": "4.4",
+      "eoas": "2022-06-30",
+      "lts": false,
+      "releaseDate": "2022-05-12"
+    },
+    {
+      "cycle": "4.2",
+      "eoas": "2022-07-21",
+      "lts": false,
+      "releaseDate": "2021-04-06"
+    },
+    {
+      "cycle": "4.1",
+      "eoas": "2021-04-06",
+      "lts": false,
+      "releaseDate": "2020-09-24"
+    },
+    {
+      "cycle": "4.0",
+      "eoas": "2020-09-24",
+      "lts": false,
+      "releaseDate": "2020-01-07"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "sns-firmware",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/sns-firmware.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

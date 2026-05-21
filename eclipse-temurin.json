@@ -1,0 +1,51 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:eclipse:temurin:*:*:*:*:*:*:*:*",
+    "display_name": "Eclipse Temurin",
+    "mapping_source": "eol_product_mapping",
+    "product": "temurin",
+    "purl": "",
+    "vendor": "eclipse"
+  },
+  "cycles": [
+    {
+      "cycle": "25",
+      "eol": "2031-09-30",
+      "latest": "25.0.3+9",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false
+    },
+    {
+      "cycle": "21",
+      "eol": "2029-12-31",
+      "latest": "21.0.11+10",
+      "latestReleaseDate": "2026-04-23",
+      "lts": false
+    },
+    {
+      "cycle": "17",
+      "eol": "2027-10-31",
+      "latest": "17.0.19+10",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false
+    },
+    {
+      "cycle": "11",
+      "eol": "2027-10-31",
+      "latest": "11.0.31+11",
+      "latestReleaseDate": "2026-04-28",
+      "lts": false
+    },
+    {
+      "cycle": "8",
+      "eol": "2030-12-31",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "eclipse-temurin",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/eclipse-temurin.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,137 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Mandrel",
+    "mapping_source": "unmapped",
+    "product": "mandrel",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "25.0",
+      "latest": "25.0.3.0",
+      "latestReleaseDate": "2026-05-03",
+      "lts": false,
+      "releaseDate": "2026-05-03"
+    },
+    {
+      "cycle": "23.1",
+      "latest": "23.1.11.0",
+      "latestReleaseDate": "2026-05-03",
+      "lts": false,
+      "releaseDate": "2026-05-03"
+    },
+    {
+      "cycle": "24.2",
+      "latest": "24.2.2.0",
+      "latestReleaseDate": "2025-08-05",
+      "lts": false,
+      "releaseDate": "2025-08-05"
+    },
+    {
+      "cycle": "24.1",
+      "latest": "24.1.2.0",
+      "latestReleaseDate": "2025-01-30",
+      "lts": false,
+      "releaseDate": "2025-01-30"
+    },
+    {
+      "cycle": "23.0",
+      "latest": "23.0.6.0",
+      "latestReleaseDate": "2024-10-22",
+      "lts": false,
+      "releaseDate": "2024-10-22"
+    },
+    {
+      "cycle": "24.0",
+      "latest": "24.0.2.0",
+      "latestReleaseDate": "2024-07-21",
+      "lts": false,
+      "releaseDate": "2024-07-21"
+    },
+    {
+      "cycle": "22.3",
+      "latest": "22.3.5.0",
+      "latestReleaseDate": "2024-01-24",
+      "lts": false,
+      "releaseDate": "2024-01-24"
+    },
+    {
+      "cycle": "21.3",
+      "latest": "21.3.6.0",
+      "latestReleaseDate": "2023-04-21",
+      "lts": false,
+      "releaseDate": "2023-04-21"
+    },
+    {
+      "cycle": "22.2",
+      "latest": "22.2.0.0",
+      "latestReleaseDate": "2022-07-27",
+      "lts": false,
+      "releaseDate": "2022-07-27"
+    },
+    {
+      "cycle": "22.1",
+      "latest": "22.1.0.0",
+      "latestReleaseDate": "2022-04-27",
+      "lts": false,
+      "releaseDate": "2022-04-27"
+    },
+    {
+      "cycle": "22.0",
+      "latest": "22.0.0.2",
+      "latestReleaseDate": "2022-01-26",
+      "lts": false,
+      "releaseDate": "2022-01-26"
+    },
+    {
+      "cycle": "21.2",
+      "latest": "21.2.0.2",
+      "latestReleaseDate": "2021-10-20",
+      "lts": false,
+      "releaseDate": "2021-10-20"
+    },
+    {
+      "cycle": "20.3",
+      "latest": "20.3.3.0",
+      "latestReleaseDate": "2021-07-21",
+      "lts": false,
+      "releaseDate": "2021-07-21"
+    },
+    {
+      "cycle": "21.1",
+      "latest": "21.1.0.0",
+      "latestReleaseDate": "2021-04-26",
+      "lts": false,
+      "releaseDate": "2021-04-26"
+    },
+    {
+      "cycle": "21.0",
+      "latest": "21.0.0.0",
+      "latestReleaseDate": "2021-02-01",
+      "lts": false,
+      "releaseDate": "2021-02-01"
+    },
+    {
+      "cycle": "20.1",
+      "latest": "20.1.0.4",
+      "latestReleaseDate": "2021-01-21",
+      "lts": false,
+      "releaseDate": "2021-01-21"
+    },
+    {
+      "cycle": "20.2",
+      "latest": "20.2.0.0",
+      "latestReleaseDate": "2020-10-26",
+      "lts": false,
+      "releaseDate": "2020-10-26"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "mandrel",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/mandrel.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

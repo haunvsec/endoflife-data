@@ -1,0 +1,45 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:o:rocky:rocky_linux:*:*:*:*:*:*:*:*",
+    "display_name": "Rocky Linux",
+    "mapping_source": "eol_product_mapping",
+    "product": "rocky_linux",
+    "purl": "",
+    "vendor": "rocky"
+  },
+  "cycles": [
+    {
+      "cycle": "10",
+      "eoas": "2030-05-31",
+      "eol": "2035-05-31",
+      "latest": "10.1",
+      "latestReleaseDate": "2025-11-25",
+      "lts": false,
+      "releaseDate": "2025-06-11"
+    },
+    {
+      "cycle": "9",
+      "eoas": "2027-05-31",
+      "eol": "2032-05-31",
+      "latest": "9.7",
+      "latestReleaseDate": "2025-12-01",
+      "lts": false,
+      "releaseDate": "2022-07-14"
+    },
+    {
+      "cycle": "8",
+      "eoas": "2024-05-31",
+      "eol": "2029-05-31",
+      "latest": "8.10",
+      "latestReleaseDate": "2024-05-31",
+      "lts": false,
+      "releaseDate": "2021-05-01"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "rocky-linux",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/rocky-linux.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

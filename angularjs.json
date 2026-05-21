@@ -1,0 +1,81 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:google:angularjs:*:*:*:*:*:*:*:*",
+    "display_name": "AngularJS",
+    "mapping_source": "eol_product_mapping",
+    "product": "angularjs",
+    "purl": "",
+    "vendor": "google"
+  },
+  "cycles": [
+    {
+      "cycle": "1.8",
+      "latest": "1.8.3",
+      "latestReleaseDate": "2022-04-07",
+      "lts": false,
+      "releaseDate": "2022-04-07"
+    },
+    {
+      "cycle": "1.7",
+      "latest": "1.7.9",
+      "latestReleaseDate": "2019-11-19",
+      "lts": false,
+      "releaseDate": "2019-11-19"
+    },
+    {
+      "cycle": "1.6",
+      "latest": "1.6.10",
+      "latestReleaseDate": "2018-04-17",
+      "lts": false,
+      "releaseDate": "2018-04-17"
+    },
+    {
+      "cycle": "1.5",
+      "latest": "1.5.11",
+      "latestReleaseDate": "2017-01-12",
+      "lts": false,
+      "releaseDate": "2017-01-12"
+    },
+    {
+      "cycle": "1.4",
+      "latest": "1.4.14",
+      "latestReleaseDate": "2016-10-11",
+      "lts": false,
+      "releaseDate": "2016-10-11"
+    },
+    {
+      "cycle": "1.2",
+      "latest": "1.2.32",
+      "latestReleaseDate": "2016-10-11",
+      "lts": false,
+      "releaseDate": "2016-10-11"
+    },
+    {
+      "cycle": "1.3",
+      "latest": "1.3.20",
+      "latestReleaseDate": "2015-09-29",
+      "lts": false,
+      "releaseDate": "2015-09-29"
+    },
+    {
+      "cycle": "1.1",
+      "latest": "1.1.5",
+      "latestReleaseDate": "2013-11-23",
+      "lts": false,
+      "releaseDate": "2013-11-23"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.8",
+      "latestReleaseDate": "2013-11-23",
+      "lts": false,
+      "releaseDate": "2013-11-23"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "angularjs",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/angularjs.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

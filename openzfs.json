@@ -1,0 +1,53 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:openzfs:openzfs:*:*:*:*:*:*:*:*",
+    "display_name": "OpenZFS",
+    "mapping_source": "eol_product_mapping",
+    "product": "openzfs",
+    "purl": "",
+    "vendor": "openzfs"
+  },
+  "cycles": [
+    {
+      "cycle": "2.4",
+      "latest": "2.4.1",
+      "latestReleaseDate": "2026-02-25",
+      "lts": false,
+      "releaseDate": "2026-02-25"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.6",
+      "latestReleaseDate": "2026-02-25",
+      "lts": false,
+      "releaseDate": "2026-02-25"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.9",
+      "latestReleaseDate": "2025-11-18",
+      "lts": false,
+      "releaseDate": "2025-11-18"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.16",
+      "latestReleaseDate": "2024-12-06",
+      "lts": false,
+      "releaseDate": "2024-12-06"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.7",
+      "latestReleaseDate": "2021-12-23",
+      "lts": false,
+      "releaseDate": "2021-12-23"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "openzfs",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/openzfs.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,151 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:o:amazon:amazon_linux:*:*:*:*:*:*:*:*",
+    "display_name": "Amazon Linux",
+    "mapping_source": "eol_product_mapping",
+    "product": "amazon_linux",
+    "purl": "",
+    "vendor": "amazon"
+  },
+  "cycles": [
+    {
+      "cycle": "2023.11",
+      "latest": "2023.11.20260427.1",
+      "latestReleaseDate": "2026-05-04",
+      "lts": false,
+      "releaseDate": "2026-05-04"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.20260427.1",
+      "latestReleaseDate": "2026-05-04",
+      "lts": false,
+      "releaseDate": "2026-05-04"
+    },
+    {
+      "cycle": "2018.03",
+      "latest": "2018.03.0.20231218.0",
+      "latestReleaseDate": "2026-04-15",
+      "lts": false,
+      "releaseDate": "2026-04-15"
+    },
+    {
+      "cycle": "2023.10",
+      "latest": "2023.10.20260330.0",
+      "latestReleaseDate": "2026-04-04",
+      "lts": false,
+      "releaseDate": "2026-04-04"
+    },
+    {
+      "cycle": "2023.9",
+      "latest": "2023.9.20251208.0",
+      "latestReleaseDate": "2025-12-18",
+      "lts": false,
+      "releaseDate": "2025-12-18"
+    },
+    {
+      "cycle": "2023.8",
+      "latest": "2023.8.20250915.0",
+      "latestReleaseDate": "2025-09-25",
+      "lts": false,
+      "releaseDate": "2025-09-25"
+    },
+    {
+      "cycle": "2023.7",
+      "latest": "2023.7.20250623.1",
+      "latestReleaseDate": "2025-07-15",
+      "lts": false,
+      "releaseDate": "2025-07-15"
+    },
+    {
+      "cycle": "2023.6",
+      "latest": "2023.6.20250317.2",
+      "latestReleaseDate": "2025-03-28",
+      "lts": false,
+      "releaseDate": "2025-03-28"
+    },
+    {
+      "cycle": "2023.5",
+      "latest": "2023.5.20241001.1",
+      "latestReleaseDate": "2024-10-08",
+      "lts": false,
+      "releaseDate": "2024-10-08"
+    },
+    {
+      "cycle": "2023.4",
+      "latest": "2023.4.20240611.0",
+      "latestReleaseDate": "2024-06-20",
+      "lts": false,
+      "releaseDate": "2024-06-20"
+    },
+    {
+      "cycle": "2023.3",
+      "latest": "2023.3.20240312.0",
+      "latestReleaseDate": "2024-03-16",
+      "lts": false,
+      "releaseDate": "2024-03-16"
+    },
+    {
+      "cycle": "2023.2",
+      "latest": "2023.2.20231113.0",
+      "latestReleaseDate": "2023-11-21",
+      "lts": false,
+      "releaseDate": "2023-11-21"
+    },
+    {
+      "cycle": "2023.1",
+      "latest": "2023.1.20230825.0",
+      "latestReleaseDate": "2023-08-29",
+      "lts": false,
+      "releaseDate": "2023-08-29"
+    },
+    {
+      "cycle": "2023.0",
+      "latest": "2023.0.20230614.0",
+      "latestReleaseDate": "2023-06-20",
+      "lts": false,
+      "releaseDate": "2023-06-20"
+    },
+    {
+      "cycle": "2022.0",
+      "latest": "2022.0.20230118.3",
+      "latestReleaseDate": "2023-02-02",
+      "lts": false,
+      "releaseDate": "2023-02-02"
+    },
+    {
+      "cycle": "2017.12",
+      "latest": "2017.12.0.20180330",
+      "latestReleaseDate": "2018-04-10",
+      "lts": false,
+      "releaseDate": "2018-04-10"
+    },
+    {
+      "cycle": "2017.09",
+      "latest": "2017.09.1.20180409",
+      "latestReleaseDate": "2018-04-10",
+      "lts": false,
+      "releaseDate": "2018-04-10"
+    },
+    {
+      "cycle": "2017.03",
+      "latest": "2017.03.1.20170812",
+      "latestReleaseDate": "2017-11-03",
+      "lts": false,
+      "releaseDate": "2017-11-03"
+    },
+    {
+      "cycle": "2016.09",
+      "latest": "2016.09.1.20161221",
+      "latestReleaseDate": "2017-11-03",
+      "lts": false,
+      "releaseDate": "2017-11-03"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "amazon-linux",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/amazon-linux.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

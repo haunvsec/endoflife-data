@@ -1,0 +1,162 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:paloalto:pan_os:*:*:*:*:*:*:*:*",
+    "display_name": "Palo Alto PAN-OS",
+    "mapping_source": "eol_product_mapping",
+    "product": "pan_os",
+    "purl": "",
+    "vendor": "paloalto"
+  },
+  "cycles": [
+    {
+      "cycle": "12.1",
+      "eol": "2028-08-28",
+      "lts": false,
+      "releaseDate": "2025-08-28"
+    },
+    {
+      "cycle": "11.2",
+      "eol": "2027-05-02",
+      "lts": false,
+      "releaseDate": "2024-05-02"
+    },
+    {
+      "cycle": "11.1",
+      "eol": "2027-05-03",
+      "lts": false,
+      "releaseDate": "2023-11-03"
+    },
+    {
+      "cycle": "11.0",
+      "eol": "2024-11-17",
+      "lts": false,
+      "releaseDate": "2022-11-17"
+    },
+    {
+      "cycle": "10.2",
+      "eol": "2025-08-27",
+      "lts": false,
+      "releaseDate": "2022-02-27"
+    },
+    {
+      "cycle": "10.1",
+      "eol": "2024-12-01",
+      "lts": false,
+      "releaseDate": "2021-05-31"
+    },
+    {
+      "cycle": "10.0",
+      "eol": "2022-07-16",
+      "lts": false,
+      "releaseDate": "2020-07-16"
+    },
+    {
+      "cycle": "9.1",
+      "eol": "2024-06-30",
+      "lts": false,
+      "releaseDate": "2019-12-13"
+    },
+    {
+      "cycle": "9.0",
+      "eol": "2022-03-01",
+      "lts": false,
+      "releaseDate": "2019-02-06"
+    },
+    {
+      "cycle": "8.1",
+      "eol": "2022-03-01",
+      "lts": false,
+      "releaseDate": "2018-03-01"
+    },
+    {
+      "cycle": "8.0",
+      "eol": "2019-10-31",
+      "lts": false,
+      "releaseDate": "2017-01-29"
+    },
+    {
+      "cycle": "7.1",
+      "eol": "2020-06-30",
+      "lts": false,
+      "releaseDate": "2016-03-29"
+    },
+    {
+      "cycle": "7.0",
+      "eol": "2017-12-04",
+      "lts": false,
+      "releaseDate": "2015-06-04"
+    },
+    {
+      "cycle": "6.1",
+      "eol": "2018-10-25",
+      "lts": false,
+      "releaseDate": "2014-10-25"
+    },
+    {
+      "cycle": "6.0",
+      "eol": "2017-03-19",
+      "lts": false,
+      "releaseDate": "2014-01-19"
+    },
+    {
+      "cycle": "5.1",
+      "eol": "2017-05-09",
+      "lts": false,
+      "releaseDate": "2013-05-09"
+    },
+    {
+      "cycle": "5.0",
+      "eol": "2016-11-13",
+      "lts": false,
+      "releaseDate": "2012-11-13"
+    },
+    {
+      "cycle": "4.1",
+      "eol": "2015-04-30",
+      "lts": false,
+      "releaseDate": "2011-10-31"
+    },
+    {
+      "cycle": "4.0",
+      "eol": "2014-12-31",
+      "lts": false,
+      "releaseDate": "2011-02-22"
+    },
+    {
+      "cycle": "3.1",
+      "eol": "2013-06-30",
+      "lts": false,
+      "releaseDate": "2010-03-15"
+    },
+    {
+      "cycle": "3.0",
+      "eol": "2010-12-17",
+      "lts": false,
+      "releaseDate": "2009-06-17"
+    },
+    {
+      "cycle": "2.1",
+      "eol": "2012-01-05",
+      "lts": false,
+      "releaseDate": "2009-01-05"
+    },
+    {
+      "cycle": "2.0",
+      "eol": "2009-05-20",
+      "lts": false,
+      "releaseDate": "2008-05-20"
+    },
+    {
+      "cycle": "1.3",
+      "eol": "2008-11-20",
+      "lts": false,
+      "releaseDate": "2007-11-15"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "pan-os",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/pan-os.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

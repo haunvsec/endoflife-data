@@ -1,0 +1,305 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Nvm",
+    "mapping_source": "unmapped",
+    "product": "nvm",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "0.40",
+      "latest": "0.40.4",
+      "latestReleaseDate": "2026-01-29",
+      "lts": false,
+      "releaseDate": "2026-01-29"
+    },
+    {
+      "cycle": "0.39",
+      "latest": "0.39.7",
+      "latestReleaseDate": "2023-12-05",
+      "lts": false,
+      "releaseDate": "2023-12-05"
+    },
+    {
+      "cycle": "0.38",
+      "latest": "0.38.0",
+      "latestReleaseDate": "2021-03-29",
+      "lts": false,
+      "releaseDate": "2021-03-29"
+    },
+    {
+      "cycle": "0.37",
+      "latest": "0.37.2",
+      "latestReleaseDate": "2020-11-27",
+      "lts": false,
+      "releaseDate": "2020-11-27"
+    },
+    {
+      "cycle": "0.36",
+      "latest": "0.36.0",
+      "latestReleaseDate": "2020-09-23",
+      "lts": false,
+      "releaseDate": "2020-09-23"
+    },
+    {
+      "cycle": "0.35",
+      "latest": "0.35.3",
+      "latestReleaseDate": "2020-03-05",
+      "lts": false,
+      "releaseDate": "2020-03-05"
+    },
+    {
+      "cycle": "0.34",
+      "latest": "0.34.0",
+      "latestReleaseDate": "2019-01-08",
+      "lts": false,
+      "releaseDate": "2019-01-08"
+    },
+    {
+      "cycle": "0.33",
+      "latest": "0.33.11",
+      "latestReleaseDate": "2018-04-25",
+      "lts": false,
+      "releaseDate": "2018-04-25"
+    },
+    {
+      "cycle": "0.32",
+      "latest": "0.32.1",
+      "latestReleaseDate": "2016-10-18",
+      "lts": false,
+      "releaseDate": "2016-10-18"
+    },
+    {
+      "cycle": "0.31",
+      "latest": "0.31.7",
+      "latestReleaseDate": "2016-09-02",
+      "lts": false,
+      "releaseDate": "2016-09-02"
+    },
+    {
+      "cycle": "0.30",
+      "latest": "0.30.2",
+      "latestReleaseDate": "2016-01-21",
+      "lts": false,
+      "releaseDate": "2016-01-21"
+    },
+    {
+      "cycle": "0.29",
+      "latest": "0.29.0",
+      "latestReleaseDate": "2015-10-09",
+      "lts": false,
+      "releaseDate": "2015-10-09"
+    },
+    {
+      "cycle": "0.28",
+      "latest": "0.28.0",
+      "latestReleaseDate": "2015-10-02",
+      "lts": false,
+      "releaseDate": "2015-10-02"
+    },
+    {
+      "cycle": "0.27",
+      "latest": "0.27.1",
+      "latestReleaseDate": "2015-09-27",
+      "lts": false,
+      "releaseDate": "2015-09-27"
+    },
+    {
+      "cycle": "0.26",
+      "latest": "0.26.1",
+      "latestReleaseDate": "2015-08-22",
+      "lts": false,
+      "releaseDate": "2015-08-22"
+    },
+    {
+      "cycle": "0.25",
+      "latest": "0.25.4",
+      "latestReleaseDate": "2015-05-29",
+      "lts": false,
+      "releaseDate": "2015-05-29"
+    },
+    {
+      "cycle": "0.24",
+      "latest": "0.24.2",
+      "latestReleaseDate": "2015-05-22",
+      "lts": false,
+      "releaseDate": "2015-05-22"
+    },
+    {
+      "cycle": "0.23",
+      "latest": "0.23.3",
+      "latestReleaseDate": "2015-02-02",
+      "lts": false,
+      "releaseDate": "2015-02-02"
+    },
+    {
+      "cycle": "0.22",
+      "latest": "0.22.2",
+      "latestReleaseDate": "2015-01-14",
+      "lts": false,
+      "releaseDate": "2015-01-14"
+    },
+    {
+      "cycle": "0.21",
+      "latest": "0.21.0",
+      "latestReleaseDate": "2014-12-22",
+      "lts": false,
+      "releaseDate": "2014-12-22"
+    },
+    {
+      "cycle": "0.20",
+      "latest": "0.20.0",
+      "latestReleaseDate": "2014-11-29",
+      "lts": false,
+      "releaseDate": "2014-11-29"
+    },
+    {
+      "cycle": "0.19",
+      "latest": "0.19.0",
+      "latestReleaseDate": "2014-11-23",
+      "lts": false,
+      "releaseDate": "2014-11-23"
+    },
+    {
+      "cycle": "0.18",
+      "latest": "0.18.0",
+      "latestReleaseDate": "2014-11-05",
+      "lts": false,
+      "releaseDate": "2014-11-05"
+    },
+    {
+      "cycle": "0.17",
+      "latest": "0.17.3",
+      "latestReleaseDate": "2014-10-20",
+      "lts": false,
+      "releaseDate": "2014-10-20"
+    },
+    {
+      "cycle": "0.16",
+      "latest": "0.16.1",
+      "latestReleaseDate": "2014-09-14",
+      "lts": false,
+      "releaseDate": "2014-09-14"
+    },
+    {
+      "cycle": "0.15",
+      "latest": "0.15.0",
+      "latestReleaseDate": "2014-09-03",
+      "lts": false,
+      "releaseDate": "2014-09-03"
+    },
+    {
+      "cycle": "0.14",
+      "latest": "0.14.0",
+      "latestReleaseDate": "2014-08-27",
+      "lts": false,
+      "releaseDate": "2014-08-27"
+    },
+    {
+      "cycle": "0.13",
+      "latest": "0.13.1",
+      "latestReleaseDate": "2014-08-08",
+      "lts": false,
+      "releaseDate": "2014-08-08"
+    },
+    {
+      "cycle": "0.12",
+      "latest": "0.12.2",
+      "latestReleaseDate": "2014-07-29",
+      "lts": false,
+      "releaseDate": "2014-07-29"
+    },
+    {
+      "cycle": "0.11",
+      "latest": "0.11.2",
+      "latestReleaseDate": "2014-07-20",
+      "lts": false,
+      "releaseDate": "2014-07-20"
+    },
+    {
+      "cycle": "0.10",
+      "latest": "0.10.0",
+      "latestReleaseDate": "2014-06-26",
+      "lts": false,
+      "releaseDate": "2014-06-26"
+    },
+    {
+      "cycle": "0.9",
+      "latest": "0.9.0",
+      "latestReleaseDate": "2014-06-26",
+      "lts": false,
+      "releaseDate": "2014-06-26"
+    },
+    {
+      "cycle": "0.8",
+      "latest": "0.8.0",
+      "latestReleaseDate": "2014-06-20",
+      "lts": false,
+      "releaseDate": "2014-06-20"
+    },
+    {
+      "cycle": "0.7",
+      "latest": "0.7.0",
+      "latestReleaseDate": "2014-05-08",
+      "lts": false,
+      "releaseDate": "2014-05-08"
+    },
+    {
+      "cycle": "0.6",
+      "latest": "0.6.1",
+      "latestReleaseDate": "2014-05-04",
+      "lts": false,
+      "releaseDate": "2014-05-04"
+    },
+    {
+      "cycle": "0.5",
+      "latest": "0.5.1",
+      "latestReleaseDate": "2014-04-25",
+      "lts": false,
+      "releaseDate": "2014-04-25"
+    },
+    {
+      "cycle": "0.4",
+      "latest": "0.4.0",
+      "latestReleaseDate": "2014-03-26",
+      "lts": false,
+      "releaseDate": "2014-03-26"
+    },
+    {
+      "cycle": "0.3",
+      "latest": "0.3.0",
+      "latestReleaseDate": "2014-03-20",
+      "lts": false,
+      "releaseDate": "2014-03-20"
+    },
+    {
+      "cycle": "0.2",
+      "latest": "0.2.0",
+      "latestReleaseDate": "2013-11-29",
+      "lts": false,
+      "releaseDate": "2013-11-29"
+    },
+    {
+      "cycle": "0.1",
+      "latest": "0.1.0",
+      "latestReleaseDate": "2011-02-25",
+      "lts": false,
+      "releaseDate": "2011-02-25"
+    },
+    {
+      "cycle": "0.0",
+      "latest": "0.0.6",
+      "latestReleaseDate": "2011-01-04",
+      "lts": false,
+      "releaseDate": "2011-01-04"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "nvm",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/nvm.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

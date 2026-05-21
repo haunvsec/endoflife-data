@@ -1,0 +1,50 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:vuetifyjs:vuetify:*:*:*:*:*:*:*:*",
+    "display_name": "Vuetify",
+    "mapping_source": "eol_product_mapping",
+    "product": "vuetify",
+    "purl": "",
+    "vendor": "vuetifyjs"
+  },
+  "cycles": [
+    {
+      "cycle": "4",
+      "latest": "4.0.6",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false,
+      "releaseDate": "2026-02-23"
+    },
+    {
+      "cycle": "3",
+      "latest": "3.12.5",
+      "latestReleaseDate": "2026-04-02",
+      "lts": false,
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "cycle": "2",
+      "eoas": "2023-07-05",
+      "eol": "2025-01-23",
+      "latest": "2.7.2",
+      "latestReleaseDate": "2024-02-14",
+      "lts": false,
+      "releaseDate": "2019-07-23"
+    },
+    {
+      "cycle": "1",
+      "eoas": "2019-07-31",
+      "eol": "2020-07-31",
+      "latest": "1.5.24",
+      "latestReleaseDate": "2020-03-03",
+      "lts": false,
+      "releaseDate": "2019-02-05"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "vuetify",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/vuetify.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

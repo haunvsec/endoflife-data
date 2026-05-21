@@ -1,0 +1,235 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Mxlinux",
+    "mapping_source": "unmapped",
+    "product": "mxlinux",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "25.1",
+      "latest": "25.1",
+      "latestReleaseDate": "2026-01-19",
+      "lts": false,
+      "releaseDate": "2026-01-19"
+    },
+    {
+      "cycle": "25",
+      "latest": "25",
+      "latestReleaseDate": "2025-11-09",
+      "lts": false,
+      "releaseDate": "2025-11-09"
+    },
+    {
+      "cycle": "23.6",
+      "latest": "23.6",
+      "latestReleaseDate": "2025-04-14",
+      "lts": false,
+      "releaseDate": "2025-04-14"
+    },
+    {
+      "cycle": "23.5",
+      "latest": "23.5",
+      "latestReleaseDate": "2025-01-13",
+      "lts": false,
+      "releaseDate": "2025-01-13"
+    },
+    {
+      "cycle": "23.4",
+      "latest": "23.4",
+      "latestReleaseDate": "2024-09-16",
+      "lts": false,
+      "releaseDate": "2024-09-16"
+    },
+    {
+      "cycle": "23.3",
+      "latest": "23.3",
+      "latestReleaseDate": "2024-05-20",
+      "lts": false,
+      "releaseDate": "2024-05-20"
+    },
+    {
+      "cycle": "23.2",
+      "latest": "23.2",
+      "latestReleaseDate": "2024-01-22",
+      "lts": false,
+      "releaseDate": "2024-01-22"
+    },
+    {
+      "cycle": "23.1",
+      "latest": "23.1",
+      "latestReleaseDate": "2023-10-16",
+      "lts": false,
+      "releaseDate": "2023-10-16"
+    },
+    {
+      "cycle": "23",
+      "latest": "23",
+      "latestReleaseDate": "2023-07-31",
+      "lts": false,
+      "releaseDate": "2023-07-31"
+    },
+    {
+      "cycle": "21.3",
+      "latest": "21.3",
+      "latestReleaseDate": "2023-01-15",
+      "lts": false,
+      "releaseDate": "2023-01-15"
+    },
+    {
+      "cycle": "21.2",
+      "latest": "21.2",
+      "latestReleaseDate": "2022-08-29",
+      "lts": false,
+      "releaseDate": "2022-08-29"
+    },
+    {
+      "cycle": "21.1",
+      "latest": "21.1",
+      "latestReleaseDate": "2022-04-10",
+      "lts": false,
+      "releaseDate": "2022-04-10"
+    },
+    {
+      "cycle": "21",
+      "latest": "21",
+      "latestReleaseDate": "2021-10-21",
+      "lts": false,
+      "releaseDate": "2021-10-21"
+    },
+    {
+      "cycle": "19.4",
+      "latest": "19.4",
+      "latestReleaseDate": "2021-04-01",
+      "lts": false,
+      "releaseDate": "2021-04-01"
+    },
+    {
+      "cycle": "19.3",
+      "latest": "19.3",
+      "latestReleaseDate": "2020-11-11",
+      "lts": false,
+      "releaseDate": "2020-11-11"
+    },
+    {
+      "cycle": "19.2",
+      "latest": "19.2",
+      "latestReleaseDate": "2020-06-02",
+      "lts": false,
+      "releaseDate": "2020-06-02"
+    },
+    {
+      "cycle": "19.1",
+      "latest": "19.1",
+      "latestReleaseDate": "2020-02-16",
+      "lts": false,
+      "releaseDate": "2020-02-16"
+    },
+    {
+      "cycle": "19",
+      "latest": "19",
+      "latestReleaseDate": "2019-10-22",
+      "lts": false,
+      "releaseDate": "2019-10-22"
+    },
+    {
+      "cycle": "18.3",
+      "latest": "18.3",
+      "latestReleaseDate": "2019-05-28",
+      "lts": false,
+      "releaseDate": "2019-05-28"
+    },
+    {
+      "cycle": "18.2",
+      "latest": "18.2",
+      "latestReleaseDate": "2019-04-08",
+      "lts": false,
+      "releaseDate": "2019-04-08"
+    },
+    {
+      "cycle": "18.1",
+      "latest": "18.1",
+      "latestReleaseDate": "2019-02-10",
+      "lts": false,
+      "releaseDate": "2019-02-10"
+    },
+    {
+      "cycle": "18",
+      "latest": "18",
+      "latestReleaseDate": "2018-12-20",
+      "lts": false,
+      "releaseDate": "2018-12-20"
+    },
+    {
+      "cycle": "17.1",
+      "latest": "17.1",
+      "latestReleaseDate": "2018-03-15",
+      "lts": false,
+      "releaseDate": "2018-03-15"
+    },
+    {
+      "cycle": "17",
+      "latest": "17",
+      "latestReleaseDate": "2017-12-15",
+      "lts": false,
+      "releaseDate": "2017-12-15"
+    },
+    {
+      "cycle": "16.1",
+      "latest": "16.1",
+      "latestReleaseDate": "2017-06-08",
+      "lts": false,
+      "releaseDate": "2017-06-08"
+    },
+    {
+      "cycle": "16",
+      "latest": "16",
+      "latestReleaseDate": "2016-12-14",
+      "lts": false,
+      "releaseDate": "2016-12-14"
+    },
+    {
+      "cycle": "15",
+      "latest": "15",
+      "latestReleaseDate": "2015-12-24",
+      "lts": false,
+      "releaseDate": "2015-12-24"
+    },
+    {
+      "cycle": "14.4",
+      "latest": "14.4",
+      "latestReleaseDate": "2015-03-24",
+      "lts": false,
+      "releaseDate": "2015-03-24"
+    },
+    {
+      "cycle": "14.3",
+      "latest": "14.3",
+      "latestReleaseDate": "2014-12-04",
+      "lts": false,
+      "releaseDate": "2014-12-04"
+    },
+    {
+      "cycle": "14.2",
+      "latest": "14.2",
+      "latestReleaseDate": "2014-07-01",
+      "lts": false,
+      "releaseDate": "2014-07-01"
+    },
+    {
+      "cycle": "14",
+      "latest": "14",
+      "latestReleaseDate": "2014-03-25",
+      "lts": false,
+      "releaseDate": "2014-03-25"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "mxlinux",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/mxlinux.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

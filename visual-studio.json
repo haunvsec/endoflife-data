@@ -1,0 +1,319 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*",
+    "display_name": "Microsoft Visual Studio",
+    "mapping_source": "eol_product_mapping",
+    "product": "visual_studio",
+    "purl": "",
+    "vendor": "microsoft"
+  },
+  "cycles": [
+    {
+      "cycle": "18.5",
+      "latest": "18.5.2",
+      "latestReleaseDate": "2026-04-28",
+      "lts": false,
+      "releaseDate": "2026-04-28"
+    },
+    {
+      "cycle": "18.4",
+      "latest": "18.4.4",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false,
+      "releaseDate": "2026-04-14"
+    },
+    {
+      "cycle": "17.14",
+      "latest": "17.14.30",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false,
+      "releaseDate": "2026-04-14"
+    },
+    {
+      "cycle": "17.12",
+      "latest": "17.12.19",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false,
+      "releaseDate": "2026-04-14"
+    },
+    {
+      "cycle": "16.11",
+      "latest": "16.11.55",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false,
+      "releaseDate": "2026-04-14"
+    },
+    {
+      "cycle": "15.9",
+      "latest": "15.9.79",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false,
+      "releaseDate": "2026-04-14"
+    },
+    {
+      "cycle": "18.3",
+      "latest": "18.3.3",
+      "latestReleaseDate": "2026-03-10",
+      "lts": false,
+      "releaseDate": "2026-03-10"
+    },
+    {
+      "cycle": "18.2",
+      "latest": "18.2.2",
+      "latestReleaseDate": "2026-02-10",
+      "lts": false,
+      "releaseDate": "2026-02-10"
+    },
+    {
+      "cycle": "18.1",
+      "latest": "18.1.1",
+      "latestReleaseDate": "2025-12-16",
+      "lts": false,
+      "releaseDate": "2025-12-16"
+    },
+    {
+      "cycle": "18.0",
+      "latest": "18.0.2",
+      "latestReleaseDate": "2025-11-24",
+      "lts": false,
+      "releaseDate": "2025-11-24"
+    },
+    {
+      "cycle": "17.10",
+      "latest": "17.10.21",
+      "latestReleaseDate": "2025-11-11",
+      "lts": false,
+      "releaseDate": "2025-11-11"
+    },
+    {
+      "cycle": "17.8",
+      "latest": "17.8.23",
+      "latestReleaseDate": "2025-07-08",
+      "lts": false,
+      "releaseDate": "2025-07-08"
+    },
+    {
+      "cycle": "17.13",
+      "latest": "17.13.7",
+      "latestReleaseDate": "2025-05-13",
+      "lts": false,
+      "releaseDate": "2025-05-13"
+    },
+    {
+      "cycle": "17.6",
+      "latest": "17.6.22",
+      "latestReleaseDate": "2025-01-14",
+      "lts": false,
+      "releaseDate": "2025-01-14"
+    },
+    {
+      "cycle": "17.11",
+      "latest": "17.11.6",
+      "latestReleaseDate": "2024-11-12",
+      "lts": false,
+      "releaseDate": "2024-11-12"
+    },
+    {
+      "cycle": "17.4",
+      "latest": "17.4.21",
+      "latestReleaseDate": "2024-07-09",
+      "lts": false,
+      "releaseDate": "2024-07-09"
+    },
+    {
+      "cycle": "17.9",
+      "latest": "17.9.7",
+      "latestReleaseDate": "2024-05-14",
+      "lts": false,
+      "releaseDate": "2024-05-14"
+    },
+    {
+      "cycle": "17.2",
+      "latest": "17.2.23",
+      "latestReleaseDate": "2024-01-09",
+      "lts": false,
+      "releaseDate": "2024-01-09"
+    },
+    {
+      "cycle": "17.7",
+      "latest": "17.7.7",
+      "latestReleaseDate": "2023-11-14",
+      "lts": false,
+      "releaseDate": "2023-11-14"
+    },
+    {
+      "cycle": "17.0",
+      "latest": "17.0.23",
+      "latestReleaseDate": "2023-07-11",
+      "lts": false,
+      "releaseDate": "2023-07-11"
+    },
+    {
+      "cycle": "17.5",
+      "latest": "17.5.5",
+      "latestReleaseDate": "2023-05-01",
+      "lts": false,
+      "releaseDate": "2023-05-01"
+    },
+    {
+      "cycle": "17.3",
+      "latest": "17.3.7",
+      "latestReleaseDate": "2022-11-08",
+      "lts": false,
+      "releaseDate": "2022-11-08"
+    },
+    {
+      "cycle": "16.9",
+      "latest": "16.9.26",
+      "latestReleaseDate": "2022-10-11",
+      "lts": false,
+      "releaseDate": "2022-10-11"
+    },
+    {
+      "cycle": "17.1",
+      "latest": "17.1.7",
+      "latestReleaseDate": "2022-05-10",
+      "lts": false,
+      "releaseDate": "2022-05-10"
+    },
+    {
+      "cycle": "16.7",
+      "latest": "16.7.28",
+      "latestReleaseDate": "2022-04-19",
+      "lts": false,
+      "releaseDate": "2022-04-19"
+    },
+    {
+      "cycle": "16.4",
+      "latest": "16.4.27",
+      "latestReleaseDate": "2021-10-12",
+      "lts": false,
+      "releaseDate": "2021-10-12"
+    },
+    {
+      "cycle": "16.10",
+      "latest": "16.10.4",
+      "latestReleaseDate": "2021-07-20",
+      "lts": false,
+      "releaseDate": "2021-07-20"
+    },
+    {
+      "cycle": "16.8",
+      "latest": "16.8.7",
+      "latestReleaseDate": "2021-03-09",
+      "lts": false,
+      "releaseDate": "2021-03-09"
+    },
+    {
+      "cycle": "16.0",
+      "latest": "16.0.22",
+      "latestReleaseDate": "2021-01-12",
+      "lts": false,
+      "releaseDate": "2021-01-12"
+    },
+    {
+      "cycle": "16.6",
+      "latest": "16.6.5",
+      "latestReleaseDate": "2020-07-21",
+      "lts": false,
+      "releaseDate": "2020-07-21"
+    },
+    {
+      "cycle": "16.5",
+      "latest": "16.5.5",
+      "latestReleaseDate": "2020-05-12",
+      "lts": false,
+      "releaseDate": "2020-05-12"
+    },
+    {
+      "cycle": "15.0",
+      "latest": "15.0.28",
+      "latestReleaseDate": "2019-12-11",
+      "lts": false,
+      "releaseDate": "2019-12-11"
+    },
+    {
+      "cycle": "16.3",
+      "latest": "16.3.10",
+      "latestReleaseDate": "2019-11-20",
+      "lts": false,
+      "releaseDate": "2019-11-20"
+    },
+    {
+      "cycle": "16.2",
+      "latest": "16.2.5",
+      "latestReleaseDate": "2019-09-10",
+      "lts": false,
+      "releaseDate": "2019-09-10"
+    },
+    {
+      "cycle": "16.1",
+      "latest": "16.1.6",
+      "latestReleaseDate": "2019-07-09",
+      "lts": false,
+      "releaseDate": "2019-07-09"
+    },
+    {
+      "cycle": "15.8",
+      "latest": "15.8.9",
+      "latestReleaseDate": "2018-11-02",
+      "lts": false,
+      "releaseDate": "2018-11-02"
+    },
+    {
+      "cycle": "15.7",
+      "latest": "15.7.6",
+      "latestReleaseDate": "2018-08-02",
+      "lts": false,
+      "releaseDate": "2018-08-02"
+    },
+    {
+      "cycle": "15.6",
+      "latest": "15.6.7",
+      "latestReleaseDate": "2018-04-26",
+      "lts": false,
+      "releaseDate": "2018-04-26"
+    },
+    {
+      "cycle": "15.5",
+      "latest": "15.5.7",
+      "latestReleaseDate": "2018-02-20",
+      "lts": false,
+      "releaseDate": "2018-02-20"
+    },
+    {
+      "cycle": "15.4",
+      "latest": "15.4.5",
+      "latestReleaseDate": "2017-11-27",
+      "lts": false,
+      "releaseDate": "2017-11-27"
+    },
+    {
+      "cycle": "15.3",
+      "latest": "15.3.5",
+      "latestReleaseDate": "2017-09-19",
+      "lts": false,
+      "releaseDate": "2017-09-19"
+    },
+    {
+      "cycle": "15.2",
+      "latest": "15.2.6",
+      "latestReleaseDate": "2017-07-17",
+      "lts": false,
+      "releaseDate": "2017-07-17"
+    },
+    {
+      "cycle": "15.1",
+      "latest": "15.1.2",
+      "latestReleaseDate": "2017-04-17",
+      "lts": false,
+      "releaseDate": "2017-04-17"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "visual-studio",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/visual-studio.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

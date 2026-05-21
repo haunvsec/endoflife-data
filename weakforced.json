@@ -1,0 +1,95 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Weakforced",
+    "mapping_source": "unmapped",
+    "product": "weakforced",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "3.0",
+      "latest": "3.0.1",
+      "latestReleaseDate": "2026-04-27",
+      "lts": false,
+      "releaseDate": "2026-04-27"
+    },
+    {
+      "cycle": "2.10",
+      "latest": "2.10.3",
+      "latestReleaseDate": "2025-11-05",
+      "lts": false,
+      "releaseDate": "2025-11-05"
+    },
+    {
+      "cycle": "2.12",
+      "latest": "2.12.1",
+      "latestReleaseDate": "2025-02-11",
+      "lts": false,
+      "releaseDate": "2025-02-11"
+    },
+    {
+      "cycle": "2.8",
+      "latest": "2.8.0",
+      "latestReleaseDate": "2022-12-05",
+      "lts": false,
+      "releaseDate": "2022-12-05"
+    },
+    {
+      "cycle": "2.6",
+      "latest": "2.6.2",
+      "latestReleaseDate": "2022-05-19",
+      "lts": false,
+      "releaseDate": "2022-05-19"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.1",
+      "latestReleaseDate": "2021-07-01",
+      "lts": false,
+      "releaseDate": "2021-07-01"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.2",
+      "latestReleaseDate": "2020-03-13",
+      "lts": false,
+      "releaseDate": "2020-03-13"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.1",
+      "latestReleaseDate": "2019-04-16",
+      "lts": false,
+      "releaseDate": "2019-04-16"
+    },
+    {
+      "cycle": "1.4",
+      "latest": "1.4.4",
+      "latestReleaseDate": "2018-07-12",
+      "lts": false,
+      "releaseDate": "2018-07-12"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.3",
+      "latestReleaseDate": "2017-12-07",
+      "lts": false,
+      "releaseDate": "2017-12-07"
+    },
+    {
+      "cycle": "1.2",
+      "latest": "1.2.3",
+      "latestReleaseDate": "2017-07-31",
+      "lts": false,
+      "releaseDate": "2017-07-31"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "weakforced",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/weakforced.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

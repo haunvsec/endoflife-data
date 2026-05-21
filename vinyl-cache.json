@@ -1,0 +1,32 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Vinyl Cache",
+    "mapping_source": "unmapped",
+    "product": "vinyl_cache",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "9.0",
+      "eol": "2027-03-16",
+      "latest": "9.0.0",
+      "latestReleaseDate": "2026-03-16",
+      "lts": false
+    },
+    {
+      "cycle": "8.0",
+      "eol": "2026-09-15",
+      "latest": "8.0.1",
+      "latestReleaseDate": "2026-03-16",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "vinyl-cache",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/vinyl-cache.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

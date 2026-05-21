@@ -1,0 +1,179 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:hashicorp:consul:*:*:*:*:*:*:*:*",
+    "display_name": "HashiCorp Consul",
+    "mapping_source": "eol_product_mapping",
+    "product": "consul",
+    "purl": "",
+    "vendor": "hashicorp"
+  },
+  "cycles": [
+    {
+      "cycle": "1.22",
+      "latest": "1.22.7",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false,
+      "releaseDate": "2026-04-22"
+    },
+    {
+      "cycle": "1.21",
+      "latest": "1.21.5",
+      "latestReleaseDate": "2025-09-21",
+      "lts": false,
+      "releaseDate": "2025-09-21"
+    },
+    {
+      "cycle": "1.20",
+      "latest": "1.20.6",
+      "latestReleaseDate": "2025-04-25",
+      "lts": false,
+      "releaseDate": "2025-04-25"
+    },
+    {
+      "cycle": "1.19",
+      "latest": "1.19.2",
+      "latestReleaseDate": "2024-08-27",
+      "lts": false,
+      "releaseDate": "2024-08-27"
+    },
+    {
+      "cycle": "1.18",
+      "latest": "1.18.2",
+      "latestReleaseDate": "2024-05-16",
+      "lts": false,
+      "releaseDate": "2024-05-16"
+    },
+    {
+      "cycle": "1.17",
+      "latest": "1.17.4",
+      "latestReleaseDate": "2024-03-26",
+      "lts": false,
+      "releaseDate": "2024-03-26"
+    },
+    {
+      "cycle": "1.16",
+      "latest": "1.16.7",
+      "latestReleaseDate": "2024-03-26",
+      "lts": false,
+      "releaseDate": "2024-03-26"
+    },
+    {
+      "cycle": "1.15",
+      "latest": "1.15.11",
+      "latestReleaseDate": "2024-03-26",
+      "lts": false,
+      "releaseDate": "2024-03-26"
+    },
+    {
+      "cycle": "1.14",
+      "latest": "1.14.11",
+      "latestReleaseDate": "2023-10-31",
+      "lts": false,
+      "releaseDate": "2023-10-31"
+    },
+    {
+      "cycle": "1.13",
+      "latest": "1.13.9",
+      "latestReleaseDate": "2023-06-23",
+      "lts": false,
+      "releaseDate": "2023-06-23"
+    },
+    {
+      "cycle": "1.12",
+      "latest": "1.12.9",
+      "latestReleaseDate": "2023-01-26",
+      "lts": false,
+      "releaseDate": "2023-01-26"
+    },
+    {
+      "cycle": "1.11",
+      "latest": "1.11.11",
+      "latestReleaseDate": "2022-10-19",
+      "lts": false,
+      "releaseDate": "2022-10-19"
+    },
+    {
+      "cycle": "1.10",
+      "latest": "1.10.12",
+      "latestReleaseDate": "2022-07-13",
+      "lts": false,
+      "releaseDate": "2022-07-13"
+    },
+    {
+      "cycle": "1.9",
+      "latest": "1.9.17",
+      "latestReleaseDate": "2022-04-14",
+      "lts": false,
+      "releaseDate": "2022-04-14"
+    },
+    {
+      "cycle": "1.8",
+      "latest": "1.8.19",
+      "latestReleaseDate": "2021-12-15",
+      "lts": false,
+      "releaseDate": "2021-12-15"
+    },
+    {
+      "cycle": "1.7",
+      "latest": "1.7.14",
+      "latestReleaseDate": "2021-04-15",
+      "lts": false,
+      "releaseDate": "2021-04-15"
+    },
+    {
+      "cycle": "1.6",
+      "latest": "1.6.10",
+      "latestReleaseDate": "2020-11-19",
+      "lts": false,
+      "releaseDate": "2020-11-19"
+    },
+    {
+      "cycle": "1.5",
+      "latest": "1.5.3",
+      "latestReleaseDate": "2019-07-25",
+      "lts": false,
+      "releaseDate": "2019-07-25"
+    },
+    {
+      "cycle": "1.4",
+      "latest": "1.4.5",
+      "latestReleaseDate": "2019-05-22",
+      "lts": false,
+      "releaseDate": "2019-05-22"
+    },
+    {
+      "cycle": "1.2",
+      "latest": "1.2.4",
+      "latestReleaseDate": "2018-11-21",
+      "lts": false,
+      "releaseDate": "2018-11-21"
+    },
+    {
+      "cycle": "1.1",
+      "latest": "1.1.1",
+      "latestReleaseDate": "2018-11-21",
+      "lts": false,
+      "releaseDate": "2018-11-21"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.8",
+      "latestReleaseDate": "2018-11-21",
+      "lts": false,
+      "releaseDate": "2018-11-21"
+    },
+    {
+      "cycle": "1.3",
+      "latest": "1.3.1",
+      "latestReleaseDate": "2018-11-13",
+      "lts": false,
+      "releaseDate": "2018-11-13"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "consul",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/consul.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

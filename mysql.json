@@ -1,0 +1,130 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:oracle:mysql:*:*:*:*:*:*:*:*",
+    "display_name": "Oracle MySQL",
+    "mapping_source": "eol_product_mapping",
+    "product": "mysql",
+    "purl": "",
+    "vendor": "oracle"
+  },
+  "cycles": [
+    {
+      "cycle": "9.7",
+      "latest": "9.7.0",
+      "latestReleaseDate": "2026-04-07",
+      "lts": false,
+      "releaseDate": "2026-04-07"
+    },
+    {
+      "cycle": "8.4",
+      "latest": "8.4.9",
+      "latestReleaseDate": "2026-04-07",
+      "lts": false,
+      "releaseDate": "2026-04-07"
+    },
+    {
+      "cycle": "8.0",
+      "latest": "8.0.46",
+      "latestReleaseDate": "2026-04-07",
+      "lts": false,
+      "releaseDate": "2026-04-07"
+    },
+    {
+      "cycle": "9.6",
+      "latest": "9.6.1",
+      "latestReleaseDate": "2026-01-16",
+      "lts": false,
+      "releaseDate": "2026-01-16"
+    },
+    {
+      "cycle": "9.5",
+      "latest": "9.5.2",
+      "latestReleaseDate": "2025-11-20",
+      "lts": false,
+      "releaseDate": "2025-11-20"
+    },
+    {
+      "cycle": "9.4",
+      "latest": "9.4.2",
+      "latestReleaseDate": "2025-09-04",
+      "lts": false,
+      "releaseDate": "2025-09-04"
+    },
+    {
+      "cycle": "9.3",
+      "latest": "9.3.2",
+      "latestReleaseDate": "2025-06-10",
+      "lts": false,
+      "releaseDate": "2025-06-10"
+    },
+    {
+      "cycle": "9.2",
+      "latest": "9.2.2",
+      "latestReleaseDate": "2025-02-21",
+      "lts": false,
+      "releaseDate": "2025-02-21"
+    },
+    {
+      "cycle": "9.1",
+      "latest": "9.1.2",
+      "latestReleaseDate": "2024-11-26",
+      "lts": false,
+      "releaseDate": "2024-11-26"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.1",
+      "latestReleaseDate": "2024-07-12",
+      "lts": false,
+      "releaseDate": "2024-07-12"
+    },
+    {
+      "cycle": "8.3",
+      "latest": "8.3.0",
+      "latestReleaseDate": "2023-12-14",
+      "lts": false,
+      "releaseDate": "2023-12-14"
+    },
+    {
+      "cycle": "8.2",
+      "latest": "8.2.0",
+      "latestReleaseDate": "2023-10-12",
+      "lts": false,
+      "releaseDate": "2023-10-12"
+    },
+    {
+      "cycle": "5.7",
+      "latest": "5.7.44",
+      "latestReleaseDate": "2023-09-20",
+      "lts": false,
+      "releaseDate": "2023-09-20"
+    },
+    {
+      "cycle": "8.1",
+      "latest": "8.1.0",
+      "latestReleaseDate": "2023-06-21",
+      "lts": false,
+      "releaseDate": "2023-06-21"
+    },
+    {
+      "cycle": "5.6",
+      "latest": "5.6.51",
+      "latestReleaseDate": "2021-01-05",
+      "lts": false,
+      "releaseDate": "2021-01-05"
+    },
+    {
+      "cycle": "5.5",
+      "latest": "5.5.63",
+      "latestReleaseDate": "2018-12-21",
+      "lts": false,
+      "releaseDate": "2018-12-21"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "mysql",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/mysql.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

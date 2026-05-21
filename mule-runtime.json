@@ -1,0 +1,90 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:mulesoft:mule_runtime:*:*:*:*:*:*:*:*",
+    "display_name": "Mule Runtime",
+    "mapping_source": "eol_product_mapping",
+    "product": "mule_runtime",
+    "purl": "",
+    "vendor": "mulesoft"
+  },
+  "cycles": [
+    {
+      "cycle": "4.11",
+      "eoas": "2026-07-31",
+      "eol": "2026-10-31",
+      "lts": false,
+      "releaseDate": "2026-02-28",
+      "releaseLabel": "4.11 Edge"
+    },
+    {
+      "cycle": "4.10",
+      "eoas": "2026-03-31",
+      "eol": "2026-06-30",
+      "lts": false,
+      "releaseDate": "2025-10-31",
+      "releaseLabel": "4.10 Edge"
+    },
+    {
+      "cycle": "4.9-lts",
+      "eoas": "2027-08-31",
+      "eol": "2028-02-29",
+      "lts": false,
+      "releaseDate": "2025-02-28",
+      "releaseLabel": "4.9 LTS"
+    },
+    {
+      "cycle": "4.9",
+      "eoas": "2025-11-30",
+      "eol": "2026-02-28",
+      "lts": false,
+      "releaseDate": "2025-02-28",
+      "releaseLabel": "4.9 Edge"
+    },
+    {
+      "cycle": "4.8",
+      "eoas": "2025-03-31",
+      "eol": "2025-06-30",
+      "lts": false,
+      "releaseDate": "2024-10-31",
+      "releaseLabel": "4.8 Edge"
+    },
+    {
+      "cycle": "4.7",
+      "eoas": "2024-10-31",
+      "eol": "2025-02-28",
+      "lts": false,
+      "releaseDate": "2024-06-30",
+      "releaseLabel": "4.7 Edge"
+    },
+    {
+      "cycle": "4.6-lts",
+      "eoas": "2026-08-31",
+      "eol": "2027-02-28",
+      "lts": false,
+      "releaseDate": "2024-02-29",
+      "releaseLabel": "4.6 LTS"
+    },
+    {
+      "cycle": "4.6",
+      "eoas": "2024-06-30",
+      "eol": "2024-10-31",
+      "lts": false,
+      "releaseDate": "2024-02-29",
+      "releaseLabel": "4.6 Edge"
+    },
+    {
+      "cycle": "4.5",
+      "eoas": "2024-02-29",
+      "eol": "2024-06-30",
+      "lts": false,
+      "releaseDate": "2023-10-31",
+      "releaseLabel": "4.5 Edge"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "mule-runtime",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/mule-runtime.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

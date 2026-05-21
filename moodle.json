@@ -1,0 +1,54 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*",
+    "display_name": "Moodle",
+    "mapping_source": "eol_product_mapping",
+    "product": "moodle",
+    "purl": "",
+    "vendor": "moodle"
+  },
+  "cycles": [
+    {
+      "cycle": "5.2",
+      "eoas": "2027-04-19",
+      "eol": "2027-10-04",
+      "latest": "5.2.0",
+      "latestReleaseDate": "2026-04-16",
+      "lts": false,
+      "releaseDate": "2026-04-20"
+    },
+    {
+      "cycle": "5.1",
+      "eoas": "2026-10-05",
+      "eol": "2027-04-19",
+      "latest": "5.1.4",
+      "latestReleaseDate": "2026-04-16",
+      "lts": false,
+      "releaseDate": "2025-10-06"
+    },
+    {
+      "cycle": "5.0",
+      "eoas": "2026-04-20",
+      "eol": "2026-10-05",
+      "latest": "5.0.7",
+      "latestReleaseDate": "2026-04-16",
+      "lts": false,
+      "releaseDate": "2025-04-14"
+    },
+    {
+      "cycle": "4.5",
+      "eoas": "2025-10-06",
+      "eol": "2027-10-04",
+      "latest": "4.5.11",
+      "latestReleaseDate": "2026-04-16",
+      "lts": false,
+      "releaseDate": "2024-10-07"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "moodle",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/moodle.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

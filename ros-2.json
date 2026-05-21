@@ -1,0 +1,95 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Ros 2",
+    "mapping_source": "unmapped",
+    "product": "ros_2",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "codename": "Kilted Kaiju",
+      "cycle": "kilted",
+      "eol": "2026-12-31",
+      "lts": false,
+      "releaseDate": "2025-05-23"
+    },
+    {
+      "codename": "Jazzy Jalisco",
+      "cycle": "jazzy",
+      "eol": "2029-05-31",
+      "lts": false,
+      "releaseDate": "2024-05-23"
+    },
+    {
+      "codename": "Iron Irwini",
+      "cycle": "iron",
+      "eol": "2024-12-04",
+      "lts": false,
+      "releaseDate": "2023-05-23"
+    },
+    {
+      "codename": "Humble Hawksbill",
+      "cycle": "humble",
+      "eol": "2027-05-31",
+      "lts": false,
+      "releaseDate": "2022-05-23"
+    },
+    {
+      "codename": "Galactic Geochelone",
+      "cycle": "galactic",
+      "eol": "2022-12-09",
+      "lts": false,
+      "releaseDate": "2021-05-23"
+    },
+    {
+      "codename": "Foxy Fitzroy",
+      "cycle": "foxy",
+      "eol": "2023-06-20",
+      "lts": false,
+      "releaseDate": "2020-06-05"
+    },
+    {
+      "codename": "Eloquent Elusor",
+      "cycle": "eloquent",
+      "eol": "2020-11-30",
+      "lts": false,
+      "releaseDate": "2019-11-22"
+    },
+    {
+      "codename": "Dashing Diademata",
+      "cycle": "dashing",
+      "eol": "2021-05-31",
+      "lts": false,
+      "releaseDate": "2019-05-31"
+    },
+    {
+      "codename": "Crystal Clemmys",
+      "cycle": "crystal",
+      "eol": "2019-12-31",
+      "lts": false,
+      "releaseDate": "2018-12-14"
+    },
+    {
+      "codename": "Bouncy Bolson",
+      "cycle": "bouncy",
+      "eol": "2019-07-31",
+      "lts": false,
+      "releaseDate": "2018-07-02"
+    },
+    {
+      "codename": "Ardent Apalone",
+      "cycle": "ardent",
+      "eol": "2018-12-31",
+      "lts": false,
+      "releaseDate": "2017-12-08"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "ros-2",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/ros-2.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

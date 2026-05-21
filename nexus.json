@@ -1,0 +1,565 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:sonatype:nexus:*:*:*:*:*:*:*:*",
+    "display_name": "Sonatype Nexus",
+    "mapping_source": "eol_product_mapping",
+    "product": "nexus",
+    "purl": "",
+    "vendor": "sonatype"
+  },
+  "cycles": [
+    {
+      "cycle": "3.91",
+      "eoas": "2027-04-07",
+      "eol": "2027-10-07",
+      "latest": "3.91.1-04",
+      "latestReleaseDate": "2026-04-20",
+      "lts": false,
+      "releaseDate": "2026-04-07"
+    },
+    {
+      "cycle": "3.90",
+      "eoas": "2027-03-05",
+      "eol": "2027-09-05",
+      "latest": "3.90.3-03",
+      "latestReleaseDate": "2026-04-08",
+      "lts": false,
+      "releaseDate": "2026-03-05"
+    },
+    {
+      "cycle": "3.89",
+      "eoas": "2027-02-03",
+      "eol": "2027-08-03",
+      "latest": "3.89.1-02",
+      "latestReleaseDate": "2026-02-12",
+      "lts": false,
+      "releaseDate": "2026-02-03"
+    },
+    {
+      "cycle": "3.88",
+      "eoas": "2027-01-13",
+      "eol": "2027-07-13",
+      "latest": "3.88.0-08",
+      "latestReleaseDate": "2026-01-13",
+      "lts": false,
+      "releaseDate": "2026-01-13"
+    },
+    {
+      "cycle": "3.87",
+      "eoas": "2026-12-02",
+      "eol": "2027-06-02",
+      "latest": "3.87.2-01",
+      "latestReleaseDate": "2026-01-16",
+      "lts": false,
+      "releaseDate": "2025-12-02"
+    },
+    {
+      "cycle": "3.85",
+      "eoas": "2026-10-07",
+      "eol": "2027-04-07",
+      "latest": "3.85.1-01",
+      "latestReleaseDate": "2026-01-16",
+      "lts": false,
+      "releaseDate": "2025-10-07"
+    },
+    {
+      "cycle": "3.84",
+      "eoas": "2026-09-09",
+      "eol": "2027-03-09",
+      "latest": "3.84.2-01",
+      "latestReleaseDate": "2026-01-16",
+      "lts": false,
+      "releaseDate": "2025-09-09"
+    },
+    {
+      "cycle": "3.83",
+      "eoas": "2026-08-12",
+      "eol": "2027-02-12",
+      "latest": "3.83.2-01",
+      "latestReleaseDate": "2025-09-03",
+      "lts": false,
+      "releaseDate": "2025-08-12"
+    },
+    {
+      "cycle": "3.82",
+      "eoas": "2026-07-09",
+      "eol": "2027-01-09",
+      "latest": "3.82.1-08",
+      "latestReleaseDate": "2025-08-26",
+      "lts": false,
+      "releaseDate": "2025-07-09"
+    },
+    {
+      "cycle": "3.81",
+      "eoas": "2026-06-10",
+      "eol": "2026-12-10",
+      "latest": "3.81.1-01",
+      "latestReleaseDate": "2025-06-11",
+      "lts": false,
+      "releaseDate": "2025-06-10"
+    },
+    {
+      "cycle": "3.80",
+      "eoas": "2026-05-06",
+      "eol": "2026-11-06",
+      "latest": "3.80.0-06",
+      "latestReleaseDate": "2025-05-07",
+      "lts": false,
+      "releaseDate": "2025-05-06"
+    },
+    {
+      "cycle": "3.79",
+      "eoas": "2026-04-01",
+      "eol": "2026-10-01",
+      "latest": "3.79.1-04",
+      "latestReleaseDate": "2025-04-10",
+      "lts": false,
+      "releaseDate": "2025-04-01"
+    },
+    {
+      "cycle": "3.78",
+      "eoas": "2026-03-04",
+      "eol": "2026-09-04",
+      "latest": "3.78.2-04",
+      "latestReleaseDate": "2025-03-18",
+      "lts": false,
+      "releaseDate": "2025-03-04"
+    },
+    {
+      "cycle": "3.77",
+      "eoas": "2026-02-04",
+      "eol": "2026-08-04",
+      "latest": "3.77.2-02",
+      "latestReleaseDate": "2025-02-25",
+      "lts": false,
+      "releaseDate": "2025-02-04"
+    },
+    {
+      "cycle": "3.76",
+      "eoas": "2026-01-07",
+      "eol": "2026-07-07",
+      "latest": "3.76.1-01",
+      "latestReleaseDate": "2025-01-23",
+      "lts": false,
+      "releaseDate": "2025-01-07"
+    },
+    {
+      "cycle": "3.75",
+      "eoas": "2025-12-03",
+      "eol": "2026-06-03",
+      "latest": "3.75.1-01",
+      "latestReleaseDate": "2024-12-06",
+      "lts": false,
+      "releaseDate": "2024-12-03"
+    },
+    {
+      "cycle": "3.74",
+      "eoas": "2025-11-05",
+      "eol": "2026-05-05",
+      "latest": "3.74.0-05",
+      "latestReleaseDate": "2024-11-05",
+      "lts": false,
+      "releaseDate": "2024-11-05"
+    },
+    {
+      "cycle": "3.73",
+      "eoas": "2025-10-10",
+      "eol": "2026-04-10",
+      "latest": "3.73.0-12",
+      "latestReleaseDate": "2024-10-10",
+      "lts": false,
+      "releaseDate": "2024-10-10"
+    },
+    {
+      "cycle": "3.72",
+      "eoas": "2025-09-04",
+      "eol": "2026-03-04",
+      "latest": "3.72.0-04",
+      "latestReleaseDate": "2024-09-05",
+      "lts": false,
+      "releaseDate": "2024-09-04"
+    },
+    {
+      "cycle": "3.71",
+      "eoas": "2025-08-08",
+      "eol": "2026-02-08",
+      "latest": "3.71.0-06",
+      "latestReleaseDate": "2024-08-09",
+      "lts": false,
+      "releaseDate": "2024-08-08"
+    },
+    {
+      "cycle": "3.70",
+      "eoas": "2025-07-09",
+      "eol": "2026-01-09",
+      "latest": "3.70.1-02",
+      "latestReleaseDate": "2024-07-11",
+      "lts": false,
+      "releaseDate": "2024-07-09"
+    },
+    {
+      "cycle": "3.69",
+      "eoas": "2025-06-04",
+      "eol": "2025-12-04",
+      "latest": "3.69.0-02",
+      "latestReleaseDate": "2024-06-04",
+      "lts": false,
+      "releaseDate": "2024-06-04"
+    },
+    {
+      "cycle": "3.68",
+      "eoas": "2025-05-07",
+      "eol": "2025-11-07",
+      "latest": "3.68.1-02",
+      "latestReleaseDate": "2024-05-24",
+      "lts": false,
+      "releaseDate": "2024-05-07"
+    },
+    {
+      "cycle": "3.67",
+      "eoas": "2025-04-02",
+      "eol": "2025-10-02",
+      "latest": "3.67.1-01",
+      "latestReleaseDate": "2024-04-10",
+      "lts": false,
+      "releaseDate": "2024-04-02"
+    },
+    {
+      "cycle": "3.66",
+      "eoas": "2025-03-05",
+      "eol": "2025-09-05",
+      "latest": "3.66.0-02",
+      "latestReleaseDate": "2024-03-06",
+      "lts": false,
+      "releaseDate": "2024-03-05"
+    },
+    {
+      "cycle": "3.65",
+      "eoas": "2025-02-06",
+      "eol": "2025-08-06",
+      "latest": "3.65.0-02",
+      "latestReleaseDate": "2024-02-06",
+      "lts": false,
+      "releaseDate": "2024-02-06"
+    },
+    {
+      "cycle": "3.64",
+      "eoas": "2025-01-09",
+      "eol": "2025-07-09",
+      "latest": "3.64.0-04",
+      "latestReleaseDate": "2024-01-15",
+      "lts": false,
+      "releaseDate": "2024-01-09"
+    },
+    {
+      "cycle": "3.63",
+      "eoas": "2024-12-05",
+      "eol": "2025-06-05",
+      "latest": "3.63.0-01",
+      "latestReleaseDate": "2023-12-05",
+      "lts": false,
+      "releaseDate": "2023-12-05"
+    },
+    {
+      "cycle": "3.62",
+      "eoas": "2024-11-07",
+      "eol": "2025-05-07",
+      "latest": "3.62.0-01",
+      "latestReleaseDate": "2023-11-07",
+      "lts": false,
+      "releaseDate": "2023-11-07"
+    },
+    {
+      "cycle": "3.61",
+      "eoas": "2024-10-03",
+      "eol": "2025-04-03",
+      "latest": "3.61.0-02",
+      "latestReleaseDate": "2023-10-04",
+      "lts": false,
+      "releaseDate": "2023-10-03"
+    },
+    {
+      "cycle": "3.60",
+      "eoas": "2024-09-07",
+      "eol": "2025-03-07",
+      "latest": "3.60.0-02",
+      "latestReleaseDate": "2023-09-08",
+      "lts": false,
+      "releaseDate": "2023-09-07"
+    },
+    {
+      "cycle": "3.59",
+      "eoas": "2024-08-15",
+      "eol": "2025-02-15",
+      "latest": "3.59.0-01",
+      "latestReleaseDate": "2023-08-15",
+      "lts": false,
+      "releaseDate": "2023-08-15"
+    },
+    {
+      "cycle": "3.58",
+      "eoas": "2024-07-17",
+      "eol": "2025-01-17",
+      "latest": "3.58.1-02",
+      "latestReleaseDate": "2023-07-27",
+      "lts": false,
+      "releaseDate": "2023-07-17"
+    },
+    {
+      "cycle": "3.57",
+      "eoas": "2024-07-05",
+      "eol": "2025-01-05",
+      "latest": "3.57.1-03",
+      "latestReleaseDate": "2023-07-27",
+      "lts": false,
+      "releaseDate": "2023-07-05"
+    },
+    {
+      "cycle": "3.56",
+      "eoas": "2024-06-19",
+      "eol": "2024-12-29",
+      "latest": "3.56.0-01",
+      "latestReleaseDate": "2023-06-19",
+      "lts": false,
+      "releaseDate": "2023-06-19"
+    },
+    {
+      "cycle": "3.55",
+      "eoas": "2024-06-05",
+      "eol": "2024-12-05",
+      "latest": "3.55.0-01",
+      "latestReleaseDate": "2023-06-06",
+      "lts": false,
+      "releaseDate": "2023-06-05"
+    },
+    {
+      "cycle": "3.52",
+      "eoas": "2024-04-17",
+      "eol": "2024-10-14",
+      "latest": "3.52.0-01",
+      "latestReleaseDate": "2023-04-19",
+      "lts": false,
+      "releaseDate": "2023-04-18"
+    },
+    {
+      "cycle": "3.51",
+      "eoas": "2024-04-04",
+      "eol": "2024-10-01",
+      "latest": "3.51.0-01",
+      "latestReleaseDate": "2023-04-05",
+      "lts": false,
+      "releaseDate": "2023-04-05"
+    },
+    {
+      "cycle": "3.50",
+      "eoas": "2024-03-26",
+      "eol": "2024-09-22",
+      "latest": "3.50.0-01",
+      "latestReleaseDate": "2023-03-27",
+      "lts": false,
+      "releaseDate": "2023-03-27"
+    },
+    {
+      "cycle": "3.49",
+      "eoas": "2024-03-16",
+      "eol": "2024-09-12",
+      "latest": "3.49.0-02",
+      "latestReleaseDate": "2023-03-06",
+      "lts": false,
+      "releaseDate": "2023-03-17"
+    },
+    {
+      "cycle": "3.48",
+      "eoas": "2024-02-27",
+      "eol": "2024-08-25",
+      "latest": "3.48.0-01",
+      "latestReleaseDate": "2023-02-27",
+      "lts": false,
+      "releaseDate": "2023-02-27"
+    },
+    {
+      "cycle": "3.47",
+      "eoas": "2024-02-08",
+      "eol": "2024-08-06",
+      "latest": "3.47.1-01",
+      "latestReleaseDate": "2023-02-13",
+      "lts": false,
+      "releaseDate": "2023-02-08"
+    },
+    {
+      "cycle": "3.46",
+      "eoas": "2024-01-30",
+      "eol": "2024-07-28",
+      "latest": "3.46.0-01",
+      "latestReleaseDate": "2023-01-30",
+      "lts": false,
+      "releaseDate": "2023-01-30"
+    },
+    {
+      "cycle": "3.45",
+      "eoas": "2023-12-28",
+      "eol": "2024-06-28",
+      "latest": "3.45.0-01",
+      "latestReleaseDate": "2022-12-28",
+      "lts": false,
+      "releaseDate": "2022-12-28"
+    },
+    {
+      "cycle": "3.44",
+      "eoas": "2023-12-15",
+      "eol": "2024-06-12",
+      "latest": "3.44.0-01",
+      "latestReleaseDate": "2022-12-19",
+      "lts": false,
+      "releaseDate": "2022-12-15"
+    },
+    {
+      "cycle": "3.43",
+      "eoas": "2023-11-07",
+      "eol": "2024-05-05",
+      "latest": "3.43.0-01",
+      "latestReleaseDate": "2022-11-09",
+      "lts": false,
+      "releaseDate": "2022-11-07"
+    },
+    {
+      "cycle": "3.42",
+      "eoas": "2023-09-26",
+      "eol": "2024-03-24",
+      "latest": "3.42.0-01",
+      "latestReleaseDate": "2022-09-26",
+      "lts": false,
+      "releaseDate": "2022-09-26"
+    },
+    {
+      "cycle": "3.41",
+      "eoas": "2023-08-03",
+      "eol": "2024-01-27",
+      "latest": "3.41.1-01",
+      "latestReleaseDate": "2022-08-19",
+      "lts": false,
+      "releaseDate": "2022-07-27"
+    },
+    {
+      "cycle": "3.40",
+      "eoas": "2023-08-03",
+      "eol": "2023-12-22",
+      "latest": "3.40.1-01",
+      "latestReleaseDate": "2022-06-27",
+      "lts": false,
+      "releaseDate": "2022-06-22"
+    },
+    {
+      "cycle": "3.39",
+      "eoas": "2023-08-03",
+      "eol": "2023-11-19",
+      "latest": "3.39.0-01",
+      "latestReleaseDate": "2022-05-23",
+      "lts": false,
+      "releaseDate": "2022-05-23"
+    },
+    {
+      "cycle": "3.38",
+      "eoas": "2023-08-03",
+      "eol": "2023-09-25",
+      "latest": "3.38.1-01",
+      "latestReleaseDate": "2022-03-29",
+      "lts": false,
+      "releaseDate": "2022-03-03"
+    },
+    {
+      "cycle": "3.37",
+      "eol": "2023-05-24",
+      "latest": "3.37.3-02",
+      "latestReleaseDate": "2021-12-29",
+      "lts": false,
+      "releaseDate": "2021-11-14"
+    },
+    {
+      "cycle": "3.36",
+      "eol": "2023-04-29",
+      "latest": "3.36.0-01",
+      "latestReleaseDate": "2021-10-29",
+      "lts": false,
+      "releaseDate": "2021-10-29"
+    },
+    {
+      "cycle": "3.35",
+      "eol": "2023-04-13",
+      "latest": "3.35.0-02",
+      "latestReleaseDate": "2021-10-12",
+      "lts": false,
+      "releaseDate": "2021-10-13"
+    },
+    {
+      "cycle": "3.34",
+      "eol": "2023-03-03",
+      "latest": "3.34.1-01",
+      "latestReleaseDate": "2021-09-22",
+      "lts": false,
+      "releaseDate": "2021-08-31"
+    },
+    {
+      "cycle": "3.33",
+      "eol": "2023-02-04",
+      "latest": "3.33.1-01",
+      "latestReleaseDate": "2021-08-18",
+      "lts": false,
+      "releaseDate": "2021-08-04"
+    },
+    {
+      "cycle": "3.32",
+      "eol": "2023-01-08",
+      "latest": "3.32.0-03",
+      "latestReleaseDate": "2021-07-08",
+      "lts": false,
+      "releaseDate": "2021-07-08"
+    },
+    {
+      "cycle": "3.31",
+      "eol": "2022-12-16",
+      "latest": "3.31.1-01",
+      "latestReleaseDate": "2021-06-23",
+      "lts": false,
+      "releaseDate": "2021-06-16"
+    },
+    {
+      "cycle": "3.30",
+      "eol": "2022-09-04",
+      "latest": "3.30.1-01",
+      "latestReleaseDate": "2021-04-22",
+      "lts": false,
+      "releaseDate": "2021-03-04"
+    },
+    {
+      "cycle": "3.29",
+      "eol": "2022-06-04",
+      "latest": "3.29.2-02",
+      "latestReleaseDate": "2021-01-07",
+      "lts": false,
+      "releaseDate": "2020-12-04"
+    },
+    {
+      "cycle": "3.86",
+      "eoas": "2026-11-05",
+      "eol": "2027-05-05",
+      "latest": "3.86.3-01",
+      "latestReleaseDate": "2026-01-16",
+      "lts": false
+    },
+    {
+      "cycle": "3.54",
+      "eoas": "2024-05-22",
+      "eol": "2024-11-22",
+      "latest": "3.54.1-01",
+      "latestReleaseDate": "2023-05-23",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "nexus",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/nexus.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

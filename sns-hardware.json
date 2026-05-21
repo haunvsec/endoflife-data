@@ -1,0 +1,201 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Sns Hardware",
+    "mapping_source": "unmapped",
+    "product": "sns_hardware",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "sni10",
+      "lts": false,
+      "releaseDate": "2024-09-30"
+    },
+    {
+      "cycle": "sn170",
+      "lts": false,
+      "releaseDate": "2024-09-30"
+    },
+    {
+      "cycle": "sn3200",
+      "lts": false,
+      "releaseDate": "2024-06-10"
+    },
+    {
+      "cycle": "sn2200",
+      "lts": false,
+      "releaseDate": "2024-06-10"
+    },
+    {
+      "cycle": "sn6200",
+      "lts": false,
+      "releaseDate": "2024-05-01"
+    },
+    {
+      "cycle": "sn5200",
+      "lts": false,
+      "releaseDate": "2024-05-01"
+    },
+    {
+      "cycle": "sn320",
+      "lts": false,
+      "releaseDate": "2023-06-01"
+    },
+    {
+      "cycle": "sn220",
+      "lts": false,
+      "releaseDate": "2023-06-01"
+    },
+    {
+      "cycle": "sn520",
+      "lts": false,
+      "releaseDate": "2023-05-04"
+    },
+    {
+      "cycle": "sn920",
+      "lts": false,
+      "releaseDate": "2022-09-29"
+    },
+    {
+      "cycle": "sn720",
+      "lts": false,
+      "releaseDate": "2022-09-29"
+    },
+    {
+      "cycle": "snxr1200",
+      "lts": false,
+      "releaseDate": "2021-09-16"
+    },
+    {
+      "cycle": "sn1100",
+      "lts": false,
+      "releaseDate": "2021-09-16"
+    },
+    {
+      "cycle": "sni20",
+      "lts": false,
+      "releaseDate": "2020-09-24"
+    },
+    {
+      "cycle": "sn6100",
+      "eoas": "2024-12-31",
+      "lts": false,
+      "releaseDate": "2018-03-10"
+    },
+    {
+      "cycle": "sn3100",
+      "eoas": "2024-12-31",
+      "lts": false,
+      "releaseDate": "2018-03-10"
+    },
+    {
+      "cycle": "sn2100",
+      "eoas": "2024-12-31",
+      "lts": false,
+      "releaseDate": "2018-03-10"
+    },
+    {
+      "cycle": "sn310",
+      "eoas": "2023-12-31",
+      "lts": false,
+      "releaseDate": "2017-04-01"
+    },
+    {
+      "cycle": "sn210",
+      "eoas": "2023-12-31",
+      "lts": false,
+      "releaseDate": "2017-04-01"
+    },
+    {
+      "cycle": "sn160",
+      "eoas": "2024-06-30",
+      "lts": false,
+      "releaseDate": "2017-04-01"
+    },
+    {
+      "cycle": "sn710",
+      "eoas": "2023-12-31",
+      "lts": false,
+      "releaseDate": "2016-10-01"
+    },
+    {
+      "cycle": "sn510",
+      "eoas": "2023-12-31",
+      "lts": false,
+      "releaseDate": "2016-10-01"
+    },
+    {
+      "cycle": "sni40",
+      "lts": false,
+      "releaseDate": "2016-06-01"
+    },
+    {
+      "cycle": "sn910",
+      "eoas": "2022-12-31",
+      "lts": false,
+      "releaseDate": "2016-05-01"
+    },
+    {
+      "cycle": "sn6000",
+      "eoas": "2019-12-31",
+      "lts": false,
+      "releaseDate": "2015-08-01"
+    },
+    {
+      "cycle": "sn3000",
+      "eoas": "2019-12-31",
+      "lts": false,
+      "releaseDate": "2014-08-01"
+    },
+    {
+      "cycle": "sn2000",
+      "eoas": "2019-12-31",
+      "lts": false,
+      "releaseDate": "2014-08-01"
+    },
+    {
+      "cycle": "sn300",
+      "eoas": "2017-12-31",
+      "lts": false,
+      "releaseDate": "2014-08-01"
+    },
+    {
+      "cycle": "sn200",
+      "eoas": "2017-12-31",
+      "lts": false,
+      "releaseDate": "2014-08-01"
+    },
+    {
+      "cycle": "sn150",
+      "eoas": "2017-12-31",
+      "lts": false,
+      "releaseDate": "2014-08-01"
+    },
+    {
+      "cycle": "sn900",
+      "eoas": "2016-09-30",
+      "lts": false,
+      "releaseDate": "2014-07-03"
+    },
+    {
+      "cycle": "sn700",
+      "eoas": "2016-09-30",
+      "lts": false,
+      "releaseDate": "2014-07-03"
+    },
+    {
+      "cycle": "sn500",
+      "eoas": "2016-09-30",
+      "lts": false,
+      "releaseDate": "2014-07-03"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "sns-hardware",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/sns-hardware.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

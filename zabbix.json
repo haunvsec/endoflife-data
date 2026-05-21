@@ -1,0 +1,39 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*",
+    "display_name": "Zabbix",
+    "mapping_source": "eol_product_mapping",
+    "product": "zabbix",
+    "purl": "",
+    "vendor": "zabbix"
+  },
+  "cycles": [
+    {
+      "cycle": "7.4",
+      "latest": "7.4.10",
+      "latestReleaseDate": "2026-05-06",
+      "lts": false,
+      "releaseDate": "2026-05-06"
+    },
+    {
+      "cycle": "7.0",
+      "latest": "7.0.26",
+      "latestReleaseDate": "2026-05-05",
+      "lts": false,
+      "releaseDate": "2026-05-05"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0.46",
+      "latestReleaseDate": "2026-05-05",
+      "lts": false,
+      "releaseDate": "2026-05-05"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "zabbix",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/zabbix.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

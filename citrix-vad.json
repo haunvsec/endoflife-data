@@ -1,0 +1,102 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Citrix Vad",
+    "mapping_source": "unmapped",
+    "product": "citrix_vad",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "2603",
+      "latest": "2603",
+      "latestReleaseDate": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2026-04-30"
+    },
+    {
+      "cycle": "2402 CU3",
+      "latest": "2402 CU3",
+      "latestReleaseDate": "2026-04-10",
+      "lts": false,
+      "releaseDate": "2026-04-10"
+    },
+    {
+      "cycle": "2203 CU7",
+      "latest": "2203 CU7",
+      "latestReleaseDate": "2026-04-10",
+      "lts": false,
+      "releaseDate": "2026-04-10"
+    },
+    {
+      "cycle": "2507 CU1",
+      "latest": "2507 CU1",
+      "latestReleaseDate": "2026-02-02",
+      "lts": false,
+      "releaseDate": "2026-02-02"
+    },
+    {
+      "cycle": "2511",
+      "latest": "2511",
+      "latestReleaseDate": "2025-12-29",
+      "lts": false,
+      "releaseDate": "2025-12-29"
+    },
+    {
+      "cycle": "1",
+      "latest": "1",
+      "latestReleaseDate": "2025-12-15",
+      "lts": false,
+      "releaseDate": "2025-12-15"
+    },
+    {
+      "cycle": "7",
+      "latest": "7",
+      "latestReleaseDate": "2025-08-28",
+      "lts": false,
+      "releaseDate": "2025-08-28"
+    },
+    {
+      "cycle": "3",
+      "latest": "3",
+      "latestReleaseDate": "2025-08-27",
+      "lts": false,
+      "releaseDate": "2025-08-27"
+    },
+    {
+      "cycle": "2507",
+      "latest": "2507",
+      "latestReleaseDate": "2025-08-19",
+      "lts": false,
+      "releaseDate": "2025-08-19"
+    },
+    {
+      "cycle": "2402 CU2",
+      "latest": "2402 CU2",
+      "latestReleaseDate": "2025-07-08",
+      "lts": false,
+      "releaseDate": "2025-07-08"
+    },
+    {
+      "cycle": "2402 CU1",
+      "latest": "2402 CU1",
+      "latestReleaseDate": "2025-07-08",
+      "lts": false,
+      "releaseDate": "2025-07-08"
+    },
+    {
+      "cycle": "2503",
+      "latest": "2503",
+      "latestReleaseDate": "2025-04-29",
+      "lts": false,
+      "releaseDate": "2025-04-29"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "citrix-vad",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/citrix-vad.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

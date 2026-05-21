@@ -1,0 +1,90 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:forgejo:forgejo:*:*:*:*:*:*:*:*",
+    "display_name": "Forgejo",
+    "mapping_source": "eol_product_mapping",
+    "product": "forgejo",
+    "purl": "",
+    "vendor": "forgejo"
+  },
+  "cycles": [
+    {
+      "cycle": "15.0",
+      "eol": "2027-07-15",
+      "latest": "15.0.1",
+      "latestReleaseDate": "2026-04-29",
+      "lts": false,
+      "releaseDate": "2026-04-16"
+    },
+    {
+      "cycle": "14.0",
+      "eol": "2026-04-30",
+      "latest": "14.0.5",
+      "latestReleaseDate": "2026-04-29",
+      "lts": false,
+      "releaseDate": "2026-01-15"
+    },
+    {
+      "cycle": "13.0",
+      "eol": "2026-01-29",
+      "latest": "13.0.5",
+      "latestReleaseDate": "2026-01-16",
+      "lts": false,
+      "releaseDate": "2025-10-16"
+    },
+    {
+      "cycle": "12.0",
+      "eol": "2025-10-16",
+      "latest": "12.0.4",
+      "latestReleaseDate": "2025-09-19",
+      "lts": false,
+      "releaseDate": "2025-07-17"
+    },
+    {
+      "cycle": "11.0",
+      "eol": "2026-07-16",
+      "latest": "11.0.13",
+      "latestReleaseDate": "2026-04-29",
+      "lts": false,
+      "releaseDate": "2025-04-16"
+    },
+    {
+      "cycle": "10.0",
+      "eol": "2025-04-16",
+      "latest": "10.0.3",
+      "latestReleaseDate": "2025-03-22",
+      "lts": false,
+      "releaseDate": "2025-01-16"
+    },
+    {
+      "cycle": "9.0",
+      "eol": "2025-01-16",
+      "latest": "9.0.3",
+      "latestReleaseDate": "2024-12-12",
+      "lts": false,
+      "releaseDate": "2024-10-16"
+    },
+    {
+      "cycle": "8.0",
+      "eol": "2024-10-16",
+      "latest": "8.0.3",
+      "latestReleaseDate": "2024-09-06",
+      "lts": false,
+      "releaseDate": "2024-07-30"
+    },
+    {
+      "cycle": "7.0",
+      "eol": "2025-07-17",
+      "latest": "7.0.16",
+      "latestReleaseDate": "2025-07-10",
+      "lts": false,
+      "releaseDate": "2024-04-23"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "forgejo",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/forgejo.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

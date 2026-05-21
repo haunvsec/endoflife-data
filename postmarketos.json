@@ -1,0 +1,74 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Postmarketos",
+    "mapping_source": "unmapped",
+    "product": "postmarketos",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "25.12",
+      "latest": "25.12",
+      "latestReleaseDate": "2025-12-23",
+      "lts": false,
+      "releaseDate": "2025-12-23"
+    },
+    {
+      "cycle": "25.06",
+      "latest": "25.06",
+      "latestReleaseDate": "2025-06-23",
+      "lts": false,
+      "releaseDate": "2025-06-23"
+    },
+    {
+      "cycle": "24.12",
+      "latest": "24.12",
+      "latestReleaseDate": "2024-12-23",
+      "lts": false,
+      "releaseDate": "2024-12-23"
+    },
+    {
+      "cycle": "24.06",
+      "latest": "24.06",
+      "latestReleaseDate": "2024-06-16",
+      "lts": false,
+      "releaseDate": "2024-06-16"
+    },
+    {
+      "cycle": "23.12",
+      "latest": "23.12",
+      "latestReleaseDate": "2023-12-19",
+      "lts": false,
+      "releaseDate": "2023-12-19"
+    },
+    {
+      "cycle": "23.06",
+      "latest": "23.06",
+      "latestReleaseDate": "2023-06-07",
+      "lts": false,
+      "releaseDate": "2023-06-07"
+    },
+    {
+      "cycle": "22.12",
+      "latest": "22.12",
+      "latestReleaseDate": "2022-12-18",
+      "lts": false,
+      "releaseDate": "2022-12-18"
+    },
+    {
+      "cycle": "22.06",
+      "latest": "22.06",
+      "latestReleaseDate": "2022-06-12",
+      "lts": false,
+      "releaseDate": "2022-06-12"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "postmarketos",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/postmarketos.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

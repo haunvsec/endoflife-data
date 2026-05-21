@@ -1,0 +1,109 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:apache:groovy:*:*:*:*:*:*:*:*",
+    "display_name": "Apache Groovy",
+    "mapping_source": "eol_product_mapping",
+    "product": "groovy",
+    "purl": "",
+    "vendor": "apache"
+  },
+  "cycles": [
+    {
+      "cycle": "5.0",
+      "latest": "5.0.5",
+      "latestReleaseDate": "2026-03-26",
+      "lts": false,
+      "releaseDate": "2026-03-26"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.31",
+      "latestReleaseDate": "2026-03-26",
+      "lts": false,
+      "releaseDate": "2026-03-26"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.25",
+      "latestReleaseDate": "2025-05-27",
+      "lts": false,
+      "releaseDate": "2025-05-27"
+    },
+    {
+      "cycle": "2.5",
+      "latest": "2.5.23",
+      "latestReleaseDate": "2023-08-22",
+      "lts": false,
+      "releaseDate": "2023-08-22"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.21",
+      "latestReleaseDate": "2020-12-03",
+      "lts": false,
+      "releaseDate": "2020-12-03"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.11",
+      "latestReleaseDate": "2015-03-19",
+      "lts": false,
+      "releaseDate": "2015-03-19"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.2",
+      "latestReleaseDate": "2014-02-26",
+      "lts": false,
+      "releaseDate": "2014-02-26"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.9",
+      "latestReleaseDate": "2013-10-29",
+      "lts": false,
+      "releaseDate": "2013-10-29"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.8",
+      "latestReleaseDate": "2013-04-12",
+      "lts": false,
+      "releaseDate": "2013-04-12"
+    },
+    {
+      "cycle": "1.8",
+      "latest": "1.8.9",
+      "latestReleaseDate": "2013-02-15",
+      "lts": false,
+      "releaseDate": "2013-02-15"
+    },
+    {
+      "cycle": "1.7",
+      "latest": "1.7.11",
+      "latestReleaseDate": "2012-07-25",
+      "lts": false,
+      "releaseDate": "2012-07-25"
+    },
+    {
+      "cycle": "1.6",
+      "latest": "1.6.9",
+      "latestReleaseDate": "2010-06-16",
+      "lts": false,
+      "releaseDate": "2010-06-16"
+    },
+    {
+      "cycle": "1.5",
+      "latest": "1.5.8",
+      "latestReleaseDate": "2009-04-07",
+      "lts": false,
+      "releaseDate": "2009-04-07"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "apache-groovy",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/apache-groovy.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

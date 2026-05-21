@@ -1,0 +1,655 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:o:mikrotik:routeros:*:*:*:*:*:*:*:*",
+    "display_name": "MikroTik RouterOS",
+    "mapping_source": "eol_product_mapping",
+    "product": "routeros",
+    "purl": "",
+    "vendor": "mikrotik"
+  },
+  "cycles": [
+    {
+      "cycle": "7.22",
+      "latest": "7.22.2",
+      "latestReleaseDate": "2026-04-23",
+      "lts": false,
+      "releaseDate": "2026-04-23"
+    },
+    {
+      "cycle": "7.21",
+      "latest": "7.21.4",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2026-04-21"
+    },
+    {
+      "cycle": "7.20",
+      "latest": "7.20.8",
+      "latestReleaseDate": "2026-02-02",
+      "lts": false,
+      "releaseDate": "2026-02-02"
+    },
+    {
+      "cycle": "7.19",
+      "latest": "7.19.6",
+      "latestReleaseDate": "2025-09-15",
+      "lts": false,
+      "releaseDate": "2025-09-15"
+    },
+    {
+      "cycle": "7.18",
+      "latest": "7.18.2",
+      "latestReleaseDate": "2025-03-12",
+      "lts": false,
+      "releaseDate": "2025-03-12"
+    },
+    {
+      "cycle": "7.17",
+      "latest": "7.17.2",
+      "latestReleaseDate": "2025-02-06",
+      "lts": false,
+      "releaseDate": "2025-02-06"
+    },
+    {
+      "cycle": "7.16",
+      "latest": "7.16.2",
+      "latestReleaseDate": "2024-11-27",
+      "lts": false,
+      "releaseDate": "2024-11-27"
+    },
+    {
+      "cycle": "6.49",
+      "latest": "6.49.17",
+      "latestReleaseDate": "2024-08-08",
+      "lts": false,
+      "releaseDate": "2024-08-08"
+    },
+    {
+      "cycle": "7.15",
+      "latest": "7.15.3",
+      "latestReleaseDate": "2024-07-25",
+      "lts": false,
+      "releaseDate": "2024-07-25"
+    },
+    {
+      "cycle": "7.14",
+      "latest": "7.14.3",
+      "latestReleaseDate": "2024-04-19",
+      "lts": false,
+      "releaseDate": "2024-04-19"
+    },
+    {
+      "cycle": "7.13",
+      "latest": "7.13.5",
+      "latestReleaseDate": "2024-02-16",
+      "lts": false,
+      "releaseDate": "2024-02-16"
+    },
+    {
+      "cycle": "7.12",
+      "latest": "7.12.2",
+      "latestReleaseDate": "2023-12-20",
+      "lts": false,
+      "releaseDate": "2023-12-20"
+    },
+    {
+      "cycle": "7.11",
+      "latest": "7.11.3",
+      "latestReleaseDate": "2023-09-27",
+      "lts": false,
+      "releaseDate": "2023-09-27"
+    },
+    {
+      "cycle": "7.10",
+      "latest": "7.10.2",
+      "latestReleaseDate": "2023-07-12",
+      "lts": false,
+      "releaseDate": "2023-07-12"
+    },
+    {
+      "cycle": "7.9",
+      "latest": "7.9.2",
+      "latestReleaseDate": "2023-05-30",
+      "lts": false,
+      "releaseDate": "2023-05-30"
+    },
+    {
+      "cycle": "6.48",
+      "latest": "6.48.7",
+      "latestReleaseDate": "2023-05-23",
+      "lts": false,
+      "releaseDate": "2023-05-23"
+    },
+    {
+      "cycle": "7.8",
+      "latest": "7.8",
+      "latestReleaseDate": "2023-02-24",
+      "lts": false,
+      "releaseDate": "2023-02-24"
+    },
+    {
+      "cycle": "7.7",
+      "latest": "7.7",
+      "latestReleaseDate": "2023-01-12",
+      "lts": false,
+      "releaseDate": "2023-01-12"
+    },
+    {
+      "cycle": "7.6",
+      "latest": "7.6",
+      "latestReleaseDate": "2022-10-17",
+      "lts": false,
+      "releaseDate": "2022-10-17"
+    },
+    {
+      "cycle": "7.5",
+      "latest": "7.5",
+      "latestReleaseDate": "2022-08-30",
+      "lts": false,
+      "releaseDate": "2022-08-30"
+    },
+    {
+      "cycle": "7.4",
+      "latest": "7.4.1",
+      "latestReleaseDate": "2022-08-04",
+      "lts": false,
+      "releaseDate": "2022-08-04"
+    },
+    {
+      "cycle": "7.3",
+      "latest": "7.3.1",
+      "latestReleaseDate": "2022-06-09",
+      "lts": false,
+      "releaseDate": "2022-06-09"
+    },
+    {
+      "cycle": "7.2",
+      "latest": "7.2.3",
+      "latestReleaseDate": "2022-05-02",
+      "lts": false,
+      "releaseDate": "2022-05-02"
+    },
+    {
+      "cycle": "7.1",
+      "latest": "7.1.5",
+      "latestReleaseDate": "2022-03-22",
+      "lts": false,
+      "releaseDate": "2022-03-22"
+    },
+    {
+      "cycle": "6.47",
+      "latest": "6.47.10",
+      "latestReleaseDate": "2021-05-31",
+      "lts": false,
+      "releaseDate": "2021-05-31"
+    },
+    {
+      "cycle": "6.46",
+      "latest": "6.46.8",
+      "latestReleaseDate": "2020-10-29",
+      "lts": false,
+      "releaseDate": "2020-10-29"
+    },
+    {
+      "cycle": "6.45",
+      "latest": "6.45.9",
+      "latestReleaseDate": "2020-04-30",
+      "lts": false,
+      "releaseDate": "2020-04-30"
+    },
+    {
+      "cycle": "6.44",
+      "latest": "6.44.6",
+      "latestReleaseDate": "2019-10-24",
+      "lts": false,
+      "releaseDate": "2019-10-24"
+    },
+    {
+      "cycle": "6.43",
+      "latest": "6.43.16",
+      "latestReleaseDate": "2019-05-14",
+      "lts": false,
+      "releaseDate": "2019-05-14"
+    },
+    {
+      "cycle": "6.42",
+      "latest": "6.42.12",
+      "latestReleaseDate": "2019-02-12",
+      "lts": false,
+      "releaseDate": "2019-02-12"
+    },
+    {
+      "cycle": "6.40",
+      "latest": "6.40.9",
+      "latestReleaseDate": "2018-08-20",
+      "lts": false,
+      "releaseDate": "2018-08-20"
+    },
+    {
+      "cycle": "6.41",
+      "latest": "6.41.4",
+      "latestReleaseDate": "2018-04-05",
+      "lts": false,
+      "releaseDate": "2018-04-05"
+    },
+    {
+      "cycle": "6.39",
+      "latest": "6.39.3",
+      "latestReleaseDate": "2017-10-12",
+      "lts": false,
+      "releaseDate": "2017-10-12"
+    },
+    {
+      "cycle": "6.38",
+      "latest": "6.38.7",
+      "latestReleaseDate": "2017-06-20",
+      "lts": false,
+      "releaseDate": "2017-06-20"
+    },
+    {
+      "cycle": "6.37",
+      "latest": "6.37.5",
+      "latestReleaseDate": "2017-03-09",
+      "lts": false,
+      "releaseDate": "2017-03-09"
+    },
+    {
+      "cycle": "6.36",
+      "latest": "6.36.3",
+      "latestReleaseDate": "2016-09-05",
+      "lts": false,
+      "releaseDate": "2016-09-05"
+    },
+    {
+      "cycle": "6.35",
+      "latest": "6.35.4",
+      "latestReleaseDate": "2016-06-09",
+      "lts": false,
+      "releaseDate": "2016-06-09"
+    },
+    {
+      "cycle": "6.34",
+      "latest": "6.34.6",
+      "latestReleaseDate": "2016-06-06",
+      "lts": false,
+      "releaseDate": "2016-06-06"
+    },
+    {
+      "cycle": "6.32",
+      "latest": "6.32.4",
+      "latestReleaseDate": "2016-02-09",
+      "lts": false,
+      "releaseDate": "2016-02-09"
+    },
+    {
+      "cycle": "6.33",
+      "latest": "6.33.6",
+      "latestReleaseDate": "2016-01-28",
+      "lts": false,
+      "releaseDate": "2016-01-28"
+    },
+    {
+      "cycle": "6.30",
+      "latest": "6.30.4",
+      "latestReleaseDate": "2015-08-25",
+      "lts": false,
+      "releaseDate": "2015-08-25"
+    },
+    {
+      "cycle": "6.29",
+      "latest": "6.29.1",
+      "latestReleaseDate": "2015-06-01",
+      "lts": false,
+      "releaseDate": "2015-06-01"
+    },
+    {
+      "cycle": "6.28",
+      "latest": "6.28",
+      "latestReleaseDate": "2015-04-15",
+      "lts": false,
+      "releaseDate": "2015-04-15"
+    },
+    {
+      "cycle": "6.27",
+      "latest": "6.27",
+      "latestReleaseDate": "2015-02-11",
+      "lts": false,
+      "releaseDate": "2015-02-11"
+    },
+    {
+      "cycle": "6.26",
+      "latest": "6.26",
+      "latestReleaseDate": "2015-02-03",
+      "lts": false,
+      "releaseDate": "2015-02-03"
+    },
+    {
+      "cycle": "6.25",
+      "latest": "6.25",
+      "latestReleaseDate": "2015-01-19",
+      "lts": false,
+      "releaseDate": "2015-01-19"
+    },
+    {
+      "cycle": "6.24",
+      "latest": "6.24",
+      "latestReleaseDate": "2014-12-23",
+      "lts": false,
+      "releaseDate": "2014-12-23"
+    },
+    {
+      "cycle": "6.23",
+      "latest": "6.23",
+      "latestReleaseDate": "2014-12-04",
+      "lts": false,
+      "releaseDate": "2014-12-04"
+    },
+    {
+      "cycle": "6.22",
+      "latest": "6.22",
+      "latestReleaseDate": "2014-11-11",
+      "lts": false,
+      "releaseDate": "2014-11-11"
+    },
+    {
+      "cycle": "6.21",
+      "latest": "6.21.1",
+      "latestReleaseDate": "2014-11-03",
+      "lts": false,
+      "releaseDate": "2014-11-03"
+    },
+    {
+      "cycle": "6.20",
+      "latest": "6.20",
+      "latestReleaseDate": "2014-10-01",
+      "lts": false,
+      "releaseDate": "2014-10-01"
+    },
+    {
+      "cycle": "6.19",
+      "latest": "6.19",
+      "latestReleaseDate": "2014-08-26",
+      "lts": false,
+      "releaseDate": "2014-08-26"
+    },
+    {
+      "cycle": "6.18",
+      "latest": "6.18",
+      "latestReleaseDate": "2014-08-01",
+      "lts": false,
+      "releaseDate": "2014-08-01"
+    },
+    {
+      "cycle": "6.17",
+      "latest": "6.17",
+      "latestReleaseDate": "2014-07-18",
+      "lts": false,
+      "releaseDate": "2014-07-18"
+    },
+    {
+      "cycle": "6.16",
+      "latest": "6.16",
+      "latestReleaseDate": "2014-07-17",
+      "lts": false,
+      "releaseDate": "2014-07-17"
+    },
+    {
+      "cycle": "6.15",
+      "latest": "6.15",
+      "latestReleaseDate": "2014-06-12",
+      "lts": false,
+      "releaseDate": "2014-06-12"
+    },
+    {
+      "cycle": "6.14",
+      "latest": "6.14",
+      "latestReleaseDate": "2014-06-06",
+      "lts": false,
+      "releaseDate": "2014-06-06"
+    },
+    {
+      "cycle": "6.13",
+      "latest": "6.13",
+      "latestReleaseDate": "2014-05-15",
+      "lts": false,
+      "releaseDate": "2014-05-15"
+    },
+    {
+      "cycle": "6.12",
+      "latest": "6.12",
+      "latestReleaseDate": "2014-04-14",
+      "lts": false,
+      "releaseDate": "2014-04-14"
+    },
+    {
+      "cycle": "6.11",
+      "latest": "6.11",
+      "latestReleaseDate": "2014-03-20",
+      "lts": false,
+      "releaseDate": "2014-03-20"
+    },
+    {
+      "cycle": "6.10",
+      "latest": "6.10",
+      "latestReleaseDate": "2014-02-12",
+      "lts": false,
+      "releaseDate": "2014-02-12"
+    },
+    {
+      "cycle": "6.9",
+      "latest": "6.9",
+      "latestReleaseDate": "2014-01-31",
+      "lts": false,
+      "releaseDate": "2014-01-31"
+    },
+    {
+      "cycle": "6.7",
+      "latest": "6.7",
+      "latestReleaseDate": "2013-11-29",
+      "lts": false,
+      "releaseDate": "2013-11-29"
+    },
+    {
+      "cycle": "6.6",
+      "latest": "6.6",
+      "latestReleaseDate": "2013-11-07",
+      "lts": false,
+      "releaseDate": "2013-11-07"
+    },
+    {
+      "cycle": "6.5",
+      "latest": "6.5",
+      "latestReleaseDate": "2013-10-16",
+      "lts": false,
+      "releaseDate": "2013-10-16"
+    },
+    {
+      "cycle": "6.4",
+      "latest": "6.4",
+      "latestReleaseDate": "2013-09-12",
+      "lts": false,
+      "releaseDate": "2013-09-12"
+    },
+    {
+      "cycle": "5.26",
+      "latest": "5.26",
+      "latestReleaseDate": "2013-09-04",
+      "lts": false,
+      "releaseDate": "2013-09-04"
+    },
+    {
+      "cycle": "6.3",
+      "latest": "6.3",
+      "latestReleaseDate": "2013-09-03",
+      "lts": false,
+      "releaseDate": "2013-09-03"
+    },
+    {
+      "cycle": "6.2",
+      "latest": "6.2",
+      "latestReleaseDate": "2013-08-02",
+      "lts": false,
+      "releaseDate": "2013-08-02"
+    },
+    {
+      "cycle": "6.1",
+      "latest": "6.1",
+      "latestReleaseDate": "2013-06-12",
+      "lts": false,
+      "releaseDate": "2013-06-12"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0",
+      "latestReleaseDate": "2013-05-17",
+      "lts": false,
+      "releaseDate": "2013-05-17"
+    },
+    {
+      "cycle": "5.25",
+      "latest": "5.25",
+      "latestReleaseDate": "2013-04-25",
+      "lts": false,
+      "releaseDate": "2013-04-25"
+    },
+    {
+      "cycle": "5.24",
+      "latest": "5.24",
+      "latestReleaseDate": "2013-02-19",
+      "lts": false,
+      "releaseDate": "2013-02-19"
+    },
+    {
+      "cycle": "5.23",
+      "latest": "5.23",
+      "latestReleaseDate": "2013-01-29",
+      "lts": false,
+      "releaseDate": "2013-01-29"
+    },
+    {
+      "cycle": "5.22",
+      "latest": "5.22",
+      "latestReleaseDate": "2012-11-23",
+      "lts": false,
+      "releaseDate": "2012-11-23"
+    },
+    {
+      "cycle": "5.21",
+      "latest": "5.21",
+      "latestReleaseDate": "2012-10-12",
+      "lts": false,
+      "releaseDate": "2012-10-12"
+    },
+    {
+      "cycle": "5.20",
+      "latest": "5.20",
+      "latestReleaseDate": "2012-08-15",
+      "lts": false,
+      "releaseDate": "2012-08-15"
+    },
+    {
+      "cycle": "5.19",
+      "latest": "5.19",
+      "latestReleaseDate": "2012-07-16",
+      "lts": false,
+      "releaseDate": "2012-07-16"
+    },
+    {
+      "cycle": "5.18",
+      "latest": "5.18",
+      "latestReleaseDate": "2012-06-21",
+      "lts": false,
+      "releaseDate": "2012-06-21"
+    },
+    {
+      "cycle": "5.17",
+      "latest": "5.17",
+      "latestReleaseDate": "2012-05-28",
+      "lts": false,
+      "releaseDate": "2012-05-28"
+    },
+    {
+      "cycle": "5.16",
+      "latest": "5.16",
+      "latestReleaseDate": "2012-05-09",
+      "lts": false,
+      "releaseDate": "2012-05-09"
+    },
+    {
+      "cycle": "5.14",
+      "latest": "5.14",
+      "latestReleaseDate": "2012-02-22",
+      "lts": false,
+      "releaseDate": "2012-02-22"
+    },
+    {
+      "cycle": "5.13",
+      "latest": "5.13",
+      "latestReleaseDate": "2012-02-14",
+      "lts": false,
+      "releaseDate": "2012-02-14"
+    },
+    {
+      "cycle": "5.12",
+      "latest": "5.12",
+      "latestReleaseDate": "2012-01-19",
+      "lts": false,
+      "releaseDate": "2012-01-19"
+    },
+    {
+      "cycle": "5.11",
+      "latest": "5.11",
+      "latestReleaseDate": "2011-12-12",
+      "lts": false,
+      "releaseDate": "2011-12-12"
+    },
+    {
+      "cycle": "5.9",
+      "latest": "5.9",
+      "latestReleaseDate": "2011-11-29",
+      "lts": false,
+      "releaseDate": "2011-11-29"
+    },
+    {
+      "cycle": "5.8",
+      "latest": "5.8",
+      "latestReleaseDate": "2011-11-01",
+      "lts": false,
+      "releaseDate": "2011-11-01"
+    },
+    {
+      "cycle": "5.7",
+      "latest": "5.7",
+      "latestReleaseDate": "2011-09-14",
+      "lts": false,
+      "releaseDate": "2011-09-14"
+    },
+    {
+      "cycle": "4.17",
+      "latest": "4.17",
+      "latestReleaseDate": "2011-03-02",
+      "lts": false,
+      "releaseDate": "2011-03-02"
+    },
+    {
+      "cycle": "4.10",
+      "latest": "4.10",
+      "latestReleaseDate": "2010-05-26",
+      "lts": false,
+      "releaseDate": "2010-05-26"
+    },
+    {
+      "cycle": "3.30",
+      "latest": "3.30",
+      "latestReleaseDate": "2009-09-11",
+      "lts": false,
+      "releaseDate": "2009-09-11"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "routeros",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/routeros.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

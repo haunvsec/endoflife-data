@@ -1,0 +1,81 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:postfix:postfix:*:*:*:*:*:*:*:*",
+    "display_name": "Postfix",
+    "mapping_source": "eol_product_mapping",
+    "product": "postfix",
+    "purl": "",
+    "vendor": "postfix"
+  },
+  "cycles": [
+    {
+      "cycle": "3.11",
+      "latest": "3.11.2",
+      "latestReleaseDate": "2026-05-02",
+      "lts": false,
+      "releaseDate": "2026-05-02"
+    },
+    {
+      "cycle": "3.10",
+      "latest": "3.10.9",
+      "latestReleaseDate": "2026-05-02",
+      "lts": false,
+      "releaseDate": "2026-05-02"
+    },
+    {
+      "cycle": "3.9",
+      "latest": "3.9.10",
+      "latestReleaseDate": "2026-05-02",
+      "lts": false,
+      "releaseDate": "2026-05-02"
+    },
+    {
+      "cycle": "3.8",
+      "latest": "3.8.16",
+      "latestReleaseDate": "2026-05-02",
+      "lts": false,
+      "releaseDate": "2026-05-02"
+    },
+    {
+      "cycle": "3.7",
+      "latest": "3.7.20",
+      "latestReleaseDate": "2026-02-19",
+      "lts": false,
+      "releaseDate": "2026-02-19"
+    },
+    {
+      "cycle": "3.6",
+      "latest": "3.6.18",
+      "latestReleaseDate": "2025-02-25",
+      "lts": false,
+      "releaseDate": "2025-02-25"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.25",
+      "latestReleaseDate": "2024-03-05",
+      "lts": false,
+      "releaseDate": "2024-03-05"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.29",
+      "latestReleaseDate": "2023-04-19",
+      "lts": false,
+      "releaseDate": "2023-04-19"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.22",
+      "latestReleaseDate": "2022-02-06",
+      "lts": false,
+      "releaseDate": "2022-02-06"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "postfix",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/postfix.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

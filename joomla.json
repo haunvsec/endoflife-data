@@ -1,0 +1,235 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:joomla:joomla\\!:*:*:*:*:*:*:*:*",
+    "display_name": "Joomla!",
+    "mapping_source": "eol_product_mapping",
+    "product": "joomla\\!",
+    "purl": "",
+    "vendor": "joomla"
+  },
+  "cycles": [
+    {
+      "cycle": "6.1",
+      "latest": "6.1.0",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false,
+      "releaseDate": "2026-04-14"
+    },
+    {
+      "cycle": "5.3",
+      "latest": "5.3.4",
+      "latestReleaseDate": "2025-09-26",
+      "lts": false,
+      "releaseDate": "2025-09-26"
+    },
+    {
+      "cycle": "4.4",
+      "latest": "4.4.14",
+      "latestReleaseDate": "2025-09-23",
+      "lts": false,
+      "releaseDate": "2025-09-23"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0.112",
+      "latestReleaseDate": "2025-07-22",
+      "lts": false,
+      "releaseDate": "2025-07-22"
+    },
+    {
+      "cycle": "5.4",
+      "latest": "5.4.112",
+      "latestReleaseDate": "2025-07-22",
+      "lts": false,
+      "releaseDate": "2025-07-22"
+    },
+    {
+      "cycle": "5.2",
+      "latest": "5.2.6",
+      "latestReleaseDate": "2025-04-06",
+      "lts": false,
+      "releaseDate": "2025-04-06"
+    },
+    {
+      "cycle": "5.1",
+      "latest": "5.1.4",
+      "latestReleaseDate": "2024-08-27",
+      "lts": false,
+      "releaseDate": "2024-08-27"
+    },
+    {
+      "cycle": "5.0",
+      "latest": "5.0.3",
+      "latestReleaseDate": "2024-02-13",
+      "lts": false,
+      "releaseDate": "2024-02-13"
+    },
+    {
+      "cycle": "4.3",
+      "latest": "4.3.4",
+      "latestReleaseDate": "2023-08-19",
+      "lts": false,
+      "releaseDate": "2023-08-19"
+    },
+    {
+      "cycle": "3.10",
+      "latest": "3.10.12",
+      "latestReleaseDate": "2023-07-08",
+      "lts": false,
+      "releaseDate": "2023-07-08"
+    },
+    {
+      "cycle": "4.2",
+      "latest": "4.2.9",
+      "latestReleaseDate": "2023-03-13",
+      "lts": false,
+      "releaseDate": "2023-03-13"
+    },
+    {
+      "cycle": "4.1",
+      "latest": "4.1.5",
+      "latestReleaseDate": "2022-06-18",
+      "lts": false,
+      "releaseDate": "2022-06-18"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.6",
+      "latestReleaseDate": "2022-01-15",
+      "lts": false,
+      "releaseDate": "2022-01-15"
+    },
+    {
+      "cycle": "3.9",
+      "latest": "3.9.28",
+      "latestReleaseDate": "2021-07-06",
+      "lts": false,
+      "releaseDate": "2021-07-06"
+    },
+    {
+      "cycle": "3.8",
+      "latest": "3.8.13",
+      "latestReleaseDate": "2018-10-09",
+      "lts": false,
+      "releaseDate": "2018-10-09"
+    },
+    {
+      "cycle": "3.7",
+      "latest": "3.7.5",
+      "latestReleaseDate": "2017-08-14",
+      "lts": false,
+      "releaseDate": "2017-08-14"
+    },
+    {
+      "cycle": "3.6",
+      "latest": "3.6.5",
+      "latestReleaseDate": "2016-12-11",
+      "lts": false,
+      "releaseDate": "2016-12-11"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.1",
+      "latestReleaseDate": "2016-04-05",
+      "lts": false,
+      "releaseDate": "2016-04-05"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.8",
+      "latestReleaseDate": "2015-12-24",
+      "lts": false,
+      "releaseDate": "2015-12-24"
+    },
+    {
+      "cycle": "2.5",
+      "latest": "2.5.28",
+      "latestReleaseDate": "2014-12-10",
+      "lts": false,
+      "releaseDate": "2014-12-10"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.6",
+      "latestReleaseDate": "2014-10-01",
+      "lts": false,
+      "releaseDate": "2014-10-01"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.7",
+      "latestReleaseDate": "2014-09-30",
+      "lts": false,
+      "releaseDate": "2014-09-30"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.6",
+      "latestReleaseDate": "2013-11-06",
+      "lts": false,
+      "releaseDate": "2013-11-06"
+    },
+    {
+      "cycle": "13.1",
+      "latest": "13.1",
+      "latestReleaseDate": "2013-05-06",
+      "lts": false,
+      "releaseDate": "2013-05-06"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.4",
+      "latestReleaseDate": "2013-04-23",
+      "lts": false,
+      "releaseDate": "2013-04-23"
+    },
+    {
+      "cycle": "12.3",
+      "latest": "12.3",
+      "latestReleaseDate": "2012-12-20",
+      "lts": false,
+      "releaseDate": "2012-12-20"
+    },
+    {
+      "cycle": "12.1",
+      "latest": "12.1",
+      "latestReleaseDate": "2012-05-10",
+      "lts": false,
+      "releaseDate": "2012-05-10"
+    },
+    {
+      "cycle": "11.4",
+      "latest": "11.4",
+      "latestReleaseDate": "2012-01-03",
+      "lts": false,
+      "releaseDate": "2012-01-03"
+    },
+    {
+      "cycle": "11.3",
+      "latest": "11.3",
+      "latestReleaseDate": "2011-11-24",
+      "lts": false,
+      "releaseDate": "2011-11-24"
+    },
+    {
+      "cycle": "1.7",
+      "latest": "1.7.3",
+      "latestReleaseDate": "2011-11-16",
+      "lts": false,
+      "releaseDate": "2011-11-16"
+    },
+    {
+      "cycle": "11.2",
+      "latest": "11.2",
+      "latestReleaseDate": "2011-07-26",
+      "lts": false,
+      "releaseDate": "2011-07-26"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "joomla",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/joomla.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

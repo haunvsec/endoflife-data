@@ -1,0 +1,88 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:atlassian:bitbucket:*:*:*:*:*:*:*:*",
+    "display_name": "Atlassian Bitbucket",
+    "mapping_source": "slug_prefix",
+    "product": "bitbucket",
+    "purl": "",
+    "vendor": "atlassian"
+  },
+  "cycles": [
+    {
+      "cycle": "10.2",
+      "eol": "2028-03-03",
+      "latest": "10.2.2",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false
+    },
+    {
+      "cycle": "10.1",
+      "eol": "2027-11-20",
+      "latest": "10.1.5",
+      "latestReleaseDate": "2026-02-10",
+      "lts": false
+    },
+    {
+      "cycle": "10.0",
+      "eol": "2027-09-08",
+      "latest": "10.0.2",
+      "latestReleaseDate": "2025-11-11",
+      "lts": false
+    },
+    {
+      "cycle": "9.6",
+      "eol": "2027-01-18",
+      "latest": "9.6.5",
+      "latestReleaseDate": "2025-08-12",
+      "lts": false
+    },
+    {
+      "cycle": "9.5",
+      "eol": "2027-01-07",
+      "latest": "9.5.2",
+      "latestReleaseDate": "2025-03-06",
+      "lts": false
+    },
+    {
+      "cycle": "9.4",
+      "eol": "2026-12-03",
+      "latest": "9.4.19",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false
+    },
+    {
+      "cycle": "9.3",
+      "eol": "2026-10-29",
+      "latest": "9.3.2",
+      "latestReleaseDate": "2024-11-18",
+      "lts": false
+    },
+    {
+      "cycle": "9.2",
+      "eol": "2026-09-24",
+      "latest": "9.2.1",
+      "latestReleaseDate": "2024-10-09",
+      "lts": false
+    },
+    {
+      "cycle": "9.1",
+      "eol": "2026-08-27",
+      "latest": "9.1.1",
+      "latestReleaseDate": "2024-09-09",
+      "lts": false
+    },
+    {
+      "cycle": "9.0",
+      "eol": "2026-07-23",
+      "latest": "9.0.1",
+      "latestReleaseDate": "2024-08-12",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "bitbucket",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/bitbucket.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

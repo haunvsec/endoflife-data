@@ -1,0 +1,88 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:splunk:splunk_enterprise:*:*:*:*:*:*:*:*",
+    "display_name": "Splunk Enterprise",
+    "mapping_source": "product_rule",
+    "product": "splunk_enterprise",
+    "purl": "",
+    "vendor": "splunk"
+  },
+  "cycles": [
+    {
+      "cycle": "9.3",
+      "latest": "9.3.6",
+      "latestReleaseDate": "2025-07-31",
+      "lts": false,
+      "releaseDate": "2025-07-31"
+    },
+    {
+      "cycle": "9.2",
+      "latest": "9.2.8",
+      "latestReleaseDate": "2025-07-31",
+      "lts": false,
+      "releaseDate": "2025-07-31"
+    },
+    {
+      "cycle": "9.4",
+      "latest": "9.4.2",
+      "latestReleaseDate": "2025-04-28",
+      "lts": false,
+      "releaseDate": "2025-04-28"
+    },
+    {
+      "cycle": "9.1",
+      "latest": "9.1.9",
+      "latestReleaseDate": "2025-04-28",
+      "lts": false,
+      "releaseDate": "2025-04-28"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.10",
+      "latestReleaseDate": "2024-07-01",
+      "lts": false,
+      "releaseDate": "2024-07-01"
+    },
+    {
+      "cycle": "8.2",
+      "latest": "8.2.12",
+      "latestReleaseDate": "2023-08-30",
+      "lts": false,
+      "releaseDate": "2023-08-30"
+    },
+    {
+      "cycle": "8.1",
+      "latest": "8.1.14",
+      "latestReleaseDate": "2023-06-01",
+      "lts": false,
+      "releaseDate": "2023-06-01"
+    },
+    {
+      "cycle": "8.0",
+      "latest": "8.0.10",
+      "latestReleaseDate": "2021-08-03",
+      "lts": false,
+      "releaseDate": "2021-08-03"
+    },
+    {
+      "cycle": "7.3",
+      "latest": "7.3.9",
+      "latestReleaseDate": "2021-02-24",
+      "lts": false,
+      "releaseDate": "2021-02-24"
+    },
+    {
+      "cycle": "7.2",
+      "latest": "7.2.10.1",
+      "latestReleaseDate": "2020-04-27",
+      "lts": false,
+      "releaseDate": "2020-04-27"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "splunk",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/splunk.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

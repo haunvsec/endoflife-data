@@ -1,0 +1,459 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:o:apple:tvos:*:*:*:*:*:*:*:*",
+    "display_name": "Apple tvOS",
+    "mapping_source": "eol_product_mapping",
+    "product": "tvos",
+    "purl": "",
+    "vendor": "apple"
+  },
+  "cycles": [
+    {
+      "cycle": "26.4",
+      "latest": "26.4",
+      "latestReleaseDate": "2026-03-24",
+      "lts": false,
+      "releaseDate": "2026-03-24"
+    },
+    {
+      "cycle": "26.3",
+      "latest": "26.3",
+      "latestReleaseDate": "2026-02-11",
+      "lts": false,
+      "releaseDate": "2026-02-11"
+    },
+    {
+      "cycle": "26.2",
+      "latest": "26.2",
+      "latestReleaseDate": "2025-12-12",
+      "lts": false,
+      "releaseDate": "2025-12-12"
+    },
+    {
+      "cycle": "26.1",
+      "latest": "26.1",
+      "latestReleaseDate": "2025-11-03",
+      "lts": false,
+      "releaseDate": "2025-11-03"
+    },
+    {
+      "cycle": "26.0",
+      "latest": "26.0.1",
+      "latestReleaseDate": "2025-09-29",
+      "lts": false,
+      "releaseDate": "2025-09-29"
+    },
+    {
+      "cycle": "26",
+      "latest": "26",
+      "latestReleaseDate": "2025-09-15",
+      "lts": false,
+      "releaseDate": "2025-09-15"
+    },
+    {
+      "cycle": "18.6",
+      "latest": "18.6",
+      "latestReleaseDate": "2025-07-29",
+      "lts": false,
+      "releaseDate": "2025-07-29"
+    },
+    {
+      "cycle": "18.5",
+      "latest": "18.5",
+      "latestReleaseDate": "2025-05-12",
+      "lts": false,
+      "releaseDate": "2025-05-12"
+    },
+    {
+      "cycle": "18.4",
+      "latest": "18.4.1",
+      "latestReleaseDate": "2025-04-16",
+      "lts": false,
+      "releaseDate": "2025-04-16"
+    },
+    {
+      "cycle": "18.3",
+      "latest": "18.3.1",
+      "latestReleaseDate": "2025-03-11",
+      "lts": false,
+      "releaseDate": "2025-03-11"
+    },
+    {
+      "cycle": "18.2",
+      "latest": "18.2.1",
+      "latestReleaseDate": "2025-01-16",
+      "lts": false,
+      "releaseDate": "2025-01-16"
+    },
+    {
+      "cycle": "18.1",
+      "latest": "18.1",
+      "latestReleaseDate": "2024-10-28",
+      "lts": false,
+      "releaseDate": "2024-10-28"
+    },
+    {
+      "cycle": "18",
+      "latest": "18",
+      "latestReleaseDate": "2024-09-16",
+      "lts": false,
+      "releaseDate": "2024-09-16"
+    },
+    {
+      "cycle": "17.6",
+      "latest": "17.6.1",
+      "latestReleaseDate": "2024-08-19",
+      "lts": false,
+      "releaseDate": "2024-08-19"
+    },
+    {
+      "cycle": "17.5",
+      "latest": "17.5.1",
+      "latestReleaseDate": "2024-05-21",
+      "lts": false,
+      "releaseDate": "2024-05-21"
+    },
+    {
+      "cycle": "17.4",
+      "latest": "17.4",
+      "latestReleaseDate": "2024-03-07",
+      "lts": false,
+      "releaseDate": "2024-03-07"
+    },
+    {
+      "cycle": "17.3",
+      "latest": "17.3",
+      "latestReleaseDate": "2024-01-22",
+      "lts": false,
+      "releaseDate": "2024-01-22"
+    },
+    {
+      "cycle": "17.2",
+      "latest": "17.2",
+      "latestReleaseDate": "2023-12-11",
+      "lts": false,
+      "releaseDate": "2023-12-11"
+    },
+    {
+      "cycle": "17.1",
+      "latest": "17.1",
+      "latestReleaseDate": "2023-10-25",
+      "lts": false,
+      "releaseDate": "2023-10-25"
+    },
+    {
+      "cycle": "17",
+      "latest": "17",
+      "latestReleaseDate": "2023-09-18",
+      "lts": false,
+      "releaseDate": "2023-09-18"
+    },
+    {
+      "cycle": "16.6",
+      "latest": "16.6",
+      "latestReleaseDate": "2023-07-24",
+      "lts": false,
+      "releaseDate": "2023-07-24"
+    },
+    {
+      "cycle": "16.5",
+      "latest": "16.5",
+      "latestReleaseDate": "2023-05-18",
+      "lts": false,
+      "releaseDate": "2023-05-18"
+    },
+    {
+      "cycle": "16.4",
+      "latest": "16.4.1",
+      "latestReleaseDate": "2023-04-12",
+      "lts": false,
+      "releaseDate": "2023-04-12"
+    },
+    {
+      "cycle": "16.3",
+      "latest": "16.3.3",
+      "latestReleaseDate": "2023-03-06",
+      "lts": false,
+      "releaseDate": "2023-03-06"
+    },
+    {
+      "cycle": "16.2",
+      "latest": "16.2",
+      "latestReleaseDate": "2022-12-13",
+      "lts": false,
+      "releaseDate": "2022-12-13"
+    },
+    {
+      "cycle": "16.1",
+      "latest": "16.1.1",
+      "latestReleaseDate": "2022-11-16",
+      "lts": false,
+      "releaseDate": "2022-11-16"
+    },
+    {
+      "cycle": "16",
+      "latest": "16",
+      "latestReleaseDate": "2022-09-12",
+      "lts": false,
+      "releaseDate": "2022-09-12"
+    },
+    {
+      "cycle": "15.6",
+      "latest": "15.6",
+      "latestReleaseDate": "2022-07-20",
+      "lts": false,
+      "releaseDate": "2022-07-20"
+    },
+    {
+      "cycle": "15.5",
+      "latest": "15.5.1",
+      "latestReleaseDate": "2022-05-25",
+      "lts": false,
+      "releaseDate": "2022-05-25"
+    },
+    {
+      "cycle": "15.4",
+      "latest": "15.4.1",
+      "latestReleaseDate": "2022-03-31",
+      "lts": false,
+      "releaseDate": "2022-03-31"
+    },
+    {
+      "cycle": "15.3",
+      "latest": "15.3",
+      "latestReleaseDate": "2022-01-26",
+      "lts": false,
+      "releaseDate": "2022-01-26"
+    },
+    {
+      "cycle": "15.2",
+      "latest": "15.2",
+      "latestReleaseDate": "2021-12-13",
+      "lts": false,
+      "releaseDate": "2021-12-13"
+    },
+    {
+      "cycle": "15.1",
+      "latest": "15.1.1",
+      "latestReleaseDate": "2021-11-01",
+      "lts": false,
+      "releaseDate": "2021-11-01"
+    },
+    {
+      "cycle": "15",
+      "latest": "15",
+      "latestReleaseDate": "2021-09-20",
+      "lts": false,
+      "releaseDate": "2021-09-20"
+    },
+    {
+      "cycle": "14.7",
+      "latest": "14.7",
+      "latestReleaseDate": "2021-07-19",
+      "lts": false,
+      "releaseDate": "2021-07-19"
+    },
+    {
+      "cycle": "14.6",
+      "latest": "14.6",
+      "latestReleaseDate": "2021-05-24",
+      "lts": false,
+      "releaseDate": "2021-05-24"
+    },
+    {
+      "cycle": "14.5",
+      "latest": "14.5",
+      "latestReleaseDate": "2021-04-26",
+      "lts": false,
+      "releaseDate": "2021-04-26"
+    },
+    {
+      "cycle": "14.4",
+      "latest": "14.4",
+      "latestReleaseDate": "2021-01-26",
+      "lts": false,
+      "releaseDate": "2021-01-26"
+    },
+    {
+      "cycle": "14.3",
+      "latest": "14.3",
+      "latestReleaseDate": "2020-12-14",
+      "lts": false,
+      "releaseDate": "2020-12-14"
+    },
+    {
+      "cycle": "14.2",
+      "latest": "14.2",
+      "latestReleaseDate": "2020-11-05",
+      "lts": false,
+      "releaseDate": "2020-11-05"
+    },
+    {
+      "cycle": "14.0",
+      "latest": "14.0.2",
+      "latestReleaseDate": "2020-10-05",
+      "lts": false,
+      "releaseDate": "2020-10-05"
+    },
+    {
+      "cycle": "14",
+      "latest": "14",
+      "latestReleaseDate": "2020-09-16",
+      "lts": false,
+      "releaseDate": "2020-09-16"
+    },
+    {
+      "cycle": "13.4",
+      "latest": "13.4.8",
+      "latestReleaseDate": "2020-07-15",
+      "lts": false,
+      "releaseDate": "2020-07-15"
+    },
+    {
+      "cycle": "13.3",
+      "latest": "13.3.1",
+      "latestReleaseDate": "2020-01-28",
+      "lts": false,
+      "releaseDate": "2020-01-28"
+    },
+    {
+      "cycle": "13.2",
+      "latest": "13.2",
+      "latestReleaseDate": "2019-10-28",
+      "lts": false,
+      "releaseDate": "2019-10-28"
+    },
+    {
+      "cycle": "13",
+      "latest": "13",
+      "latestReleaseDate": "2019-09-24",
+      "lts": false,
+      "releaseDate": "2019-09-24"
+    },
+    {
+      "cycle": "12.4",
+      "latest": "12.4.1",
+      "latestReleaseDate": "2019-08-26",
+      "lts": false,
+      "releaseDate": "2019-08-26"
+    },
+    {
+      "cycle": "12.3",
+      "latest": "12.3",
+      "latestReleaseDate": "2019-05-13",
+      "lts": false,
+      "releaseDate": "2019-05-13"
+    },
+    {
+      "cycle": "12.2",
+      "latest": "12.2.1",
+      "latestReleaseDate": "2019-04-10",
+      "lts": false,
+      "releaseDate": "2019-04-10"
+    },
+    {
+      "cycle": "12.1",
+      "latest": "12.1.2",
+      "latestReleaseDate": "2019-01-22",
+      "lts": false,
+      "releaseDate": "2019-01-22"
+    },
+    {
+      "cycle": "12",
+      "latest": "12",
+      "latestReleaseDate": "2018-09-17",
+      "lts": false,
+      "releaseDate": "2018-09-17"
+    },
+    {
+      "cycle": "11.4",
+      "latest": "11.4.1",
+      "latestReleaseDate": "2018-07-09",
+      "lts": false,
+      "releaseDate": "2018-07-09"
+    },
+    {
+      "cycle": "11.3",
+      "latest": "11.3",
+      "latestReleaseDate": "2018-03-29",
+      "lts": false,
+      "releaseDate": "2018-03-29"
+    },
+    {
+      "cycle": "11.2",
+      "latest": "11.2.6",
+      "latestReleaseDate": "2018-02-19",
+      "lts": false,
+      "releaseDate": "2018-02-19"
+    },
+    {
+      "cycle": "11.1",
+      "latest": "11.1",
+      "latestReleaseDate": "2017-10-31",
+      "lts": false,
+      "releaseDate": "2017-10-31"
+    },
+    {
+      "cycle": "11",
+      "latest": "11",
+      "latestReleaseDate": "2017-09-19",
+      "lts": false,
+      "releaseDate": "2017-09-19"
+    },
+    {
+      "cycle": "10.2",
+      "latest": "10.2.2",
+      "latestReleaseDate": "2017-07-19",
+      "lts": false,
+      "releaseDate": "2017-07-19"
+    },
+    {
+      "cycle": "10.1",
+      "latest": "10.1.1",
+      "latestReleaseDate": "2017-01-23",
+      "lts": false,
+      "releaseDate": "2017-01-23"
+    },
+    {
+      "cycle": "10.0",
+      "latest": "10.0.1",
+      "latestReleaseDate": "2016-10-24",
+      "lts": false,
+      "releaseDate": "2016-10-24"
+    },
+    {
+      "cycle": "10",
+      "latest": "10",
+      "latestReleaseDate": "2016-09-13",
+      "lts": false,
+      "releaseDate": "2016-09-13"
+    },
+    {
+      "cycle": "9.2",
+      "latest": "9.2.2",
+      "latestReleaseDate": "2016-07-18",
+      "lts": false,
+      "releaseDate": "2016-07-18"
+    },
+    {
+      "cycle": "9.1",
+      "latest": "9.1.1",
+      "latestReleaseDate": "2016-01-25",
+      "lts": false,
+      "releaseDate": "2016-01-25"
+    },
+    {
+      "cycle": "9",
+      "latest": "9",
+      "latestReleaseDate": "2015-12-08",
+      "lts": false,
+      "releaseDate": "2015-12-08"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "apple-tvos",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/apple-tvos.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

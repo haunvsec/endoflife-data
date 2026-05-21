@@ -1,0 +1,144 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*",
+    "display_name": "MariaDB",
+    "mapping_source": "eol_product_mapping",
+    "product": "mariadb",
+    "purl": "",
+    "vendor": "mariadb"
+  },
+  "cycles": [
+    {
+      "cycle": "11.8",
+      "eol": "2028-06-04",
+      "extendedSupport": "2033-10-22",
+      "latest": "11.8.6",
+      "latestReleaseDate": "2026-02-04",
+      "lts": false,
+      "releaseDate": "2025-06-04"
+    },
+    {
+      "cycle": "11.4",
+      "eol": "2029-05-29",
+      "extendedSupport": "2033-01-16",
+      "latest": "11.4.10",
+      "latestReleaseDate": "2026-02-04",
+      "lts": false,
+      "releaseDate": "2024-05-29"
+    },
+    {
+      "cycle": "10.11",
+      "eol": "2028-02-16",
+      "extendedSupport": "2028-02-16",
+      "latest": "10.11.16",
+      "latestReleaseDate": "2026-02-04",
+      "lts": false,
+      "releaseDate": "2023-02-16"
+    },
+    {
+      "cycle": "10.6",
+      "eol": "2026-07-06",
+      "extendedSupport": "2029-08-23",
+      "latest": "10.6.25",
+      "latestReleaseDate": "2026-02-04",
+      "lts": false,
+      "releaseDate": "2021-07-06"
+    },
+    {
+      "cycle": "10.5",
+      "eol": "2025-06-24",
+      "extendedSupport": "2025-07-16",
+      "latest": "10.5.29",
+      "latestReleaseDate": "2025-05-06",
+      "lts": false,
+      "releaseDate": "2020-06-24"
+    },
+    {
+      "cycle": "10.4",
+      "eol": "2024-06-18",
+      "extendedSupport": "2024-06-18",
+      "latest": "10.4.34",
+      "latestReleaseDate": "2024-05-15",
+      "lts": false,
+      "releaseDate": "2019-06-18"
+    },
+    {
+      "cycle": "10.3",
+      "eol": "2023-05-25",
+      "extendedSupport": "2023-05-25",
+      "latest": "10.3.39",
+      "latestReleaseDate": "2023-05-10",
+      "lts": false,
+      "releaseDate": "2018-05-25"
+    },
+    {
+      "cycle": "10.2",
+      "eol": "2022-05-23",
+      "extendedSupport": "2022-05-23",
+      "latest": "10.2.44",
+      "latestReleaseDate": "2022-05-20",
+      "lts": false,
+      "releaseDate": "2017-05-23"
+    },
+    {
+      "cycle": "10.1",
+      "eol": "2020-10-17",
+      "extendedSupport": "2020-10-17",
+      "latest": "10.1.48",
+      "latestReleaseDate": "2020-10-30",
+      "lts": false,
+      "releaseDate": "2015-10-17"
+    },
+    {
+      "cycle": "10.0",
+      "eol": "2019-03-31",
+      "extendedSupport": "2019-03-31",
+      "latest": "10.0.38",
+      "latestReleaseDate": "2019-01-29",
+      "lts": false,
+      "releaseDate": "2014-03-31"
+    },
+    {
+      "cycle": "5.5",
+      "eol": "2020-04-11",
+      "extendedSupport": "2020-04-11",
+      "latest": "5.5.68",
+      "latestReleaseDate": "2020-05-06",
+      "lts": false,
+      "releaseDate": "2012-04-11"
+    },
+    {
+      "cycle": "5.3",
+      "eol": "2017-03-01",
+      "extendedSupport": "2017-03-01",
+      "latest": "5.3.12",
+      "latestReleaseDate": "2013-01-28",
+      "lts": false,
+      "releaseDate": "2012-02-29"
+    },
+    {
+      "cycle": "5.2",
+      "eol": "2015-11-10",
+      "extendedSupport": "2015-11-10",
+      "latest": "5.2.14",
+      "latestReleaseDate": "2013-01-28",
+      "lts": false,
+      "releaseDate": "2010-11-10"
+    },
+    {
+      "cycle": "5.1",
+      "eol": "2015-02-01",
+      "extendedSupport": "2015-02-01",
+      "latest": "5.1.67",
+      "latestReleaseDate": "2013-01-25",
+      "lts": false,
+      "releaseDate": "2010-02-01"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "mariadb",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/mariadb.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

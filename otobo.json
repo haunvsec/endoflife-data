@@ -1,0 +1,39 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Otobo",
+    "mapping_source": "unmapped",
+    "product": "otobo",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "11.0",
+      "latest": "11.0.16",
+      "latestReleaseDate": "2026-04-23",
+      "lts": false,
+      "releaseDate": "2026-04-23"
+    },
+    {
+      "cycle": "10.1",
+      "latest": "10.1.17",
+      "latestReleaseDate": "2026-04-23",
+      "lts": false,
+      "releaseDate": "2026-04-23"
+    },
+    {
+      "cycle": "10.0",
+      "latest": "10.0.27",
+      "latestReleaseDate": "2025-10-23",
+      "lts": false,
+      "releaseDate": "2025-10-23"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "otobo",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/otobo.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,298 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:ldap-account-manager:ldap_account_manager:*:*:*:*:*:*:*:*",
+    "display_name": "LDAP Account Manager",
+    "mapping_source": "eol_product_mapping",
+    "product": "ldap_account_manager",
+    "purl": "",
+    "vendor": "ldap-account-manager"
+  },
+  "cycles": [
+    {
+      "cycle": "9.5",
+      "latest": "9.5.2",
+      "latestReleaseDate": "2026-04-01",
+      "lts": false,
+      "releaseDate": "2026-04-01"
+    },
+    {
+      "cycle": "9.4",
+      "latest": "9.4",
+      "latestReleaseDate": "2025-12-13",
+      "lts": false,
+      "releaseDate": "2025-12-13"
+    },
+    {
+      "cycle": "9.3",
+      "latest": "9.3",
+      "latestReleaseDate": "2025-09-15",
+      "lts": false,
+      "releaseDate": "2025-09-15"
+    },
+    {
+      "cycle": "9.2",
+      "latest": "9.2",
+      "latestReleaseDate": "2025-06-06",
+      "lts": false,
+      "releaseDate": "2025-06-06"
+    },
+    {
+      "cycle": "9.1",
+      "latest": "9.1",
+      "latestReleaseDate": "2025-03-13",
+      "lts": false,
+      "releaseDate": "2025-03-13"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0",
+      "latestReleaseDate": "2024-12-17",
+      "lts": false,
+      "releaseDate": "2024-12-17"
+    },
+    {
+      "cycle": "8.9",
+      "latest": "8.9",
+      "latestReleaseDate": "2024-09-24",
+      "lts": false,
+      "releaseDate": "2024-09-24"
+    },
+    {
+      "cycle": "8.8",
+      "latest": "8.8",
+      "latestReleaseDate": "2024-06-22",
+      "lts": false,
+      "releaseDate": "2024-06-22"
+    },
+    {
+      "cycle": "8.7",
+      "latest": "8.7",
+      "latestReleaseDate": "2024-03-16",
+      "lts": false,
+      "releaseDate": "2024-03-16"
+    },
+    {
+      "cycle": "8.6",
+      "latest": "8.6",
+      "latestReleaseDate": "2023-12-18",
+      "lts": false,
+      "releaseDate": "2023-12-18"
+    },
+    {
+      "cycle": "8.5",
+      "latest": "8.5",
+      "latestReleaseDate": "2023-09-29",
+      "lts": false,
+      "releaseDate": "2023-09-29"
+    },
+    {
+      "cycle": "8.4",
+      "latest": "8.4",
+      "latestReleaseDate": "2023-06-06",
+      "lts": false,
+      "releaseDate": "2023-06-06"
+    },
+    {
+      "cycle": "8.3",
+      "latest": "8.3",
+      "latestReleaseDate": "2023-03-24",
+      "lts": false,
+      "releaseDate": "2023-03-24"
+    },
+    {
+      "cycle": "8.2",
+      "latest": "8.2",
+      "latestReleaseDate": "2022-12-13",
+      "lts": false,
+      "releaseDate": "2022-12-13"
+    },
+    {
+      "cycle": "8.1",
+      "latest": "8.1",
+      "latestReleaseDate": "2022-09-22",
+      "lts": false,
+      "releaseDate": "2022-09-22"
+    },
+    {
+      "cycle": "8.0",
+      "latest": "8.0.1",
+      "latestReleaseDate": "2022-06-29",
+      "lts": false,
+      "releaseDate": "2022-06-29"
+    },
+    {
+      "cycle": "7.9",
+      "latest": "7.9.1",
+      "latestReleaseDate": "2022-04-14",
+      "lts": false,
+      "releaseDate": "2022-04-14"
+    },
+    {
+      "cycle": "7.8",
+      "latest": "7.8",
+      "latestReleaseDate": "2021-12-28",
+      "lts": false,
+      "releaseDate": "2021-12-28"
+    },
+    {
+      "cycle": "7.7",
+      "latest": "7.7",
+      "latestReleaseDate": "2021-09-30",
+      "lts": false,
+      "releaseDate": "2021-09-30"
+    },
+    {
+      "cycle": "7.6",
+      "latest": "7.6",
+      "latestReleaseDate": "2021-07-05",
+      "lts": false,
+      "releaseDate": "2021-07-05"
+    },
+    {
+      "cycle": "7.5",
+      "latest": "7.5",
+      "latestReleaseDate": "2021-03-30",
+      "lts": false,
+      "releaseDate": "2021-03-30"
+    },
+    {
+      "cycle": "7.4",
+      "latest": "7.4",
+      "latestReleaseDate": "2020-12-06",
+      "lts": false,
+      "releaseDate": "2020-12-06"
+    },
+    {
+      "cycle": "7.3",
+      "latest": "7.3",
+      "latestReleaseDate": "2020-09-22",
+      "lts": false,
+      "releaseDate": "2020-09-22"
+    },
+    {
+      "cycle": "7.2",
+      "latest": "7.2",
+      "latestReleaseDate": "2020-05-01",
+      "lts": false,
+      "releaseDate": "2020-05-01"
+    },
+    {
+      "cycle": "7.1",
+      "latest": "7.1",
+      "latestReleaseDate": "2020-03-16",
+      "lts": false,
+      "releaseDate": "2020-03-16"
+    },
+    {
+      "cycle": "7.0",
+      "latest": "7.0",
+      "latestReleaseDate": "2019-12-21",
+      "lts": false,
+      "releaseDate": "2019-12-21"
+    },
+    {
+      "cycle": "6.9",
+      "latest": "6.9",
+      "latestReleaseDate": "2019-10-03",
+      "lts": false,
+      "releaseDate": "2019-10-03"
+    },
+    {
+      "cycle": "6.8",
+      "latest": "6.8",
+      "latestReleaseDate": "2019-07-02",
+      "lts": false,
+      "releaseDate": "2019-07-02"
+    },
+    {
+      "cycle": "6.7",
+      "latest": "6.7",
+      "latestReleaseDate": "2019-03-25",
+      "lts": false,
+      "releaseDate": "2019-03-25"
+    },
+    {
+      "cycle": "6.6",
+      "latest": "6.6",
+      "latestReleaseDate": "2018-12-28",
+      "lts": false,
+      "releaseDate": "2018-12-28"
+    },
+    {
+      "cycle": "6.5",
+      "latest": "6.5",
+      "latestReleaseDate": "2018-09-25",
+      "lts": false,
+      "releaseDate": "2018-09-25"
+    },
+    {
+      "cycle": "6.4",
+      "latest": "6.4",
+      "latestReleaseDate": "2018-06-20",
+      "lts": false,
+      "releaseDate": "2018-06-20"
+    },
+    {
+      "cycle": "6.3",
+      "latest": "6.3",
+      "latestReleaseDate": "2018-03-19",
+      "lts": false,
+      "releaseDate": "2018-03-19"
+    },
+    {
+      "cycle": "6.2",
+      "latest": "6.2.1",
+      "latestReleaseDate": "2018-02-04",
+      "lts": false,
+      "releaseDate": "2018-02-04"
+    },
+    {
+      "cycle": "6.1",
+      "latest": "6.1",
+      "latestReleaseDate": "2017-09-19",
+      "lts": false,
+      "releaseDate": "2017-09-19"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0.1",
+      "latestReleaseDate": "2017-07-20",
+      "lts": false,
+      "releaseDate": "2017-07-20"
+    },
+    {
+      "cycle": "5.7",
+      "latest": "5.7",
+      "latestReleaseDate": "2017-03-14",
+      "lts": false,
+      "releaseDate": "2017-03-14"
+    },
+    {
+      "cycle": "5.6",
+      "latest": "5.6",
+      "latestReleaseDate": "2016-12-18",
+      "lts": false,
+      "releaseDate": "2016-12-18"
+    },
+    {
+      "cycle": "5.5",
+      "latest": "5.5",
+      "latestReleaseDate": "2016-09-10",
+      "lts": false,
+      "releaseDate": "2016-09-10"
+    },
+    {
+      "cycle": "5.4",
+      "latest": "5.4",
+      "latestReleaseDate": "2016-06-21",
+      "lts": false,
+      "releaseDate": "2016-06-21"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "ldap-account-manager",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/ldap-account-manager.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

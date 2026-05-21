@@ -1,0 +1,88 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:traefik:traefik:*:*:*:*:*:*:*:*",
+    "display_name": "Traefik",
+    "mapping_source": "eol_product_mapping",
+    "product": "traefik",
+    "purl": "",
+    "vendor": "traefik"
+  },
+  "cycles": [
+    {
+      "cycle": "3.6",
+      "latest": "3.6.16",
+      "latestReleaseDate": "2026-05-05",
+      "lts": false,
+      "releaseDate": "2025-11-07"
+    },
+    {
+      "cycle": "3.5",
+      "eoas": "2025-11-07",
+      "eol": "2025-11-07",
+      "latest": "3.5.6",
+      "latestReleaseDate": "2025-11-07",
+      "lts": false,
+      "releaseDate": "2025-07-23"
+    },
+    {
+      "cycle": "3.4",
+      "eoas": "2025-07-23",
+      "eol": "2025-07-23",
+      "latest": "3.4.5",
+      "latestReleaseDate": "2025-07-23",
+      "lts": false,
+      "releaseDate": "2025-05-05"
+    },
+    {
+      "cycle": "3.3",
+      "eoas": "2025-05-05",
+      "eol": "2025-05-05",
+      "latest": "3.3.7",
+      "latestReleaseDate": "2025-05-05",
+      "lts": false,
+      "releaseDate": "2025-01-06"
+    },
+    {
+      "cycle": "3.2",
+      "eoas": "2025-01-06",
+      "eol": "2025-01-06",
+      "latest": "3.2.5",
+      "latestReleaseDate": "2025-01-07",
+      "lts": false,
+      "releaseDate": "2024-10-28"
+    },
+    {
+      "cycle": "3.1",
+      "eoas": "2024-10-28",
+      "eol": "2024-10-28",
+      "latest": "3.1.7",
+      "latestReleaseDate": "2024-10-28",
+      "lts": false,
+      "releaseDate": "2024-07-15"
+    },
+    {
+      "cycle": "3.0",
+      "eoas": "2024-07-15",
+      "eol": "2024-07-15",
+      "latest": "3.0.4",
+      "latestReleaseDate": "2024-07-02",
+      "lts": false,
+      "releaseDate": "2024-04-29"
+    },
+    {
+      "cycle": "2.11",
+      "eoas": "2025-04-29",
+      "eol": "2026-02-01",
+      "latest": "2.11.45",
+      "latestReleaseDate": "2026-05-05",
+      "lts": false,
+      "releaseDate": "2024-02-12"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "traefik",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/traefik.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

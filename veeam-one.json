@@ -1,0 +1,109 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:veeam:one:*:*:*:*:*:*:*:*",
+    "display_name": "Veeam One",
+    "mapping_source": "slug_prefix",
+    "product": "one",
+    "purl": "",
+    "vendor": "veeam"
+  },
+  "cycles": [
+    {
+      "cycle": "13.0",
+      "latest": "13.0.1.6168",
+      "latestReleaseDate": "2026-01-06",
+      "lts": false,
+      "releaseDate": "2026-01-06"
+    },
+    {
+      "cycle": "12.3",
+      "latest": "12.3.0.4670",
+      "latestReleaseDate": "2024-12-03",
+      "lts": false,
+      "releaseDate": "2024-12-03"
+    },
+    {
+      "cycle": "12.2",
+      "latest": "12.2.0.4093",
+      "latestReleaseDate": "2024-08-28",
+      "lts": false,
+      "releaseDate": "2024-08-28"
+    },
+    {
+      "cycle": "12.1",
+      "latest": "12.1.0.3208",
+      "latestReleaseDate": "2023-12-05",
+      "lts": false,
+      "releaseDate": "2023-12-05"
+    },
+    {
+      "cycle": "12.0",
+      "latest": "12.0.1.2591",
+      "latestReleaseDate": "2023-03-20",
+      "lts": false,
+      "releaseDate": "2023-03-20"
+    },
+    {
+      "cycle": "11.0",
+      "latest": "11.0.1.1880",
+      "latestReleaseDate": "2021-09-28",
+      "lts": false,
+      "releaseDate": "2021-09-28"
+    },
+    {
+      "cycle": "10.0",
+      "latest": "10.0.2.1094",
+      "latestReleaseDate": "2020-07-21",
+      "lts": false,
+      "releaseDate": "2020-07-21"
+    },
+    {
+      "cycle": "9.5",
+      "latest": "9.5.4.4587",
+      "latestReleaseDate": "2019-09-11",
+      "lts": false,
+      "releaseDate": "2019-09-11"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.0.2088",
+      "latestReleaseDate": "2016-03-24",
+      "lts": false,
+      "releaseDate": "2016-03-24"
+    },
+    {
+      "cycle": "8.0",
+      "latest": "8.0.0.1669",
+      "latestReleaseDate": "2015-04-27",
+      "lts": false,
+      "releaseDate": "2015-04-27"
+    },
+    {
+      "cycle": "7.0",
+      "latest": "7.0.0.949",
+      "latestReleaseDate": "2014-09-18",
+      "lts": false,
+      "releaseDate": "2014-09-18"
+    },
+    {
+      "cycle": "6.5",
+      "latest": "6.5.0.686",
+      "latestReleaseDate": "2012-12-18",
+      "lts": false,
+      "releaseDate": "2012-12-18"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0.0.520",
+      "latestReleaseDate": "2012-04-23",
+      "lts": false,
+      "releaseDate": "2012-04-23"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "veeam-one",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/veeam-one.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

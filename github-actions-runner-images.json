@@ -1,0 +1,78 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Github Actions Runner Images",
+    "mapping_source": "unmapped",
+    "product": "github_actions_runner_images",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "windows-2025-vs2026",
+      "lts": false,
+      "releaseLabel": "Windows Server 2025 with Visual Studio 2026"
+    },
+    {
+      "cycle": "windows-2025",
+      "lts": false,
+      "releaseLabel": "Windows Server 2025"
+    },
+    {
+      "cycle": "windows-2022",
+      "lts": false,
+      "releaseLabel": "Windows Server 2022"
+    },
+    {
+      "cycle": "ubuntu-slim",
+      "lts": false,
+      "releaseLabel": "Ubuntu Slim"
+    },
+    {
+      "cycle": "ubuntu-24.04",
+      "lts": false,
+      "releaseLabel": "Ubuntu 24.04"
+    },
+    {
+      "cycle": "ubuntu-22.04",
+      "lts": false,
+      "releaseLabel": "Ubuntu 22.04"
+    },
+    {
+      "cycle": "macos-26-arm64",
+      "lts": false,
+      "releaseLabel": "macOS 26 Arm64"
+    },
+    {
+      "cycle": "macos-26",
+      "lts": false,
+      "releaseLabel": "macOS 26"
+    },
+    {
+      "cycle": "macos-15-arm64",
+      "lts": false,
+      "releaseLabel": "macOS 15 Arm64"
+    },
+    {
+      "cycle": "macos-15",
+      "lts": false,
+      "releaseLabel": "macOS 15"
+    },
+    {
+      "cycle": "macos-14-arm64",
+      "lts": false,
+      "releaseLabel": "macOS 14 Arm64"
+    },
+    {
+      "cycle": "macos-14",
+      "lts": false,
+      "releaseLabel": "macOS 14"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "github-actions-runner-images",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/github-actions-runner-images.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

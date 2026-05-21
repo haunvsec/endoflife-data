@@ -1,0 +1,214 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:gnu:cfengine:*:*:*:*:*:*:*:*",
+    "display_name": "CFEngine",
+    "mapping_source": "eol_product_mapping",
+    "product": "cfengine",
+    "purl": "",
+    "vendor": "gnu"
+  },
+  "cycles": [
+    {
+      "cycle": "3.27",
+      "latest": "3.27.0",
+      "latestReleaseDate": "2026-01-09",
+      "lts": false,
+      "releaseDate": "2026-01-09"
+    },
+    {
+      "cycle": "3.24",
+      "latest": "3.24.3",
+      "latestReleaseDate": "2025-12-15",
+      "lts": false,
+      "releaseDate": "2025-12-15"
+    },
+    {
+      "cycle": "3.21",
+      "latest": "3.21.8",
+      "latestReleaseDate": "2025-12-15",
+      "lts": false,
+      "releaseDate": "2025-12-15"
+    },
+    {
+      "cycle": "3.26",
+      "latest": "3.26.0",
+      "latestReleaseDate": "2025-05-20",
+      "lts": false,
+      "releaseDate": "2025-05-20"
+    },
+    {
+      "cycle": "3.25",
+      "latest": "3.25.0",
+      "latestReleaseDate": "2025-01-06",
+      "lts": false,
+      "releaseDate": "2025-01-06"
+    },
+    {
+      "cycle": "3.18",
+      "latest": "3.18.8",
+      "latestReleaseDate": "2024-06-20",
+      "lts": false,
+      "releaseDate": "2024-06-20"
+    },
+    {
+      "cycle": "3.23",
+      "latest": "3.23.0",
+      "latestReleaseDate": "2023-12-05",
+      "lts": false,
+      "releaseDate": "2023-12-05"
+    },
+    {
+      "cycle": "3.22",
+      "latest": "3.22.0",
+      "latestReleaseDate": "2023-06-16",
+      "lts": false,
+      "releaseDate": "2023-06-16"
+    },
+    {
+      "cycle": "3.15",
+      "latest": "3.15.7",
+      "latestReleaseDate": "2022-11-14",
+      "lts": false,
+      "releaseDate": "2022-11-14"
+    },
+    {
+      "cycle": "3.20",
+      "latest": "3.20.0",
+      "latestReleaseDate": "2022-07-01",
+      "lts": false,
+      "releaseDate": "2022-07-01"
+    },
+    {
+      "cycle": "3.19",
+      "latest": "3.19.0",
+      "latestReleaseDate": "2021-12-10",
+      "lts": false,
+      "releaseDate": "2021-12-10"
+    },
+    {
+      "cycle": "3.12",
+      "latest": "3.12.7",
+      "latestReleaseDate": "2021-06-08",
+      "lts": false,
+      "releaseDate": "2021-06-08"
+    },
+    {
+      "cycle": "3.17",
+      "latest": "3.17.0",
+      "latestReleaseDate": "2020-11-19",
+      "lts": false,
+      "releaseDate": "2020-11-19"
+    },
+    {
+      "cycle": "3.16",
+      "latest": "3.16.0",
+      "latestReleaseDate": "2020-06-23",
+      "lts": false,
+      "releaseDate": "2020-06-23"
+    },
+    {
+      "cycle": "3.10",
+      "latest": "3.10.7",
+      "latestReleaseDate": "2019-12-11",
+      "lts": false,
+      "releaseDate": "2019-12-11"
+    },
+    {
+      "cycle": "3.14",
+      "latest": "3.14.0",
+      "latestReleaseDate": "2019-07-01",
+      "lts": false,
+      "releaseDate": "2019-07-01"
+    },
+    {
+      "cycle": "3.13",
+      "latest": "3.13.0",
+      "latestReleaseDate": "2018-11-23",
+      "lts": false,
+      "releaseDate": "2018-11-23"
+    },
+    {
+      "cycle": "3.7",
+      "latest": "3.7.8",
+      "latestReleaseDate": "2018-05-03",
+      "lts": false,
+      "releaseDate": "2018-05-03"
+    },
+    {
+      "cycle": "3.11",
+      "latest": "3.11.0",
+      "latestReleaseDate": "2017-08-11",
+      "lts": false,
+      "releaseDate": "2017-08-11"
+    },
+    {
+      "cycle": "3.9",
+      "latest": "3.9.2",
+      "latestReleaseDate": "2016-12-28",
+      "lts": false,
+      "releaseDate": "2016-12-28"
+    },
+    {
+      "cycle": "3.8",
+      "latest": "3.8.2",
+      "latestReleaseDate": "2016-04-01",
+      "lts": false,
+      "releaseDate": "2016-04-01"
+    },
+    {
+      "cycle": "3.6",
+      "latest": "3.6.7",
+      "latestReleaseDate": "2016-04-01",
+      "lts": false,
+      "releaseDate": "2016-04-01"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.3",
+      "latestReleaseDate": "2013-12-11",
+      "lts": false,
+      "releaseDate": "2013-12-11"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.19",
+      "latestReleaseDate": "2013-08-23",
+      "lts": false,
+      "releaseDate": "2013-08-23"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.5",
+      "latestReleaseDate": "2013-06-27",
+      "lts": false,
+      "releaseDate": "2013-06-27"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.4",
+      "latestReleaseDate": "2012-02-25",
+      "lts": false,
+      "releaseDate": "2012-02-25"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.5",
+      "latestReleaseDate": "2012-02-25",
+      "lts": false,
+      "releaseDate": "2012-02-25"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.5",
+      "latestReleaseDate": "2012-02-25",
+      "lts": false,
+      "releaseDate": "2012-02-25"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "cfengine",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/cfengine.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

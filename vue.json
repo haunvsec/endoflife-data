@@ -1,0 +1,123 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:vuejs:vue:*:*:*:*:*:*:*:*",
+    "display_name": "Vue.js",
+    "mapping_source": "eol_product_mapping",
+    "product": "vue",
+    "purl": "",
+    "vendor": "vuejs"
+  },
+  "cycles": [
+    {
+      "cycle": "3.5",
+      "latest": "3.5.34",
+      "latestReleaseDate": "2026-05-06",
+      "lts": false,
+      "releaseDate": "2026-05-06"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.38",
+      "latestReleaseDate": "2024-08-15",
+      "lts": false,
+      "releaseDate": "2024-08-15"
+    },
+    {
+      "cycle": "2.7",
+      "latest": "2.7.16",
+      "latestReleaseDate": "2023-12-24",
+      "lts": false,
+      "releaseDate": "2023-12-24"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.13",
+      "latestReleaseDate": "2023-12-19",
+      "lts": false,
+      "releaseDate": "2023-12-19"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.47",
+      "latestReleaseDate": "2023-02-02",
+      "lts": false,
+      "releaseDate": "2023-02-02"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.5",
+      "latestReleaseDate": "2021-07-16",
+      "lts": false,
+      "releaseDate": "2021-07-16"
+    },
+    {
+      "cycle": "2.6",
+      "latest": "2.6.14",
+      "latestReleaseDate": "2021-06-07",
+      "lts": false,
+      "releaseDate": "2021-06-07"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.11",
+      "latestReleaseDate": "2021-04-01",
+      "lts": false,
+      "releaseDate": "2021-04-01"
+    },
+    {
+      "cycle": "2.5",
+      "latest": "2.5.22",
+      "latestReleaseDate": "2019-01-11",
+      "lts": false,
+      "releaseDate": "2019-01-11"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.4",
+      "latestReleaseDate": "2017-09-14",
+      "lts": false,
+      "releaseDate": "2017-09-14"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.4",
+      "latestReleaseDate": "2017-06-08",
+      "lts": false,
+      "releaseDate": "2017-06-08"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.6",
+      "latestReleaseDate": "2017-03-27",
+      "lts": false,
+      "releaseDate": "2017-03-27"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.10",
+      "latestReleaseDate": "2017-01-17",
+      "lts": false,
+      "releaseDate": "2017-01-17"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.8",
+      "latestReleaseDate": "2016-11-20",
+      "lts": false,
+      "releaseDate": "2016-11-20"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.28",
+      "latestReleaseDate": "2016-09-27",
+      "lts": false,
+      "releaseDate": "2016-09-27"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "vue",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/vue.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

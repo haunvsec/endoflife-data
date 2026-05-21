@@ -1,0 +1,50 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:prometheus:prometheus:*:*:*:*:*:*:*:*",
+    "display_name": "Prometheus",
+    "mapping_source": "eol_product_mapping",
+    "product": "prometheus",
+    "purl": "",
+    "vendor": "prometheus"
+  },
+  "cycles": [
+    {
+      "cycle": "3.5",
+      "eol": "2026-07-31",
+      "latest": "3.5.3",
+      "latestReleaseDate": "2026-04-27",
+      "lts": false,
+      "releaseDate": "2025-07-14"
+    },
+    {
+      "cycle": "2.53",
+      "eol": "2025-07-31",
+      "latest": "2.53.5",
+      "latestReleaseDate": "2025-06-30",
+      "lts": false,
+      "releaseDate": "2024-06-16"
+    },
+    {
+      "cycle": "2.45",
+      "eol": "2024-07-31",
+      "latest": "2.45.6",
+      "latestReleaseDate": "2024-06-21",
+      "lts": false,
+      "releaseDate": "2023-06-23"
+    },
+    {
+      "cycle": "2.37",
+      "eol": "2023-07-31",
+      "latest": "2.37.9",
+      "latestReleaseDate": "2023-07-28",
+      "lts": false,
+      "releaseDate": "2022-07-14"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "prometheus",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/prometheus.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

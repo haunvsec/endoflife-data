@@ -1,0 +1,228 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:jetbrains:youtrack:*:*:*:*:*:*:*:*",
+    "display_name": "JetBrains YouTrack",
+    "mapping_source": "advisory-data",
+    "product": "youtrack",
+    "purl": "",
+    "vendor": "jetbrains"
+  },
+  "cycles": [
+    {
+      "cycle": "2026.1",
+      "latest": "2026.1.13162",
+      "latestReleaseDate": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2026-04-30"
+    },
+    {
+      "cycle": "2025.3",
+      "latest": "2025.3.132953",
+      "latestReleaseDate": "2026-03-25",
+      "lts": false,
+      "releaseDate": "2026-03-25"
+    },
+    {
+      "cycle": "2025.2",
+      "latest": "2025.2.119894",
+      "latestReleaseDate": "2026-01-28",
+      "lts": false,
+      "releaseDate": "2026-01-28"
+    },
+    {
+      "cycle": "2025.1",
+      "latest": "2025.1.86877",
+      "latestReleaseDate": "2025-07-21",
+      "lts": false,
+      "releaseDate": "2025-07-21"
+    },
+    {
+      "cycle": "2024.3",
+      "latest": "2024.3.85077",
+      "latestReleaseDate": "2025-07-08",
+      "lts": false,
+      "releaseDate": "2025-07-08"
+    },
+    {
+      "cycle": "2024.2",
+      "latest": "2024.2.78673",
+      "latestReleaseDate": "2025-05-23",
+      "lts": false,
+      "releaseDate": "2025-05-23"
+    },
+    {
+      "cycle": "2024.1",
+      "latest": "2024.1.34109",
+      "latestReleaseDate": "2024-06-07",
+      "lts": false,
+      "releaseDate": "2024-06-07"
+    },
+    {
+      "cycle": "2023.2",
+      "latest": "2023.2.26286",
+      "latestReleaseDate": "2024-03-12",
+      "lts": false,
+      "releaseDate": "2024-03-12"
+    },
+    {
+      "cycle": "2023.3",
+      "latest": "2023.3.26285",
+      "latestReleaseDate": "2024-03-11",
+      "lts": false,
+      "releaseDate": "2024-03-11"
+    },
+    {
+      "cycle": "2023.1",
+      "latest": "2023.1.22653",
+      "latestReleaseDate": "2024-01-03",
+      "lts": false,
+      "releaseDate": "2024-01-03"
+    },
+    {
+      "cycle": "2022.3",
+      "latest": "2022.3.65379",
+      "latestReleaseDate": "2023-03-28",
+      "lts": false,
+      "releaseDate": "2023-03-28"
+    },
+    {
+      "cycle": "2022.1",
+      "latest": "2022.1.65378",
+      "latestReleaseDate": "2023-03-23",
+      "lts": false,
+      "releaseDate": "2023-03-23"
+    },
+    {
+      "cycle": "2022.2",
+      "latest": "2022.2.65377",
+      "latestReleaseDate": "2023-03-22",
+      "lts": false,
+      "releaseDate": "2023-03-22"
+    },
+    {
+      "cycle": "2021.4",
+      "latest": "2021.4.40676",
+      "latestReleaseDate": "2022-02-03",
+      "lts": false,
+      "releaseDate": "2022-02-03"
+    },
+    {
+      "cycle": "2021.3",
+      "latest": "2021.3.30245",
+      "latestReleaseDate": "2021-10-18",
+      "lts": false,
+      "releaseDate": "2021-10-18"
+    },
+    {
+      "cycle": "2021.2",
+      "latest": "2021.2.19690",
+      "latestReleaseDate": "2021-06-29",
+      "lts": false,
+      "releaseDate": "2021-06-29"
+    },
+    {
+      "cycle": "2021.1",
+      "latest": "2021.1.15276",
+      "latestReleaseDate": "2021-05-17",
+      "lts": false,
+      "releaseDate": "2021-05-17"
+    },
+    {
+      "cycle": "2020.6",
+      "latest": "2020.6.8801",
+      "latestReleaseDate": "2021-03-17",
+      "lts": false,
+      "releaseDate": "2021-03-17"
+    },
+    {
+      "cycle": "2020.5",
+      "latest": "2020.5.3123",
+      "latestReleaseDate": "2020-12-02",
+      "lts": false,
+      "releaseDate": "2020-12-02"
+    },
+    {
+      "cycle": "2020.4",
+      "latest": "2020.4.6808",
+      "latestReleaseDate": "2020-11-06",
+      "lts": false,
+      "releaseDate": "2020-11-06"
+    },
+    {
+      "cycle": "2020.3",
+      "latest": "2020.3.12000",
+      "latestReleaseDate": "2020-10-07",
+      "lts": false,
+      "releaseDate": "2020-10-07"
+    },
+    {
+      "cycle": "2019.3",
+      "latest": "2019.3.65516",
+      "latestReleaseDate": "2020-08-27",
+      "lts": false,
+      "releaseDate": "2020-08-27"
+    },
+    {
+      "cycle": "2019.2",
+      "latest": "2019.2.65515",
+      "latestReleaseDate": "2020-08-26",
+      "lts": false,
+      "releaseDate": "2020-08-26"
+    },
+    {
+      "cycle": "2019.1",
+      "latest": "2019.1.65514",
+      "latestReleaseDate": "2020-08-26",
+      "lts": false,
+      "releaseDate": "2020-08-26"
+    },
+    {
+      "cycle": "2020.2",
+      "latest": "2020.2.11008",
+      "latestReleaseDate": "2020-08-18",
+      "lts": false,
+      "releaseDate": "2020-08-18"
+    },
+    {
+      "cycle": "2020.1",
+      "latest": "2020.1.11011",
+      "latestReleaseDate": "2020-08-18",
+      "lts": false,
+      "releaseDate": "2020-08-18"
+    },
+    {
+      "cycle": "2018.4",
+      "latest": "2018.4.49852",
+      "latestReleaseDate": "2019-02-21",
+      "lts": false,
+      "releaseDate": "2019-02-21"
+    },
+    {
+      "cycle": "2018.3",
+      "latest": "2018.3.48045",
+      "latestReleaseDate": "2018-12-14",
+      "lts": false,
+      "releaseDate": "2018-12-14"
+    },
+    {
+      "cycle": "2018.2",
+      "latest": "2018.2.45513",
+      "latestReleaseDate": "2018-09-11",
+      "lts": false,
+      "releaseDate": "2018-09-11"
+    },
+    {
+      "cycle": "2018.1",
+      "latest": "2018.1.41826",
+      "latestReleaseDate": "2018-05-17",
+      "lts": false,
+      "releaseDate": "2018-05-17"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "youtrack",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/youtrack.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

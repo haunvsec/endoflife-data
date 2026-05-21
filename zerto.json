@@ -1,0 +1,81 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Zerto",
+    "mapping_source": "unmapped",
+    "product": "zerto",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "10.8",
+      "eol": "2026-10-28",
+      "lts": false,
+      "releaseDate": "2025-10-28",
+      "releaseLabel": "10.8"
+    },
+    {
+      "cycle": "10.0_u7",
+      "eol": "2026-05-06",
+      "lts": false,
+      "releaseDate": "2025-05-06",
+      "releaseLabel": "10.0 Update 7"
+    },
+    {
+      "cycle": "10.0_u6",
+      "eol": "2026-12-03",
+      "lts": false,
+      "releaseDate": "2024-12-03",
+      "releaseLabel": "10.0 Update 6"
+    },
+    {
+      "cycle": "10.0_u5",
+      "eol": "2024-12-03",
+      "lts": false,
+      "releaseDate": "2024-08-06",
+      "releaseLabel": "10.0 Update 5"
+    },
+    {
+      "cycle": "10.0_u4",
+      "eol": "2024-08-06",
+      "lts": false,
+      "releaseDate": "2024-05-15",
+      "releaseLabel": "10.0 Update 4"
+    },
+    {
+      "cycle": "10.0_u3",
+      "eol": "2024-05-15",
+      "lts": false,
+      "releaseDate": "2024-02-12",
+      "releaseLabel": "10.0 Update 3"
+    },
+    {
+      "cycle": "10.0_u2",
+      "eol": "2024-02-12",
+      "lts": false,
+      "releaseDate": "2023-11-28",
+      "releaseLabel": "10.0 Update 2"
+    },
+    {
+      "cycle": "10.0_u1",
+      "eol": "2023-11-28",
+      "lts": false,
+      "releaseDate": "2023-08-07",
+      "releaseLabel": "10.0 Update 1"
+    },
+    {
+      "cycle": "10.0",
+      "eol": "2023-08-07",
+      "lts": false,
+      "releaseDate": "2023-07-05",
+      "releaseLabel": "10.0"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "zerto",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/zerto.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

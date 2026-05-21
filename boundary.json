@@ -1,0 +1,165 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:hashicorp:boundary:*:*:*:*:*:*:*:*",
+    "display_name": "HashiCorp Boundary",
+    "mapping_source": "eol_product_mapping",
+    "product": "boundary",
+    "purl": "",
+    "vendor": "hashicorp"
+  },
+  "cycles": [
+    {
+      "cycle": "0.21",
+      "latest": "0.21.3",
+      "latestReleaseDate": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2026-04-30"
+    },
+    {
+      "cycle": "0.20",
+      "latest": "0.20.3",
+      "latestReleaseDate": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2026-04-30"
+    },
+    {
+      "cycle": "0.19",
+      "latest": "0.19.5",
+      "latestReleaseDate": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2026-04-30"
+    },
+    {
+      "cycle": "0.18",
+      "latest": "0.18.2",
+      "latestReleaseDate": "2024-12-12",
+      "lts": false,
+      "releaseDate": "2024-12-12"
+    },
+    {
+      "cycle": "0.17",
+      "latest": "0.17.2",
+      "latestReleaseDate": "2024-10-14",
+      "lts": false,
+      "releaseDate": "2024-10-14"
+    },
+    {
+      "cycle": "0.16",
+      "latest": "0.16.3",
+      "latestReleaseDate": "2024-08-22",
+      "lts": false,
+      "releaseDate": "2024-08-22"
+    },
+    {
+      "cycle": "0.15",
+      "latest": "0.15.5",
+      "latestReleaseDate": "2024-07-31",
+      "lts": false,
+      "releaseDate": "2024-07-31"
+    },
+    {
+      "cycle": "0.14",
+      "latest": "0.14.5",
+      "latestReleaseDate": "2024-03-11",
+      "lts": false,
+      "releaseDate": "2024-03-11"
+    },
+    {
+      "cycle": "0.13",
+      "latest": "0.13.1",
+      "latestReleaseDate": "2023-07-18",
+      "lts": false,
+      "releaseDate": "2023-07-18"
+    },
+    {
+      "cycle": "0.12",
+      "latest": "0.12.2",
+      "latestReleaseDate": "2023-04-07",
+      "lts": false,
+      "releaseDate": "2023-04-07"
+    },
+    {
+      "cycle": "0.11",
+      "latest": "0.11.2",
+      "latestReleaseDate": "2022-12-09",
+      "lts": false,
+      "releaseDate": "2022-12-09"
+    },
+    {
+      "cycle": "0.10",
+      "latest": "0.10.5",
+      "latestReleaseDate": "2022-09-14",
+      "lts": false,
+      "releaseDate": "2022-09-14"
+    },
+    {
+      "cycle": "0.9",
+      "latest": "0.9.1",
+      "latestReleaseDate": "2022-07-06",
+      "lts": false,
+      "releaseDate": "2022-07-06"
+    },
+    {
+      "cycle": "0.8",
+      "latest": "0.8.1",
+      "latestReleaseDate": "2022-05-16",
+      "lts": false,
+      "releaseDate": "2022-05-16"
+    },
+    {
+      "cycle": "0.7",
+      "latest": "0.7.6",
+      "latestReleaseDate": "2022-03-16",
+      "lts": false,
+      "releaseDate": "2022-03-16"
+    },
+    {
+      "cycle": "0.6",
+      "latest": "0.6.2",
+      "latestReleaseDate": "2021-09-28",
+      "lts": false,
+      "releaseDate": "2021-09-28"
+    },
+    {
+      "cycle": "0.5",
+      "latest": "0.5.1",
+      "latestReleaseDate": "2021-08-19",
+      "lts": false,
+      "releaseDate": "2021-08-19"
+    },
+    {
+      "cycle": "0.4",
+      "latest": "0.4.0",
+      "latestReleaseDate": "2021-06-30",
+      "lts": false,
+      "releaseDate": "2021-06-30"
+    },
+    {
+      "cycle": "0.3",
+      "latest": "0.3.0",
+      "latestReleaseDate": "2021-06-09",
+      "lts": false,
+      "releaseDate": "2021-06-09"
+    },
+    {
+      "cycle": "0.2",
+      "latest": "0.2.3",
+      "latestReleaseDate": "2021-05-24",
+      "lts": false,
+      "releaseDate": "2021-05-24"
+    },
+    {
+      "cycle": "0.1",
+      "latest": "0.1.8",
+      "latestReleaseDate": "2021-03-10",
+      "lts": false,
+      "releaseDate": "2021-03-10"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "boundary",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/boundary.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

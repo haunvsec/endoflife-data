@@ -1,0 +1,219 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Cockroachdb",
+    "mapping_source": "unmapped",
+    "product": "cockroachdb",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "26.2",
+      "eoas": "2027-04-27",
+      "eol": "2027-10-27",
+      "lts": false,
+      "releaseDate": "2026-04-27"
+    },
+    {
+      "cycle": "26.1",
+      "eoas": "2026-08-02",
+      "latest": "26.1.3",
+      "latestReleaseDate": "2026-04-16",
+      "lts": false,
+      "releaseDate": "2026-02-02"
+    },
+    {
+      "cycle": "25.4",
+      "eoas": "2026-11-03",
+      "eol": "2027-05-03",
+      "latest": "25.4.9",
+      "latestReleaseDate": "2026-04-16",
+      "lts": false,
+      "releaseDate": "2025-11-03"
+    },
+    {
+      "cycle": "25.3",
+      "eoas": "2026-02-04",
+      "latest": "25.3.7",
+      "latestReleaseDate": "2026-01-07",
+      "lts": false,
+      "releaseDate": "2025-08-04"
+    },
+    {
+      "cycle": "25.2",
+      "eoas": "2026-05-12",
+      "eol": "2026-11-12",
+      "latest": "25.2.17",
+      "latestReleaseDate": "2026-04-16",
+      "lts": false,
+      "releaseDate": "2025-05-09"
+    },
+    {
+      "cycle": "25.1",
+      "eoas": "2025-08-18",
+      "latest": "25.1.10",
+      "latestReleaseDate": "2025-07-31",
+      "lts": false,
+      "releaseDate": "2025-02-18"
+    },
+    {
+      "cycle": "24.3",
+      "eoas": "2025-11-18",
+      "eol": "2026-05-18",
+      "latest": "24.3.31",
+      "latestReleaseDate": "2026-04-16",
+      "lts": false,
+      "releaseDate": "2024-11-18"
+    },
+    {
+      "cycle": "24.2",
+      "eoas": "2025-02-12",
+      "latest": "24.2.10",
+      "latestReleaseDate": "2025-01-31",
+      "lts": false,
+      "releaseDate": "2024-08-12"
+    },
+    {
+      "cycle": "24.1",
+      "eoas": "2025-05-20",
+      "eol": "2025-11-20",
+      "latest": "24.1.28",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2024-05-20"
+    },
+    {
+      "cycle": "23.2",
+      "eoas": "2025-02-05",
+      "eol": "2025-08-05",
+      "latest": "23.2.30",
+      "latestReleaseDate": "2026-04-07",
+      "lts": false,
+      "releaseDate": "2024-02-05"
+    },
+    {
+      "cycle": "23.1",
+      "eoas": "2024-05-15",
+      "eol": "2024-11-15",
+      "latest": "23.1.30",
+      "latestReleaseDate": "2024-11-19",
+      "lts": false,
+      "releaseDate": "2023-05-15"
+    },
+    {
+      "cycle": "22.2",
+      "eoas": "2023-12-05",
+      "eol": "2024-06-05",
+      "latest": "22.2.19",
+      "latestReleaseDate": "2024-02-23",
+      "lts": false,
+      "releaseDate": "2022-12-05"
+    },
+    {
+      "cycle": "22.1",
+      "eoas": "2023-05-24",
+      "eol": "2023-11-24",
+      "latest": "22.1.22",
+      "latestReleaseDate": "2023-08-01",
+      "lts": false,
+      "releaseDate": "2022-05-24"
+    },
+    {
+      "cycle": "21.2",
+      "eoas": "2022-11-16",
+      "eol": "2023-05-16",
+      "latest": "21.2.17",
+      "latestReleaseDate": "2022-10-12",
+      "lts": false,
+      "releaseDate": "2021-11-16"
+    },
+    {
+      "cycle": "21.1",
+      "eoas": "2022-05-18",
+      "eol": "2022-11-18",
+      "latest": "21.1.21",
+      "latestReleaseDate": "2022-08-08",
+      "lts": false,
+      "releaseDate": "2021-05-18"
+    },
+    {
+      "cycle": "20.2",
+      "eoas": "2021-11-10",
+      "eol": "2022-05-10",
+      "latest": "20.2.19",
+      "latestReleaseDate": "2022-02-03",
+      "lts": false,
+      "releaseDate": "2020-11-10"
+    },
+    {
+      "cycle": "20.1",
+      "eoas": "2021-05-12",
+      "eol": "2021-11-12",
+      "latest": "20.1.17",
+      "latestReleaseDate": "2021-05-11",
+      "lts": false,
+      "releaseDate": "2020-05-12"
+    },
+    {
+      "cycle": "19.2",
+      "eoas": "2020-11-12",
+      "eol": "2021-05-12",
+      "latest": "19.2.12",
+      "latestReleaseDate": "2021-01-12",
+      "lts": false,
+      "releaseDate": "2019-11-12"
+    },
+    {
+      "cycle": "19.1",
+      "eoas": "2020-04-30",
+      "eol": "2020-10-30",
+      "latest": "19.1.11",
+      "latestReleaseDate": "2020-06-29",
+      "lts": false,
+      "releaseDate": "2019-04-30"
+    },
+    {
+      "cycle": "2.1",
+      "eoas": "2019-10-30",
+      "eol": "2020-04-30",
+      "latest": "2.1.11",
+      "latestReleaseDate": "2020-01-22",
+      "lts": false,
+      "releaseDate": "2018-10-30"
+    },
+    {
+      "cycle": "2.0",
+      "eoas": "2019-04-04",
+      "eol": "2019-10-04",
+      "latest": "2.0.7",
+      "latestReleaseDate": "2018-11-28",
+      "lts": false,
+      "releaseDate": "2018-04-04"
+    },
+    {
+      "cycle": "1.1",
+      "eoas": "2018-10-12",
+      "eol": "2019-04-12",
+      "latest": "1.1.9",
+      "latestReleaseDate": "2018-10-01",
+      "lts": false,
+      "releaseDate": "2017-10-12"
+    },
+    {
+      "cycle": "1.0",
+      "eoas": "2018-05-10",
+      "eol": "2018-11-10",
+      "latest": "1.0.7",
+      "latestReleaseDate": "2018-02-11",
+      "lts": false,
+      "releaseDate": "2017-05-10"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "cockroachdb",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/cockroachdb.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

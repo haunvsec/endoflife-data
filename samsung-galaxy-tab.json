@@ -1,0 +1,457 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:samsung:galaxy_tab:*:*:*:*:*:*:*:*",
+    "display_name": "Samsung Galaxy Tab",
+    "mapping_source": "slug_prefix",
+    "product": "galaxy_tab",
+    "purl": "",
+    "vendor": "samsung"
+  },
+  "cycles": [
+    {
+      "cycle": "galaxy-tab-s-10.5-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s-10.5",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s-8.4-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s-8.4",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s11-ultra",
+      "eol": "2032-09-04",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S11 Ultra"
+    },
+    {
+      "cycle": "galaxy-tab-s11",
+      "eol": "2032-09-04",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S11"
+    },
+    {
+      "cycle": "galaxy-tab-s10-ultra",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S10 Ultra"
+    },
+    {
+      "cycle": "galaxy-tab-s10-lite",
+      "eol": "2032-09-04",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S10 Lite"
+    },
+    {
+      "cycle": "galaxy-tab-s10-fe+",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S10 FE+"
+    },
+    {
+      "cycle": "galaxy-tab-s10-fe",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S10 FE"
+    },
+    {
+      "cycle": "galaxy-tab-s10+",
+      "eol": "2031-10-03",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S10+"
+    },
+    {
+      "cycle": "galaxy-tab-s9-ultra",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S9 Ultra"
+    },
+    {
+      "cycle": "galaxy-tab-s9-fe+",
+      "eol": "2028-10-04",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S9 FE+"
+    },
+    {
+      "cycle": "galaxy-tab-s9-fe",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S9 FE"
+    },
+    {
+      "cycle": "galaxy-tab-s9+",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S9+"
+    },
+    {
+      "cycle": "galaxy-tab-s9",
+      "eol": "2028-08-11",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S9"
+    },
+    {
+      "cycle": "galaxy-tab-s8-ultra",
+      "eol": "2027-04-30",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S8 Ultra"
+    },
+    {
+      "cycle": "galaxy-tab-s8+",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S8+"
+    },
+    {
+      "cycle": "galaxy-tab-s8",
+      "eol": "2027-03-22",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S8"
+    },
+    {
+      "cycle": "galaxy-tab-s7-fe",
+      "eol": "2025-07-08",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S7 FE"
+    },
+    {
+      "cycle": "galaxy-tab-s7+",
+      "eol": "2024-08-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s7",
+      "eol": "2024-08-05",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s6-lite-2024",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S6 Lite (2024)"
+    },
+    {
+      "cycle": "galaxy-tab-s6-lite-2020",
+      "eol": "2024-03-26",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s6-lite",
+      "eol": "2025-06-04",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab S6 Lite"
+    },
+    {
+      "cycle": "galaxy-tab-s6-5g",
+      "eol": "2024-01-30",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s6",
+      "eol": "2023-07-31",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s5e",
+      "eol": "2023-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s4-10.5",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s3-9.7",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s2-9.7",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-s2-8.0",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-pro-12.2-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-pro-12.2-3g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-pro-12.2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-j",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-e-9.6",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-e-8.0",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-advanced2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-active-pro",
+      "eol": "2023-10-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-active-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-active5-pro",
+      "eol": "2030-05-07",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab Active5 Pro"
+    },
+    {
+      "cycle": "galaxy-tab-active5",
+      "eol": "2029-01-23",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab Active5"
+    },
+    {
+      "cycle": "galaxy-tab-active4-pro",
+      "eol": "2027-08-31",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab Active4 Pro"
+    },
+    {
+      "cycle": "galaxy-tab-active3",
+      "eol": "2025-11-04",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab Active3"
+    },
+    {
+      "cycle": "galaxy-tab-active2",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-active",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-10.5-2018",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-10.1-2019",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-10.1-2016",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-9.7-and-s-pen",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-9.7",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-8.4-2020",
+      "eol": "2024-03-25",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-8.0-with-s-pen-2019",
+      "eol": "2023-04-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-8.0-and-s-pen-2015",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-8.0-2019",
+      "eol": "2023-07-01",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-8.0-2018",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-8.0-2017",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-8.0-2015",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a-7.0-2016",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a11+",
+      "eol": "2031-12-30",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab A11+"
+    },
+    {
+      "cycle": "galaxy-tab-a11",
+      "eol": "2032-09-29",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab A11"
+    },
+    {
+      "cycle": "galaxy-tab-a9+2025",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy Tab A9+(2025)"
+    },
+    {
+      "cycle": "galaxy-tab-a9+",
+      "eol": "2027-10-23",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab A9+"
+    },
+    {
+      "cycle": "galaxy-tab-a9",
+      "eol": "2027-10-23",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab A9"
+    },
+    {
+      "cycle": "galaxy-tab-a8",
+      "eol": "2026-02-21",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab A8"
+    },
+    {
+      "cycle": "galaxy-tab-a7-lite",
+      "eol": "2025-06-04",
+      "lts": false,
+      "releaseLabel": "Galaxy Tab A7 Lite"
+    },
+    {
+      "cycle": "galaxy-tab-a7-10.4-2022",
+      "eol": false,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-a7-10.4-2020",
+      "eol": "2024-08-10",
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-10.1-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-10.1-3g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-10.1",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-8.0-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-8.0-3g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-8.0",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-7.0-lte",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-7.0-3g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-4-7.0",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-3-v",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-3-lite-7.0-ve",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-3-lite-7.0-3g",
+      "eol": true,
+      "lts": false
+    },
+    {
+      "cycle": "galaxy-tab-3-lite-7.0",
+      "eol": true,
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "samsung-galaxy-tab",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/samsung-galaxy-tab.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

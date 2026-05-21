@@ -1,0 +1,172 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:argoproj:argo-workflows:*:*:*:*:*:*:*:*",
+    "display_name": "Argo Workflows",
+    "mapping_source": "eol_product_mapping",
+    "product": "argo-workflows",
+    "purl": "",
+    "vendor": "argoproj"
+  },
+  "cycles": [
+    {
+      "cycle": "4.0",
+      "latest": "4.0.5",
+      "latestReleaseDate": "2026-04-23",
+      "lts": false,
+      "releaseDate": "2026-04-23"
+    },
+    {
+      "cycle": "3.7",
+      "latest": "3.7.14",
+      "latestReleaseDate": "2026-04-23",
+      "lts": false,
+      "releaseDate": "2026-04-23"
+    },
+    {
+      "cycle": "3.6",
+      "latest": "3.6.19",
+      "latestReleaseDate": "2026-02-16",
+      "lts": false,
+      "releaseDate": "2026-02-16"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.15",
+      "latestReleaseDate": "2025-06-13",
+      "lts": false,
+      "releaseDate": "2025-06-13"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.18",
+      "latestReleaseDate": "2024-10-07",
+      "lts": false,
+      "releaseDate": "2024-10-07"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.10",
+      "latestReleaseDate": "2022-11-29",
+      "lts": false,
+      "releaseDate": "2022-11-29"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.11",
+      "latestReleaseDate": "2022-05-03",
+      "lts": false,
+      "releaseDate": "2022-05-03"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.15",
+      "latestReleaseDate": "2021-11-17",
+      "lts": false,
+      "releaseDate": "2021-11-17"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.10",
+      "latestReleaseDate": "2021-08-18",
+      "lts": false,
+      "releaseDate": "2021-08-18"
+    },
+    {
+      "cycle": "2.12",
+      "latest": "2.12.13",
+      "latestReleaseDate": "2021-08-18",
+      "lts": false,
+      "releaseDate": "2021-08-18"
+    },
+    {
+      "cycle": "2.11",
+      "latest": "2.11.8",
+      "latestReleaseDate": "2020-11-20",
+      "lts": false,
+      "releaseDate": "2020-11-20"
+    },
+    {
+      "cycle": "2.10",
+      "latest": "2.10.2",
+      "latestReleaseDate": "2020-09-14",
+      "lts": false,
+      "releaseDate": "2020-09-14"
+    },
+    {
+      "cycle": "2.9",
+      "latest": "2.9.5",
+      "latestReleaseDate": "2020-08-06",
+      "lts": false,
+      "releaseDate": "2020-08-06"
+    },
+    {
+      "cycle": "2.8",
+      "latest": "2.8.2",
+      "latestReleaseDate": "2020-06-22",
+      "lts": false,
+      "releaseDate": "2020-06-22"
+    },
+    {
+      "cycle": "2.7",
+      "latest": "2.7.7",
+      "latestReleaseDate": "2020-05-06",
+      "lts": false,
+      "releaseDate": "2020-05-06"
+    },
+    {
+      "cycle": "2.6",
+      "latest": "2.6.4",
+      "latestReleaseDate": "2020-04-15",
+      "lts": false,
+      "releaseDate": "2020-04-15"
+    },
+    {
+      "cycle": "2.5",
+      "latest": "2.5.2",
+      "latestReleaseDate": "2020-02-24",
+      "lts": false,
+      "releaseDate": "2020-02-24"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.3",
+      "latestReleaseDate": "2019-12-05",
+      "lts": false,
+      "releaseDate": "2019-12-05"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.0",
+      "latestReleaseDate": "2019-05-20",
+      "lts": false,
+      "releaseDate": "2019-05-20"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.1",
+      "latestReleaseDate": "2018-10-11",
+      "lts": false,
+      "releaseDate": "2018-10-11"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.2",
+      "latestReleaseDate": "2018-10-11",
+      "lts": false,
+      "releaseDate": "2018-10-11"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.0",
+      "latestReleaseDate": "2018-02-06",
+      "lts": false,
+      "releaseDate": "2018-02-06"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "argo-workflows",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/argo-workflows.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

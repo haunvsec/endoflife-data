@@ -1,0 +1,263 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:unity3d:unity_editor:*:*:*:*:*:*:*:*",
+    "display_name": "Unity Editor",
+    "mapping_source": "eol_product_mapping",
+    "product": "unity_editor",
+    "purl": "",
+    "vendor": "unity3d"
+  },
+  "cycles": [
+    {
+      "cycle": "6000.0",
+      "latest": "6000.0.74f1",
+      "latestReleaseDate": "2026-04-29",
+      "lts": false,
+      "releaseDate": "2026-04-29"
+    },
+    {
+      "cycle": "6000.4",
+      "latest": "6000.4.5f1",
+      "latestReleaseDate": "2026-04-28",
+      "lts": false,
+      "releaseDate": "2026-04-28"
+    },
+    {
+      "cycle": "6000.3",
+      "latest": "6000.3.14f1",
+      "latestReleaseDate": "2026-04-22",
+      "lts": false,
+      "releaseDate": "2026-04-22"
+    },
+    {
+      "cycle": "6000.2",
+      "latest": "6000.2.15f1",
+      "latestReleaseDate": "2025-12-03",
+      "lts": false,
+      "releaseDate": "2025-12-03"
+    },
+    {
+      "cycle": "2022.3",
+      "latest": "2022.3.62f3",
+      "latestReleaseDate": "2025-10-28",
+      "lts": false,
+      "releaseDate": "2025-10-28"
+    },
+    {
+      "cycle": "2019.4",
+      "latest": "2019.4.41f2",
+      "latestReleaseDate": "2025-10-15",
+      "lts": false,
+      "releaseDate": "2025-10-15"
+    },
+    {
+      "cycle": "6000.1",
+      "latest": "6000.1.17f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2023.2",
+      "latest": "2023.2.22f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2023.1",
+      "latest": "2023.1.22f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2022.2",
+      "latest": "2022.2.23f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2022.1",
+      "latest": "2022.1.25f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2021.3",
+      "latest": "2021.3.45f2",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2021.2",
+      "latest": "2021.2.20f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2021.1",
+      "latest": "2021.1.29f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2020.3",
+      "latest": "2020.3.49f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2020.2",
+      "latest": "2020.2.8f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2020.1",
+      "latest": "2020.1.18f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2019.3",
+      "latest": "2019.3.17f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2019.2",
+      "latest": "2019.2.23f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2019.1",
+      "latest": "2019.1.15f1",
+      "latestReleaseDate": "2025-10-03",
+      "lts": false,
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "cycle": "2018.4",
+      "latest": "2018.4.36f1",
+      "latestReleaseDate": "2021-06-17",
+      "lts": false,
+      "releaseDate": "2021-06-17"
+    },
+    {
+      "cycle": "2017.4",
+      "latest": "2017.4.40f1",
+      "latestReleaseDate": "2020-05-18",
+      "lts": false,
+      "releaseDate": "2020-05-18"
+    },
+    {
+      "cycle": "2018.3",
+      "latest": "2018.3.14f1",
+      "latestReleaseDate": "2019-04-26",
+      "lts": false,
+      "releaseDate": "2019-04-26"
+    },
+    {
+      "cycle": "2018.2",
+      "latest": "2018.2.21f1",
+      "latestReleaseDate": "2019-02-28",
+      "lts": false,
+      "releaseDate": "2019-02-28"
+    },
+    {
+      "cycle": "5.6",
+      "latest": "5.6.7f1",
+      "latestReleaseDate": "2019-02-28",
+      "lts": false,
+      "releaseDate": "2019-02-28"
+    },
+    {
+      "cycle": "2017.2",
+      "latest": "2017.2.5f1",
+      "latestReleaseDate": "2018-12-07",
+      "lts": false,
+      "releaseDate": "2018-12-07"
+    },
+    {
+      "cycle": "2018.1",
+      "latest": "2018.1.9f2",
+      "latestReleaseDate": "2018-08-29",
+      "lts": false,
+      "releaseDate": "2018-08-29"
+    },
+    {
+      "cycle": "2017.1",
+      "latest": "2017.1.5f1",
+      "latestReleaseDate": "2018-07-23",
+      "lts": false,
+      "releaseDate": "2018-07-23"
+    },
+    {
+      "cycle": "2017.3",
+      "latest": "2017.3.1p4",
+      "latestReleaseDate": "2018-03-13",
+      "lts": false,
+      "releaseDate": "2018-03-13"
+    },
+    {
+      "cycle": "5.5",
+      "latest": "5.5.6f1",
+      "latestReleaseDate": "2018-01-12",
+      "lts": false,
+      "releaseDate": "2018-01-12"
+    },
+    {
+      "cycle": "5.4",
+      "latest": "5.4.6f3",
+      "latestReleaseDate": "2017-09-20",
+      "lts": false,
+      "releaseDate": "2017-09-20"
+    },
+    {
+      "cycle": "5.3",
+      "latest": "5.3.8p2",
+      "latestReleaseDate": "2017-08-18",
+      "lts": false,
+      "releaseDate": "2017-08-18"
+    },
+    {
+      "cycle": "5.1",
+      "latest": "5.1.5f1",
+      "latestReleaseDate": "2016-06-06",
+      "lts": false,
+      "releaseDate": "2016-06-06"
+    },
+    {
+      "cycle": "5.2",
+      "latest": "5.2.5f1",
+      "latestReleaseDate": "2016-06-01",
+      "lts": false,
+      "releaseDate": "2016-06-01"
+    },
+    {
+      "cycle": "5.0",
+      "latest": "5.0.4f1",
+      "latestReleaseDate": "2015-07-06",
+      "lts": false,
+      "releaseDate": "2015-07-06"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "unity",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/unity.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

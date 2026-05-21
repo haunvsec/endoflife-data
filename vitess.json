@@ -1,0 +1,186 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:vitessio:vitess:*:*:*:*:*:*:*:*",
+    "display_name": "Vitess",
+    "mapping_source": "eol_product_mapping",
+    "product": "vitess",
+    "purl": "",
+    "vendor": "vitessio"
+  },
+  "cycles": [
+    {
+      "cycle": "24.0",
+      "latest": "24.0.0",
+      "latestReleaseDate": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2026-04-30"
+    },
+    {
+      "cycle": "23.0",
+      "latest": "23.0.3",
+      "latestReleaseDate": "2026-02-26",
+      "lts": false,
+      "releaseDate": "2026-02-26"
+    },
+    {
+      "cycle": "22.0",
+      "latest": "22.0.4",
+      "latestReleaseDate": "2026-02-26",
+      "lts": false,
+      "releaseDate": "2026-02-26"
+    },
+    {
+      "cycle": "21.0",
+      "latest": "21.0.6",
+      "latestReleaseDate": "2025-11-05",
+      "lts": false,
+      "releaseDate": "2025-11-05"
+    },
+    {
+      "cycle": "20.0",
+      "latest": "20.0.8",
+      "latestReleaseDate": "2025-06-18",
+      "lts": false,
+      "releaseDate": "2025-06-18"
+    },
+    {
+      "cycle": "19.0",
+      "latest": "19.0.10",
+      "latestReleaseDate": "2025-02-12",
+      "lts": false,
+      "releaseDate": "2025-02-12"
+    },
+    {
+      "cycle": "18.0",
+      "latest": "18.0.8",
+      "latestReleaseDate": "2024-11-06",
+      "lts": false,
+      "releaseDate": "2024-11-06"
+    },
+    {
+      "cycle": "17.0",
+      "latest": "17.0.7",
+      "latestReleaseDate": "2024-05-08",
+      "lts": false,
+      "releaseDate": "2024-05-08"
+    },
+    {
+      "cycle": "16.0",
+      "latest": "16.0.7",
+      "latestReleaseDate": "2023-12-20",
+      "lts": false,
+      "releaseDate": "2023-12-20"
+    },
+    {
+      "cycle": "15.0",
+      "latest": "15.0.5",
+      "latestReleaseDate": "2023-10-03",
+      "lts": false,
+      "releaseDate": "2023-10-03"
+    },
+    {
+      "cycle": "14.0",
+      "latest": "14.0.5",
+      "latestReleaseDate": "2023-03-30",
+      "lts": false,
+      "releaseDate": "2023-03-30"
+    },
+    {
+      "cycle": "13.0",
+      "latest": "13.0.3",
+      "latestReleaseDate": "2022-09-01",
+      "lts": false,
+      "releaseDate": "2022-09-01"
+    },
+    {
+      "cycle": "12.0",
+      "latest": "12.0.6",
+      "latestReleaseDate": "2022-09-01",
+      "lts": false,
+      "releaseDate": "2022-09-01"
+    },
+    {
+      "cycle": "11.0",
+      "latest": "11.0.4",
+      "latestReleaseDate": "2022-01-10",
+      "lts": false,
+      "releaseDate": "2022-01-10"
+    },
+    {
+      "cycle": "10.0",
+      "latest": "10.0.5",
+      "latestReleaseDate": "2022-01-10",
+      "lts": false,
+      "releaseDate": "2022-01-10"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.2",
+      "latestReleaseDate": "2021-05-25",
+      "lts": false,
+      "releaseDate": "2021-05-25"
+    },
+    {
+      "cycle": "8.0",
+      "latest": "8.0.0",
+      "latestReleaseDate": "2020-10-27",
+      "lts": false,
+      "releaseDate": "2020-10-27"
+    },
+    {
+      "cycle": "7.0",
+      "latest": "7.0.3",
+      "latestReleaseDate": "2020-10-22",
+      "lts": false,
+      "releaseDate": "2020-10-22"
+    },
+    {
+      "cycle": "5.0",
+      "latest": "5.0.1",
+      "latestReleaseDate": "2020-01-15",
+      "lts": false,
+      "releaseDate": "2020-01-15"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.1",
+      "latestReleaseDate": "2019-11-12",
+      "lts": false,
+      "releaseDate": "2019-11-12"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0",
+      "latestReleaseDate": "2018-12-09",
+      "lts": false,
+      "releaseDate": "2018-12-09"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2",
+      "latestReleaseDate": "2018-05-31",
+      "lts": false,
+      "releaseDate": "2018-05-31"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.1",
+      "latestReleaseDate": "2017-05-22",
+      "lts": false,
+      "releaseDate": "2017-05-22"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.0",
+      "latestReleaseDate": "2016-07-11",
+      "lts": false,
+      "releaseDate": "2016-07-11"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "vitess",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/vitess.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

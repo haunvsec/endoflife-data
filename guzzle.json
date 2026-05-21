@@ -1,0 +1,319 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:guzzlephp:guzzle:*:*:*:*:*:*:*:*",
+    "display_name": "Guzzle",
+    "mapping_source": "eol_product_mapping",
+    "product": "guzzle",
+    "purl": "",
+    "vendor": "guzzlephp"
+  },
+  "cycles": [
+    {
+      "cycle": "7.10",
+      "latest": "7.10.0",
+      "latestReleaseDate": "2025-08-23",
+      "lts": false,
+      "releaseDate": "2025-08-23"
+    },
+    {
+      "cycle": "7.9",
+      "latest": "7.9.3",
+      "latestReleaseDate": "2025-03-27",
+      "lts": false,
+      "releaseDate": "2025-03-27"
+    },
+    {
+      "cycle": "7.8",
+      "latest": "7.8.2",
+      "latestReleaseDate": "2024-07-18",
+      "lts": false,
+      "releaseDate": "2024-07-18"
+    },
+    {
+      "cycle": "7.7",
+      "latest": "7.7.1",
+      "latestReleaseDate": "2023-08-27",
+      "lts": false,
+      "releaseDate": "2023-08-27"
+    },
+    {
+      "cycle": "7.6",
+      "latest": "7.6.1",
+      "latestReleaseDate": "2023-05-15",
+      "lts": false,
+      "releaseDate": "2023-05-15"
+    },
+    {
+      "cycle": "7.5",
+      "latest": "7.5.3",
+      "latestReleaseDate": "2023-05-15",
+      "lts": false,
+      "releaseDate": "2023-05-15"
+    },
+    {
+      "cycle": "7.4",
+      "latest": "7.4.5",
+      "latestReleaseDate": "2022-06-20",
+      "lts": false,
+      "releaseDate": "2022-06-20"
+    },
+    {
+      "cycle": "6.5",
+      "latest": "6.5.8",
+      "latestReleaseDate": "2022-06-20",
+      "lts": false,
+      "releaseDate": "2022-06-20"
+    },
+    {
+      "cycle": "7.3",
+      "latest": "7.3.0",
+      "latestReleaseDate": "2021-03-23",
+      "lts": false,
+      "releaseDate": "2021-03-23"
+    },
+    {
+      "cycle": "7.2",
+      "latest": "7.2.0",
+      "latestReleaseDate": "2020-10-10",
+      "lts": false,
+      "releaseDate": "2020-10-10"
+    },
+    {
+      "cycle": "7.1",
+      "latest": "7.1.1",
+      "latestReleaseDate": "2020-09-30",
+      "lts": false,
+      "releaseDate": "2020-09-30"
+    },
+    {
+      "cycle": "7.0",
+      "latest": "7.0.1",
+      "latestReleaseDate": "2020-06-27",
+      "lts": false,
+      "releaseDate": "2020-06-27"
+    },
+    {
+      "cycle": "5.3",
+      "latest": "5.3.4",
+      "latestReleaseDate": "2019-10-30",
+      "lts": false,
+      "releaseDate": "2019-10-30"
+    },
+    {
+      "cycle": "6.4",
+      "latest": "6.4.1",
+      "latestReleaseDate": "2019-10-23",
+      "lts": false,
+      "releaseDate": "2019-10-23"
+    },
+    {
+      "cycle": "6.3",
+      "latest": "6.3.3",
+      "latestReleaseDate": "2018-04-22",
+      "lts": false,
+      "releaseDate": "2018-04-22"
+    },
+    {
+      "cycle": "6.2",
+      "latest": "6.2.3",
+      "latestReleaseDate": "2017-02-28",
+      "lts": false,
+      "releaseDate": "2017-02-28"
+    },
+    {
+      "cycle": "4.2",
+      "latest": "4.2.4",
+      "latestReleaseDate": "2016-07-15",
+      "lts": false,
+      "releaseDate": "2016-07-15"
+    },
+    {
+      "cycle": "6.1",
+      "latest": "6.1.1",
+      "latestReleaseDate": "2015-11-22",
+      "lts": false,
+      "releaseDate": "2015-11-22"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0.2",
+      "latestReleaseDate": "2015-07-04",
+      "lts": false,
+      "releaseDate": "2015-07-04"
+    },
+    {
+      "cycle": "5.2",
+      "latest": "5.2.0",
+      "latestReleaseDate": "2015-01-27",
+      "lts": false,
+      "releaseDate": "2015-01-27"
+    },
+    {
+      "cycle": "5.1",
+      "latest": "5.1.0",
+      "latestReleaseDate": "2014-12-19",
+      "lts": false,
+      "releaseDate": "2014-12-19"
+    },
+    {
+      "cycle": "5.0",
+      "latest": "5.0.3",
+      "latestReleaseDate": "2014-11-03",
+      "lts": false,
+      "releaseDate": "2014-11-03"
+    },
+    {
+      "cycle": "4.1",
+      "latest": "4.1.8",
+      "latestReleaseDate": "2014-08-14",
+      "lts": false,
+      "releaseDate": "2014-08-14"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.2",
+      "latestReleaseDate": "2014-04-16",
+      "lts": false,
+      "releaseDate": "2014-04-16"
+    },
+    {
+      "cycle": "3.8",
+      "latest": "3.8.1",
+      "latestReleaseDate": "2014-01-28",
+      "lts": false,
+      "releaseDate": "2014-01-28"
+    },
+    {
+      "cycle": "3.7",
+      "latest": "3.7.4",
+      "latestReleaseDate": "2013-10-02",
+      "lts": false,
+      "releaseDate": "2013-10-02"
+    },
+    {
+      "cycle": "3.6",
+      "latest": "3.6.0",
+      "latestReleaseDate": "2013-05-30",
+      "lts": false,
+      "releaseDate": "2013-05-30"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.0",
+      "latestReleaseDate": "2013-05-13",
+      "lts": false,
+      "releaseDate": "2013-05-13"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.3",
+      "latestReleaseDate": "2013-04-30",
+      "lts": false,
+      "releaseDate": "2013-04-30"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.1",
+      "latestReleaseDate": "2013-03-10",
+      "lts": false,
+      "releaseDate": "2013-03-10"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.0",
+      "latestReleaseDate": "2013-02-14",
+      "lts": false,
+      "releaseDate": "2013-02-14"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.2",
+      "latestReleaseDate": "2013-01-27",
+      "lts": false,
+      "releaseDate": "2013-01-27"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.7",
+      "latestReleaseDate": "2012-12-19",
+      "lts": false,
+      "releaseDate": "2012-12-19"
+    },
+    {
+      "cycle": "2.8",
+      "latest": "2.8.8",
+      "latestReleaseDate": "2012-10-15",
+      "lts": false,
+      "releaseDate": "2012-10-15"
+    },
+    {
+      "cycle": "2.7",
+      "latest": "2.7.2",
+      "latestReleaseDate": "2012-07-02",
+      "lts": false,
+      "releaseDate": "2012-07-02"
+    },
+    {
+      "cycle": "2.6",
+      "latest": "2.6.6",
+      "latestReleaseDate": "2012-06-10",
+      "lts": false,
+      "releaseDate": "2012-06-10"
+    },
+    {
+      "cycle": "2.5",
+      "latest": "2.5.0",
+      "latestReleaseDate": "2012-05-07",
+      "lts": false,
+      "releaseDate": "2012-05-07"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.1",
+      "latestReleaseDate": "2012-04-23",
+      "lts": false,
+      "releaseDate": "2012-04-23"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.2",
+      "latestReleaseDate": "2012-04-16",
+      "lts": false,
+      "releaseDate": "2012-04-16"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.4",
+      "latestReleaseDate": "2012-04-02",
+      "lts": false,
+      "releaseDate": "2012-04-02"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.4",
+      "latestReleaseDate": "2012-01-28",
+      "lts": false,
+      "releaseDate": "2012-01-28"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.5",
+      "latestReleaseDate": "2012-01-22",
+      "lts": false,
+      "releaseDate": "2012-01-22"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.4",
+      "latestReleaseDate": "2011-12-31",
+      "lts": false,
+      "releaseDate": "2011-12-31"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "guzzle",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/guzzle.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

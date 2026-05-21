@@ -1,0 +1,60 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+    "display_name": "Apache Tomcat",
+    "mapping_source": "advisory-data",
+    "product": "tomcat",
+    "purl": "",
+    "vendor": "apache"
+  },
+  "cycles": [
+    {
+      "cycle": "10.1",
+      "latest": "10.1.55",
+      "latestReleaseDate": "2026-05-05",
+      "lts": false,
+      "releaseDate": "2026-05-05"
+    },
+    {
+      "cycle": "11.0",
+      "latest": "11.0.22",
+      "latestReleaseDate": "2026-05-01",
+      "lts": false,
+      "releaseDate": "2026-05-01"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.118",
+      "latestReleaseDate": "2026-05-01",
+      "lts": false,
+      "releaseDate": "2026-05-01"
+    },
+    {
+      "cycle": "8.5",
+      "latest": "8.5.100",
+      "latestReleaseDate": "2024-03-19",
+      "lts": false,
+      "releaseDate": "2024-03-19"
+    },
+    {
+      "cycle": "10.0",
+      "latest": "10.0.27",
+      "latestReleaseDate": "2022-10-03",
+      "lts": false,
+      "releaseDate": "2022-10-03"
+    },
+    {
+      "cycle": "7.0",
+      "latest": "7.0.109",
+      "latestReleaseDate": "2021-04-22",
+      "lts": false,
+      "releaseDate": "2021-04-22"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "tomcat",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/tomcat.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

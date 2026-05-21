@@ -1,0 +1,114 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Ansible Core",
+    "mapping_source": "unmapped",
+    "product": "ansible_core",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "2.20",
+      "eol": "2027-05-31",
+      "latest": "2.20.5",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2025-11-03"
+    },
+    {
+      "cycle": "2.19",
+      "eol": "2026-11-30",
+      "latest": "2.19.9",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2025-07-21"
+    },
+    {
+      "cycle": "2.18",
+      "eol": "2026-05-31",
+      "latest": "2.18.16",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2024-11-04"
+    },
+    {
+      "cycle": "2.17",
+      "eol": "2025-11-30",
+      "latest": "2.17.14",
+      "latestReleaseDate": "2025-09-08",
+      "lts": false,
+      "releaseDate": "2024-05-20"
+    },
+    {
+      "cycle": "2.16",
+      "eol": "2025-07-31",
+      "latest": "2.16.18",
+      "latestReleaseDate": "2026-03-23",
+      "lts": false,
+      "releaseDate": "2023-11-06"
+    },
+    {
+      "cycle": "2.15",
+      "eol": "2024-11-30",
+      "latest": "2.15.13",
+      "latestReleaseDate": "2024-11-04",
+      "lts": false,
+      "releaseDate": "2023-05-22"
+    },
+    {
+      "cycle": "2.14",
+      "eol": "2024-05-20",
+      "latest": "2.14.18",
+      "latestReleaseDate": "2024-11-04",
+      "lts": false,
+      "releaseDate": "2022-11-07"
+    },
+    {
+      "cycle": "2.13",
+      "eol": "2023-11-06",
+      "latest": "2.13.13",
+      "latestReleaseDate": "2023-10-09",
+      "lts": false,
+      "releaseDate": "2022-05-23"
+    },
+    {
+      "cycle": "2.12",
+      "eol": "2023-05-22",
+      "latest": "2.12.10",
+      "latestReleaseDate": "2022-10-11",
+      "lts": false,
+      "releaseDate": "2021-11-08"
+    },
+    {
+      "cycle": "2.11",
+      "eol": "2022-11-07",
+      "latest": "2.11.12",
+      "latestReleaseDate": "2022-05-23",
+      "lts": false,
+      "releaseDate": "2021-04-26"
+    },
+    {
+      "cycle": "2.10",
+      "eol": "2022-05-23",
+      "latest": "2.10.17",
+      "latestReleaseDate": "2022-01-31",
+      "lts": false,
+      "releaseDate": "2020-08-13"
+    },
+    {
+      "cycle": "2.9",
+      "eol": "2022-05-23",
+      "latest": "2.9.27",
+      "latestReleaseDate": "2021-10-11",
+      "lts": false,
+      "releaseDate": "2019-10-31"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "ansible-core",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/ansible-core.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

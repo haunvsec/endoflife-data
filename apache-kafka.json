@@ -1,0 +1,81 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:apache:kafka:*:*:*:*:*:*:*:*",
+    "display_name": "Apache Kafka",
+    "mapping_source": "eol_product_mapping",
+    "product": "kafka",
+    "purl": "",
+    "vendor": "apache"
+  },
+  "cycles": [
+    {
+      "cycle": "4.2",
+      "extendedSupport": "2028-03-04",
+      "latest": "4.2.0",
+      "latestReleaseDate": "2026-02-16",
+      "lts": false
+    },
+    {
+      "cycle": "4.1",
+      "extendedSupport": "2027-10-15",
+      "latest": "4.1.2",
+      "latestReleaseDate": "2026-03-16",
+      "lts": false
+    },
+    {
+      "cycle": "4.0",
+      "extendedSupport": "2027-06-11",
+      "latest": "4.0.2",
+      "latestReleaseDate": "2026-03-18",
+      "lts": false
+    },
+    {
+      "cycle": "3.9",
+      "extendedSupport": "2027-02-19",
+      "latest": "3.9.2",
+      "latestReleaseDate": "2026-02-21",
+      "lts": false
+    },
+    {
+      "cycle": "3.8",
+      "extendedSupport": "2026-12-02",
+      "latest": "3.8.1",
+      "latestReleaseDate": "2024-10-29",
+      "lts": false
+    },
+    {
+      "cycle": "3.7",
+      "extendedSupport": "2026-07-26",
+      "latest": "3.7.2",
+      "latestReleaseDate": "2024-12-04",
+      "lts": false
+    },
+    {
+      "cycle": "3.6",
+      "extendedSupport": "2026-02-09",
+      "latest": "3.6.2",
+      "latestReleaseDate": "2024-04-04",
+      "lts": false
+    },
+    {
+      "cycle": "3.5",
+      "extendedSupport": "2025-08-25",
+      "latest": "3.5.2",
+      "latestReleaseDate": "2023-12-08",
+      "lts": false
+    },
+    {
+      "cycle": "3.4",
+      "extendedSupport": "2025-05-03",
+      "latest": "3.4.1",
+      "latestReleaseDate": "2023-05-26",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "apache-kafka",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/apache-kafka.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

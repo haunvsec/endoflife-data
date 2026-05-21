@@ -1,0 +1,40 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:amazon:documentdb:*:*:*:*:*:*:*:*",
+    "display_name": "Amazon Documentdb",
+    "mapping_source": "slug_prefix",
+    "product": "documentdb",
+    "purl": "",
+    "vendor": "amazon"
+  },
+  "cycles": [
+    {
+      "cycle": "8.0",
+      "lts": false,
+      "releaseDate": "2025-11-30"
+    },
+    {
+      "cycle": "5.0",
+      "lts": false,
+      "releaseDate": "2023-03-01"
+    },
+    {
+      "cycle": "4.0",
+      "lts": false,
+      "releaseDate": "2020-11-09"
+    },
+    {
+      "cycle": "3.6",
+      "eol": "2026-03-30",
+      "extendedSupport": "2029-03-30",
+      "lts": false,
+      "releaseDate": "2019-01-09"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "amazon-documentdb",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/amazon-documentdb.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

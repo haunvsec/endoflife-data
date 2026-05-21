@@ -1,0 +1,46 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*",
+    "display_name": "Eclipse Jetty",
+    "mapping_source": "eol_product_mapping",
+    "product": "jetty",
+    "purl": "",
+    "vendor": "eclipse"
+  },
+  "cycles": [
+    {
+      "cycle": "12.1",
+      "latest": "12.1.9",
+      "latestReleaseDate": "2026-05-06",
+      "lts": false,
+      "releaseDate": "2026-05-06"
+    },
+    {
+      "cycle": "12.0",
+      "latest": "12.0.35",
+      "latestReleaseDate": "2026-05-06",
+      "lts": false,
+      "releaseDate": "2026-05-06"
+    },
+    {
+      "cycle": "11.0",
+      "latest": "11.0.26",
+      "latestReleaseDate": "2025-08-18",
+      "lts": false,
+      "releaseDate": "2025-08-18"
+    },
+    {
+      "cycle": "10.0",
+      "latest": "10.0.26",
+      "latestReleaseDate": "2025-08-18",
+      "lts": false,
+      "releaseDate": "2025-08-18"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "eclipse-jetty",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/eclipse-jetty.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

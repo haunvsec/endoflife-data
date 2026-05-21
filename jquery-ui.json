@@ -1,0 +1,88 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:jqueryui:jquery_ui:*:*:*:*:*:*:*:*",
+    "display_name": "jQuery UI",
+    "mapping_source": "eol_product_mapping",
+    "product": "jquery_ui",
+    "purl": "",
+    "vendor": "jqueryui"
+  },
+  "cycles": [
+    {
+      "cycle": "1.14",
+      "latest": "1.14.2",
+      "latestReleaseDate": "2026-01-29",
+      "lts": false,
+      "releaseDate": "2026-01-29"
+    },
+    {
+      "cycle": "1.13",
+      "latest": "1.13.3",
+      "latestReleaseDate": "2024-04-26",
+      "lts": false,
+      "releaseDate": "2024-04-26"
+    },
+    {
+      "cycle": "1.12",
+      "latest": "1.12.1",
+      "latestReleaseDate": "2016-09-14",
+      "lts": false,
+      "releaseDate": "2016-09-14"
+    },
+    {
+      "cycle": "1.11",
+      "latest": "1.11.4",
+      "latestReleaseDate": "2015-03-11",
+      "lts": false,
+      "releaseDate": "2015-03-11"
+    },
+    {
+      "cycle": "1.10",
+      "latest": "1.10.4",
+      "latestReleaseDate": "2014-01-17",
+      "lts": false,
+      "releaseDate": "2014-01-17"
+    },
+    {
+      "cycle": "1.9",
+      "latest": "1.9.2",
+      "latestReleaseDate": "2012-11-23",
+      "lts": false,
+      "releaseDate": "2012-11-23"
+    },
+    {
+      "cycle": "1.8",
+      "latest": "1.8.24",
+      "latestReleaseDate": "2012-09-28",
+      "lts": false,
+      "releaseDate": "2012-09-28"
+    },
+    {
+      "cycle": "1.7",
+      "latest": "1.7",
+      "latestReleaseDate": "2009-03-03",
+      "lts": false,
+      "releaseDate": "2009-03-03"
+    },
+    {
+      "cycle": "1.6",
+      "latest": "1.6",
+      "latestReleaseDate": "2009-02-13",
+      "lts": false,
+      "releaseDate": "2009-02-13"
+    },
+    {
+      "cycle": "1.5",
+      "latest": "1.5.2",
+      "latestReleaseDate": "2008-07-09",
+      "lts": false,
+      "releaseDate": "2008-07-09"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "jquery-ui",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/jquery-ui.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

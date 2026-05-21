@@ -1,0 +1,60 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:duckdb:duckdb:*:*:*:*:*:*:*:*",
+    "display_name": "DuckDB",
+    "mapping_source": "eol_product_mapping",
+    "product": "duckdb",
+    "purl": "",
+    "vendor": "duckdb"
+  },
+  "cycles": [
+    {
+      "cycle": "1.5",
+      "latest": "1.5.2",
+      "latestReleaseDate": "2026-04-13",
+      "lts": false,
+      "releaseDate": "2026-04-13"
+    },
+    {
+      "cycle": "1.4",
+      "latest": "1.4.4",
+      "latestReleaseDate": "2026-01-26",
+      "lts": false,
+      "releaseDate": "2026-01-26"
+    },
+    {
+      "cycle": "1.3",
+      "latest": "1.3.2",
+      "latestReleaseDate": "2025-07-08",
+      "lts": false,
+      "releaseDate": "2025-07-08"
+    },
+    {
+      "cycle": "1.2",
+      "latest": "1.2.2",
+      "latestReleaseDate": "2025-04-08",
+      "lts": false,
+      "releaseDate": "2025-04-08"
+    },
+    {
+      "cycle": "1.1",
+      "latest": "1.1.3",
+      "latestReleaseDate": "2024-11-04",
+      "lts": false,
+      "releaseDate": "2024-11-04"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.0",
+      "latestReleaseDate": "2024-06-03",
+      "lts": false,
+      "releaseDate": "2024-06-03"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "duckdb",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/duckdb.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

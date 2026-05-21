@@ -1,0 +1,478 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*",
+    "display_name": "Google Chrome",
+    "mapping_source": "eol_product_mapping",
+    "product": "chrome",
+    "purl": "",
+    "vendor": "google"
+  },
+  "cycles": [
+    {
+      "cycle": "148",
+      "lts": false,
+      "releaseDate": "2026-05-05"
+    },
+    {
+      "cycle": "147",
+      "lts": false,
+      "releaseDate": "2026-04-07"
+    },
+    {
+      "cycle": "146",
+      "lts": false,
+      "releaseDate": "2026-03-10"
+    },
+    {
+      "cycle": "145",
+      "lts": false,
+      "releaseDate": "2026-02-10"
+    },
+    {
+      "cycle": "144",
+      "lts": false,
+      "releaseDate": "2026-01-13"
+    },
+    {
+      "cycle": "143",
+      "lts": false,
+      "releaseDate": "2025-12-02"
+    },
+    {
+      "cycle": "142",
+      "lts": false,
+      "releaseDate": "2025-10-28"
+    },
+    {
+      "cycle": "141",
+      "lts": false,
+      "releaseDate": "2025-09-30"
+    },
+    {
+      "cycle": "140",
+      "lts": false,
+      "releaseDate": "2025-09-02"
+    },
+    {
+      "cycle": "139",
+      "lts": false,
+      "releaseDate": "2025-08-05"
+    },
+    {
+      "cycle": "138",
+      "lts": false,
+      "releaseDate": "2025-06-24"
+    },
+    {
+      "cycle": "137",
+      "lts": false,
+      "releaseDate": "2025-05-27"
+    },
+    {
+      "cycle": "136",
+      "lts": false,
+      "releaseDate": "2025-04-29"
+    },
+    {
+      "cycle": "135",
+      "lts": false,
+      "releaseDate": "2025-04-01"
+    },
+    {
+      "cycle": "134",
+      "lts": false,
+      "releaseDate": "2025-03-04"
+    },
+    {
+      "cycle": "133",
+      "lts": false,
+      "releaseDate": "2025-02-04"
+    },
+    {
+      "cycle": "132",
+      "lts": false,
+      "releaseDate": "2025-01-14"
+    },
+    {
+      "cycle": "131",
+      "lts": false,
+      "releaseDate": "2024-11-12"
+    },
+    {
+      "cycle": "130",
+      "lts": false,
+      "releaseDate": "2024-10-15"
+    },
+    {
+      "cycle": "129",
+      "lts": false,
+      "releaseDate": "2024-09-17"
+    },
+    {
+      "cycle": "128",
+      "lts": false,
+      "releaseDate": "2024-08-20"
+    },
+    {
+      "cycle": "127",
+      "lts": false,
+      "releaseDate": "2024-07-23"
+    },
+    {
+      "cycle": "126",
+      "lts": false,
+      "releaseDate": "2024-06-11"
+    },
+    {
+      "cycle": "125",
+      "lts": false,
+      "releaseDate": "2024-05-14"
+    },
+    {
+      "cycle": "124",
+      "lts": false,
+      "releaseDate": "2024-04-16"
+    },
+    {
+      "cycle": "123",
+      "lts": false,
+      "releaseDate": "2024-03-19"
+    },
+    {
+      "cycle": "122",
+      "lts": false,
+      "releaseDate": "2024-02-20"
+    },
+    {
+      "cycle": "121",
+      "lts": false,
+      "releaseDate": "2024-01-23"
+    },
+    {
+      "cycle": "120",
+      "lts": false,
+      "releaseDate": "2023-12-05"
+    },
+    {
+      "cycle": "119",
+      "lts": false,
+      "releaseDate": "2023-10-31"
+    },
+    {
+      "cycle": "118",
+      "lts": false,
+      "releaseDate": "2023-10-10"
+    },
+    {
+      "cycle": "117",
+      "lts": false,
+      "releaseDate": "2023-09-12"
+    },
+    {
+      "cycle": "116",
+      "lts": false,
+      "releaseDate": "2023-08-15"
+    },
+    {
+      "cycle": "115",
+      "lts": false,
+      "releaseDate": "2023-07-18"
+    },
+    {
+      "cycle": "114",
+      "lts": false,
+      "releaseDate": "2023-05-30"
+    },
+    {
+      "cycle": "113",
+      "lts": false,
+      "releaseDate": "2023-05-02"
+    },
+    {
+      "cycle": "112",
+      "lts": false,
+      "releaseDate": "2023-04-04"
+    },
+    {
+      "cycle": "111",
+      "lts": false,
+      "releaseDate": "2023-03-07"
+    },
+    {
+      "cycle": "110",
+      "lts": false,
+      "releaseDate": "2023-02-07"
+    },
+    {
+      "cycle": "109",
+      "lts": false,
+      "releaseDate": "2023-01-10"
+    },
+    {
+      "cycle": "108",
+      "lts": false,
+      "releaseDate": "2022-11-29"
+    },
+    {
+      "cycle": "107",
+      "lts": false,
+      "releaseDate": "2022-10-25"
+    },
+    {
+      "cycle": "106",
+      "lts": false,
+      "releaseDate": "2022-09-27"
+    },
+    {
+      "cycle": "105",
+      "lts": false,
+      "releaseDate": "2022-08-30"
+    },
+    {
+      "cycle": "104",
+      "lts": false,
+      "releaseDate": "2022-08-02"
+    },
+    {
+      "cycle": "103",
+      "lts": false,
+      "releaseDate": "2022-06-21"
+    },
+    {
+      "cycle": "102",
+      "lts": false,
+      "releaseDate": "2022-05-24"
+    },
+    {
+      "cycle": "101",
+      "lts": false,
+      "releaseDate": "2022-04-26"
+    },
+    {
+      "cycle": "100",
+      "lts": false,
+      "releaseDate": "2022-03-29"
+    },
+    {
+      "cycle": "99",
+      "lts": false,
+      "releaseDate": "2022-03-01"
+    },
+    {
+      "cycle": "98",
+      "lts": false,
+      "releaseDate": "2022-02-01"
+    },
+    {
+      "cycle": "97",
+      "lts": false,
+      "releaseDate": "2022-01-04"
+    },
+    {
+      "cycle": "96",
+      "lts": false,
+      "releaseDate": "2021-11-16"
+    },
+    {
+      "cycle": "95",
+      "lts": false,
+      "releaseDate": "2021-10-19"
+    },
+    {
+      "cycle": "94",
+      "lts": false,
+      "releaseDate": "2021-09-21"
+    },
+    {
+      "cycle": "93",
+      "lts": false,
+      "releaseDate": "2021-08-31"
+    },
+    {
+      "cycle": "92",
+      "lts": false,
+      "releaseDate": "2021-07-20"
+    },
+    {
+      "cycle": "91",
+      "lts": false,
+      "releaseDate": "2021-05-25"
+    },
+    {
+      "cycle": "90",
+      "lts": false,
+      "releaseDate": "2021-04-13"
+    },
+    {
+      "cycle": "89",
+      "lts": false,
+      "releaseDate": "2021-03-02"
+    },
+    {
+      "cycle": "88",
+      "lts": false,
+      "releaseDate": "2021-01-19"
+    },
+    {
+      "cycle": "87",
+      "lts": false,
+      "releaseDate": "2020-11-17"
+    },
+    {
+      "cycle": "86",
+      "lts": false,
+      "releaseDate": "2020-10-06"
+    },
+    {
+      "cycle": "85",
+      "lts": false,
+      "releaseDate": "2020-08-25"
+    },
+    {
+      "cycle": "84",
+      "lts": false,
+      "releaseDate": "2020-07-14"
+    },
+    {
+      "cycle": "83",
+      "lts": false,
+      "releaseDate": "2020-05-19"
+    },
+    {
+      "cycle": "81",
+      "lts": false,
+      "releaseDate": "2020-04-07"
+    },
+    {
+      "cycle": "80",
+      "lts": false,
+      "releaseDate": "2020-02-04"
+    },
+    {
+      "cycle": "79",
+      "lts": false,
+      "releaseDate": "2019-12-10"
+    },
+    {
+      "cycle": "78",
+      "lts": false,
+      "releaseDate": "2019-10-22"
+    },
+    {
+      "cycle": "77",
+      "lts": false,
+      "releaseDate": "2019-09-10"
+    },
+    {
+      "cycle": "76",
+      "lts": false,
+      "releaseDate": "2019-07-30"
+    },
+    {
+      "cycle": "75",
+      "lts": false,
+      "releaseDate": "2019-06-04"
+    },
+    {
+      "cycle": "74",
+      "lts": false,
+      "releaseDate": "2019-04-23"
+    },
+    {
+      "cycle": "73",
+      "lts": false,
+      "releaseDate": "2019-03-12"
+    },
+    {
+      "cycle": "72",
+      "lts": false,
+      "releaseDate": "2019-01-29"
+    },
+    {
+      "cycle": "71",
+      "lts": false,
+      "releaseDate": "2018-12-04"
+    },
+    {
+      "cycle": "70",
+      "lts": false,
+      "releaseDate": "2018-10-16"
+    },
+    {
+      "cycle": "69",
+      "lts": false,
+      "releaseDate": "2018-09-04"
+    },
+    {
+      "cycle": "68",
+      "lts": false,
+      "releaseDate": "2018-07-24"
+    },
+    {
+      "cycle": "67",
+      "lts": false,
+      "releaseDate": "2018-05-29"
+    },
+    {
+      "cycle": "66",
+      "lts": false,
+      "releaseDate": "2018-04-17"
+    },
+    {
+      "cycle": "65",
+      "lts": false,
+      "releaseDate": "2018-03-06"
+    },
+    {
+      "cycle": "64",
+      "lts": false,
+      "releaseDate": "2018-01-23"
+    },
+    {
+      "cycle": "63",
+      "lts": false,
+      "releaseDate": "2017-12-05"
+    },
+    {
+      "cycle": "62",
+      "lts": false,
+      "releaseDate": "2017-10-17"
+    },
+    {
+      "cycle": "61",
+      "lts": false,
+      "releaseDate": "2017-09-05"
+    },
+    {
+      "cycle": "60",
+      "lts": false,
+      "releaseDate": "2017-07-25"
+    },
+    {
+      "cycle": "59",
+      "lts": false,
+      "releaseDate": "2017-05-30"
+    },
+    {
+      "cycle": "58",
+      "lts": false,
+      "releaseDate": "2017-04-18"
+    },
+    {
+      "cycle": "57",
+      "lts": false,
+      "releaseDate": "2017-03-07"
+    },
+    {
+      "cycle": "56",
+      "lts": false,
+      "releaseDate": "2017-01-24"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "chrome",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/chrome.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

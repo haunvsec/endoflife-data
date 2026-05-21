@@ -1,0 +1,193 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:apache:activemq:*:*:*:*:*:*:*:*",
+    "display_name": "Apache ActiveMQ",
+    "mapping_source": "advisory-data",
+    "product": "activemq",
+    "purl": "",
+    "vendor": "apache"
+  },
+  "cycles": [
+    {
+      "cycle": "6.2",
+      "latest": "6.2.5",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2026-04-21"
+    },
+    {
+      "cycle": "5.19",
+      "latest": "5.19.6",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2026-04-21"
+    },
+    {
+      "cycle": "6.1",
+      "latest": "6.1.8",
+      "latestReleaseDate": "2025-10-19",
+      "lts": false,
+      "releaseDate": "2025-10-19"
+    },
+    {
+      "cycle": "5.16",
+      "latest": "5.16.8",
+      "latestReleaseDate": "2025-03-18",
+      "lts": false,
+      "releaseDate": "2025-03-18"
+    },
+    {
+      "cycle": "5.17",
+      "latest": "5.17.7",
+      "latestReleaseDate": "2025-03-14",
+      "lts": false,
+      "releaseDate": "2025-03-14"
+    },
+    {
+      "cycle": "5.18",
+      "latest": "5.18.7",
+      "latestReleaseDate": "2025-03-13",
+      "lts": false,
+      "releaseDate": "2025-03-13"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0.1",
+      "latestReleaseDate": "2023-11-30",
+      "lts": false,
+      "releaseDate": "2023-11-30"
+    },
+    {
+      "cycle": "5.15",
+      "latest": "5.15.16",
+      "latestReleaseDate": "2023-10-26",
+      "lts": false,
+      "releaseDate": "2023-10-26"
+    },
+    {
+      "cycle": "5.14",
+      "latest": "5.14.5",
+      "latestReleaseDate": "2017-04-11",
+      "lts": false,
+      "releaseDate": "2017-04-11"
+    },
+    {
+      "cycle": "5.13",
+      "latest": "5.13.5",
+      "latestReleaseDate": "2016-12-16",
+      "lts": false,
+      "releaseDate": "2016-12-16"
+    },
+    {
+      "cycle": "5.12",
+      "latest": "5.12.3",
+      "latestReleaseDate": "2016-02-03",
+      "lts": false,
+      "releaseDate": "2016-02-03"
+    },
+    {
+      "cycle": "5.11",
+      "latest": "5.11.4",
+      "latestReleaseDate": "2016-02-03",
+      "lts": false,
+      "releaseDate": "2016-02-03"
+    },
+    {
+      "cycle": "5.10",
+      "latest": "5.10.2",
+      "latestReleaseDate": "2015-02-13",
+      "lts": false,
+      "releaseDate": "2015-02-13"
+    },
+    {
+      "cycle": "5.9",
+      "latest": "5.9.1",
+      "latestReleaseDate": "2014-03-31",
+      "lts": false,
+      "releaseDate": "2014-03-31"
+    },
+    {
+      "cycle": "5.8",
+      "latest": "5.8.0",
+      "latestReleaseDate": "2013-02-06",
+      "lts": false,
+      "releaseDate": "2013-02-06"
+    },
+    {
+      "cycle": "5.7",
+      "latest": "5.7.0",
+      "latestReleaseDate": "2012-10-02",
+      "lts": false,
+      "releaseDate": "2012-10-02"
+    },
+    {
+      "cycle": "5.6",
+      "latest": "5.6.0",
+      "latestReleaseDate": "2012-05-02",
+      "lts": false,
+      "releaseDate": "2012-05-02"
+    },
+    {
+      "cycle": "5.4",
+      "latest": "5.4.3",
+      "latestReleaseDate": "2011-10-12",
+      "lts": false,
+      "releaseDate": "2011-10-12"
+    },
+    {
+      "cycle": "5.5",
+      "latest": "5.5.1",
+      "latestReleaseDate": "2011-10-11",
+      "lts": false,
+      "releaseDate": "2011-10-11"
+    },
+    {
+      "cycle": "5.3",
+      "latest": "5.3.1",
+      "latestReleaseDate": "2010-03-18",
+      "lts": false,
+      "releaseDate": "2010-03-18"
+    },
+    {
+      "cycle": "5.2",
+      "latest": "5.2.0",
+      "latestReleaseDate": "2009-06-30",
+      "lts": false,
+      "releaseDate": "2009-06-30"
+    },
+    {
+      "cycle": "5.1",
+      "latest": "5.1.0",
+      "latestReleaseDate": "2008-05-01",
+      "lts": false,
+      "releaseDate": "2008-05-01"
+    },
+    {
+      "cycle": "4.1",
+      "latest": "4.1.2",
+      "latestReleaseDate": "2008-04-10",
+      "lts": false,
+      "releaseDate": "2008-04-10"
+    },
+    {
+      "cycle": "5.0",
+      "latest": "5.0.0",
+      "latestReleaseDate": "2007-12-07",
+      "lts": false,
+      "releaseDate": "2007-12-07"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.2",
+      "latestReleaseDate": "2007-02-01",
+      "lts": false,
+      "releaseDate": "2007-02-01"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "apache-activemq",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/apache-activemq.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

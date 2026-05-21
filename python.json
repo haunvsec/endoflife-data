@@ -1,0 +1,154 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
+    "display_name": "Python",
+    "mapping_source": "eol_product_mapping",
+    "product": "python",
+    "purl": "",
+    "vendor": "python"
+  },
+  "cycles": [
+    {
+      "cycle": "3.14",
+      "eol": "2030-10-31",
+      "latest": "3.14.4",
+      "latestReleaseDate": "2026-04-07",
+      "lts": false,
+      "releaseDate": "2025-10-07"
+    },
+    {
+      "cycle": "3.13",
+      "eol": "2029-10-31",
+      "latest": "3.13.13",
+      "latestReleaseDate": "2026-04-07",
+      "lts": false,
+      "releaseDate": "2024-10-07"
+    },
+    {
+      "cycle": "3.12",
+      "eol": "2028-10-31",
+      "latest": "3.12.13",
+      "latestReleaseDate": "2026-03-03",
+      "lts": false,
+      "releaseDate": "2023-10-02"
+    },
+    {
+      "cycle": "3.11",
+      "eol": "2027-10-31",
+      "latest": "3.11.15",
+      "latestReleaseDate": "2026-03-03",
+      "lts": false,
+      "releaseDate": "2022-10-24"
+    },
+    {
+      "cycle": "3.10",
+      "eol": "2026-10-31",
+      "latest": "3.10.20",
+      "latestReleaseDate": "2026-03-03",
+      "lts": false,
+      "releaseDate": "2021-10-04"
+    },
+    {
+      "cycle": "3.9",
+      "eol": "2025-10-31",
+      "latest": "3.9.25",
+      "latestReleaseDate": "2025-10-31",
+      "lts": false,
+      "releaseDate": "2020-10-05"
+    },
+    {
+      "cycle": "3.8",
+      "eol": "2024-10-07",
+      "latest": "3.8.20",
+      "latestReleaseDate": "2024-09-06",
+      "lts": false,
+      "releaseDate": "2019-10-14"
+    },
+    {
+      "cycle": "3.7",
+      "eol": "2023-06-27",
+      "latest": "3.7.17",
+      "latestReleaseDate": "2023-06-05",
+      "lts": false,
+      "releaseDate": "2018-06-27"
+    },
+    {
+      "cycle": "3.6",
+      "eol": "2021-12-23",
+      "latest": "3.6.15",
+      "latestReleaseDate": "2021-09-03",
+      "lts": false,
+      "releaseDate": "2016-12-23"
+    },
+    {
+      "cycle": "3.5",
+      "eol": "2020-09-30",
+      "latest": "3.5.10",
+      "latestReleaseDate": "2020-09-05",
+      "lts": false,
+      "releaseDate": "2015-09-13"
+    },
+    {
+      "cycle": "3.4",
+      "eol": "2019-03-18",
+      "latest": "3.4.10",
+      "latestReleaseDate": "2019-03-18",
+      "lts": false,
+      "releaseDate": "2014-03-16"
+    },
+    {
+      "cycle": "3.3",
+      "eol": "2017-09-29",
+      "latest": "3.3.7",
+      "latestReleaseDate": "2017-09-19",
+      "lts": false,
+      "releaseDate": "2012-09-29"
+    },
+    {
+      "cycle": "3.2",
+      "eol": "2016-02-20",
+      "latest": "3.2.6",
+      "latestReleaseDate": "2014-10-12",
+      "lts": false,
+      "releaseDate": "2011-02-20"
+    },
+    {
+      "cycle": "2.7",
+      "eol": "2020-01-01",
+      "latest": "2.7.18",
+      "latestReleaseDate": "2020-04-19",
+      "lts": false,
+      "releaseDate": "2010-07-03"
+    },
+    {
+      "cycle": "3.1",
+      "eol": "2012-04-09",
+      "latest": "3.1.5",
+      "latestReleaseDate": "2012-04-06",
+      "lts": false,
+      "releaseDate": "2009-06-27"
+    },
+    {
+      "cycle": "3.0",
+      "eol": "2009-06-27",
+      "latest": "3.0.1",
+      "latestReleaseDate": "2009-02-12",
+      "lts": false,
+      "releaseDate": "2008-12-03"
+    },
+    {
+      "cycle": "2.6",
+      "eol": "2013-10-29",
+      "latest": "2.6.9",
+      "latestReleaseDate": "2013-10-29",
+      "lts": false,
+      "releaseDate": "2008-10-01"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "python",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/python.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

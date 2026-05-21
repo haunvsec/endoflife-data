@@ -1,0 +1,117 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:umbraco:umbraco_cms:*:*:*:*:*:*:*:*",
+    "display_name": "Umbraco CMS",
+    "mapping_source": "eol_product_mapping",
+    "product": "umbraco_cms",
+    "purl": "",
+    "vendor": "umbraco"
+  },
+  "cycles": [
+    {
+      "cycle": "17",
+      "eoas": "2027-11-27",
+      "eol": "2028-11-27",
+      "latest": "17.3.5",
+      "latestReleaseDate": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2025-11-27"
+    },
+    {
+      "cycle": "16",
+      "eoas": "2026-03-12",
+      "eol": "2026-06-12",
+      "latest": "16.5.1",
+      "latestReleaseDate": "2026-03-10",
+      "lts": false,
+      "releaseDate": "2025-06-12"
+    },
+    {
+      "cycle": "15",
+      "eoas": "2025-08-14",
+      "eol": "2025-11-14",
+      "latest": "15.4.4",
+      "latestReleaseDate": "2025-07-29",
+      "lts": false,
+      "releaseDate": "2024-11-14"
+    },
+    {
+      "cycle": "14",
+      "eoas": "2025-03-02",
+      "eol": "2025-05-30",
+      "latest": "14.3.4",
+      "latestReleaseDate": "2025-04-08",
+      "lts": false,
+      "releaseDate": "2024-05-30"
+    },
+    {
+      "cycle": "13",
+      "eoas": "2025-12-14",
+      "eol": "2026-12-14",
+      "latest": "13.14.0",
+      "latestReleaseDate": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2023-12-14"
+    },
+    {
+      "cycle": "12",
+      "eoas": "2024-03-29",
+      "eol": "2024-06-29",
+      "latest": "12.3.10",
+      "latestReleaseDate": "2024-05-17",
+      "lts": false,
+      "releaseDate": "2023-06-29"
+    },
+    {
+      "cycle": "11",
+      "eoas": "2023-09-01",
+      "eol": "2023-12-01",
+      "latest": "11.5.0",
+      "latestReleaseDate": "2023-09-05",
+      "lts": false,
+      "releaseDate": "2022-12-01"
+    },
+    {
+      "cycle": "10",
+      "eoas": "2024-06-16",
+      "eol": "2025-06-16",
+      "latest": "10.8.11",
+      "latestReleaseDate": "2025-06-24",
+      "lts": false,
+      "releaseDate": "2022-06-16"
+    },
+    {
+      "cycle": "9",
+      "eoas": "2022-09-16",
+      "eol": "2022-12-16",
+      "latest": "9.5.4",
+      "latestReleaseDate": "2022-09-05",
+      "lts": false,
+      "releaseDate": "2021-09-29"
+    },
+    {
+      "cycle": "8",
+      "eoas": "2024-02-24",
+      "eol": "2025-02-24",
+      "latest": "8.18.15",
+      "latestReleaseDate": "2024-10-21",
+      "lts": false,
+      "releaseDate": "2019-02-26"
+    },
+    {
+      "cycle": "7",
+      "eoas": "2021-07-31",
+      "eol": "2023-09-30",
+      "latest": "7.15.11",
+      "latestReleaseDate": "2023-09-05",
+      "lts": false,
+      "releaseDate": "2013-11-21"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "umbraco",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/umbraco.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,53 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:oracle:graalvm:*:*:*:*:*:*:*:*",
+    "display_name": "Oracle Graalvm",
+    "mapping_source": "slug_prefix",
+    "product": "graalvm",
+    "purl": "",
+    "vendor": "oracle"
+  },
+  "cycles": [
+    {
+      "cycle": "25",
+      "latest": "25.0.3",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2025-09-16"
+    },
+    {
+      "cycle": "24",
+      "latest": "24.0.2",
+      "latestReleaseDate": "2025-07-15",
+      "lts": false,
+      "releaseDate": "2025-03-18"
+    },
+    {
+      "cycle": "23",
+      "latest": "23.0.2",
+      "latestReleaseDate": "2025-01-21",
+      "lts": false,
+      "releaseDate": "2024-09-17"
+    },
+    {
+      "cycle": "22",
+      "latest": "22.0.2",
+      "latestReleaseDate": "2024-07-16",
+      "lts": false,
+      "releaseDate": "2024-03-19"
+    },
+    {
+      "cycle": "21",
+      "latest": "21.0.11",
+      "latestReleaseDate": "2026-04-21",
+      "lts": false,
+      "releaseDate": "2023-09-19"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "oracle-graalvm",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/oracle-graalvm.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,263 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:kde:plasma:*:*:*:*:*:*:*:*",
+    "display_name": "KDE Plasma",
+    "mapping_source": "eol_product_mapping",
+    "product": "plasma",
+    "purl": "",
+    "vendor": "kde"
+  },
+  "cycles": [
+    {
+      "cycle": "6.6",
+      "latest": "6.6.4",
+      "latestReleaseDate": "2026-04-07",
+      "lts": false,
+      "releaseDate": "2026-04-07"
+    },
+    {
+      "cycle": "6.5",
+      "latest": "6.5.6",
+      "latestReleaseDate": "2026-03-10",
+      "lts": false,
+      "releaseDate": "2026-03-10"
+    },
+    {
+      "cycle": "6.4",
+      "latest": "6.4.6",
+      "latestReleaseDate": "2025-11-11",
+      "lts": false,
+      "releaseDate": "2025-11-11"
+    },
+    {
+      "cycle": "6.3",
+      "latest": "6.3.6",
+      "latestReleaseDate": "2025-07-08",
+      "lts": false,
+      "releaseDate": "2025-07-08"
+    },
+    {
+      "cycle": "5.27",
+      "latest": "5.27.12",
+      "latestReleaseDate": "2025-01-06",
+      "lts": false,
+      "releaseDate": "2025-01-06"
+    },
+    {
+      "cycle": "6.2",
+      "latest": "6.2.5",
+      "latestReleaseDate": "2024-12-31",
+      "lts": false,
+      "releaseDate": "2024-12-31"
+    },
+    {
+      "cycle": "6.1",
+      "latest": "6.1.5",
+      "latestReleaseDate": "2024-09-10",
+      "lts": false,
+      "releaseDate": "2024-09-10"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0.5",
+      "latestReleaseDate": "2024-05-21",
+      "lts": false,
+      "releaseDate": "2024-05-21"
+    },
+    {
+      "cycle": "5.26",
+      "latest": "5.26.5",
+      "latestReleaseDate": "2023-01-03",
+      "lts": false,
+      "releaseDate": "2023-01-03"
+    },
+    {
+      "cycle": "5.24",
+      "latest": "5.24.7",
+      "latestReleaseDate": "2022-10-14",
+      "lts": false,
+      "releaseDate": "2022-10-14"
+    },
+    {
+      "cycle": "5.25",
+      "latest": "5.25.5",
+      "latestReleaseDate": "2022-09-06",
+      "lts": false,
+      "releaseDate": "2022-09-06"
+    },
+    {
+      "cycle": "5.23",
+      "latest": "5.23.5",
+      "latestReleaseDate": "2022-01-04",
+      "lts": false,
+      "releaseDate": "2022-01-04"
+    },
+    {
+      "cycle": "5.18",
+      "latest": "5.18.8",
+      "latestReleaseDate": "2021-10-19",
+      "lts": false,
+      "releaseDate": "2021-10-19"
+    },
+    {
+      "cycle": "5.22",
+      "latest": "5.22.5",
+      "latestReleaseDate": "2021-08-31",
+      "lts": false,
+      "releaseDate": "2021-08-31"
+    },
+    {
+      "cycle": "5.21",
+      "latest": "5.21.5",
+      "latestReleaseDate": "2021-05-04",
+      "lts": false,
+      "releaseDate": "2021-05-04"
+    },
+    {
+      "cycle": "5.20",
+      "latest": "5.20.5",
+      "latestReleaseDate": "2021-01-05",
+      "lts": false,
+      "releaseDate": "2021-01-05"
+    },
+    {
+      "cycle": "5.19",
+      "latest": "5.19.5",
+      "latestReleaseDate": "2020-09-01",
+      "lts": false,
+      "releaseDate": "2020-09-01"
+    },
+    {
+      "cycle": "5.17",
+      "latest": "5.17.5",
+      "latestReleaseDate": "2020-01-07",
+      "lts": false,
+      "releaseDate": "2020-01-07"
+    },
+    {
+      "cycle": "5.16",
+      "latest": "5.16.5",
+      "latestReleaseDate": "2019-09-12",
+      "lts": false,
+      "releaseDate": "2019-09-12"
+    },
+    {
+      "cycle": "5.12",
+      "latest": "5.12.9",
+      "latestReleaseDate": "2019-09-10",
+      "lts": false,
+      "releaseDate": "2019-09-10"
+    },
+    {
+      "cycle": "5.15",
+      "latest": "5.15.5",
+      "latestReleaseDate": "2019-05-07",
+      "lts": false,
+      "releaseDate": "2019-05-07"
+    },
+    {
+      "cycle": "5.14",
+      "latest": "5.14.5.1",
+      "latestReleaseDate": "2019-02-13",
+      "lts": false,
+      "releaseDate": "2019-02-13"
+    },
+    {
+      "cycle": "5.13",
+      "latest": "5.13.5",
+      "latestReleaseDate": "2018-09-04",
+      "lts": false,
+      "releaseDate": "2018-09-04"
+    },
+    {
+      "cycle": "5.8",
+      "latest": "5.8.9",
+      "latestReleaseDate": "2018-02-07",
+      "lts": false,
+      "releaseDate": "2018-02-07"
+    },
+    {
+      "cycle": "5.11",
+      "latest": "5.11.5",
+      "latestReleaseDate": "2018-01-02",
+      "lts": false,
+      "releaseDate": "2018-01-02"
+    },
+    {
+      "cycle": "5.10",
+      "latest": "5.10.5",
+      "latestReleaseDate": "2017-08-26",
+      "lts": false,
+      "releaseDate": "2017-08-26"
+    },
+    {
+      "cycle": "5.9",
+      "latest": "5.9.5",
+      "latestReleaseDate": "2017-04-25",
+      "lts": false,
+      "releaseDate": "2017-04-25"
+    },
+    {
+      "cycle": "5.7",
+      "latest": "5.7.5",
+      "latestReleaseDate": "2016-09-13",
+      "lts": false,
+      "releaseDate": "2016-09-13"
+    },
+    {
+      "cycle": "5.6",
+      "latest": "5.6.5",
+      "latestReleaseDate": "2016-06-14",
+      "lts": false,
+      "releaseDate": "2016-06-14"
+    },
+    {
+      "cycle": "5.5",
+      "latest": "5.5.5",
+      "latestReleaseDate": "2016-03-02",
+      "lts": false,
+      "releaseDate": "2016-03-02"
+    },
+    {
+      "cycle": "5.4",
+      "latest": "5.4.3",
+      "latestReleaseDate": "2015-11-10",
+      "lts": false,
+      "releaseDate": "2015-11-10"
+    },
+    {
+      "cycle": "5.3",
+      "latest": "5.3.2",
+      "latestReleaseDate": "2015-06-30",
+      "lts": false,
+      "releaseDate": "2015-06-30"
+    },
+    {
+      "cycle": "5.2",
+      "latest": "5.2.2",
+      "latestReleaseDate": "2015-03-24",
+      "lts": false,
+      "releaseDate": "2015-03-24"
+    },
+    {
+      "cycle": "5.1",
+      "latest": "5.1.2",
+      "latestReleaseDate": "2014-12-16",
+      "lts": false,
+      "releaseDate": "2014-12-16"
+    },
+    {
+      "cycle": "5.0",
+      "latest": "5.0.2",
+      "latestReleaseDate": "2014-09-22",
+      "lts": false,
+      "releaseDate": "2014-09-22"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "kde-plasma",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/kde-plasma.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

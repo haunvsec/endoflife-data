@@ -1,0 +1,72 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:ibm:db2:*:*:*:*:*:*:*:*",
+    "display_name": "IBM Db2",
+    "mapping_source": "slug_prefix",
+    "product": "db2",
+    "purl": "",
+    "vendor": "ibm"
+  },
+  "cycles": [
+    {
+      "cycle": "12.1",
+      "lts": false,
+      "releaseDate": "2024-11-14"
+    },
+    {
+      "cycle": "11.5",
+      "eol": "2027-04-30",
+      "extendedSupport": "2031-04-30",
+      "lts": false,
+      "releaseDate": "2019-06-25"
+    },
+    {
+      "cycle": "11.1",
+      "eol": "2022-04-30",
+      "extendedSupport": "2026-04-30",
+      "lts": false,
+      "releaseDate": "2016-06-15"
+    },
+    {
+      "cycle": "10.5",
+      "eol": "2020-04-30",
+      "extendedSupport": "2025-04-30",
+      "lts": false,
+      "releaseDate": "2013-07-26"
+    },
+    {
+      "cycle": "10.1",
+      "eol": "2017-09-30",
+      "extendedSupport": "2025-04-30",
+      "lts": false,
+      "releaseDate": "2012-06-11"
+    },
+    {
+      "cycle": "9.7",
+      "eol": "2017-09-30",
+      "extendedSupport": "2025-04-30",
+      "lts": false,
+      "releaseDate": "2009-08-28"
+    },
+    {
+      "cycle": "9.5",
+      "eol": "2015-04-30",
+      "extendedSupport": "2018-04-30",
+      "lts": false,
+      "releaseDate": "2007-12-14"
+    },
+    {
+      "cycle": "9.1",
+      "eol": "2012-04-30",
+      "extendedSupport": "2015-04-30",
+      "lts": false,
+      "releaseDate": "2006-09-22"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "ibm-db2",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/ibm-db2.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

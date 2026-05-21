@@ -1,0 +1,127 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:mautic:mautic:*:*:*:*:*:*:*:*",
+    "display_name": "Mautic",
+    "mapping_source": "eol_product_mapping",
+    "product": "mautic",
+    "purl": "",
+    "vendor": "mautic"
+  },
+  "cycles": [
+    {
+      "cycle": "5.1",
+      "eoas": "2024-12-02",
+      "eol": "2024-12-02",
+      "latest": "5.1.1",
+      "latestReleaseDate": "2024-09-18",
+      "lts": false,
+      "releaseDate": "2024-06-13"
+    },
+    {
+      "cycle": "5.0",
+      "eoas": "2024-06-13",
+      "eol": "2024-06-13",
+      "latest": "5.0.4",
+      "latestReleaseDate": "2024-04-11",
+      "lts": false,
+      "releaseDate": "2024-01-09"
+    },
+    {
+      "cycle": "4.4",
+      "eoas": "2024-01-09",
+      "eol": "2024-12-31",
+      "extendedSupport": "2026-12-31",
+      "latest": "4.4.13",
+      "latestReleaseDate": "2024-09-18",
+      "lts": false,
+      "releaseDate": "2022-06-27"
+    },
+    {
+      "cycle": "4.3",
+      "eoas": "2022-06-27",
+      "eol": "2022-06-27",
+      "latest": "4.3.1",
+      "latestReleaseDate": "2022-05-23",
+      "lts": false,
+      "releaseDate": "2022-05-23"
+    },
+    {
+      "cycle": "4.2",
+      "eoas": "2022-05-23",
+      "eol": "2022-05-23",
+      "latest": "4.2.2",
+      "latestReleaseDate": "2022-04-26",
+      "lts": false,
+      "releaseDate": "2022-02-28"
+    },
+    {
+      "cycle": "4.1",
+      "eoas": "2022-02-28",
+      "eol": "2022-02-28",
+      "latest": "4.1.2",
+      "latestReleaseDate": "2022-01-25",
+      "lts": false,
+      "releaseDate": "2021-11-29"
+    },
+    {
+      "cycle": "4.0",
+      "eoas": "2021-11-29",
+      "eol": "2021-11-29",
+      "latest": "4.0.2",
+      "latestReleaseDate": "2021-11-15",
+      "lts": false,
+      "releaseDate": "2021-05-24"
+    },
+    {
+      "cycle": "3.3",
+      "eoas": "2021-05-17",
+      "eol": "2021-05-24",
+      "latest": "3.3.5",
+      "latestReleaseDate": "2022-02-28",
+      "lts": false,
+      "releaseDate": "2021-02-22"
+    },
+    {
+      "cycle": "3.2",
+      "eoas": "2021-02-16",
+      "eol": "2021-02-22",
+      "latest": "3.2.5",
+      "latestReleaseDate": "2021-01-25",
+      "lts": false,
+      "releaseDate": "2020-11-30"
+    },
+    {
+      "cycle": "3.1",
+      "eoas": "2020-11-23",
+      "eol": "2020-11-30",
+      "latest": "3.1.2",
+      "latestReleaseDate": "2020-10-26",
+      "lts": false,
+      "releaseDate": "2020-08-24"
+    },
+    {
+      "cycle": "2.16",
+      "eoas": "2020-06-15",
+      "eol": "2020-12-15",
+      "latest": "2.16.5",
+      "latestReleaseDate": "2021-01-14",
+      "lts": false,
+      "releaseDate": "2020-02-13"
+    },
+    {
+      "cycle": "2.15",
+      "eoas": "2019-10-08",
+      "eol": "2019-10-08",
+      "latest": "2.15.3",
+      "latestReleaseDate": "2019-10-08",
+      "lts": false,
+      "releaseDate": "2019-10-08"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "mautic",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/mautic.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

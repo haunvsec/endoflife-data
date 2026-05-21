@@ -1,0 +1,53 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Robo",
+    "mapping_source": "unmapped",
+    "product": "robo",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "5",
+      "latest": "5.1.1",
+      "latestReleaseDate": "2025-11-14",
+      "lts": false,
+      "supportedPHPVersions": "8.2 - 8.3"
+    },
+    {
+      "cycle": "4",
+      "latest": "4.0.6",
+      "latestReleaseDate": "2023-04-30",
+      "lts": false,
+      "supportedPHPVersions": "8.0 - 8.3"
+    },
+    {
+      "cycle": "3",
+      "latest": "3.0.12",
+      "latestReleaseDate": "2023-04-30",
+      "lts": false,
+      "supportedPHPVersions": "7.1 - 8.1"
+    },
+    {
+      "cycle": "2",
+      "latest": "2.2.2",
+      "latestReleaseDate": "2020-12-18",
+      "lts": false,
+      "supportedPHPVersions": "7.1 - 7.4"
+    },
+    {
+      "cycle": "1",
+      "latest": "1.5.0",
+      "latestReleaseDate": "2021-10-07",
+      "lts": false,
+      "supportedPHPVersions": "5.5 - 7.4"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "robo",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/robo.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

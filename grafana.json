@@ -1,0 +1,98 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:grafana:grafana:*:*:*:*:*:*:*:*",
+    "display_name": "Grafana",
+    "mapping_source": "eol_product_mapping",
+    "product": "grafana",
+    "purl": "",
+    "vendor": "grafana"
+  },
+  "cycles": [
+    {
+      "cycle": "13.0",
+      "eol": "2027-01-09",
+      "latest": "13.0.1",
+      "latestReleaseDate": "2026-04-17",
+      "lts": false,
+      "releaseDate": "2026-04-14"
+    },
+    {
+      "cycle": "12.4",
+      "eol": "2027-05-24",
+      "latest": "12.4.3",
+      "latestReleaseDate": "2026-04-14",
+      "lts": false,
+      "releaseDate": "2026-02-24"
+    },
+    {
+      "cycle": "12.3",
+      "eol": "2026-08-19",
+      "latest": "12.3.6+security-01",
+      "latestReleaseDate": "2026-03-25",
+      "lts": false,
+      "releaseDate": "2025-11-19"
+    },
+    {
+      "cycle": "12.2",
+      "eol": "2026-06-23",
+      "latest": "12.2.8+security-01",
+      "latestReleaseDate": "2026-03-25",
+      "lts": false,
+      "releaseDate": "2025-09-23"
+    },
+    {
+      "cycle": "12.1",
+      "eol": "2026-04-22",
+      "latest": "12.1.10+security-01",
+      "latestReleaseDate": "2026-03-25",
+      "lts": false,
+      "releaseDate": "2025-07-22"
+    },
+    {
+      "cycle": "12.0",
+      "eol": "2026-02-05",
+      "latest": "12.0.10",
+      "latestReleaseDate": "2026-02-12",
+      "lts": false,
+      "releaseDate": "2025-05-05"
+    },
+    {
+      "cycle": "11.6",
+      "eol": "2026-06-25",
+      "latest": "11.6.14+security-01",
+      "latestReleaseDate": "2026-03-25",
+      "lts": false,
+      "releaseDate": "2025-03-25"
+    },
+    {
+      "cycle": "11.5",
+      "eol": "2025-10-28",
+      "latest": "11.5.10",
+      "latestReleaseDate": "2025-10-21",
+      "lts": false,
+      "releaseDate": "2025-01-28"
+    },
+    {
+      "cycle": "11.4",
+      "eol": "2025-09-05",
+      "latest": "11.4.8",
+      "latestReleaseDate": "2025-08-12",
+      "lts": false,
+      "releaseDate": "2024-12-05"
+    },
+    {
+      "cycle": "11.3",
+      "eol": "2025-07-22",
+      "latest": "11.3.9",
+      "latestReleaseDate": "2025-07-18",
+      "lts": false,
+      "releaseDate": "2024-10-22"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "grafana",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/grafana.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

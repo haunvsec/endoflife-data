@@ -1,0 +1,67 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:apache:zookeeper:*:*:*:*:*:*:*:*",
+    "display_name": "Apache ZooKeeper",
+    "mapping_source": "eol_product_mapping",
+    "product": "zookeeper",
+    "purl": "",
+    "vendor": "apache"
+  },
+  "cycles": [
+    {
+      "cycle": "3.9",
+      "latest": "3.9.5",
+      "latestReleaseDate": "2026-02-11",
+      "lts": false,
+      "releaseDate": "2026-02-11"
+    },
+    {
+      "cycle": "3.8",
+      "latest": "3.8.6",
+      "latestReleaseDate": "2026-01-28",
+      "lts": false,
+      "releaseDate": "2026-01-28"
+    },
+    {
+      "cycle": "3.7",
+      "latest": "3.7.2",
+      "latestReleaseDate": "2023-10-06",
+      "lts": false,
+      "releaseDate": "2023-10-06"
+    },
+    {
+      "cycle": "3.6",
+      "latest": "3.6.4",
+      "latestReleaseDate": "2022-12-18",
+      "lts": false,
+      "releaseDate": "2022-12-18"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.10",
+      "latestReleaseDate": "2022-05-29",
+      "lts": false,
+      "releaseDate": "2022-05-29"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.14",
+      "latestReleaseDate": "2019-03-06",
+      "lts": false,
+      "releaseDate": "2019-03-06"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.6",
+      "latestReleaseDate": "2012-08-03",
+      "lts": false,
+      "releaseDate": "2012-08-03"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "zookeeper",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/zookeeper.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

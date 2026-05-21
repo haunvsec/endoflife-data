@@ -1,0 +1,58 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux:*:*:*:*:*:*:*:*",
+    "display_name": "Red Hat Enterprise Linux",
+    "mapping_source": "eol_product_mapping",
+    "product": "enterprise_linux",
+    "purl": "",
+    "vendor": "redhat"
+  },
+  "cycles": [
+    {
+      "cycle": "10",
+      "eoas": "2030-05-31",
+      "eol": "2035-05-31",
+      "extendedSupport": "2038-05-31",
+      "lts": false,
+      "releaseDate": "2025-05-20"
+    },
+    {
+      "cycle": "9",
+      "eoas": "2027-05-31",
+      "eol": "2032-05-31",
+      "extendedSupport": "2035-05-31",
+      "lts": false,
+      "releaseDate": "2022-05-18"
+    },
+    {
+      "cycle": "8",
+      "eoas": "2024-05-31",
+      "eol": "2029-05-31",
+      "extendedSupport": "2032-05-31",
+      "lts": false,
+      "releaseDate": "2019-05-07"
+    },
+    {
+      "cycle": "7",
+      "eoas": "2019-08-06",
+      "eol": "2024-06-30",
+      "extendedSupport": "2029-05-31",
+      "lts": false,
+      "releaseDate": "2014-06-10"
+    },
+    {
+      "cycle": "6",
+      "eoas": "2016-05-10",
+      "eol": "2020-11-30",
+      "extendedSupport": "2024-06-30",
+      "lts": false,
+      "releaseDate": "2010-11-10"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "rhel",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/rhel.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,58 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:o:linuxmint:linuxmint:*:*:*:*:*:*:*:*",
+    "display_name": "Linux Mint",
+    "mapping_source": "eol_product_mapping",
+    "product": "linuxmint",
+    "purl": "",
+    "vendor": "linuxmint"
+  },
+  "cycles": [
+    {
+      "cycle": "22.3",
+      "eol": "2029-04-30",
+      "lts": false
+    },
+    {
+      "cycle": "22.2",
+      "eol": "2029-04-30",
+      "lts": false
+    },
+    {
+      "cycle": "22.1",
+      "eol": "2029-04-30",
+      "lts": false
+    },
+    {
+      "cycle": "22",
+      "eol": "2029-04-30",
+      "lts": false
+    },
+    {
+      "cycle": "21.3",
+      "eol": "2027-04-30",
+      "lts": false
+    },
+    {
+      "cycle": "21.2",
+      "eol": "2027-04-30",
+      "lts": false
+    },
+    {
+      "cycle": "21.1",
+      "eol": "2027-04-30",
+      "lts": false
+    },
+    {
+      "cycle": "21",
+      "eol": "2027-04-30",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "linuxmint",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/linuxmint.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,60 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:openbao:openbao:*:*:*:*:*:*:*:*",
+    "display_name": "OpenBao",
+    "mapping_source": "eol_product_mapping",
+    "product": "openbao",
+    "purl": "",
+    "vendor": "openbao"
+  },
+  "cycles": [
+    {
+      "cycle": "2.5",
+      "latest": "2.5.3",
+      "latestReleaseDate": "2026-04-20",
+      "lts": false,
+      "releaseDate": "2026-04-20"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.4",
+      "latestReleaseDate": "2025-11-24",
+      "lts": false,
+      "releaseDate": "2025-11-24"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.2",
+      "latestReleaseDate": "2025-08-07",
+      "lts": false,
+      "releaseDate": "2025-08-07"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.2",
+      "latestReleaseDate": "2025-05-29",
+      "lts": false,
+      "releaseDate": "2025-05-29"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.1",
+      "latestReleaseDate": "2025-01-21",
+      "lts": false,
+      "releaseDate": "2025-01-21"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.3",
+      "latestReleaseDate": "2024-11-15",
+      "lts": false,
+      "releaseDate": "2024-11-15"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "openbao",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/openbao.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,235 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:facebook:react:*:*:*:*:*:*:*:*",
+    "display_name": "React",
+    "mapping_source": "eol_product_mapping",
+    "product": "react",
+    "purl": "",
+    "vendor": "facebook"
+  },
+  "cycles": [
+    {
+      "cycle": "19.2",
+      "latest": "19.2.5",
+      "latestReleaseDate": "2026-04-08",
+      "lts": false,
+      "releaseDate": "2026-04-08"
+    },
+    {
+      "cycle": "19.1",
+      "latest": "19.1.6",
+      "latestReleaseDate": "2026-04-08",
+      "lts": false,
+      "releaseDate": "2026-04-08"
+    },
+    {
+      "cycle": "19.0",
+      "latest": "19.0.5",
+      "latestReleaseDate": "2026-04-08",
+      "lts": false,
+      "releaseDate": "2026-04-08"
+    },
+    {
+      "cycle": "18.3",
+      "latest": "18.3.1",
+      "latestReleaseDate": "2024-04-26",
+      "lts": false,
+      "releaseDate": "2024-04-26"
+    },
+    {
+      "cycle": "18.2",
+      "latest": "18.2.0",
+      "latestReleaseDate": "2022-06-14",
+      "lts": false,
+      "releaseDate": "2022-06-14"
+    },
+    {
+      "cycle": "18.1",
+      "latest": "18.1.0",
+      "latestReleaseDate": "2022-04-26",
+      "lts": false,
+      "releaseDate": "2022-04-26"
+    },
+    {
+      "cycle": "18.0",
+      "latest": "18.0.0",
+      "latestReleaseDate": "2022-03-29",
+      "lts": false,
+      "releaseDate": "2022-03-29"
+    },
+    {
+      "cycle": "17.0",
+      "latest": "17.0.2",
+      "latestReleaseDate": "2021-03-22",
+      "lts": false,
+      "releaseDate": "2021-03-22"
+    },
+    {
+      "cycle": "16.14",
+      "latest": "16.14.0",
+      "latestReleaseDate": "2020-10-14",
+      "lts": false,
+      "releaseDate": "2020-10-14"
+    },
+    {
+      "cycle": "15.7",
+      "latest": "15.7.0",
+      "latestReleaseDate": "2020-10-14",
+      "lts": false,
+      "releaseDate": "2020-10-14"
+    },
+    {
+      "cycle": "16.13",
+      "latest": "16.13.1",
+      "latestReleaseDate": "2020-03-19",
+      "lts": false,
+      "releaseDate": "2020-03-19"
+    },
+    {
+      "cycle": "16.12",
+      "latest": "16.12.0",
+      "latestReleaseDate": "2019-11-14",
+      "lts": false,
+      "releaseDate": "2019-11-14"
+    },
+    {
+      "cycle": "16.11",
+      "latest": "16.11.0",
+      "latestReleaseDate": "2019-10-22",
+      "lts": false,
+      "releaseDate": "2019-10-22"
+    },
+    {
+      "cycle": "16.10",
+      "latest": "16.10.2",
+      "latestReleaseDate": "2019-10-03",
+      "lts": false,
+      "releaseDate": "2019-10-03"
+    },
+    {
+      "cycle": "16.9",
+      "latest": "16.9.0",
+      "latestReleaseDate": "2019-08-08",
+      "lts": false,
+      "releaseDate": "2019-08-08"
+    },
+    {
+      "cycle": "16.8",
+      "latest": "16.8.6",
+      "latestReleaseDate": "2019-03-28",
+      "lts": false,
+      "releaseDate": "2019-03-28"
+    },
+    {
+      "cycle": "16.7",
+      "latest": "16.7.0",
+      "latestReleaseDate": "2018-12-20",
+      "lts": false,
+      "releaseDate": "2018-12-20"
+    },
+    {
+      "cycle": "16.6",
+      "latest": "16.6.3",
+      "latestReleaseDate": "2018-11-13",
+      "lts": false,
+      "releaseDate": "2018-11-13"
+    },
+    {
+      "cycle": "16.5",
+      "latest": "16.5.2",
+      "latestReleaseDate": "2018-09-18",
+      "lts": false,
+      "releaseDate": "2018-09-18"
+    },
+    {
+      "cycle": "16.4",
+      "latest": "16.4.2",
+      "latestReleaseDate": "2018-08-01",
+      "lts": false,
+      "releaseDate": "2018-08-01"
+    },
+    {
+      "cycle": "16.3",
+      "latest": "16.3.2",
+      "latestReleaseDate": "2018-04-16",
+      "lts": false,
+      "releaseDate": "2018-04-16"
+    },
+    {
+      "cycle": "16.2",
+      "latest": "16.2.0",
+      "latestReleaseDate": "2017-11-28",
+      "lts": false,
+      "releaseDate": "2017-11-28"
+    },
+    {
+      "cycle": "16.1",
+      "latest": "16.1.1",
+      "latestReleaseDate": "2017-11-13",
+      "lts": false,
+      "releaseDate": "2017-11-13"
+    },
+    {
+      "cycle": "16.0",
+      "latest": "16.0.0",
+      "latestReleaseDate": "2017-09-26",
+      "lts": false,
+      "releaseDate": "2017-09-26"
+    },
+    {
+      "cycle": "15.6",
+      "latest": "15.6.2",
+      "latestReleaseDate": "2017-09-26",
+      "lts": false,
+      "releaseDate": "2017-09-26"
+    },
+    {
+      "cycle": "15.5",
+      "latest": "15.5.4",
+      "latestReleaseDate": "2017-04-11",
+      "lts": false,
+      "releaseDate": "2017-04-11"
+    },
+    {
+      "cycle": "15.4",
+      "latest": "15.4.2",
+      "latestReleaseDate": "2017-01-06",
+      "lts": false,
+      "releaseDate": "2017-01-06"
+    },
+    {
+      "cycle": "15.3",
+      "latest": "15.3.2",
+      "latestReleaseDate": "2016-09-19",
+      "lts": false,
+      "releaseDate": "2016-09-19"
+    },
+    {
+      "cycle": "15.2",
+      "latest": "15.2.1",
+      "latestReleaseDate": "2016-07-08",
+      "lts": false,
+      "releaseDate": "2016-07-08"
+    },
+    {
+      "cycle": "15.1",
+      "latest": "15.1.0",
+      "latestReleaseDate": "2016-05-20",
+      "lts": false,
+      "releaseDate": "2016-05-20"
+    },
+    {
+      "cycle": "15.0",
+      "latest": "15.0.2",
+      "latestReleaseDate": "2016-04-30",
+      "lts": false,
+      "releaseDate": "2016-04-30"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "react",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/react.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

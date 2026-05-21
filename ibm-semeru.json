@@ -1,0 +1,49 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:ibm:semeru:*:*:*:*:*:*:*:*",
+    "display_name": "IBM Semeru",
+    "mapping_source": "slug_prefix",
+    "product": "semeru",
+    "purl": "",
+    "vendor": "ibm"
+  },
+  "cycles": [
+    {
+      "cycle": "26",
+      "eol": "2026-09-30",
+      "lts": false
+    },
+    {
+      "cycle": "21",
+      "eol": "2029-12-31",
+      "latest": "21.0.10+7.1",
+      "latestReleaseDate": "2026-02-26",
+      "lts": false
+    },
+    {
+      "cycle": "17",
+      "eol": "2027-10-31",
+      "latest": "17.0.18+8.1",
+      "latestReleaseDate": "2026-02-26",
+      "lts": false
+    },
+    {
+      "cycle": "11",
+      "eol": "2027-10-31",
+      "latest": "11.0.30+7.1",
+      "latestReleaseDate": "2026-02-25",
+      "lts": false
+    },
+    {
+      "cycle": "8",
+      "eol": "2030-12-31",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "ibm-semeru",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/ibm-semeru.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

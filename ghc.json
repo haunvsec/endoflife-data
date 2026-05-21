@@ -1,0 +1,74 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Ghc",
+    "mapping_source": "unmapped",
+    "product": "ghc",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "9.14",
+      "eoas": false,
+      "eol": false,
+      "latest": "9.14.1",
+      "latestReleaseDate": "2025-12-19",
+      "lts": false
+    },
+    {
+      "cycle": "9.12",
+      "eoas": true,
+      "eol": false,
+      "latest": "9.12.4",
+      "latestReleaseDate": "2026-03-27",
+      "lts": false
+    },
+    {
+      "cycle": "9.10",
+      "eoas": false,
+      "eol": false,
+      "latest": "9.10.3",
+      "latestReleaseDate": "2025-09-11",
+      "lts": false
+    },
+    {
+      "cycle": "9.8",
+      "eoas": true,
+      "eol": false,
+      "latest": "9.8.4",
+      "latestReleaseDate": "2024-12-02",
+      "lts": false
+    },
+    {
+      "cycle": "9.6",
+      "eoas": true,
+      "eol": false,
+      "latest": "9.6.7",
+      "latestReleaseDate": "2025-03-24",
+      "lts": false
+    },
+    {
+      "cycle": "9.4",
+      "eoas": true,
+      "eol": true,
+      "latest": "9.4.8",
+      "latestReleaseDate": "2023-11-10",
+      "lts": false
+    },
+    {
+      "cycle": "9.2",
+      "eoas": true,
+      "eol": true,
+      "latest": "9.2.8",
+      "latestReleaseDate": "2023-05-26",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "ghc",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/ghc.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

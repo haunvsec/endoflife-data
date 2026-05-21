@@ -1,0 +1,144 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:godotengine:godot:*:*:*:*:*:*:*:*",
+    "display_name": "Godot",
+    "mapping_source": "eol_product_mapping",
+    "product": "godot",
+    "purl": "",
+    "vendor": "godotengine"
+  },
+  "cycles": [
+    {
+      "cycle": "4.6",
+      "latest": "4.6.2",
+      "latestReleaseDate": "2026-03-31",
+      "lts": false,
+      "releaseDate": "2026-03-31"
+    },
+    {
+      "cycle": "4.5",
+      "latest": "4.5.2",
+      "latestReleaseDate": "2026-03-18",
+      "lts": false,
+      "releaseDate": "2026-03-18"
+    },
+    {
+      "cycle": "3.6",
+      "latest": "3.6.2",
+      "latestReleaseDate": "2025-10-22",
+      "lts": false,
+      "releaseDate": "2025-10-22"
+    },
+    {
+      "cycle": "4.4",
+      "latest": "4.4.1",
+      "latestReleaseDate": "2025-03-26",
+      "lts": false,
+      "releaseDate": "2025-03-26"
+    },
+    {
+      "cycle": "4.3",
+      "latest": "4.3",
+      "latestReleaseDate": "2024-08-15",
+      "lts": false,
+      "releaseDate": "2024-08-15"
+    },
+    {
+      "cycle": "4.2",
+      "latest": "4.2.2",
+      "latestReleaseDate": "2024-04-16",
+      "lts": false,
+      "releaseDate": "2024-04-16"
+    },
+    {
+      "cycle": "4.1",
+      "latest": "4.1.4",
+      "latestReleaseDate": "2024-04-16",
+      "lts": false,
+      "releaseDate": "2024-04-16"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.3",
+      "latestReleaseDate": "2023-09-24",
+      "lts": false,
+      "releaseDate": "2023-09-24"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.4",
+      "latestReleaseDate": "2023-08-02",
+      "lts": false,
+      "releaseDate": "2023-08-02"
+    },
+    {
+      "cycle": "3.4",
+      "latest": "3.4.5",
+      "latestReleaseDate": "2022-08-01",
+      "lts": false,
+      "releaseDate": "2022-08-01"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.4",
+      "latestReleaseDate": "2021-10-01",
+      "lts": false,
+      "releaseDate": "2021-10-01"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.3",
+      "latestReleaseDate": "2020-09-16",
+      "lts": false,
+      "releaseDate": "2020-09-16"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.2",
+      "latestReleaseDate": "2019-12-03",
+      "lts": false,
+      "releaseDate": "2019-12-03"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.6",
+      "latestReleaseDate": "2019-07-08",
+      "lts": false,
+      "releaseDate": "2019-07-08"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.6",
+      "latestReleaseDate": "2018-07-31",
+      "lts": false,
+      "releaseDate": "2018-07-31"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.4.1",
+      "latestReleaseDate": "2016-07-10",
+      "lts": false,
+      "releaseDate": "2016-07-10"
+    },
+    {
+      "cycle": "1.1",
+      "latest": "1.1",
+      "latestReleaseDate": "2015-05-21",
+      "lts": false,
+      "releaseDate": "2015-05-21"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0",
+      "latestReleaseDate": "2014-12-15",
+      "lts": false,
+      "releaseDate": "2014-12-15"
+    }
+  ],
+  "fetched_at": "2026-05-21T07:21:34Z",
+  "slug": "godot",
+  "source": "release-data",
+  "source_commit": "2f0c7d58b135e3f36a08dd5f695ba93392875cce",
+  "source_file": "/Volumes/DATA/secure_software/data/sources/osv-data/release-data/releases/godot.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}
