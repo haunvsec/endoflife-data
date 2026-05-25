@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "1.7",
-      "latest": "1.7.0",
-      "latestReleaseDate": "2026-05-10",
+      "latest": "1.7.1",
+      "latestReleaseDate": "2026-05-24",
       "lts": false,
-      "releaseDate": "2026-05-10"
+      "releaseDate": "2026-05-24"
     },
     {
       "cycle": "1.6",
-      "latest": "1.6.15",
-      "latestReleaseDate": "2026-03-29",
+      "latest": "1.6.16",
+      "latestReleaseDate": "2026-05-24",
       "lts": false,
-      "releaseDate": "2026-03-29"
+      "releaseDate": "2026-05-24"
     },
     {
       "cycle": "1.5",
@@ -65,10 +65,10 @@
       "releaseDate": "2017-11-08"
     }
   ],
-  "fetched_at": "2026-05-21T15:49:17Z",
+  "fetched_at": "2026-05-25T16:21:55Z",
   "slug": "roundcube",
   "source": "release-data",
-  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_commit": "3a042d7a639482f3fceb72cefeff201dc77d163f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/roundcube.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

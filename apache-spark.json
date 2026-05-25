@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "4.1",
+      "latest": "4.1.2",
+      "latestReleaseDate": "2026-05-16",
+      "lts": false,
+      "releaseDate": "2026-05-16"
+    },
+    {
       "cycle": "4.0",
       "latest": "4.0.2",
       "latestReleaseDate": "2026-02-02",
@@ -21,13 +28,6 @@
       "latestReleaseDate": "2026-01-12",
       "lts": false,
       "releaseDate": "2026-01-12"
-    },
-    {
-      "cycle": "4.1",
-      "latest": "4.1.1",
-      "latestReleaseDate": "2026-01-02",
-      "lts": false,
-      "releaseDate": "2026-01-02"
     },
     {
       "cycle": "3.4",
@@ -149,10 +149,10 @@
       "releaseDate": "2014-07-25"
     }
   ],
-  "fetched_at": "2026-05-21T15:49:17Z",
+  "fetched_at": "2026-05-25T16:21:55Z",
   "slug": "apache-spark",
   "source": "release-data",
-  "source_commit": "94f76a96dcf91f2d89fa289a878ad64628757536",
+  "source_commit": "3a042d7a639482f3fceb72cefeff201dc77d163f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-spark.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

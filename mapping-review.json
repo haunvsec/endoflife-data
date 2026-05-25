@@ -64,7 +64,7 @@
     "canonical_vendor": "",
     "cycles_total": 19,
     "display_name": "Api Platform",
-    "latest_release_date": "2026-05-11",
+    "latest_release_date": "2026-05-22",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/api-platform.json",
     "slug": "api-platform"
@@ -122,9 +122,9 @@
   {
     "canonical_product": "cloud_sql_auth_proxy",
     "canonical_vendor": "",
-    "cycles_total": 55,
+    "cycles_total": 57,
     "display_name": "Cloud Sql Auth Proxy",
-    "latest_release_date": "2026-04-17",
+    "latest_release_date": "2026-05-21",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cloud-sql-auth-proxy.json",
     "slug": "cloud-sql-auth-proxy"
@@ -234,7 +234,7 @@
     "canonical_vendor": "",
     "cycles_total": 8,
     "display_name": "Freedesktop Sdk",
-    "latest_release_date": "2026-04-30",
+    "latest_release_date": "2026-05-21",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/freedesktop-sdk.json",
     "slug": "freedesktop-sdk"
@@ -292,9 +292,9 @@
   {
     "canonical_product": "grumphp",
     "canonical_vendor": "",
-    "cycles_total": 60,
+    "cycles_total": 61,
     "display_name": "Grumphp",
-    "latest_release_date": "2026-04-16",
+    "latest_release_date": "2026-05-22",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/grumphp.json",
     "slug": "grumphp"
@@ -570,6 +570,16 @@
     "slug": "protractor"
   },
   {
+    "canonical_product": "proxmox_backup_server",
+    "canonical_vendor": "",
+    "cycles_total": 4,
+    "display_name": "Proxmox Backup Server",
+    "latest_release_date": "",
+    "mapping_source": "unmapped",
+    "record_file": "/Volumes/DATA/security_advisory/endoflife-data/proxmox-backup-server.json",
+    "slug": "proxmox-backup-server"
+  },
+  {
     "canonical_product": "puppet",
     "canonical_vendor": "",
     "cycles_total": 105,
@@ -612,9 +622,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3586,
+    "cycles_total": 3590,
     "display_name": "Renovate",
-    "latest_release_date": "2026-05-21",
+    "latest_release_date": "2026-05-25",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -632,9 +642,9 @@
   {
     "canonical_product": "ros_2",
     "canonical_vendor": "",
-    "cycles_total": 11,
+    "cycles_total": 12,
     "display_name": "Ros 2",
-    "latest_release_date": "2025-05-23",
+    "latest_release_date": "2026-05-22",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ros-2.json",
     "slug": "ros-2"
