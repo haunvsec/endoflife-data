@@ -314,10 +314,10 @@
       "releaseDate": "2020-03-03"
     }
   ],
-  "fetched_at": "2026-05-25T16:21:55Z",
+  "fetched_at": "2026-05-26T10:23:05Z",
   "slug": "knative",
   "source": "release-data",
-  "source_commit": "3a042d7a639482f3fceb72cefeff201dc77d163f",
+  "source_commit": "ea42a7a8e6d914fbfd30d29915c3251e35d38615",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/knative.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
