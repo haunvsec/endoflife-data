@@ -12,8 +12,8 @@
       "cycle": "11.8",
       "eol": "2028-06-04",
       "extendedSupport": "2033-10-22",
-      "latest": "11.8.7",
-      "latestReleaseDate": "2026-05-14",
+      "latest": "11.8.8",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2025-06-04"
     },
@@ -21,8 +21,8 @@
       "cycle": "11.4",
       "eol": "2029-05-29",
       "extendedSupport": "2033-01-16",
-      "latest": "11.4.11",
-      "latestReleaseDate": "2026-05-14",
+      "latest": "11.4.12",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2024-05-29"
     },
@@ -30,8 +30,8 @@
       "cycle": "10.11",
       "eol": "2028-02-16",
       "extendedSupport": "2028-02-16",
-      "latest": "10.11.17",
-      "latestReleaseDate": "2026-05-14",
+      "latest": "10.11.18",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2023-02-16"
     },
@@ -39,8 +39,8 @@
       "cycle": "10.6",
       "eol": "2026-07-06",
       "extendedSupport": "2029-08-23",
-      "latest": "10.6.26",
-      "latestReleaseDate": "2026-05-14",
+      "latest": "10.6.27",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2021-07-06"
     },
@@ -135,10 +135,10 @@
       "releaseDate": "2010-02-01"
     }
   ],
-  "fetched_at": "2026-05-26T10:23:05Z",
+  "fetched_at": "2026-05-28T03:00:26Z",
   "slug": "mariadb",
   "source": "release-data",
-  "source_commit": "ea42a7a8e6d914fbfd30d29915c3251e35d38615",
+  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/mariadb.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

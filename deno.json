@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "2.8",
-      "latest": "2.8.0",
-      "latestReleaseDate": "2026-05-22",
+      "latest": "2.8.1",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
-      "releaseDate": "2026-05-22"
+      "releaseDate": "2026-05-27"
     },
     {
       "cycle": "2.7",
@@ -401,10 +401,10 @@
       "releaseDate": "2020-06-03"
     }
   ],
-  "fetched_at": "2026-05-26T10:23:05Z",
+  "fetched_at": "2026-05-28T03:00:26Z",
   "slug": "deno",
   "source": "release-data",
-  "source_commit": "ea42a7a8e6d914fbfd30d29915c3251e35d38615",
+  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/deno.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

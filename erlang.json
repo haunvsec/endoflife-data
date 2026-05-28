@@ -10,35 +10,35 @@
   "cycles": [
     {
       "cycle": "29.0",
-      "latest": "29.0",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "29.0.1",
+      "latestReleaseDate": "2026-05-26",
       "lts": false,
-      "releaseDate": "2026-05-11"
+      "releaseDate": "2026-05-26"
     },
     {
       "cycle": "28.5",
-      "latest": "28.5",
-      "latestReleaseDate": "2026-04-23",
+      "latest": "28.5.0.1",
+      "latestReleaseDate": "2026-05-26",
       "lts": false,
-      "releaseDate": "2026-04-23"
+      "releaseDate": "2026-05-26"
+    },
+    {
+      "cycle": "27.3",
+      "latest": "27.3.4.12",
+      "latestReleaseDate": "2026-05-26",
+      "lts": false,
+      "releaseDate": "2026-05-26"
+    },
+    {
+      "cycle": "26.2",
+      "latest": "26.2.5.21",
+      "latestReleaseDate": "2026-05-26",
+      "lts": false,
+      "releaseDate": "2026-05-26"
     },
     {
       "cycle": "28.4",
       "latest": "28.4.3",
-      "latestReleaseDate": "2026-04-20",
-      "lts": false,
-      "releaseDate": "2026-04-20"
-    },
-    {
-      "cycle": "27.3",
-      "latest": "27.3.4.11",
-      "latestReleaseDate": "2026-04-20",
-      "lts": false,
-      "releaseDate": "2026-04-20"
-    },
-    {
-      "cycle": "26.2",
-      "latest": "26.2.5.20",
       "latestReleaseDate": "2026-04-20",
       "lts": false,
       "releaseDate": "2026-04-20"
@@ -373,10 +373,10 @@
       "releaseDate": "2014-05-27"
     }
   ],
-  "fetched_at": "2026-05-26T10:23:05Z",
+  "fetched_at": "2026-05-28T03:00:26Z",
   "slug": "erlang",
   "source": "release-data",
-  "source_commit": "ea42a7a8e6d914fbfd30d29915c3251e35d38615",
+  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/erlang.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

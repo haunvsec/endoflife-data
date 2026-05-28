@@ -132,9 +132,9 @@
   {
     "canonical_product": "cnspec",
     "canonical_vendor": "",
-    "cycles_total": 183,
+    "cycles_total": 185,
     "display_name": "Cnspec",
-    "latest_release_date": "2026-05-21",
+    "latest_release_date": "2026-05-27",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cnspec.json",
     "slug": "cnspec"
@@ -144,7 +144,7 @@
     "canonical_vendor": "",
     "cycles_total": 23,
     "display_name": "Cockroachdb",
-    "latest_release_date": "2026-04-21",
+    "latest_release_date": "2026-05-21",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cockroachdb.json",
     "slug": "cockroachdb"
@@ -234,7 +234,7 @@
     "canonical_vendor": "",
     "cycles_total": 8,
     "display_name": "Freedesktop Sdk",
-    "latest_release_date": "2026-05-21",
+    "latest_release_date": "2026-05-26",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/freedesktop-sdk.json",
     "slug": "freedesktop-sdk"
@@ -404,7 +404,7 @@
     "canonical_vendor": "",
     "cycles_total": 2,
     "display_name": "Laravel",
-    "latest_release_date": "2026-05-20",
+    "latest_release_date": "2026-05-27",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/laravel.json",
     "slug": "laravel"
@@ -442,9 +442,9 @@
   {
     "canonical_product": "meilisearch",
     "canonical_vendor": "",
-    "cycles_total": 45,
+    "cycles_total": 46,
     "display_name": "Meilisearch",
-    "latest_release_date": "2026-05-18",
+    "latest_release_date": "2026-05-26",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/meilisearch.json",
     "slug": "meilisearch"
@@ -472,9 +472,9 @@
   {
     "canonical_product": "mxlinux",
     "canonical_vendor": "",
-    "cycles_total": 31,
+    "cycles_total": 32,
     "display_name": "Mxlinux",
-    "latest_release_date": "2026-01-19",
+    "latest_release_date": "2026-05-25",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/mxlinux.json",
     "slug": "mxlinux"
@@ -494,7 +494,7 @@
     "canonical_vendor": "",
     "cycles_total": 7,
     "display_name": "Opentofu",
-    "latest_release_date": "2026-05-14",
+    "latest_release_date": "2026-05-27",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/opentofu.json",
     "slug": "opentofu"
@@ -592,9 +592,9 @@
   {
     "canonical_product": "quarkus_framework",
     "canonical_vendor": "",
-    "cycles_total": 67,
+    "cycles_total": 68,
     "display_name": "Quarkus Framework",
-    "latest_release_date": "2026-05-20",
+    "latest_release_date": "2026-05-27",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quarkus-framework.json",
     "slug": "quarkus-framework"
@@ -622,9 +622,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3590,
+    "cycles_total": 3592,
     "display_name": "Renovate",
-    "latest_release_date": "2026-05-25",
+    "latest_release_date": "2026-05-27",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -654,7 +654,7 @@
     "canonical_vendor": "",
     "cycles_total": 24,
     "display_name": "Rtpengine",
-    "latest_release_date": "2026-05-18",
+    "latest_release_date": "2026-05-27",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/rtpengine.json",
     "slug": "rtpengine"

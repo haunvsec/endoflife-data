@@ -21,8 +21,8 @@
       "cycle": "2.13",
       "eoas": "2026-06-17",
       "eol": "2027-06-17",
-      "latest": "2.13.5",
-      "latestReleaseDate": "2026-04-30",
+      "latest": "2.13.6",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2025-12-17"
     },
@@ -30,8 +30,8 @@
       "cycle": "2.12",
       "eoas": "2026-02-28",
       "eol": "2027-02-28",
-      "latest": "2.12.9",
-      "latestReleaseDate": "2026-04-30",
+      "latest": "2.12.10",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2025-08-29"
     },
@@ -39,8 +39,8 @@
       "cycle": "2.11",
       "eoas": "2025-10-24",
       "eol": "2026-10-24",
-      "latest": "2.11.13",
-      "latestReleaseDate": "2026-04-29",
+      "latest": "2.11.14",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2025-04-24"
     },
@@ -48,8 +48,8 @@
       "cycle": "2.10",
       "eoas": "2025-06-19",
       "eol": "2026-06-19",
-      "latest": "2.10.11",
-      "latestReleaseDate": "2026-01-29",
+      "latest": "2.10.12",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2024-12-19"
     },
@@ -63,10 +63,10 @@
       "releaseDate": "2024-08-26"
     }
   ],
-  "fetched_at": "2026-05-26T10:23:05Z",
+  "fetched_at": "2026-05-28T03:00:26Z",
   "slug": "rancher",
   "source": "release-data",
-  "source_commit": "ea42a7a8e6d914fbfd30d29915c3251e35d38615",
+  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/rancher.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

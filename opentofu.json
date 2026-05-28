@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "1.12",
-      "latest": "1.12.0",
-      "latestReleaseDate": "2026-05-14",
+      "latest": "1.12.1",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
-      "releaseDate": "2026-05-14"
+      "releaseDate": "2026-05-27"
     },
     {
       "cycle": "1.11",
@@ -58,10 +58,10 @@
       "releaseDate": "2024-07-09"
     }
   ],
-  "fetched_at": "2026-05-26T10:23:05Z",
+  "fetched_at": "2026-05-28T03:00:26Z",
   "slug": "opentofu",
   "source": "release-data",
-  "source_commit": "ea42a7a8e6d914fbfd30d29915c3251e35d38615",
+  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/opentofu.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

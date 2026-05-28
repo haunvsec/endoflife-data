@@ -11,24 +11,24 @@
     {
       "cycle": "11.7",
       "eol": "2027-05-15",
-      "latest": "11.7.1",
-      "latestReleaseDate": "2026-05-20",
+      "latest": "11.7.2",
+      "latestReleaseDate": "2026-05-26",
       "lts": false,
       "releaseDate": "2026-05-15"
     },
     {
       "cycle": "11.6",
       "eol": "2026-07-15",
-      "latest": "11.6.3",
-      "latestReleaseDate": "2026-05-21",
+      "latest": "11.6.4",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2026-04-16"
     },
     {
       "cycle": "11.5",
       "eol": "2026-06-15",
-      "latest": "11.5.6",
-      "latestReleaseDate": "2026-05-21",
+      "latest": "11.5.7",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2026-03-16"
     },
@@ -83,8 +83,8 @@
     {
       "cycle": "10.11",
       "eol": "2026-08-15",
-      "latest": "10.11.18",
-      "latestReleaseDate": "2026-05-21",
+      "latest": "10.11.19",
+      "latestReleaseDate": "2026-05-27",
       "lts": false,
       "releaseDate": "2025-08-15"
     },
@@ -177,10 +177,10 @@
       "releaseDate": "2024-09-16"
     }
   ],
-  "fetched_at": "2026-05-26T10:23:05Z",
+  "fetched_at": "2026-05-28T03:00:26Z",
   "slug": "mattermost",
   "source": "release-data",
-  "source_commit": "ea42a7a8e6d914fbfd30d29915c3251e35d38615",
+  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/mattermost.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

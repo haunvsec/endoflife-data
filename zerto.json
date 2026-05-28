@@ -10,79 +10,89 @@
   "cycles": [
     {
       "cycle": "10.9",
-      "eol": "2027-05-13",
+      "eoas": "2027-05-13",
+      "eol": "2028-05-13",
       "lts": false,
       "releaseDate": "2026-05-13",
       "releaseLabel": "10.9"
     },
     {
       "cycle": "10.8",
-      "eol": "2026-10-28",
+      "eoas": "2026-10-28",
+      "eol": "2027-10-28",
       "lts": false,
       "releaseDate": "2025-10-28",
       "releaseLabel": "10.8"
     },
     {
       "cycle": "10.0_u7",
-      "eol": "2026-05-06",
+      "eoas": "2026-05-06",
+      "eol": "2027-05-06",
       "lts": false,
       "releaseDate": "2025-05-06",
       "releaseLabel": "10.0 Update 7"
     },
     {
       "cycle": "10.0_u6",
-      "eol": "2026-12-03",
+      "eoas": "2026-12-03",
+      "eol": "2027-12-03",
       "lts": false,
       "releaseDate": "2024-12-03",
       "releaseLabel": "10.0 Update 6"
     },
     {
       "cycle": "10.0_u5",
-      "eol": "2024-12-03",
+      "eoas": "2024-12-03",
+      "eol": "2026-08-06",
       "lts": false,
       "releaseDate": "2024-08-06",
       "releaseLabel": "10.0 Update 5"
     },
     {
       "cycle": "10.0_u4",
-      "eol": "2024-08-06",
+      "eoas": "2024-08-06",
+      "eol": "2026-05-15",
       "lts": false,
       "releaseDate": "2024-05-15",
       "releaseLabel": "10.0 Update 4"
     },
     {
       "cycle": "10.0_u3",
-      "eol": "2024-05-15",
+      "eoas": "2024-05-15",
+      "eol": "2026-02-12",
       "lts": false,
       "releaseDate": "2024-02-12",
       "releaseLabel": "10.0 Update 3"
     },
     {
       "cycle": "10.0_u2",
-      "eol": "2024-02-12",
+      "eoas": "2024-02-12",
+      "eol": "2024-12-31",
       "lts": false,
       "releaseDate": "2023-11-28",
       "releaseLabel": "10.0 Update 2"
     },
     {
       "cycle": "10.0_u1",
-      "eol": "2023-11-28",
+      "eoas": "2023-11-28",
+      "eol": "2024-08-07",
       "lts": false,
       "releaseDate": "2023-08-07",
       "releaseLabel": "10.0 Update 1"
     },
     {
       "cycle": "10.0",
-      "eol": "2023-08-07",
+      "eoas": "2023-08-07",
+      "eol": "2024-07-05",
       "lts": false,
       "releaseDate": "2023-07-05",
       "releaseLabel": "10.0"
     }
   ],
-  "fetched_at": "2026-05-26T10:23:05Z",
+  "fetched_at": "2026-05-28T03:00:26Z",
   "slug": "zerto",
   "source": "release-data",
-  "source_commit": "ea42a7a8e6d914fbfd30d29915c3251e35d38615",
+  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/zerto.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
