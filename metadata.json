@@ -1,27 +1,27 @@
 {
   "advisory_dir": "/Volumes/DATA/security_advisory/advisory-data",
   "cache_dir": "/Volumes/DATA/security_advisory/cache/endoflife-release-data",
-  "cycles_total": 17482,
-  "duration_seconds": 27.92,
+  "cycles_total": 17804,
+  "duration_seconds": 146.2,
   "errors": [],
   "errors_count": 0,
-  "last_crawl_time": "2026-05-28T03:00:26Z",
+  "last_crawl_time": "2026-07-07T10:38:36Z",
   "mapping_review_file": "/Volumes/DATA/security_advisory/endoflife-data/mapping-review.json",
   "mapping_sources": {
-    "advisory-data": 6,
+    "advisory-data": 11,
     "eol_product_mapping": 243,
     "product_rule": 1,
-    "slug_prefix": 64,
-    "unmapped": 82
+    "slug_prefix": 60,
+    "unmapped": 85
   },
   "output_dir": "/Volumes/DATA/security_advisory/endoflife-data",
-  "products_crawled": 396,
-  "products_mapped": 314,
-  "products_mapped_percent": 79.29,
-  "products_needing_mapping_review": 82,
-  "products_needing_mapping_review_percent": 20.71,
+  "products_crawled": 400,
+  "products_mapped": 315,
+  "products_mapped_percent": 78.75,
+  "products_needing_mapping_review": 85,
+  "products_needing_mapping_review_percent": 21.25,
   "source": "endoflife-date/release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_url": "https://github.com/endoflife-date/release-data.git",
   "warnings": [
     {
@@ -93,6 +93,26 @@
       "warning": "github-actions-runner-images[11]: no lifecycle date fields"
     },
     {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[12]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[13]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[14]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[15]: no lifecycle date fields"
+    },
+    {
+      "product": "github-actions-runner-images",
+      "warning": "github-actions-runner-images[16]: no lifecycle date fields"
+    },
+    {
       "product": "proxmox-backup-server",
       "warning": "proxmox-backup-server[0]: no lifecycle date fields"
     },
@@ -107,7 +127,39 @@
     {
       "product": "proxmox-backup-server",
       "warning": "proxmox-backup-server[3]: no lifecycle date fields"
+    },
+    {
+      "product": "proxmox-datacenter-manager",
+      "warning": "proxmox-datacenter-manager[0]: no lifecycle date fields"
+    },
+    {
+      "product": "proxmox-datacenter-manager",
+      "warning": "proxmox-datacenter-manager[1]: no lifecycle date fields"
+    },
+    {
+      "product": "proxmox-mail-gateway",
+      "warning": "proxmox-mail-gateway[0]: no lifecycle date fields"
+    },
+    {
+      "product": "proxmox-mail-gateway",
+      "warning": "proxmox-mail-gateway[1]: no lifecycle date fields"
+    },
+    {
+      "product": "proxmox-mail-gateway",
+      "warning": "proxmox-mail-gateway[2]: no lifecycle date fields"
+    },
+    {
+      "product": "proxmox-mail-gateway",
+      "warning": "proxmox-mail-gateway[3]: no lifecycle date fields"
+    },
+    {
+      "product": "proxmox-mail-gateway",
+      "warning": "proxmox-mail-gateway[4]: no lifecycle date fields"
+    },
+    {
+      "product": "proxmox-mail-gateway",
+      "warning": "proxmox-mail-gateway[5]: no lifecycle date fields"
     }
   ],
-  "warnings_count": 21
+  "warnings_count": 34
 }

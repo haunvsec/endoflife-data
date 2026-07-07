@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "6.10",
+      "latest": "6.10.0",
+      "latestReleaseDate": "2026-05-25",
+      "lts": false,
+      "releaseDate": "2026-05-25"
+    },
+    {
       "cycle": "6.9",
       "latest": "6.9.0",
       "latestReleaseDate": "2026-04-10",
@@ -149,10 +156,10 @@
       "releaseDate": "2005-11-08"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "apache-struts",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-struts.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

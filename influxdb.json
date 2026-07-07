@@ -9,18 +9,25 @@
   },
   "cycles": [
     {
+      "cycle": "3.10",
+      "latest": "3.10.1",
+      "latestReleaseDate": "2026-06-25",
+      "lts": false,
+      "releaseDate": "2026-06-25"
+    },
+    {
+      "cycle": "3.9",
+      "latest": "3.9.6",
+      "latestReleaseDate": "2026-06-25",
+      "lts": false,
+      "releaseDate": "2026-06-25"
+    },
+    {
       "cycle": "2.9",
       "latest": "2.9.1",
       "latestReleaseDate": "2026-05-11",
       "lts": false,
       "releaseDate": "2026-05-11"
-    },
-    {
-      "cycle": "3.9",
-      "latest": "3.9.2",
-      "latestReleaseDate": "2026-05-01",
-      "lts": false,
-      "releaseDate": "2026-05-01"
     },
     {
       "cycle": "1.12",
@@ -240,10 +247,10 @@
       "releaseDate": "2016-10-05"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "influxdb",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/influxdb.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

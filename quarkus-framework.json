@@ -9,25 +9,39 @@
   },
   "cycles": [
     {
-      "cycle": "3.36",
-      "latest": "3.36.0",
-      "latestReleaseDate": "2026-05-27",
+      "cycle": "3.37",
+      "latest": "3.37.1",
+      "latestReleaseDate": "2026-07-01",
       "lts": false,
-      "releaseDate": "2026-05-27"
+      "releaseDate": "2026-07-01"
+    },
+    {
+      "cycle": "3.36",
+      "latest": "3.36.3",
+      "latestReleaseDate": "2026-06-18",
+      "lts": false,
+      "releaseDate": "2026-06-18"
     },
     {
       "cycle": "3.33",
-      "latest": "3.33.2",
-      "latestReleaseDate": "2026-05-26",
+      "latest": "3.33.2.1",
+      "latestReleaseDate": "2026-06-17",
       "lts": false,
-      "releaseDate": "2026-05-26"
+      "releaseDate": "2026-06-17"
     },
     {
       "cycle": "3.27",
-      "latest": "3.27.4",
-      "latestReleaseDate": "2026-05-26",
+      "latest": "3.27.4.1",
+      "latestReleaseDate": "2026-06-17",
       "lts": false,
-      "releaseDate": "2026-05-26"
+      "releaseDate": "2026-06-17"
+    },
+    {
+      "cycle": "3.20",
+      "latest": "3.20.6.2",
+      "latestReleaseDate": "2026-06-17",
+      "lts": false,
+      "releaseDate": "2026-06-17"
     },
     {
       "cycle": "3.35",
@@ -39,13 +53,6 @@
     {
       "cycle": "3.34",
       "latest": "3.34.7",
-      "latestReleaseDate": "2026-05-04",
-      "lts": false,
-      "releaseDate": "2026-05-04"
-    },
-    {
-      "cycle": "3.20",
-      "latest": "3.20.6.1",
       "latestReleaseDate": "2026-05-04",
       "lts": false,
       "releaseDate": "2026-05-04"
@@ -485,10 +492,10 @@
       "releaseDate": "2019-11-28"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "quarkus-framework",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/quarkus-framework.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

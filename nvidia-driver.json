@@ -38,9 +38,9 @@
     },
     {
       "cycle": "r580-linux",
-      "latest": "580.159.04",
-      "latestReleaseDate": "2026-05-14",
-      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-159-04/index.html",
+      "latest": "580.173.02",
+      "latestReleaseDate": "2026-06-29",
+      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-173-02/index.html",
       "lts": false
     },
     {
@@ -226,10 +226,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "nvidia-driver",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nvidia-driver.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

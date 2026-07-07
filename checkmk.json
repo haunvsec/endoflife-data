@@ -1,0 +1,95 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Checkmk",
+    "mapping_source": "unmapped",
+    "product": "checkmk",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "2.5",
+      "latest": "2.5.0",
+      "latestReleaseDate": "2026-04-28",
+      "lts": false,
+      "releaseDate": "2026-04-28"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.0",
+      "latestReleaseDate": "2025-05-06",
+      "lts": false,
+      "releaseDate": "2025-05-06"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.0",
+      "latestReleaseDate": "2024-04-29",
+      "lts": false,
+      "releaseDate": "2024-04-29"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.0",
+      "latestReleaseDate": "2023-05-23",
+      "lts": false,
+      "releaseDate": "2023-05-23"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.0",
+      "latestReleaseDate": "2022-05-22",
+      "lts": false,
+      "releaseDate": "2022-05-22"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.0",
+      "latestReleaseDate": "2021-03-08",
+      "lts": false,
+      "releaseDate": "2021-03-08"
+    },
+    {
+      "cycle": "1.6",
+      "latest": "1.6.0",
+      "latestReleaseDate": "2019-09-23",
+      "lts": false,
+      "releaseDate": "2019-09-23"
+    },
+    {
+      "cycle": "1.5",
+      "latest": "1.5.0",
+      "latestReleaseDate": "2018-08-01",
+      "lts": false,
+      "releaseDate": "2018-08-01"
+    },
+    {
+      "cycle": "1.4",
+      "latest": "1.4.0",
+      "latestReleaseDate": "2017-05-30",
+      "lts": false,
+      "releaseDate": "2017-05-30"
+    },
+    {
+      "cycle": "1.2",
+      "latest": "1.2.8",
+      "latestReleaseDate": "2016-05-04",
+      "lts": false,
+      "releaseDate": "2016-05-04"
+    },
+    {
+      "cycle": "1.1",
+      "latest": "1.1.12",
+      "latestReleaseDate": "2011-10-26",
+      "lts": false,
+      "releaseDate": "2011-10-26"
+    }
+  ],
+  "fetched_at": "2026-07-07T10:38:36Z",
+  "slug": "checkmk",
+  "source": "release-data",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/checkmk.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

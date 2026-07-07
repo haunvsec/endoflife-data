@@ -10,31 +10,31 @@
   "cycles": [
     {
       "cycle": "9.1",
-      "latest": "9.1.5",
-      "latestReleaseDate": "2026-05-20",
+      "latest": "9.1.6",
+      "latestReleaseDate": "2026-06-22",
       "lts": false,
-      "releaseDate": "2026-05-20"
+      "releaseDate": "2026-06-22"
     },
     {
       "cycle": "9.0",
-      "latest": "9.0.12",
-      "latestReleaseDate": "2026-05-20",
+      "latest": "9.0.13",
+      "latestReleaseDate": "2026-06-22",
       "lts": false,
-      "releaseDate": "2026-05-20"
+      "releaseDate": "2026-06-22"
     },
     {
       "cycle": "8.4",
-      "latest": "8.4.5",
-      "latestReleaseDate": "2026-03-20",
+      "latest": "8.4.6",
+      "latestReleaseDate": "2026-06-22",
       "lts": false,
-      "releaseDate": "2026-03-20"
+      "releaseDate": "2026-06-22"
     },
     {
       "cycle": "8.3",
-      "latest": "8.3.33",
-      "latestReleaseDate": "2026-03-20",
+      "latest": "8.3.34",
+      "latestReleaseDate": "2026-06-22",
       "lts": false,
-      "releaseDate": "2026-03-20"
+      "releaseDate": "2026-06-22"
     },
     {
       "cycle": "8.2",
@@ -219,10 +219,10 @@
       "releaseDate": "2014-04-10"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "neos",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/neos.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

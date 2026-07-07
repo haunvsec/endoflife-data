@@ -9,46 +9,53 @@
   },
   "cycles": [
     {
-      "cycle": "3.3",
-      "latest": "3.3.10",
-      "latestReleaseDate": "2026-05-11",
+      "cycle": "3.4",
+      "latest": "3.4.2",
+      "latestReleaseDate": "2026-07-03",
       "lts": false,
-      "releaseDate": "2026-05-11"
+      "releaseDate": "2026-07-03"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.12",
+      "latestReleaseDate": "2026-07-03",
+      "lts": false,
+      "releaseDate": "2026-07-03"
     },
     {
       "cycle": "3.2",
-      "latest": "3.2.19",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "3.2.21",
+      "latestReleaseDate": "2026-07-03",
       "lts": false,
-      "releaseDate": "2026-05-11"
+      "releaseDate": "2026-07-03"
     },
     {
       "cycle": "3.0",
-      "latest": "3.0.23",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "3.0.25",
+      "latestReleaseDate": "2026-07-03",
       "lts": false,
-      "releaseDate": "2026-05-11"
+      "releaseDate": "2026-07-03"
     },
     {
       "cycle": "2.8",
-      "latest": "2.8.24",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "2.8.26",
+      "latestReleaseDate": "2026-07-03",
       "lts": false,
-      "releaseDate": "2026-05-11"
+      "releaseDate": "2026-07-03"
     },
     {
       "cycle": "2.6",
-      "latest": "2.6.29",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "2.6.31",
+      "latestReleaseDate": "2026-07-03",
       "lts": false,
-      "releaseDate": "2026-05-11"
+      "releaseDate": "2026-07-03"
     },
     {
       "cycle": "2.4",
-      "latest": "2.4.35",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "2.4.36",
+      "latestReleaseDate": "2026-07-03",
       "lts": false,
-      "releaseDate": "2026-05-11"
+      "releaseDate": "2026-07-03"
     },
     {
       "cycle": "3.1",
@@ -170,10 +177,10 @@
       "releaseDate": "2006-01-29"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "haproxy",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/haproxy.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

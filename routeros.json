@@ -10,10 +10,17 @@
   "cycles": [
     {
       "cycle": "7.23",
-      "latest": "7.23",
-      "latestReleaseDate": "2026-05-26",
+      "latest": "7.23.2",
+      "latestReleaseDate": "2026-07-06",
       "lts": false,
-      "releaseDate": "2026-05-26"
+      "releaseDate": "2026-07-06"
+    },
+    {
+      "cycle": "7.21",
+      "latest": "7.21.5",
+      "latestReleaseDate": "2026-07-06",
+      "lts": false,
+      "releaseDate": "2026-07-06"
     },
     {
       "cycle": "7.22",
@@ -21,13 +28,6 @@
       "latestReleaseDate": "2026-05-08",
       "lts": false,
       "releaseDate": "2026-05-08"
-    },
-    {
-      "cycle": "7.21",
-      "latest": "7.21.4",
-      "latestReleaseDate": "2026-04-21",
-      "lts": false,
-      "releaseDate": "2026-04-21"
     },
     {
       "cycle": "7.20",
@@ -653,10 +653,10 @@
       "releaseDate": "2009-09-11"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "routeros",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/routeros.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

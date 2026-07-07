@@ -9,6 +9,16 @@
   },
   "cycles": [
     {
+      "cycle": "150",
+      "lts": false,
+      "releaseDate": "2026-06-30"
+    },
+    {
+      "cycle": "149",
+      "lts": false,
+      "releaseDate": "2026-06-02"
+    },
+    {
       "cycle": "148",
       "lts": false,
       "releaseDate": "2026-05-05"
@@ -457,22 +467,12 @@
       "cycle": "58",
       "lts": false,
       "releaseDate": "2017-04-18"
-    },
-    {
-      "cycle": "57",
-      "lts": false,
-      "releaseDate": "2017-03-07"
-    },
-    {
-      "cycle": "56",
-      "lts": false,
-      "releaseDate": "2017-01-24"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "chrome",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/chrome.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

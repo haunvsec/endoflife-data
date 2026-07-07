@@ -9,6 +9,14 @@
   },
   "cycles": [
     {
+      "cycle": "18",
+      "eol": "2031-02-28",
+      "extendedSupport": "2034-02-28",
+      "latest": "18.3",
+      "latestReleaseDate": "2026-06-11",
+      "lts": false
+    },
+    {
       "cycle": "17",
       "eol": "2030-02-28",
       "extendedSupport": "2033-02-28",
@@ -35,6 +43,7 @@
     {
       "cycle": "14",
       "eol": "2027-02-28",
+      "extendedSupport": "2030-02-28",
       "latest": "14.22",
       "latestReleaseDate": "2026-04-06",
       "lts": false
@@ -64,10 +73,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "amazon-aurora-postgresql",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-aurora-postgresql.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -9,25 +9,25 @@
   },
   "cycles": [
     {
+      "cycle": "10.0",
+      "latest": "10.0.6.0",
+      "latestReleaseDate": "2026-06-11",
+      "lts": false,
+      "releaseDate": "2026-06-11"
+    },
+    {
+      "cycle": "9.4",
+      "latest": "9.4.15.0",
+      "latestReleaseDate": "2026-06-08",
+      "lts": false,
+      "releaseDate": "2026-06-08"
+    },
+    {
       "cycle": "10.1",
       "latest": "10.1.0.0",
       "latestReleaseDate": "2026-04-20",
       "lts": false,
       "releaseDate": "2026-04-20"
-    },
-    {
-      "cycle": "10.0",
-      "latest": "10.0.5.0",
-      "latestReleaseDate": "2026-04-06",
-      "lts": false,
-      "releaseDate": "2026-04-06"
-    },
-    {
-      "cycle": "9.4",
-      "latest": "9.4.14.0",
-      "latestReleaseDate": "2025-08-28",
-      "lts": false,
-      "releaseDate": "2025-08-28"
     },
     {
       "cycle": "9.3",
@@ -72,10 +72,10 @@
       "releaseDate": "2012-05-01"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "jruby",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/jruby.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

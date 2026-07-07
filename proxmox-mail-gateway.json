@@ -1,0 +1,42 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Proxmox Mail Gateway",
+    "mapping_source": "unmapped",
+    "product": "proxmox_mail_gateway",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "9",
+      "lts": false
+    },
+    {
+      "cycle": "8",
+      "lts": false
+    },
+    {
+      "cycle": "7",
+      "lts": false
+    },
+    {
+      "cycle": "6",
+      "lts": false
+    },
+    {
+      "cycle": "5",
+      "lts": false
+    },
+    {
+      "cycle": "4",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-07-07T10:38:36Z",
+  "slug": "proxmox-mail-gateway",
+  "source": "release-data",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/proxmox-mail-gateway.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

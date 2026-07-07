@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "4.9",
-      "latest": "4.9.0",
-      "latestReleaseDate": "2026-03-29",
+      "latest": "4.9.3",
+      "latestReleaseDate": "2026-07-05",
       "lts": false,
-      "releaseDate": "2026-03-29"
+      "releaseDate": "2026-07-05"
     },
     {
       "cycle": "4.8",
@@ -282,10 +282,10 @@
       "releaseDate": "2014-09-28"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "weechat",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/weechat.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

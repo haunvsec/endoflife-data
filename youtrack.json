@@ -9,46 +9,53 @@
   },
   "cycles": [
     {
+      "cycle": "2026.2",
+      "latest": "2026.2.17012",
+      "latestReleaseDate": "2026-07-01",
+      "lts": false,
+      "releaseDate": "2026-07-01"
+    },
+    {
       "cycle": "2026.1",
-      "latest": "2026.1.13570",
-      "latestReleaseDate": "2026-05-18",
+      "latest": "2026.1.13757",
+      "latestReleaseDate": "2026-06-11",
       "lts": false,
-      "releaseDate": "2026-05-18"
-    },
-    {
-      "cycle": "2025.3",
-      "latest": "2025.3.132953",
-      "latestReleaseDate": "2026-03-25",
-      "lts": false,
-      "releaseDate": "2026-03-25"
-    },
-    {
-      "cycle": "2025.2",
-      "latest": "2025.2.119894",
-      "latestReleaseDate": "2026-01-28",
-      "lts": false,
-      "releaseDate": "2026-01-28"
-    },
-    {
-      "cycle": "2025.1",
-      "latest": "2025.1.86877",
-      "latestReleaseDate": "2025-07-21",
-      "lts": false,
-      "releaseDate": "2025-07-21"
+      "releaseDate": "2026-06-11"
     },
     {
       "cycle": "2024.3",
-      "latest": "2024.3.85077",
-      "latestReleaseDate": "2025-07-08",
+      "latest": "2024.3.148430",
+      "latestReleaseDate": "2026-06-08",
       "lts": false,
-      "releaseDate": "2025-07-08"
+      "releaseDate": "2026-06-08"
     },
     {
       "cycle": "2024.2",
-      "latest": "2024.2.78673",
-      "latestReleaseDate": "2025-05-23",
+      "latest": "2024.2.148429",
+      "latestReleaseDate": "2026-06-08",
       "lts": false,
-      "releaseDate": "2025-05-23"
+      "releaseDate": "2026-06-08"
+    },
+    {
+      "cycle": "2025.1",
+      "latest": "2025.1.148120",
+      "latestReleaseDate": "2026-06-04",
+      "lts": false,
+      "releaseDate": "2026-06-04"
+    },
+    {
+      "cycle": "2025.3",
+      "latest": "2025.3.148033",
+      "latestReleaseDate": "2026-06-03",
+      "lts": false,
+      "releaseDate": "2026-06-03"
+    },
+    {
+      "cycle": "2025.2",
+      "latest": "2025.2.148048",
+      "latestReleaseDate": "2026-06-03",
+      "lts": false,
+      "releaseDate": "2026-06-03"
     },
     {
       "cycle": "2024.1",
@@ -219,10 +226,10 @@
       "releaseDate": "2018-05-17"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "youtrack",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/youtrack.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

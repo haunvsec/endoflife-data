@@ -10,8 +10,8 @@
   "cycles": [
     {
       "cycle": "8.0",
-      "latest": "8.0.1",
-      "latestReleaseDate": "2026-03-01",
+      "latest": "8.0.2",
+      "latestReleaseDate": "2026-06-01",
       "lts": false,
       "releaseDate": "2025-10-21"
     },
@@ -24,8 +24,8 @@
     },
     {
       "cycle": "7.2",
-      "latest": "7.2.9",
-      "latestReleaseDate": "2026-01-01",
+      "latest": "7.2.8",
+      "latestReleaseDate": "2025-08-01",
       "lts": false,
       "releaseDate": "2023-06-01"
     },
@@ -95,10 +95,10 @@
       "releaseDate": "2013-06-26"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "couchbase-server",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/couchbase-server.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

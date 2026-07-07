@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "24.0",
-      "latest": "24.0.1",
-      "latestReleaseDate": "2026-05-07",
+      "latest": "24.0.2",
+      "latestReleaseDate": "2026-06-24",
       "lts": false,
-      "releaseDate": "2026-05-07"
+      "releaseDate": "2026-06-24"
     },
     {
       "cycle": "23.0",
-      "latest": "23.0.4",
-      "latestReleaseDate": "2026-05-07",
+      "latest": "23.0.5",
+      "latestReleaseDate": "2026-06-24",
       "lts": false,
-      "releaseDate": "2026-05-07"
+      "releaseDate": "2026-06-24"
     },
     {
       "cycle": "22.0",
@@ -177,10 +177,10 @@
       "releaseDate": "2016-07-11"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "vitess",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/vitess.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

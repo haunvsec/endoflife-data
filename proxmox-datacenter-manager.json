@@ -1,0 +1,26 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Proxmox Datacenter Manager",
+    "mapping_source": "unmapped",
+    "product": "proxmox_datacenter_manager",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "1",
+      "lts": false
+    },
+    {
+      "cycle": "0",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-07-07T10:38:36Z",
+  "slug": "proxmox-datacenter-manager",
+  "source": "release-data",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/proxmox-datacenter-manager.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

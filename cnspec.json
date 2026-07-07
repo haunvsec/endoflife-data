@@ -9,6 +9,62 @@
   },
   "cycles": [
     {
+      "cycle": "13.28",
+      "latest": "13.28.0",
+      "latestReleaseDate": "2026-07-07",
+      "lts": false,
+      "releaseDate": "2026-07-07"
+    },
+    {
+      "cycle": "13.27",
+      "latest": "13.27.4",
+      "latestReleaseDate": "2026-07-02",
+      "lts": false,
+      "releaseDate": "2026-07-02"
+    },
+    {
+      "cycle": "13.26",
+      "latest": "13.26.1",
+      "latestReleaseDate": "2026-07-01",
+      "lts": false,
+      "releaseDate": "2026-07-01"
+    },
+    {
+      "cycle": "13.25",
+      "latest": "13.25.0",
+      "latestReleaseDate": "2026-06-29",
+      "lts": false,
+      "releaseDate": "2026-06-29"
+    },
+    {
+      "cycle": "13.24",
+      "latest": "13.24.2",
+      "latestReleaseDate": "2026-06-26",
+      "lts": false,
+      "releaseDate": "2026-06-26"
+    },
+    {
+      "cycle": "13.23",
+      "latest": "13.23.0",
+      "latestReleaseDate": "2026-06-16",
+      "lts": false,
+      "releaseDate": "2026-06-16"
+    },
+    {
+      "cycle": "13.22",
+      "latest": "13.22.1",
+      "latestReleaseDate": "2026-06-10",
+      "lts": false,
+      "releaseDate": "2026-06-10"
+    },
+    {
+      "cycle": "13.21",
+      "latest": "13.21.1",
+      "latestReleaseDate": "2026-06-05",
+      "lts": false,
+      "releaseDate": "2026-06-05"
+    },
+    {
       "cycle": "13.20",
       "latest": "13.20.1",
       "latestReleaseDate": "2026-05-27",
@@ -1304,10 +1360,10 @@
       "releaseDate": "2022-10-11"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "cnspec",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/cnspec.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

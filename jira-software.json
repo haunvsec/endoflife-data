@@ -11,8 +11,8 @@
     {
       "cycle": "11.3",
       "eol": "2027-12-03",
-      "latest": "11.3.6",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "11.3.7",
+      "latestReleaseDate": "2026-06-03",
       "lts": false
     },
     {
@@ -67,8 +67,8 @@
     {
       "cycle": "10.3",
       "eol": "2026-12-05",
-      "latest": "10.3.21",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "10.3.23",
+      "latestReleaseDate": "2026-07-07",
       "lts": false
     },
     {
@@ -114,10 +114,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "jira-software",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/jira-software.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

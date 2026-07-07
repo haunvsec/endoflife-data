@@ -11,11 +11,6 @@
     {
       "cycle": "windows-2025-vs2026",
       "lts": false,
-      "releaseLabel": "Windows Server 2025 with Visual Studio 2026"
-    },
-    {
-      "cycle": "windows-2025",
-      "lts": false,
       "releaseLabel": "Windows Server 2025"
     },
     {
@@ -24,14 +19,44 @@
       "releaseLabel": "Windows Server 2022"
     },
     {
+      "cycle": "windows-11-vs2026-arm64",
+      "lts": false,
+      "releaseLabel": "Windows 11 Arm64 with Visual Studio 2026"
+    },
+    {
+      "cycle": "windows-11-arm64",
+      "lts": false,
+      "releaseLabel": "Windows 11 Arm64"
+    },
+    {
       "cycle": "ubuntu-slim",
       "lts": false,
       "releaseLabel": "Ubuntu Slim"
     },
     {
+      "cycle": "ubuntu-26.04-arm64",
+      "lts": false,
+      "releaseLabel": "Ubuntu 26.04 Arm64"
+    },
+    {
+      "cycle": "ubuntu-26.04",
+      "lts": false,
+      "releaseLabel": "Ubuntu 26.04"
+    },
+    {
+      "cycle": "ubuntu-24.04-arm64",
+      "lts": false,
+      "releaseLabel": "Ubuntu 24.04 Arm64"
+    },
+    {
       "cycle": "ubuntu-24.04",
       "lts": false,
       "releaseLabel": "Ubuntu 24.04"
+    },
+    {
+      "cycle": "ubuntu-22.04-arm64",
+      "lts": false,
+      "releaseLabel": "Ubuntu 22.04 Arm64"
     },
     {
       "cycle": "ubuntu-22.04",
@@ -69,10 +94,10 @@
       "releaseLabel": "macOS 14"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "github-actions-runner-images",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/github-actions-runner-images.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

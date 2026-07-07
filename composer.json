@@ -9,15 +9,22 @@
   },
   "cycles": [
     {
-      "cycle": "2.9",
-      "latest": "2.9.8",
-      "latestReleaseDate": "2026-05-13",
+      "cycle": "2.10",
+      "latest": "2.10.2",
+      "latestReleaseDate": "2026-07-01",
       "lts": false,
-      "releaseDate": "2026-05-13"
+      "releaseDate": "2026-07-01"
     },
     {
       "cycle": "2.2",
-      "latest": "2.2.28",
+      "latest": "2.2.29",
+      "latestReleaseDate": "2026-07-01",
+      "lts": false,
+      "releaseDate": "2026-07-01"
+    },
+    {
+      "cycle": "2.9",
+      "latest": "2.9.8",
       "latestReleaseDate": "2026-05-13",
       "lts": false,
       "releaseDate": "2026-05-13"
@@ -156,10 +163,10 @@
       "releaseDate": "2016-04-29"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "composer",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/composer.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

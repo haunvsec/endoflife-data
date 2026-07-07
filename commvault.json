@@ -18,32 +18,32 @@
     {
       "cycle": "11.40",
       "eol": "2027-12-15",
-      "latest": "11.40.51",
-      "latestReleaseDate": "2026-05-05",
+      "latest": "11.40.56",
+      "latestReleaseDate": "2026-06-02",
       "lts": false,
       "releaseDate": "2025-06-15"
     },
     {
       "cycle": "11.36",
       "eol": "2027-06-15",
-      "latest": "11.36.102",
-      "latestReleaseDate": "2026-05-05",
+      "latest": "11.36.107",
+      "latestReleaseDate": "2026-06-02",
       "lts": false,
       "releaseDate": "2024-08-15"
     },
     {
       "cycle": "11.32",
       "eol": "2026-06-15",
-      "latest": "11.32.139",
-      "latestReleaseDate": "2026-05-05",
+      "latest": "11.32.143",
+      "latestReleaseDate": "2026-06-02",
       "lts": false,
       "releaseDate": "2023-08-15"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "commvault",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/commvault.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

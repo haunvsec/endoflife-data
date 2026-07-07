@@ -9,6 +9,12 @@
   },
   "cycles": [
     {
+      "cycle": "15.1",
+      "lts": false,
+      "releaseDate": "2026-06-16",
+      "releaseLabel": "releng/15.1"
+    },
+    {
       "cycle": "14.4",
       "lts": false,
       "releaseDate": "2026-03-10",
@@ -22,6 +28,7 @@
     },
     {
       "cycle": "14.3",
+      "eol": "2026-06-30",
       "lts": false,
       "releaseDate": "2025-06-10",
       "releaseLabel": "releng/14.3"
@@ -556,10 +563,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "freebsd",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/freebsd.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

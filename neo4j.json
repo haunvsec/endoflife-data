@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "2026.05",
+      "latest": "2026.05.0",
+      "latestReleaseDate": "2026-05-26",
+      "lts": false,
+      "releaseDate": "2026-05-28"
+    },
+    {
       "cycle": "2026.04",
       "latest": "2026.04.0",
       "latestReleaseDate": "2026-04-22",
@@ -122,8 +129,8 @@
     },
     {
       "cycle": "5.26",
-      "latest": "5.26.26",
-      "latestReleaseDate": "2026-05-11",
+      "latest": "5.26.28",
+      "latestReleaseDate": "2026-06-30",
       "lts": false,
       "releaseDate": "2024-12-06"
     },
@@ -497,10 +504,10 @@
       "releaseDate": "2010-02-23"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "neo4j",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/neo4j.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

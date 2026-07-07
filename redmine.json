@@ -9,25 +9,32 @@
   },
   "cycles": [
     {
-      "cycle": "6.1",
-      "latest": "6.1.2",
-      "latestReleaseDate": "2026-03-17",
+      "cycle": "7.0",
+      "latest": "7.0.0",
+      "latestReleaseDate": "2026-06-30",
       "lts": false,
-      "releaseDate": "2026-03-17"
+      "releaseDate": "2026-06-30"
+    },
+    {
+      "cycle": "6.1",
+      "latest": "6.1.3",
+      "latestReleaseDate": "2026-06-15",
+      "lts": false,
+      "releaseDate": "2026-06-15"
     },
     {
       "cycle": "6.0",
-      "latest": "6.0.9",
-      "latestReleaseDate": "2026-03-17",
+      "latest": "6.0.10",
+      "latestReleaseDate": "2026-06-15",
       "lts": false,
-      "releaseDate": "2026-03-17"
+      "releaseDate": "2026-06-15"
     },
     {
       "cycle": "5.1",
-      "latest": "5.1.12",
-      "latestReleaseDate": "2026-03-17",
+      "latest": "5.1.13",
+      "latestReleaseDate": "2026-06-15",
       "lts": false,
-      "releaseDate": "2026-03-17"
+      "releaseDate": "2026-06-15"
     },
     {
       "cycle": "5.0",
@@ -177,10 +184,10 @@
       "releaseDate": "2010-12-23"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "redmine",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/redmine.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

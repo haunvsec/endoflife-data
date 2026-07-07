@@ -1,19 +1,28 @@
 {
   "canonical": {
-    "cpe": "cpe:2.3:a:vmware:boot:*:*:*:*:*:*:*:*",
+    "cpe": "cpe:2.3:a:spring:spring_boot:*:*:*:*:*:*:*:*",
     "display_name": "Spring Boot",
-    "mapping_source": "slug_prefix",
-    "product": "boot",
+    "mapping_source": "advisory-data",
+    "product": "spring_boot",
     "purl": "",
-    "vendor": "vmware"
+    "vendor": "spring"
   },
   "cycles": [
+    {
+      "cycle": "4.1",
+      "eol": "2027-07-31",
+      "extendedSupport": "2028-07-31",
+      "latest": "4.1.0",
+      "latestReleaseDate": "2026-06-10",
+      "lts": false,
+      "releaseDate": "2026-06-30"
+    },
     {
       "cycle": "4.0",
       "eol": "2026-12-31",
       "extendedSupport": "2027-12-31",
-      "latest": "4.0.6",
-      "latestReleaseDate": "2026-04-23",
+      "latest": "4.0.7",
+      "latestReleaseDate": "2026-06-10",
       "lts": false,
       "releaseDate": "2025-11-30"
     },
@@ -21,8 +30,8 @@
       "cycle": "3.5",
       "eol": "2026-06-30",
       "extendedSupport": "2032-06-30",
-      "latest": "3.5.14",
-      "latestReleaseDate": "2026-04-23",
+      "latest": "3.5.16",
+      "latestReleaseDate": "2026-06-25",
       "lts": false,
       "releaseDate": "2025-05-31"
     },
@@ -45,15 +54,6 @@
       "releaseDate": "2024-05-31"
     },
     {
-      "cycle": "3.2",
-      "eol": "2024-12-31",
-      "extendedSupport": "2025-12-31",
-      "latest": "3.2.12",
-      "latestReleaseDate": "2024-11-21",
-      "lts": false,
-      "releaseDate": "2023-11-30"
-    },
-    {
       "cycle": "2.7",
       "eol": "2023-06-30",
       "extendedSupport": "2029-06-30",
@@ -63,10 +63,10 @@
       "releaseDate": "2022-05-31"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "spring-boot",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/spring-boot.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

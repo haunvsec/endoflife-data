@@ -9,32 +9,32 @@
   },
   "cycles": [
     {
-      "cycle": "6.18",
-      "latest": "6.18.5",
-      "latestReleaseDate": "2026-05-07",
+      "cycle": "6.19",
+      "latest": "6.19.2",
+      "latestReleaseDate": "2026-07-01",
       "lts": false,
-      "releaseDate": "2026-05-07"
+      "releaseDate": "2026-07-01"
+    },
+    {
+      "cycle": "6.18",
+      "latest": "6.18.7",
+      "latestReleaseDate": "2026-07-01",
+      "lts": false,
+      "releaseDate": "2026-07-01"
     },
     {
       "cycle": "6.17",
-      "latest": "6.17.8",
-      "latestReleaseDate": "2026-05-07",
+      "latest": "6.17.9",
+      "latestReleaseDate": "2026-07-01",
       "lts": false,
-      "releaseDate": "2026-05-07"
+      "releaseDate": "2026-07-01"
     },
     {
       "cycle": "6.16",
-      "latest": "6.16.8",
-      "latestReleaseDate": "2026-05-07",
+      "latest": "6.16.10",
+      "latestReleaseDate": "2026-07-01",
       "lts": false,
-      "releaseDate": "2026-05-07"
-    },
-    {
-      "cycle": "6.19",
-      "latest": "6.19.0",
-      "latestReleaseDate": "2026-05-06",
-      "lts": false,
-      "releaseDate": "2026-05-06"
+      "releaseDate": "2026-07-01"
     },
     {
       "cycle": "6.15",
@@ -170,10 +170,10 @@
       "releaseDate": "2013-10-01"
     }
   ],
-  "fetched_at": "2026-05-28T03:00:26Z",
+  "fetched_at": "2026-07-07T10:38:36Z",
   "slug": "red-hat-satellite",
   "source": "release-data",
-  "source_commit": "4611599c5998754106804b12a30941d8f934b6af",
+  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/red-hat-satellite.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
