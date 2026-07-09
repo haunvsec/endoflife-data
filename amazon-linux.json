@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "2023.12",
-      "latest": "2023.12.20260611.0",
-      "latestReleaseDate": "2026-06-22",
+      "latest": "2023.12.20260706.1",
+      "latestReleaseDate": "2026-07-08",
       "lts": false,
-      "releaseDate": "2026-06-22"
+      "releaseDate": "2026-07-08"
     },
     {
       "cycle": "2.0",
-      "latest": "2.0.20260615.0",
-      "latestReleaseDate": "2026-06-22",
+      "latest": "2.0.20260707.0",
+      "latestReleaseDate": "2026-07-08",
       "lts": false,
-      "releaseDate": "2026-06-22"
+      "releaseDate": "2026-07-08"
     },
     {
       "cycle": "2023.11",
@@ -149,10 +149,10 @@
       "releaseDate": "2017-11-03"
     }
   ],
-  "fetched_at": "2026-07-07T10:38:36Z",
+  "fetched_at": "2026-07-09T10:50:34Z",
   "slug": "amazon-linux",
   "source": "release-data",
-  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-linux.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

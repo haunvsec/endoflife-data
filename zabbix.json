@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "7.4",
+      "latest": "7.4.12",
+      "latestReleaseDate": "2026-07-08",
+      "lts": false,
+      "releaseDate": "2026-07-08"
+    },
+    {
       "cycle": "7.0",
       "latest": "7.0.28",
       "latestReleaseDate": "2026-07-07",
@@ -16,24 +23,17 @@
       "releaseDate": "2026-07-07"
     },
     {
-      "cycle": "7.4",
-      "latest": "7.4.11",
-      "latestReleaseDate": "2026-06-02",
-      "lts": false,
-      "releaseDate": "2026-06-02"
-    },
-    {
       "cycle": "6.0",
-      "latest": "6.0.46",
-      "latestReleaseDate": "2026-05-05",
+      "latest": "6.0.47",
+      "latestReleaseDate": "2026-07-07",
       "lts": false,
-      "releaseDate": "2026-05-05"
+      "releaseDate": "2026-07-07"
     }
   ],
-  "fetched_at": "2026-07-07T10:38:36Z",
+  "fetched_at": "2026-07-09T10:50:34Z",
   "slug": "zabbix",
   "source": "release-data",
-  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/zabbix.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

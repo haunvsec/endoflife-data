@@ -17,10 +17,10 @@
     },
     {
       "cycle": "6.6",
-      "latest": "6.6.10.19",
-      "latestReleaseDate": "2026-06-16",
+      "latest": "6.6.10.20",
+      "latestReleaseDate": "2026-07-07",
       "lts": false,
-      "releaseDate": "2026-06-16"
+      "releaseDate": "2026-07-07"
     },
     {
       "cycle": "6.5",
@@ -149,10 +149,10 @@
       "releaseDate": "2013-05-14"
     }
   ],
-  "fetched_at": "2026-07-07T10:38:36Z",
+  "fetched_at": "2026-07-09T10:50:34Z",
   "slug": "shopware",
   "source": "release-data",
-  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/shopware.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

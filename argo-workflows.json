@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "4.0",
-      "latest": "4.0.6",
-      "latestReleaseDate": "2026-06-10",
+      "latest": "4.0.7",
+      "latestReleaseDate": "2026-07-07",
       "lts": false,
-      "releaseDate": "2026-06-10"
+      "releaseDate": "2026-07-07"
     },
     {
       "cycle": "3.7",
-      "latest": "3.7.15",
-      "latestReleaseDate": "2026-06-10",
+      "latest": "3.7.16",
+      "latestReleaseDate": "2026-07-07",
       "lts": false,
-      "releaseDate": "2026-06-10"
+      "releaseDate": "2026-07-07"
     },
     {
       "cycle": "3.6",
@@ -163,10 +163,10 @@
       "releaseDate": "2018-02-06"
     }
   ],
-  "fetched_at": "2026-07-07T10:38:36Z",
+  "fetched_at": "2026-07-09T10:50:34Z",
   "slug": "argo-workflows",
   "source": "release-data",
-  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/argo-workflows.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

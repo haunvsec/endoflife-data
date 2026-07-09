@@ -12,8 +12,8 @@
       "cycle": "5",
       "eoas": "2030-12-31",
       "eol": "2031-12-31",
-      "latest": "5.10.9",
-      "latestReleaseDate": "2026-07-03",
+      "latest": "5.10.10",
+      "latestReleaseDate": "2026-07-08",
       "lts": false
     },
     {
@@ -33,10 +33,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-07-07T10:38:36Z",
+  "fetched_at": "2026-07-09T10:50:34Z",
   "slug": "craft-cms",
   "source": "release-data",
-  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/craft-cms.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

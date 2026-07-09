@@ -9,18 +9,18 @@
   },
   "cycles": [
     {
+      "cycle": "25.08",
+      "latest": "25.08.14",
+      "latestReleaseDate": "2026-07-08",
+      "lts": false,
+      "releaseDate": "2026-07-08"
+    },
+    {
       "cycle": "24.08",
       "latest": "24.08.34",
       "latestReleaseDate": "2026-07-02",
       "lts": false,
       "releaseDate": "2026-07-02"
-    },
-    {
-      "cycle": "25.08",
-      "latest": "25.08.13",
-      "latestReleaseDate": "2026-06-19",
-      "lts": false,
-      "releaseDate": "2026-06-19"
     },
     {
       "cycle": "23.08",
@@ -65,10 +65,10 @@
       "releaseDate": "2019-12-29"
     }
   ],
-  "fetched_at": "2026-07-07T10:38:36Z",
+  "fetched_at": "2026-07-09T10:50:34Z",
   "slug": "freedesktop-sdk",
   "source": "release-data",
-  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/freedesktop-sdk.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

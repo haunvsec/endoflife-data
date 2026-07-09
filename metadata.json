@@ -1,27 +1,27 @@
 {
   "advisory_dir": "/Volumes/DATA/security_advisory/advisory-data",
   "cache_dir": "/Volumes/DATA/security_advisory/cache/endoflife-release-data",
-  "cycles_total": 17804,
-  "duration_seconds": 146.2,
+  "cycles_total": 17818,
+  "duration_seconds": 50.43,
   "errors": [],
   "errors_count": 0,
-  "last_crawl_time": "2026-07-07T10:38:36Z",
+  "last_crawl_time": "2026-07-09T10:50:34Z",
   "mapping_review_file": "/Volumes/DATA/security_advisory/endoflife-data/mapping-review.json",
   "mapping_sources": {
-    "advisory-data": 11,
+    "advisory-data": 10,
     "eol_product_mapping": 243,
     "product_rule": 1,
     "slug_prefix": 60,
-    "unmapped": 85
+    "unmapped": 86
   },
   "output_dir": "/Volumes/DATA/security_advisory/endoflife-data",
   "products_crawled": 400,
-  "products_mapped": 315,
-  "products_mapped_percent": 78.75,
-  "products_needing_mapping_review": 85,
-  "products_needing_mapping_review_percent": 21.25,
+  "products_mapped": 314,
+  "products_mapped_percent": 78.5,
+  "products_needing_mapping_review": 86,
+  "products_needing_mapping_review_percent": 21.5,
   "source": "endoflife-date/release-data",
-  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
   "source_url": "https://github.com/endoflife-date/release-data.git",
   "warnings": [
     {

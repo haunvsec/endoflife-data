@@ -4,7 +4,7 @@
     "canonical_vendor": "",
     "cycles_total": 45,
     "display_name": "Adonisjs",
-    "latest_release_date": "2026-06-05",
+    "latest_release_date": "2026-07-08",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/adonisjs.json",
     "slug": "adonisjs"
@@ -38,6 +38,16 @@
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/alibaba-dragonwell.json",
     "slug": "alibaba-dragonwell"
+  },
+  {
+    "canonical_product": "ansible_core",
+    "canonical_vendor": "",
+    "cycles_total": 13,
+    "display_name": "Ansible Core",
+    "latest_release_date": "2026-06-18",
+    "mapping_source": "unmapped",
+    "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ansible-core.json",
+    "slug": "ansible-core"
   },
   {
     "canonical_product": "anthropic_claude",
@@ -164,7 +174,7 @@
     "canonical_vendor": "",
     "cycles_total": 22,
     "display_name": "Django",
-    "latest_release_date": "2026-06-03",
+    "latest_release_date": "2026-07-07",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/django.json",
     "slug": "django"
@@ -224,7 +234,7 @@
     "canonical_vendor": "",
     "cycles_total": 36,
     "display_name": "Flux",
-    "latest_release_date": "2026-06-30",
+    "latest_release_date": "2026-07-07",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/flux.json",
     "slug": "flux"
@@ -234,7 +244,7 @@
     "canonical_vendor": "",
     "cycles_total": 8,
     "display_name": "Freedesktop Sdk",
-    "latest_release_date": "2026-07-02",
+    "latest_release_date": "2026-07-08",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/freedesktop-sdk.json",
     "slug": "freedesktop-sdk"
@@ -364,7 +374,7 @@
     "canonical_vendor": "",
     "cycles_total": 14,
     "display_name": "Karpenter",
-    "latest_release_date": "2026-06-10",
+    "latest_release_date": "2026-07-08",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/karpenter.json",
     "slug": "karpenter"
@@ -382,9 +392,9 @@
   {
     "canonical_product": "keycloak",
     "canonical_vendor": "",
-    "cycles_total": 24,
+    "cycles_total": 25,
     "display_name": "Keycloak",
-    "latest_release_date": "2026-06-26",
+    "latest_release_date": "2026-07-09",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/keycloak.json",
     "slug": "keycloak"
@@ -534,7 +544,7 @@
     "canonical_vendor": "",
     "cycles_total": 9,
     "display_name": "Phoenix Framework",
-    "latest_release_date": "2026-06-10",
+    "latest_release_date": "2026-07-07",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/phoenix-framework.json",
     "slug": "phoenix-framework"
@@ -614,7 +624,7 @@
     "canonical_vendor": "",
     "cycles_total": 69,
     "display_name": "Quarkus Framework",
-    "latest_release_date": "2026-07-01",
+    "latest_release_date": "2026-07-08",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quarkus-framework.json",
     "slug": "quarkus-framework"
@@ -642,9 +652,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3648,
+    "cycles_total": 3651,
     "display_name": "Renovate",
-    "latest_release_date": "2026-07-07",
+    "latest_release_date": "2026-07-09",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -754,7 +764,7 @@
     "canonical_vendor": "",
     "cycles_total": 92,
     "display_name": "Strapi",
-    "latest_release_date": "2026-07-02",
+    "latest_release_date": "2026-07-08",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/strapi.json",
     "slug": "strapi"

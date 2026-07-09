@@ -9,102 +9,102 @@
   },
   "cycles": [
     {
-      "cycle": "pro-12th-edition-snapdragon-processor",
+      "cycle": "pro-12th-edition-snapdragon",
       "eol": "2032-06-16",
       "lts": false,
       "releaseDate": "2026-06-16",
-      "releaseLabel": "Surface Pro 12th Edition, Snapdragon processor"
+      "releaseLabel": "Surface Pro 12th Edition (Snapdragon)"
     },
     {
-      "cycle": "laptop-8th-edition-snapdragon-processor",
+      "cycle": "laptop-8th-edition-snapdragon",
       "eol": "2032-06-16",
       "lts": false,
       "releaseDate": "2026-06-16",
-      "releaseLabel": "Surface Laptop 8th Edition, Snapdragon processor"
+      "releaseLabel": "Surface Laptop 8th Edition (Snapdragon)"
     },
     {
-      "cycle": "pro-for-business-12th-edition-intel-processor",
+      "cycle": "pro-for-business-12th-edition-intel",
       "eol": "2032-05-19",
       "lts": false,
       "releaseDate": "2026-05-19",
-      "releaseLabel": "Surface Pro for Business 12th Edition, Intel processor"
+      "releaseLabel": "Surface Pro for Business 12th Edition (Intel)"
     },
     {
-      "cycle": "laptop-for-business-13-inch-1st-edition-intel-processor",
+      "cycle": "laptop-for-business-13-inch-1st-edition-intel",
       "eol": "2032-05-19",
       "lts": false,
       "releaseDate": "2026-05-19",
-      "releaseLabel": "Surface Laptop for Business 13-inch 1st Edition, Intel processor"
+      "releaseLabel": "Surface Laptop for Business 13-inch 1st Edition (Intel)"
     },
     {
-      "cycle": "laptop-for-business-8th-edition-intel-processor",
+      "cycle": "laptop-for-business-8th-edition-intel",
       "eol": "2032-05-19",
       "lts": false,
       "releaseDate": "2026-05-19",
-      "releaseLabel": "Surface Laptop for Business 8th Edition, Intel processor"
+      "releaseLabel": "Surface Laptop for Business 8th Edition (Intel)"
     },
     {
-      "cycle": "laptop-5g-for-business-7th-edition",
+      "cycle": "laptop-5g-for-business-7th-edition-intel",
       "eol": "2031-08-26",
       "lts": false,
       "releaseDate": "2025-08-26",
-      "releaseLabel": "Surface Laptop 5G for Business 7th Edition"
+      "releaseLabel": "Surface Laptop 5G for Business 7th Edition (Intel)"
     },
     {
-      "cycle": "pro-12-inch",
+      "cycle": "pro-12-inch-1st-edition",
       "eol": "2031-05-20",
       "lts": false,
       "releaseDate": "2025-05-20",
-      "releaseLabel": "Surface Pro 12-inch"
+      "releaseLabel": "Surface Pro 12-inch 1st Edition"
     },
     {
-      "cycle": "laptop-13-inch",
+      "cycle": "laptop-13-inch-1st-edition-snapdragon",
       "eol": "2031-05-20",
       "lts": false,
       "releaseDate": "2025-05-20",
-      "releaseLabel": "Surface Laptop 13-inch"
+      "releaseLabel": "Surface Laptop 13-inch 1st Edition (Snapdragon)"
     },
     {
-      "cycle": "pro-11th-edition-intel-processor",
+      "cycle": "pro-for-business-11th-edition-intel",
       "eol": "2031-02-18",
       "lts": false,
       "releaseDate": "2025-02-18",
-      "releaseLabel": "Surface Pro 11th Edition, Intel processor"
+      "releaseLabel": "Surface Pro for Business 11th Edition (Intel)"
     },
     {
-      "cycle": "laptop-7th-edition-intel-processor",
+      "cycle": "laptop-for-business-7th-edition-intel",
       "eol": "2031-02-18",
       "lts": false,
       "releaseDate": "2025-02-18",
-      "releaseLabel": "Surface Laptop 7th Edition, Intel processor"
+      "releaseLabel": "Surface Laptop for Business 7th Edition (Intel)"
     },
     {
-      "cycle": "pro-10-with-5g",
+      "cycle": "pro-10-with-5g-for-business",
       "eol": "2030-10-11",
       "lts": false,
       "releaseDate": "2024-10-11",
-      "releaseLabel": "Surface Pro 10 with 5G"
+      "releaseLabel": "Surface Pro 10 with 5G for Business"
     },
     {
-      "cycle": "pro-11th-edition-5g",
+      "cycle": "pro-with-5g-11th-edition-snapdragon",
       "eol": "2030-09-26",
       "lts": false,
       "releaseDate": "2024-09-03",
-      "releaseLabel": "Surface Pro 11th Edition 5G"
+      "releaseLabel": "Surface Pro with 5G 11th Edition (Snapdragon)"
     },
     {
-      "cycle": "pro-11th-edition-snapdragon-processor",
+      "cycle": "pro-11th-edition-snapdragon",
       "eol": "2030-09-10",
       "lts": false,
       "releaseDate": "2024-06-18",
-      "releaseLabel": "Surface Pro 11th Edition, Snapdragon processor"
+      "releaseLabel": "Surface Pro 11th Edition (Snapdragon)"
     },
     {
-      "cycle": "laptop-7th-edition-snapdragon-processor",
+      "cycle": "laptop-7th-edition-snapdragon",
       "eol": "2030-09-10",
       "lts": false,
       "releaseDate": "2024-06-18",
-      "releaseLabel": "Surface Laptop 7th Edition, Snapdragon processor"
+      "releaseLabel": "Surface Laptop 7th Edition (Snapdragon)"
     },
     {
       "cycle": "pro-10-for-business",
@@ -223,7 +223,7 @@
       "eol": "2025-08-10",
       "lts": false,
       "releaseDate": "2020-10-13",
-      "releaseLabel": "Surface Pro X SQ2"
+      "releaseLabel": "Surface Pro X (SQ2)"
     },
     {
       "cycle": "laptop-go",
@@ -251,7 +251,7 @@
       "eol": "2025-08-10",
       "lts": false,
       "releaseDate": "2019-11-05",
-      "releaseLabel": "Surface Pro X SQ1"
+      "releaseLabel": "Surface Pro X (SQ1)"
     },
     {
       "cycle": "pro-7",
@@ -303,11 +303,11 @@
       "releaseLabel": "Surface Go"
     },
     {
-      "cycle": "pro-lte-5th-gen-model-1807",
+      "cycle": "pro-with-lte-advanced-5th-gen",
       "eol": "2024-01-15",
       "lts": false,
       "releaseDate": "2017-12-01",
-      "releaseLabel": "Surface Pro LTE (5th gen) (Model 1807)"
+      "releaseLabel": "Surface Pro with LTE Advanced (5th gen)"
     },
     {
       "cycle": "book-2",
@@ -401,10 +401,10 @@
       "releaseLabel": "Surface RT"
     }
   ],
-  "fetched_at": "2026-07-07T10:38:36Z",
+  "fetched_at": "2026-07-09T10:50:34Z",
   "slug": "surface",
   "source": "release-data",
-  "source_commit": "cff087f1921da6ab852c72822211edf1348eb4ba",
+  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/surface.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
