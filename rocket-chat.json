@@ -9,64 +9,64 @@
   },
   "cycles": [
     {
-      "cycle": "8.6",
-      "latest": "8.6.0",
-      "latestReleaseDate": "2026-07-03",
+      "cycle": "8.0",
+      "latest": "8.0.8",
+      "latestReleaseDate": "2026-07-11",
       "lts": false,
-      "releaseDate": "2026-07-03"
+      "releaseDate": "2026-07-11"
+    },
+    {
+      "cycle": "8.6",
+      "latest": "8.6.1",
+      "latestReleaseDate": "2026-07-10",
+      "lts": false,
+      "releaseDate": "2026-07-10"
     },
     {
       "cycle": "8.5",
-      "latest": "8.5.1",
-      "latestReleaseDate": "2026-06-15",
+      "latest": "8.5.2",
+      "latestReleaseDate": "2026-07-10",
       "lts": false,
-      "releaseDate": "2026-06-15"
+      "releaseDate": "2026-07-10"
     },
     {
       "cycle": "8.4",
-      "latest": "8.4.4",
-      "latestReleaseDate": "2026-06-15",
+      "latest": "8.4.5",
+      "latestReleaseDate": "2026-07-10",
       "lts": false,
-      "releaseDate": "2026-06-15"
+      "releaseDate": "2026-07-10"
     },
     {
       "cycle": "8.3",
-      "latest": "8.3.6",
-      "latestReleaseDate": "2026-06-15",
+      "latest": "8.3.7",
+      "latestReleaseDate": "2026-07-10",
       "lts": false,
-      "releaseDate": "2026-06-15"
+      "releaseDate": "2026-07-10"
     },
     {
       "cycle": "8.2",
-      "latest": "8.2.6",
-      "latestReleaseDate": "2026-06-15",
+      "latest": "8.2.7",
+      "latestReleaseDate": "2026-07-10",
       "lts": false,
-      "releaseDate": "2026-06-15"
+      "releaseDate": "2026-07-10"
     },
     {
       "cycle": "8.1",
-      "latest": "8.1.6",
-      "latestReleaseDate": "2026-06-15",
+      "latest": "8.1.7",
+      "latestReleaseDate": "2026-07-10",
       "lts": false,
-      "releaseDate": "2026-06-15"
+      "releaseDate": "2026-07-10"
     },
     {
-      "cycle": "8.0",
-      "latest": "8.0.7",
-      "latestReleaseDate": "2026-06-15",
+      "cycle": "7.10",
+      "latest": "7.10.14",
+      "latestReleaseDate": "2026-07-10",
       "lts": false,
-      "releaseDate": "2026-06-15"
+      "releaseDate": "2026-07-10"
     },
     {
       "cycle": "7.13",
       "latest": "7.13.9",
-      "latestReleaseDate": "2026-06-15",
-      "lts": false,
-      "releaseDate": "2026-06-15"
-    },
-    {
-      "cycle": "7.10",
-      "latest": "7.10.13",
       "latestReleaseDate": "2026-06-15",
       "lts": false,
       "releaseDate": "2026-06-15"
@@ -548,10 +548,10 @@
       "releaseDate": "2019-08-08"
     }
   ],
-  "fetched_at": "2026-07-09T10:50:34Z",
+  "fetched_at": "2026-07-13T10:36:21Z",
   "slug": "rocket-chat",
   "source": "release-data",
-  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
+  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/rocket-chat.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

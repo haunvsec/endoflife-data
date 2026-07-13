@@ -1,11 +1,11 @@
 {
   "advisory_dir": "/Volumes/DATA/security_advisory/advisory-data",
   "cache_dir": "/Volumes/DATA/security_advisory/cache/endoflife-release-data",
-  "cycles_total": 17818,
-  "duration_seconds": 50.43,
+  "cycles_total": 17906,
+  "duration_seconds": 58.53,
   "errors": [],
   "errors_count": 0,
-  "last_crawl_time": "2026-07-09T10:50:34Z",
+  "last_crawl_time": "2026-07-13T10:36:21Z",
   "mapping_review_file": "/Volumes/DATA/security_advisory/endoflife-data/mapping-review.json",
   "mapping_sources": {
     "advisory-data": 10,
@@ -21,7 +21,7 @@
   "products_needing_mapping_review": 86,
   "products_needing_mapping_review_percent": 21.5,
   "source": "endoflife-date/release-data",
-  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
+  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
   "source_url": "https://github.com/endoflife-date/release-data.git",
   "warnings": [
     {
@@ -113,22 +113,6 @@
       "warning": "github-actions-runner-images[16]: no lifecycle date fields"
     },
     {
-      "product": "proxmox-backup-server",
-      "warning": "proxmox-backup-server[0]: no lifecycle date fields"
-    },
-    {
-      "product": "proxmox-backup-server",
-      "warning": "proxmox-backup-server[1]: no lifecycle date fields"
-    },
-    {
-      "product": "proxmox-backup-server",
-      "warning": "proxmox-backup-server[2]: no lifecycle date fields"
-    },
-    {
-      "product": "proxmox-backup-server",
-      "warning": "proxmox-backup-server[3]: no lifecycle date fields"
-    },
-    {
       "product": "proxmox-datacenter-manager",
       "warning": "proxmox-datacenter-manager[0]: no lifecycle date fields"
     },
@@ -161,5 +145,5 @@
       "warning": "proxmox-mail-gateway[5]: no lifecycle date fields"
     }
   ],
-  "warnings_count": 34
+  "warnings_count": 30
 }

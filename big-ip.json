@@ -45,19 +45,102 @@
       "releaseDate": "2023-03-14"
     },
     {
+      "cycle": "17.0",
+      "eoas": "2023-07-31",
+      "eol": "2023-07-31",
+      "latest": "17.0.0",
+      "latestReleaseDate": "2022-04-26",
+      "lts": false
+    },
+    {
       "cycle": "16.1",
-      "eoas": "2026-07-01",
-      "eol": "2026-07-01",
-      "latest": "16.1.6",
-      "latestReleaseDate": "2025-04-15",
-      "lts": false,
-      "releaseDate": "2021-07-07"
+      "eoas": "2025-07-31",
+      "eol": "2025-07-31",
+      "lts": false
+    },
+    {
+      "cycle": "16.0",
+      "eoas": "2021-10-07",
+      "eol": "2021-10-07",
+      "lts": false
+    },
+    {
+      "cycle": "15.1",
+      "eoas": "2024-12-31",
+      "eol": "2024-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "15.0",
+      "eoas": "2020-08-23",
+      "eol": "2020-08-23",
+      "lts": false
+    },
+    {
+      "cycle": "14.1",
+      "eoas": "2023-12-31",
+      "eol": "2023-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "14.0",
+      "eoas": "2019-11-09",
+      "eol": "2019-11-09",
+      "lts": false
+    },
+    {
+      "cycle": "13.1",
+      "eoas": "2022-12-31",
+      "eol": "2023-12-31",
+      "lts": false
+    },
+    {
+      "cycle": "13.0",
+      "eoas": "2018-05-22",
+      "eol": "2019-05-22",
+      "lts": false
+    },
+    {
+      "cycle": "12.1",
+      "eoas": "2021-05-18",
+      "eol": "2022-05-18",
+      "lts": false
+    },
+    {
+      "cycle": "11.6",
+      "eoas": "2021-05-10",
+      "eol": "2022-05-10",
+      "lts": false
+    },
+    {
+      "cycle": "9.6",
+      "eoas": "2011-03-31",
+      "eol": "2012-03-31",
+      "lts": false
+    },
+    {
+      "cycle": "9.2",
+      "eoas": "2007-07-31",
+      "eol": "2008-07-31",
+      "lts": false
+    },
+    {
+      "cycle": "9.1",
+      "eoas": "2008-04-30",
+      "eol": "2009-04-30",
+      "lts": false
+    },
+    {
+      "cycle": "9.0",
+      "eoas": "2006-05-18",
+      "eol": "2007-05-18",
+      "lts": false
     }
   ],
-  "fetched_at": "2026-07-09T10:50:34Z",
+  "fetched_at": "2026-07-13T10:36:21Z",
   "slug": "big-ip",
   "source": "release-data",
-  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
+  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/big-ip.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

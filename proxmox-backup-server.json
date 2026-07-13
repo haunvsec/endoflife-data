@@ -9,26 +9,115 @@
   },
   "cycles": [
     {
-      "cycle": "4",
-      "lts": false
+      "cycle": "4.2",
+      "latest": "4.2.0",
+      "latestReleaseDate": "2026-04-28",
+      "lts": false,
+      "releaseDate": "2026-04-28"
     },
     {
-      "cycle": "3",
-      "lts": false
+      "cycle": "4.1",
+      "latest": "4.1.9",
+      "latestReleaseDate": "2026-04-24",
+      "lts": false,
+      "releaseDate": "2026-04-24"
     },
     {
-      "cycle": "2",
-      "lts": false
+      "cycle": "4.0",
+      "latest": "4.0.11",
+      "latestReleaseDate": "2025-08-06",
+      "lts": false,
+      "releaseDate": "2025-08-06"
     },
     {
-      "cycle": "1",
-      "lts": false
+      "cycle": "3.4",
+      "latest": "3.4.0",
+      "latestReleaseDate": "2025-04-09",
+      "lts": false,
+      "releaseDate": "2025-04-09"
+    },
+    {
+      "cycle": "3.3",
+      "latest": "3.3.4",
+      "latestReleaseDate": "2025-03-13",
+      "lts": false,
+      "releaseDate": "2025-03-13"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.9",
+      "latestReleaseDate": "2024-11-14",
+      "lts": false,
+      "releaseDate": "2024-11-14"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.2",
+      "latestReleaseDate": "2023-11-30",
+      "lts": false,
+      "releaseDate": "2023-11-30"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.1",
+      "latestReleaseDate": "2023-06-27",
+      "lts": false,
+      "releaseDate": "2023-06-27"
+    },
+    {
+      "cycle": "2.4",
+      "latest": "2.4.1",
+      "latestReleaseDate": "2023-03-28",
+      "lts": false,
+      "releaseDate": "2023-03-28"
+    },
+    {
+      "cycle": "2.3",
+      "latest": "2.3.1",
+      "latestReleaseDate": "2022-11-28",
+      "lts": false,
+      "releaseDate": "2022-11-28"
+    },
+    {
+      "cycle": "2.2",
+      "latest": "2.2.1",
+      "latestReleaseDate": "2022-05-17",
+      "lts": false,
+      "releaseDate": "2022-05-17"
+    },
+    {
+      "cycle": "2.1",
+      "latest": "2.1.2",
+      "latestReleaseDate": "2021-11-23",
+      "lts": false,
+      "releaseDate": "2021-11-23"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.12",
+      "latestReleaseDate": "2021-10-19",
+      "lts": false,
+      "releaseDate": "2021-10-19"
+    },
+    {
+      "cycle": "1.1",
+      "latest": "1.1.10",
+      "latestReleaseDate": "2021-06-16",
+      "lts": false,
+      "releaseDate": "2021-06-16"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.13",
+      "latestReleaseDate": "2021-04-02",
+      "lts": false,
+      "releaseDate": "2021-04-02"
     }
   ],
-  "fetched_at": "2026-07-09T10:50:34Z",
+  "fetched_at": "2026-07-13T10:36:21Z",
   "slug": "proxmox-backup-server",
   "source": "release-data",
-  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
+  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/proxmox-backup-server.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

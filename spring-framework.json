@@ -10,8 +10,8 @@
   "cycles": [
     {
       "cycle": "7.0",
-      "eol": "2027-06-30",
-      "extendedSupport": "2028-06-30",
+      "eol": "2027-07-31",
+      "extendedSupport": "2028-07-31",
       "latest": "7.0.8",
       "latestReleaseDate": "2026-06-08",
       "lts": false,
@@ -29,11 +29,20 @@
     {
       "cycle": "6.1",
       "eol": "2025-06-30",
-      "extendedSupport": "2026-06-30",
+      "extendedSupport": "2032-06-30",
       "latest": "6.1.21",
       "latestReleaseDate": "2025-06-12",
       "lts": false,
       "releaseDate": "2023-11-30"
+    },
+    {
+      "cycle": "6.0",
+      "eol": "2024-06-30",
+      "extendedSupport": "2032-06-30",
+      "latest": "6.0.23",
+      "latestReleaseDate": "2024-08-14",
+      "lts": false,
+      "releaseDate": "2022-11-30"
     },
     {
       "cycle": "5.3",
@@ -43,12 +52,30 @@
       "latestReleaseDate": "2024-08-14",
       "lts": false,
       "releaseDate": "2020-10-31"
+    },
+    {
+      "cycle": "5.2",
+      "eol": "2021-12-31",
+      "extendedSupport": "2029-06-30",
+      "latest": "5.2.25",
+      "latestReleaseDate": "2023-07-13",
+      "lts": false,
+      "releaseDate": "2019-09-30"
+    },
+    {
+      "cycle": "5.1",
+      "eol": "2020-12-31",
+      "extendedSupport": "2022-12-31",
+      "latest": "5.1.20",
+      "latestReleaseDate": "2020-12-09",
+      "lts": false,
+      "releaseDate": "2018-09-30"
     }
   ],
-  "fetched_at": "2026-07-09T10:50:34Z",
+  "fetched_at": "2026-07-13T10:36:21Z",
   "slug": "spring-framework",
   "source": "release-data",
-  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
+  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/spring-framework.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

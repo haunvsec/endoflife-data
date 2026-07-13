@@ -51,11 +51,11 @@
       "releaseLabel": "Surface Laptop 5G for Business 7th Edition (Intel)"
     },
     {
-      "cycle": "pro-12-inch-1st-edition",
+      "cycle": "pro-12-inch-1st-edition-snapdragon",
       "eol": "2031-05-20",
       "lts": false,
       "releaseDate": "2025-05-20",
-      "releaseLabel": "Surface Pro 12-inch 1st Edition"
+      "releaseLabel": "Surface Pro 12-inch 1st Edition (Snapdragon)"
     },
     {
       "cycle": "laptop-13-inch-1st-edition-snapdragon",
@@ -401,10 +401,10 @@
       "releaseLabel": "Surface RT"
     }
   ],
-  "fetched_at": "2026-07-09T10:50:34Z",
+  "fetched_at": "2026-07-13T10:36:21Z",
   "slug": "surface",
   "source": "release-data",
-  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
+  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/surface.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

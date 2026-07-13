@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "3.94",
+      "eoas": "2027-07-09",
+      "eol": "2028-01-09",
+      "lts": false,
+      "releaseDate": "2026-07-09"
+    },
+    {
       "cycle": "3.93",
       "eoas": "2027-06-04",
       "eol": "2027-12-04",
@@ -574,10 +581,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-07-09T10:50:34Z",
+  "fetched_at": "2026-07-13T10:36:21Z",
   "slug": "nexus",
   "source": "release-data",
-  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
+  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nexus.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -64,7 +64,7 @@
     "canonical_vendor": "",
     "cycles_total": 19,
     "display_name": "Api Platform",
-    "latest_release_date": "2026-07-03",
+    "latest_release_date": "2026-07-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/api-platform.json",
     "slug": "api-platform"
@@ -144,7 +144,7 @@
     "canonical_vendor": "",
     "cycles_total": 193,
     "display_name": "Cnspec",
-    "latest_release_date": "2026-07-07",
+    "latest_release_date": "2026-07-09",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cnspec.json",
     "slug": "cnspec"
@@ -224,7 +224,7 @@
     "canonical_vendor": "",
     "cycles_total": 10,
     "display_name": "Eslint",
-    "latest_release_date": "2026-06-26",
+    "latest_release_date": "2026-07-10",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/eslint.json",
     "slug": "eslint"
@@ -372,9 +372,9 @@
   {
     "canonical_product": "karpenter",
     "canonical_vendor": "",
-    "cycles_total": 14,
+    "cycles_total": 15,
     "display_name": "Karpenter",
-    "latest_release_date": "2026-07-08",
+    "latest_release_date": "2026-07-11",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/karpenter.json",
     "slug": "karpenter"
@@ -582,9 +582,9 @@
   {
     "canonical_product": "proxmox_backup_server",
     "canonical_vendor": "",
-    "cycles_total": 4,
+    "cycles_total": 15,
     "display_name": "Proxmox Backup Server",
-    "latest_release_date": "",
+    "latest_release_date": "2026-04-28",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/proxmox-backup-server.json",
     "slug": "proxmox-backup-server"
@@ -632,9 +632,9 @@
   {
     "canonical_product": "quasar",
     "canonical_vendor": "",
-    "cycles_total": 2,
+    "cycles_total": 45,
     "display_name": "Quasar",
-    "latest_release_date": "2026-04-06",
+    "latest_release_date": "2026-07-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quasar.json",
     "slug": "quasar"
@@ -652,9 +652,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3651,
+    "cycles_total": 3655,
     "display_name": "Renovate",
-    "latest_release_date": "2026-07-09",
+    "latest_release_date": "2026-07-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -684,7 +684,7 @@
     "canonical_vendor": "",
     "cycles_total": 25,
     "display_name": "Rtpengine",
-    "latest_release_date": "2026-06-29",
+    "latest_release_date": "2026-07-10",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/rtpengine.json",
     "slug": "rtpengine"

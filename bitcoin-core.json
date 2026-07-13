@@ -17,15 +17,15 @@
     },
     {
       "cycle": "30",
-      "latest": "30.2",
-      "latestReleaseDate": "2026-01-13",
+      "latest": "30.3",
+      "latestReleaseDate": "2026-07-10",
       "lts": false,
       "releaseDate": "2025-10-10"
     },
     {
       "cycle": "29",
-      "latest": "29.3",
-      "latestReleaseDate": "2026-02-11",
+      "latest": "29.4",
+      "latestReleaseDate": "2026-07-10",
       "lts": false,
       "releaseDate": "2025-04-14"
     },
@@ -194,10 +194,10 @@
       "releaseDate": "2013-02-19"
     }
   ],
-  "fetched_at": "2026-07-09T10:50:34Z",
+  "fetched_at": "2026-07-13T10:36:21Z",
   "slug": "bitcoin-core",
   "source": "release-data",
-  "source_commit": "3b5807e2a9aba2e758055d4fe24c31583b02c976",
+  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/bitcoin-core.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
