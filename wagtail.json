@@ -322,68 +322,12 @@
       "latestReleaseDate": "2016-07-18",
       "lts": false,
       "releaseDate": "2016-03-31"
-    },
-    {
-      "cycle": "0.8",
-      "eoas": "2016-03-31",
-      "eol": "2016-03-31",
-      "lts": false,
-      "releaseDate": "2014-11-30"
-    },
-    {
-      "cycle": "0.7",
-      "eoas": "2014-11-30",
-      "eol": "2014-11-30",
-      "lts": false,
-      "releaseDate": "2014-10-31"
-    },
-    {
-      "cycle": "0.6",
-      "eoas": "2014-10-31",
-      "eol": "2014-10-31",
-      "lts": false,
-      "releaseDate": "2014-09-30"
-    },
-    {
-      "cycle": "0.5",
-      "eoas": "2014-09-30",
-      "eol": "2014-09-30",
-      "lts": false,
-      "releaseDate": "2014-08-31"
-    },
-    {
-      "cycle": "0.4",
-      "eoas": "2014-08-31",
-      "eol": "2014-08-31",
-      "lts": false,
-      "releaseDate": "2014-07-31"
-    },
-    {
-      "cycle": "0.3",
-      "eoas": "2014-07-31",
-      "eol": "2014-07-31",
-      "lts": false,
-      "releaseDate": "2014-05-31"
-    },
-    {
-      "cycle": "0.2",
-      "eoas": "2014-05-31",
-      "eol": "2014-05-31",
-      "lts": false,
-      "releaseDate": "2014-03-31"
-    },
-    {
-      "cycle": "0.1",
-      "eoas": "2014-03-31",
-      "eol": "2014-03-31",
-      "lts": false,
-      "releaseDate": "2014-02-28"
     }
   ],
-  "fetched_at": "2026-07-13T10:36:21Z",
+  "fetched_at": "2026-07-15T07:23:01Z",
   "slug": "wagtail",
   "source": "release-data",
-  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
+  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/wagtail.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

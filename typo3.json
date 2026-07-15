@@ -10,38 +10,38 @@
   "cycles": [
     {
       "cycle": "14.3",
-      "latest": "14.3.4",
-      "latestReleaseDate": "2026-06-16",
+      "latest": "14.3.5",
+      "latestReleaseDate": "2026-07-14",
       "lts": false,
-      "releaseDate": "2026-06-16"
+      "releaseDate": "2026-07-14"
     },
     {
       "cycle": "13.4",
-      "latest": "13.4.32",
-      "latestReleaseDate": "2026-06-16",
+      "latest": "13.4.33",
+      "latestReleaseDate": "2026-07-14",
       "lts": false,
-      "releaseDate": "2026-06-16"
+      "releaseDate": "2026-07-14"
     },
     {
       "cycle": "12.4",
-      "latest": "12.4.47",
-      "latestReleaseDate": "2026-06-16",
+      "latest": "12.4.48",
+      "latestReleaseDate": "2026-07-14",
       "lts": false,
-      "releaseDate": "2026-06-16"
+      "releaseDate": "2026-07-14"
     },
     {
       "cycle": "11.5",
-      "latest": "11.5.52",
-      "latestReleaseDate": "2026-06-16",
+      "latest": "11.5.53",
+      "latestReleaseDate": "2026-07-14",
       "lts": false,
-      "releaseDate": "2026-06-16"
+      "releaseDate": "2026-07-14"
     },
     {
       "cycle": "10.4",
-      "latest": "10.4.58",
-      "latestReleaseDate": "2026-06-16",
+      "latest": "10.4.59",
+      "latestReleaseDate": "2026-07-14",
       "lts": false,
-      "releaseDate": "2026-06-16"
+      "releaseDate": "2026-07-14"
     },
     {
       "cycle": "14.2",
@@ -443,10 +443,10 @@
       "releaseDate": "2002-06-03"
     }
   ],
-  "fetched_at": "2026-07-13T10:36:21Z",
+  "fetched_at": "2026-07-15T07:23:01Z",
   "slug": "typo3",
   "source": "release-data",
-  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
+  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/typo3.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

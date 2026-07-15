@@ -94,10 +94,10 @@
       "releaseLabel": "macOS 14"
     }
   ],
-  "fetched_at": "2026-07-13T10:36:21Z",
+  "fetched_at": "2026-07-15T07:23:01Z",
   "slug": "github-actions-runner-images",
   "source": "release-data",
-  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
+  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/github-actions-runner-images.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

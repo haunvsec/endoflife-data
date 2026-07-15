@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "13.29",
+      "latest": "13.29.0",
+      "latestReleaseDate": "2026-07-14",
+      "lts": false,
+      "releaseDate": "2026-07-14"
+    },
+    {
       "cycle": "13.28",
       "latest": "13.28.1",
       "latestReleaseDate": "2026-07-09",
@@ -1360,10 +1367,10 @@
       "releaseDate": "2022-10-11"
     }
   ],
-  "fetched_at": "2026-07-13T10:36:21Z",
+  "fetched_at": "2026-07-15T07:23:01Z",
   "slug": "cnspec",
   "source": "release-data",
-  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
+  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/cnspec.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

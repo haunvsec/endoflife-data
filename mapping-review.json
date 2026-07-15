@@ -44,7 +44,7 @@
     "canonical_vendor": "",
     "cycles_total": 13,
     "display_name": "Ansible Core",
-    "latest_release_date": "2026-06-18",
+    "latest_release_date": "2026-07-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ansible-core.json",
     "slug": "ansible-core"
@@ -52,7 +52,7 @@
   {
     "canonical_product": "anthropic_claude",
     "canonical_vendor": "",
-    "cycles_total": 26,
+    "cycles_total": 28,
     "display_name": "Anthropic Claude",
     "latest_release_date": "",
     "mapping_source": "unmapped",
@@ -142,9 +142,9 @@
   {
     "canonical_product": "cnspec",
     "canonical_vendor": "",
-    "cycles_total": 193,
+    "cycles_total": 194,
     "display_name": "Cnspec",
-    "latest_release_date": "2026-07-09",
+    "latest_release_date": "2026-07-14",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cnspec.json",
     "slug": "cnspec"
@@ -188,6 +188,16 @@
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/dovecot.json",
     "slug": "dovecot"
+  },
+  {
+    "canonical_product": "dropwizard",
+    "canonical_vendor": "",
+    "cycles_total": 9,
+    "display_name": "Dropwizard",
+    "latest_release_date": "2026-05-31",
+    "mapping_source": "unmapped",
+    "record_file": "/Volumes/DATA/security_advisory/endoflife-data/dropwizard.json",
+    "slug": "dropwizard"
   },
   {
     "canonical_product": "drush",
@@ -234,7 +244,7 @@
     "canonical_vendor": "",
     "cycles_total": 36,
     "display_name": "Flux",
-    "latest_release_date": "2026-07-07",
+    "latest_release_date": "2026-07-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/flux.json",
     "slug": "flux"
@@ -254,7 +264,7 @@
     "canonical_vendor": "",
     "cycles_total": 32,
     "display_name": "Gerrit",
-    "latest_release_date": "2026-06-16",
+    "latest_release_date": "2026-07-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/gerrit.json",
     "slug": "gerrit"
@@ -414,7 +424,7 @@
     "canonical_vendor": "",
     "cycles_total": 2,
     "display_name": "Laravel",
-    "latest_release_date": "2026-05-27",
+    "latest_release_date": "2026-07-14",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/laravel.json",
     "slug": "laravel"
@@ -504,7 +514,7 @@
     "canonical_vendor": "",
     "cycles_total": 7,
     "display_name": "Opentofu",
-    "latest_release_date": "2026-06-23",
+    "latest_release_date": "2026-07-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/opentofu.json",
     "slug": "opentofu"
@@ -652,9 +662,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3655,
+    "cycles_total": 3658,
     "display_name": "Renovate",
-    "latest_release_date": "2026-07-12",
+    "latest_release_date": "2026-07-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"

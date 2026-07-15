@@ -10,15 +10,15 @@
   "cycles": [
     {
       "cycle": "4",
-      "latest": "4.1.4",
-      "latestReleaseDate": "2026-07-07",
+      "latest": "4.1.5",
+      "latestReleaseDate": "2026-07-13",
       "lts": false,
       "releaseDate": "2026-02-23"
     },
     {
       "cycle": "3",
-      "latest": "3.12.9",
-      "latestReleaseDate": "2026-07-02",
+      "latest": "3.12.10",
+      "latestReleaseDate": "2026-07-13",
       "lts": false,
       "releaseDate": "2022-11-01"
     },
@@ -41,10 +41,10 @@
       "releaseDate": "2019-02-05"
     }
   ],
-  "fetched_at": "2026-07-13T10:36:21Z",
+  "fetched_at": "2026-07-15T07:23:01Z",
   "slug": "vuetify",
   "source": "release-data",
-  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
+  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/vuetify.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

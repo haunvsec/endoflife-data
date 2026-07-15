@@ -9,6 +9,11 @@
   },
   "cycles": [
     {
+      "cycle": "claude-sonnet-5",
+      "eol": "2027-06-30",
+      "lts": false
+    },
+    {
       "cycle": "claude-sonnet-4-20250514",
       "eoas": "2026-04-14",
       "eol": "2026-06-15",
@@ -80,6 +85,11 @@
     {
       "cycle": "claude-haiku-4-5-20251001",
       "eol": "2026-10-15",
+      "lts": false
+    },
+    {
+      "cycle": "claude-fable-5",
+      "eol": "2027-06-09",
       "lts": false
     },
     {
@@ -164,10 +174,10 @@
       "recommendedReplacement": "claude-haiku-4-5-20251001"
     }
   ],
-  "fetched_at": "2026-07-13T10:36:21Z",
+  "fetched_at": "2026-07-15T07:23:01Z",
   "slug": "anthropic-claude",
   "source": "release-data",
-  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
+  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/anthropic-claude.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

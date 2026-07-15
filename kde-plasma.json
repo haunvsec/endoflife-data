@@ -9,18 +9,18 @@
   },
   "cycles": [
     {
+      "cycle": "6.7",
+      "latest": "6.7.3",
+      "latestReleaseDate": "2026-07-14",
+      "lts": false,
+      "releaseDate": "2026-07-14"
+    },
+    {
       "cycle": "6.6",
       "latest": "6.6.6",
       "latestReleaseDate": "2026-07-07",
       "lts": false,
       "releaseDate": "2026-07-07"
-    },
-    {
-      "cycle": "6.7",
-      "latest": "6.7.2",
-      "latestReleaseDate": "2026-06-30",
-      "lts": false,
-      "releaseDate": "2026-06-30"
     },
     {
       "cycle": "6.5",
@@ -261,10 +261,10 @@
       "releaseDate": "2014-09-22"
     }
   ],
-  "fetched_at": "2026-07-13T10:36:21Z",
+  "fetched_at": "2026-07-15T07:23:01Z",
   "slug": "kde-plasma",
   "source": "release-data",
-  "source_commit": "77079d6603794c713c5a268b6791900692a9d32b",
+  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/kde-plasma.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
