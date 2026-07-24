@@ -9,6 +9,27 @@
   },
   "cycles": [
     {
+      "cycle": "5.4",
+      "latest": "5.4.0",
+      "latestReleaseDate": "2026-07-19",
+      "lts": false,
+      "releaseDate": "2026-07-19"
+    },
+    {
+      "cycle": "5.2",
+      "latest": "5.2.15",
+      "latestReleaseDate": "2026-07-16",
+      "lts": false,
+      "releaseDate": "2026-07-16"
+    },
+    {
+      "cycle": "5.1",
+      "latest": "5.1.10",
+      "latestReleaseDate": "2026-07-16",
+      "lts": false,
+      "releaseDate": "2026-07-16"
+    },
+    {
       "cycle": "4.6",
       "latest": "4.6.5",
       "latestReleaseDate": "2026-07-14",
@@ -25,20 +46,6 @@
     {
       "cycle": "5.3",
       "latest": "5.3.7",
-      "latestReleaseDate": "2026-07-13",
-      "lts": false,
-      "releaseDate": "2026-07-13"
-    },
-    {
-      "cycle": "5.2",
-      "latest": "5.2.14",
-      "latestReleaseDate": "2026-07-13",
-      "lts": false,
-      "releaseDate": "2026-07-13"
-    },
-    {
-      "cycle": "5.1",
-      "latest": "5.1.8",
       "latestReleaseDate": "2026-07-13",
       "lts": false,
       "releaseDate": "2026-07-13"
@@ -254,10 +261,10 @@
       "releaseDate": "2012-02-05"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "cakephp",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/cakephp.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

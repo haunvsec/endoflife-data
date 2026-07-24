@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "2.262",
+      "latest": "2.262.0",
+      "latestReleaseDate": "2026-07-22",
+      "lts": false,
+      "releaseDate": "2026-07-22"
+    },
+    {
       "cycle": "2.261",
       "latest": "2.261.0",
       "latestReleaseDate": "2026-07-02",
@@ -3278,10 +3285,10 @@
       "releaseDate": "2019-07-11"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "amazon-cdk",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-cdk.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

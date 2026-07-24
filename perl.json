@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "5.44",
+      "latest": "5.44.0",
+      "latestReleaseDate": "2026-07-15",
+      "lts": false,
+      "releaseDate": "2026-07-15"
+    },
+    {
       "cycle": "5.42",
       "latest": "5.42.2",
       "latestReleaseDate": "2026-03-29",
@@ -240,10 +247,10 @@
       "releaseDate": "1988-06-05"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "perl",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/perl.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

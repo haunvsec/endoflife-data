@@ -9,6 +9,27 @@
   },
   "cycles": [
     {
+      "cycle": "153.0",
+      "latest": "153.0",
+      "latestReleaseDate": "2026-07-21",
+      "lts": false,
+      "releaseDate": "2026-07-21"
+    },
+    {
+      "cycle": "140.13",
+      "latest": "140.13.0",
+      "latestReleaseDate": "2026-07-21",
+      "lts": false,
+      "releaseDate": "2026-07-21"
+    },
+    {
+      "cycle": "115.38",
+      "latest": "115.38.0",
+      "latestReleaseDate": "2026-07-21",
+      "lts": false,
+      "releaseDate": "2026-07-21"
+    },
+    {
       "cycle": "152.0",
       "latest": "152.0.6",
       "latestReleaseDate": "2026-07-14",
@@ -2214,10 +2235,10 @@
       "releaseDate": "2012-01-31"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "firefox",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/firefox.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

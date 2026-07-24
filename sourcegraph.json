@@ -11,9 +11,9 @@
     {
       "cycle": "7.5",
       "latest": "7.5.4453",
-      "latestReleaseDate": "2026-07-09",
+      "latestReleaseDate": "2026-07-22",
       "lts": false,
-      "releaseDate": "2026-07-09"
+      "releaseDate": "2026-07-22"
     },
     {
       "cycle": "7.4",
@@ -569,10 +569,10 @@
       "releaseDate": "2019-02-08"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "sourcegraph",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/sourcegraph.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

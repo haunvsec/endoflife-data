@@ -9,18 +9,18 @@
   },
   "cycles": [
     {
-      "cycle": "4.2",
-      "latest": "4.2.8",
-      "latestReleaseDate": "2026-06-13",
+      "cycle": "4.3",
+      "latest": "4.3.4",
+      "latestReleaseDate": "2026-07-23",
       "lts": false,
-      "releaseDate": "2026-06-13"
+      "releaseDate": "2026-07-23"
     },
     {
-      "cycle": "4.3",
-      "latest": "4.3.2",
-      "latestReleaseDate": "2026-06-11",
+      "cycle": "4.2",
+      "latest": "4.2.9",
+      "latestReleaseDate": "2026-07-19",
       "lts": false,
-      "releaseDate": "2026-06-11"
+      "releaseDate": "2026-07-19"
     },
     {
       "cycle": "4.1",
@@ -233,10 +233,10 @@
       "releaseDate": "2008-07-29"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "rabbitmq",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/rabbitmq.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

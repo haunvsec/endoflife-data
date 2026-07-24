@@ -10,24 +10,24 @@
   "cycles": [
     {
       "cycle": "19.2",
-      "latest": "19.2.7",
-      "latestReleaseDate": "2026-06-01",
+      "latest": "19.2.8",
+      "latestReleaseDate": "2026-07-21",
       "lts": false,
-      "releaseDate": "2026-06-01"
+      "releaseDate": "2026-07-21"
     },
     {
       "cycle": "19.1",
-      "latest": "19.1.8",
-      "latestReleaseDate": "2026-06-01",
+      "latest": "19.1.9",
+      "latestReleaseDate": "2026-07-21",
       "lts": false,
-      "releaseDate": "2026-06-01"
+      "releaseDate": "2026-07-21"
     },
     {
       "cycle": "19.0",
-      "latest": "19.0.7",
-      "latestReleaseDate": "2026-06-01",
+      "latest": "19.0.8",
+      "latestReleaseDate": "2026-07-21",
       "lts": false,
-      "releaseDate": "2026-06-01"
+      "releaseDate": "2026-07-21"
     },
     {
       "cycle": "18.3",
@@ -226,10 +226,10 @@
       "releaseDate": "2016-04-30"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "react",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/react.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

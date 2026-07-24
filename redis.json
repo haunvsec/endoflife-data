@@ -9,53 +9,53 @@
   },
   "cycles": [
     {
-      "cycle": "8.6",
-      "latest": "8.6.4",
-      "latestReleaseDate": "2026-06-04",
-      "lts": false,
-      "releaseDate": "2026-06-04"
-    },
-    {
-      "cycle": "8.4",
-      "latest": "8.4.4",
-      "latestReleaseDate": "2026-06-04",
-      "lts": false,
-      "releaseDate": "2026-06-04"
-    },
-    {
-      "cycle": "8.2",
-      "latest": "8.2.7",
-      "latestReleaseDate": "2026-06-04",
-      "lts": false,
-      "releaseDate": "2026-06-04"
-    },
-    {
-      "cycle": "8.8",
-      "latest": "8.8.0",
-      "latestReleaseDate": "2026-05-25",
-      "lts": false,
-      "releaseDate": "2026-05-25"
-    },
-    {
       "cycle": "7.4",
-      "latest": "7.4.9",
-      "latestReleaseDate": "2026-05-05",
+      "latest": "7.4.10",
+      "latestReleaseDate": "2026-07-24",
       "lts": false,
-      "releaseDate": "2026-05-05"
+      "releaseDate": "2026-07-24"
     },
     {
       "cycle": "7.2",
-      "latest": "7.2.14",
-      "latestReleaseDate": "2026-05-05",
+      "latest": "7.2.15",
+      "latestReleaseDate": "2026-07-24",
       "lts": false,
-      "releaseDate": "2026-05-05"
+      "releaseDate": "2026-07-24"
     },
     {
       "cycle": "6.2",
-      "latest": "6.2.22",
-      "latestReleaseDate": "2026-05-05",
+      "latest": "6.2.23",
+      "latestReleaseDate": "2026-07-24",
       "lts": false,
-      "releaseDate": "2026-05-05"
+      "releaseDate": "2026-07-24"
+    },
+    {
+      "cycle": "8.8",
+      "latest": "8.8.1",
+      "latestReleaseDate": "2026-07-23",
+      "lts": false,
+      "releaseDate": "2026-07-23"
+    },
+    {
+      "cycle": "8.6",
+      "latest": "8.6.5",
+      "latestReleaseDate": "2026-07-23",
+      "lts": false,
+      "releaseDate": "2026-07-23"
+    },
+    {
+      "cycle": "8.4",
+      "latest": "8.4.5",
+      "latestReleaseDate": "2026-07-23",
+      "lts": false,
+      "releaseDate": "2026-07-23"
+    },
+    {
+      "cycle": "8.2",
+      "latest": "8.2.8",
+      "latestReleaseDate": "2026-07-23",
+      "lts": false,
+      "releaseDate": "2026-07-23"
     },
     {
       "cycle": "8.0",
@@ -149,10 +149,10 @@
       "releaseDate": "2010-05-16"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "redis",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/redis.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

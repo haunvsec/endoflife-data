@@ -9,11 +9,18 @@
   },
   "cycles": [
     {
-      "cycle": "2.21",
-      "latest": "2.21.3",
-      "latestReleaseDate": "2026-07-13",
+      "cycle": "2.22",
+      "latest": "2.22.0",
+      "latestReleaseDate": "2026-07-21",
       "lts": false,
-      "releaseDate": "2026-07-13"
+      "releaseDate": "2026-07-21"
+    },
+    {
+      "cycle": "2.21",
+      "latest": "2.21.4",
+      "latestReleaseDate": "2026-07-16",
+      "lts": false,
+      "releaseDate": "2026-07-16"
     },
     {
       "cycle": "2.20",
@@ -324,10 +331,10 @@
       "releaseDate": "2019-07-13"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "quasar",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/quasar.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

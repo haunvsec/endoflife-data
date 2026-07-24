@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "3.5",
-      "latest": "3.5.39",
-      "latestReleaseDate": "2026-06-25",
+      "latest": "3.5.40",
+      "latestReleaseDate": "2026-07-16",
       "lts": false,
-      "releaseDate": "2026-06-25"
+      "releaseDate": "2026-07-16"
     },
     {
       "cycle": "3.4",
@@ -114,10 +114,10 @@
       "releaseDate": "2016-09-27"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "vue",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/vue.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

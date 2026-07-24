@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "29.6",
-      "latest": "29.6.1",
-      "latestReleaseDate": "2026-06-26",
+      "latest": "29.6.2",
+      "latestReleaseDate": "2026-07-16",
       "lts": false,
-      "releaseDate": "2026-06-26"
+      "releaseDate": "2026-07-16"
     },
     {
       "cycle": "29.5",
@@ -485,10 +485,10 @@
       "releaseDate": "2013-04-22"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "docker-engine",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/docker-engine.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

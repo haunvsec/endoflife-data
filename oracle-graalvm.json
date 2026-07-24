@@ -38,16 +38,16 @@
     },
     {
       "cycle": "21",
-      "latest": "21.0.11",
-      "latestReleaseDate": "2026-04-21",
+      "latest": "21.0.12",
+      "latestReleaseDate": "2026-07-21",
       "lts": false,
       "releaseDate": "2023-09-19"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "oracle-graalvm",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/oracle-graalvm.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

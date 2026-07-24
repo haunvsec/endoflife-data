@@ -9,46 +9,53 @@
   },
   "cycles": [
     {
+      "cycle": "26.0",
+      "latest": "26.0.2.10.1",
+      "latestReleaseDate": "2026-07-22",
+      "lts": false,
+      "releaseDate": "2026-07-22"
+    },
+    {
+      "cycle": "25.0",
+      "latest": "25.0.4.7.1",
+      "latestReleaseDate": "2026-07-22",
+      "lts": false,
+      "releaseDate": "2026-07-22"
+    },
+    {
+      "cycle": "21.0",
+      "latest": "21.0.12.8.1",
+      "latestReleaseDate": "2026-07-22",
+      "lts": false,
+      "releaseDate": "2026-07-22"
+    },
+    {
+      "cycle": "17.0",
+      "latest": "17.0.20.8.1",
+      "latestReleaseDate": "2026-07-22",
+      "lts": false,
+      "releaseDate": "2026-07-22"
+    },
+    {
+      "cycle": "11.0",
+      "latest": "11.0.32.9.1",
+      "latestReleaseDate": "2026-07-22",
+      "lts": false,
+      "releaseDate": "2026-07-22"
+    },
+    {
+      "cycle": "8.502",
+      "latest": "8.502.07.1",
+      "latestReleaseDate": "2026-07-22",
+      "lts": false,
+      "releaseDate": "2026-07-22"
+    },
+    {
       "cycle": "8.492",
       "latest": "8.492.09.2",
       "latestReleaseDate": "2026-05-07",
       "lts": false,
       "releaseDate": "2026-05-07"
-    },
-    {
-      "cycle": "26.0",
-      "latest": "26.0.1.8.1",
-      "latestReleaseDate": "2026-04-22",
-      "lts": false,
-      "releaseDate": "2026-04-22"
-    },
-    {
-      "cycle": "25.0",
-      "latest": "25.0.3.9.1",
-      "latestReleaseDate": "2026-04-22",
-      "lts": false,
-      "releaseDate": "2026-04-22"
-    },
-    {
-      "cycle": "21.0",
-      "latest": "21.0.11.10.1",
-      "latestReleaseDate": "2026-04-22",
-      "lts": false,
-      "releaseDate": "2026-04-22"
-    },
-    {
-      "cycle": "17.0",
-      "latest": "17.0.19.10.1",
-      "latestReleaseDate": "2026-04-22",
-      "lts": false,
-      "releaseDate": "2026-04-22"
-    },
-    {
-      "cycle": "11.0",
-      "latest": "11.0.31.11.1",
-      "latestReleaseDate": "2026-04-22",
-      "lts": false,
-      "releaseDate": "2026-04-22"
     },
     {
       "cycle": "8.482",
@@ -324,10 +331,10 @@
       "releaseDate": "2019-02-20"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "amazon-corretto",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-corretto.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

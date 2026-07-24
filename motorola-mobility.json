@@ -16,6 +16,13 @@
       "releaseDate": "2026-06-01"
     },
     {
+      "cycle": "motorola-edge-70-max",
+      "eol": "2029-06-30",
+      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12897",
+      "lts": false,
+      "releaseDate": "2026-06-01"
+    },
+    {
       "cycle": "motorola-razr-70-plus",
       "eol": "2030-05-31",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12558",
@@ -632,18 +639,18 @@
       "releaseDate": "2023-09-01"
     },
     {
-      "cycle": "moto-g84-5g",
-      "eol": "2026-09-30",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11601",
-      "lts": false,
-      "releaseDate": "2023-09-01"
-    },
-    {
       "cycle": "moto-g54-5g",
       "eol": "2027-06-30",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11600",
       "lts": false,
       "releaseDate": "2023-09-01"
+    },
+    {
+      "cycle": "moto-g84-5g",
+      "eol": "2027-08-31",
+      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11601",
+      "lts": false,
+      "releaseDate": "2023-08-01"
     },
     {
       "cycle": "moto-g14",
@@ -779,10 +786,10 @@
       "releaseDate": "2022-08-01"
     }
   ],
-  "fetched_at": "2026-07-15T07:23:01Z",
+  "fetched_at": "2026-07-24T05:36:19Z",
   "slug": "motorola-mobility",
   "source": "release-data",
-  "source_commit": "5f583daa5fa2f76478616674f0c4ae71591f83a4",
+  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/motorola-mobility.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
