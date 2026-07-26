@@ -1,45 +1,42 @@
 {
   "canonical": {
-    "cpe": "cpe:2.3:o:rocky:rocky_linux:*:*:*:*:*:*:*:*",
-    "display_name": "Rocky Linux",
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux:*:*:*:*:*:*:*:*",
+    "display_name": "Red Hat Enterprise Linux",
     "mapping_source": "eol_product_mapping",
-    "product": "rocky_linux",
+    "product": "enterprise_linux",
     "purl": "",
-    "vendor": "rocky"
+    "vendor": "redhat"
   },
   "cycles": [
     {
       "cycle": "10",
       "eoas": "2030-05-31",
       "eol": "2035-05-31",
-      "latest": "10.1",
-      "latestReleaseDate": "2025-11-25",
+      "extendedSupport": "2039-05-31",
       "lts": false,
-      "releaseDate": "2025-06-11"
+      "releaseDate": "2025-05-20"
     },
     {
       "cycle": "9",
       "eoas": "2027-05-31",
       "eol": "2032-05-31",
-      "latest": "9.7",
-      "latestReleaseDate": "2025-12-01",
+      "extendedSupport": "2036-05-31",
       "lts": false,
-      "releaseDate": "2022-07-14"
+      "releaseDate": "2022-05-18"
     },
     {
       "cycle": "8",
       "eoas": "2024-05-31",
       "eol": "2029-05-31",
-      "latest": "8.10",
-      "latestReleaseDate": "2024-05-31",
+      "extendedSupport": "2033-05-31",
       "lts": false,
-      "releaseDate": "2021-05-01"
+      "releaseDate": "2019-05-07"
     }
   ],
   "fetched_at": "2026-07-26T11:00:22Z",
-  "slug": "rocky-linux",
+  "slug": "rhel",
   "source": "release-data",
   "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
-  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/rocky-linux.json",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/rhel.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

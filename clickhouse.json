@@ -23,18 +23,18 @@
       "releaseDate": "2026-07-22"
     },
     {
-      "cycle": "26.6",
-      "latest": "26.6.2.81",
-      "latestReleaseDate": "2026-07-20",
-      "lts": false,
-      "releaseDate": "2026-07-20"
-    },
-    {
       "cycle": "26.4",
       "latest": "26.4.5.143",
-      "latestReleaseDate": "2026-07-20",
+      "latestReleaseDate": "2026-07-22",
       "lts": false,
-      "releaseDate": "2026-07-20"
+      "releaseDate": "2026-07-22"
+    },
+    {
+      "cycle": "26.6",
+      "latest": "26.6.2.81",
+      "latestReleaseDate": "2026-07-21",
+      "lts": false,
+      "releaseDate": "2026-07-21"
     },
     {
       "cycle": "26.3",
@@ -66,10 +66,10 @@
     },
     {
       "cycle": "25.12",
-      "latest": "25.12.12.1",
-      "latestReleaseDate": "2026-05-01",
+      "latest": "25.12.11.4",
+      "latestReleaseDate": "2026-04-30",
       "lts": false,
-      "releaseDate": "2026-05-01"
+      "releaseDate": "2026-04-30"
     },
     {
       "cycle": "25.10",
@@ -340,9 +340,9 @@
     {
       "cycle": "22.10",
       "latest": "22.10.7.13",
-      "latestReleaseDate": "2023-01-26",
+      "latestReleaseDate": "2023-01-25",
       "lts": false,
-      "releaseDate": "2023-01-26"
+      "releaseDate": "2023-01-25"
     },
     {
       "cycle": "22.9",
@@ -466,16 +466,16 @@
     {
       "cycle": "21.4",
       "latest": "21.4.7.3",
-      "latestReleaseDate": "2021-05-20",
+      "latestReleaseDate": "2021-05-19",
       "lts": false,
-      "releaseDate": "2021-05-20"
+      "releaseDate": "2021-05-19"
     },
     {
       "cycle": "21.2",
       "latest": "21.2.10.48",
-      "latestReleaseDate": "2021-04-17",
+      "latestReleaseDate": "2021-04-16",
       "lts": false,
-      "releaseDate": "2021-04-17"
+      "releaseDate": "2021-04-16"
     },
     {
       "cycle": "21.1",
@@ -515,9 +515,9 @@
     {
       "cycle": "20.9",
       "latest": "20.9.7.11",
-      "latestReleaseDate": "2020-12-07",
+      "latestReleaseDate": "2020-12-06",
       "lts": false,
-      "releaseDate": "2020-12-07"
+      "releaseDate": "2020-12-06"
     },
     {
       "cycle": "20.3",
@@ -532,138 +532,12 @@
       "latestReleaseDate": "2020-10-09",
       "lts": false,
       "releaseDate": "2020-10-09"
-    },
-    {
-      "cycle": "20.5",
-      "latest": "20.5.5.74",
-      "latestReleaseDate": "2020-08-20",
-      "lts": false,
-      "releaseDate": "2020-08-20"
-    },
-    {
-      "cycle": "20.4",
-      "latest": "20.4.9.110",
-      "latestReleaseDate": "2020-08-20",
-      "lts": false,
-      "releaseDate": "2020-08-20"
-    },
-    {
-      "cycle": "19.17",
-      "latest": "19.17.10.1",
-      "latestReleaseDate": "2020-07-22",
-      "lts": false,
-      "releaseDate": "2020-07-22"
-    },
-    {
-      "cycle": "19.14",
-      "latest": "19.14.13.4",
-      "latestReleaseDate": "2020-07-21",
-      "lts": false,
-      "releaseDate": "2020-07-21"
-    },
-    {
-      "cycle": "20.1",
-      "latest": "20.1.16.120",
-      "latestReleaseDate": "2020-06-26",
-      "lts": false,
-      "releaseDate": "2020-06-26"
-    },
-    {
-      "cycle": "19.16",
-      "latest": "19.16.19.85",
-      "latestReleaseDate": "2020-04-27",
-      "lts": false,
-      "releaseDate": "2020-04-27"
-    },
-    {
-      "cycle": "19.15",
-      "latest": "19.15.7.30",
-      "latestReleaseDate": "2019-12-29",
-      "lts": false,
-      "releaseDate": "2019-12-29"
-    },
-    {
-      "cycle": "19.11",
-      "latest": "19.11.14.1",
-      "latestReleaseDate": "2019-12-04",
-      "lts": false,
-      "releaseDate": "2019-12-04"
-    },
-    {
-      "cycle": "19.13",
-      "latest": "19.13.7.57",
-      "latestReleaseDate": "2019-11-06",
-      "lts": false,
-      "releaseDate": "2019-11-06"
-    },
-    {
-      "cycle": "19.9",
-      "latest": "19.9.5.36",
-      "latestReleaseDate": "2019-07-20",
-      "lts": false,
-      "releaseDate": "2019-07-20"
-    },
-    {
-      "cycle": "19.10",
-      "latest": "19.10.1.5",
-      "latestReleaseDate": "2019-07-12",
-      "lts": false,
-      "releaseDate": "2019-07-12"
-    },
-    {
-      "cycle": "19.7",
-      "latest": "19.7.5.29",
-      "latestReleaseDate": "2019-07-05",
-      "lts": false,
-      "releaseDate": "2019-07-05"
-    },
-    {
-      "cycle": "19.6",
-      "latest": "19.6.3.18",
-      "latestReleaseDate": "2019-06-15",
-      "lts": false,
-      "releaseDate": "2019-06-15"
-    },
-    {
-      "cycle": "19.8",
-      "latest": "19.8.3.8",
-      "latestReleaseDate": "2019-06-11",
-      "lts": false,
-      "releaseDate": "2019-06-11"
-    },
-    {
-      "cycle": "19.5",
-      "latest": "19.5.4.22",
-      "latestReleaseDate": "2019-05-13",
-      "lts": false,
-      "releaseDate": "2019-05-13"
-    },
-    {
-      "cycle": "19.4",
-      "latest": "19.4.5.35",
-      "latestReleaseDate": "2019-05-13",
-      "lts": false,
-      "releaseDate": "2019-05-13"
-    },
-    {
-      "cycle": "19.3",
-      "latest": "19.3.9.12",
-      "latestReleaseDate": "2019-04-02",
-      "lts": false,
-      "releaseDate": "2019-04-02"
-    },
-    {
-      "cycle": "19.1",
-      "latest": "19.1.16.79",
-      "latestReleaseDate": "2019-04-02",
-      "lts": false,
-      "releaseDate": "2019-04-02"
     }
   ],
-  "fetched_at": "2026-07-24T05:36:19Z",
+  "fetched_at": "2026-07-26T11:00:22Z",
   "slug": "clickhouse",
   "source": "release-data",
-  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
+  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/clickhouse.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

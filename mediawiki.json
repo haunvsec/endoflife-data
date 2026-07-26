@@ -49,10 +49,10 @@
       "releaseDate": "2024-06-27"
     }
   ],
-  "fetched_at": "2026-07-24T05:36:19Z",
+  "fetched_at": "2026-07-26T11:00:22Z",
   "slug": "mediawiki",
   "source": "release-data",
-  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
+  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/mediawiki.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "16.2",
-      "latest": "16.2.11",
-      "latestReleaseDate": "2026-07-21",
+      "latest": "16.2.12",
+      "latestReleaseDate": "2026-07-25",
       "lts": false,
-      "releaseDate": "2026-07-21"
+      "releaseDate": "2026-07-25"
     },
     {
       "cycle": "15.5",
-      "latest": "15.5.21",
-      "latestReleaseDate": "2026-07-21",
+      "latest": "15.5.22",
+      "latestReleaseDate": "2026-07-25",
       "lts": false,
-      "releaseDate": "2026-07-21"
+      "releaseDate": "2026-07-25"
     },
     {
       "cycle": "16.1",
@@ -387,10 +387,10 @@
       "releaseDate": "2016-10-29"
     }
   ],
-  "fetched_at": "2026-07-24T05:36:19Z",
+  "fetched_at": "2026-07-26T11:00:22Z",
   "slug": "nextjs",
   "source": "release-data",
-  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
+  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nextjs.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

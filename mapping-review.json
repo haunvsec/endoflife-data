@@ -52,7 +52,7 @@
   {
     "canonical_product": "anthropic_claude",
     "canonical_vendor": "",
-    "cycles_total": 28,
+    "cycles_total": 29,
     "display_name": "Anthropic Claude",
     "latest_release_date": "",
     "mapping_source": "unmapped",
@@ -132,9 +132,9 @@
   {
     "canonical_product": "cloud_sql_auth_proxy",
     "canonical_vendor": "",
-    "cycles_total": 58,
+    "cycles_total": 59,
     "display_name": "Cloud Sql Auth Proxy",
-    "latest_release_date": "2026-06-26",
+    "latest_release_date": "2026-07-24",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cloud-sql-auth-proxy.json",
     "slug": "cloud-sql-auth-proxy"
@@ -234,7 +234,7 @@
     "canonical_vendor": "",
     "cycles_total": 10,
     "display_name": "Eslint",
-    "latest_release_date": "2026-07-10",
+    "latest_release_date": "2026-07-24",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/eslint.json",
     "slug": "eslint"
@@ -642,9 +642,9 @@
   {
     "canonical_product": "quasar",
     "canonical_vendor": "",
-    "cycles_total": 46,
+    "cycles_total": 47,
     "display_name": "Quasar",
-    "latest_release_date": "2026-07-21",
+    "latest_release_date": "2026-07-24",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quasar.json",
     "slug": "quasar"
@@ -662,9 +662,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3674,
+    "cycles_total": 3676,
     "display_name": "Renovate",
-    "latest_release_date": "2026-07-23",
+    "latest_release_date": "2026-07-26",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"

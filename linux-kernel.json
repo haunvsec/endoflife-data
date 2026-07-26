@@ -9,53 +9,53 @@
   },
   "cycles": [
     {
-      "cycle": "7.1",
-      "latest": "7.1.4",
-      "latestReleaseDate": "2026-07-18",
+      "cycle": "6.12",
+      "latest": "6.12.98",
+      "latestReleaseDate": "2026-07-25",
       "lts": false,
-      "releaseDate": "2026-07-18"
+      "releaseDate": "2026-07-25"
+    },
+    {
+      "cycle": "7.1",
+      "latest": "7.1.5",
+      "latestReleaseDate": "2026-07-24",
+      "lts": false,
+      "releaseDate": "2026-07-24"
     },
     {
       "cycle": "6.18",
-      "latest": "6.18.39",
-      "latestReleaseDate": "2026-07-18",
+      "latest": "6.18.40",
+      "latestReleaseDate": "2026-07-24",
       "lts": false,
-      "releaseDate": "2026-07-18"
-    },
-    {
-      "cycle": "6.12",
-      "latest": "6.12.96",
-      "latestReleaseDate": "2026-07-18",
-      "lts": false,
-      "releaseDate": "2026-07-18"
+      "releaseDate": "2026-07-24"
     },
     {
       "cycle": "6.6",
-      "latest": "6.6.144",
-      "latestReleaseDate": "2026-07-04",
+      "latest": "6.6.145",
+      "latestReleaseDate": "2026-07-24",
       "lts": false,
-      "releaseDate": "2026-07-04"
+      "releaseDate": "2026-07-24"
     },
     {
       "cycle": "6.1",
-      "latest": "6.1.177",
-      "latestReleaseDate": "2026-07-04",
+      "latest": "6.1.178",
+      "latestReleaseDate": "2026-07-24",
       "lts": false,
-      "releaseDate": "2026-07-04"
+      "releaseDate": "2026-07-24"
     },
     {
       "cycle": "5.15",
-      "latest": "5.15.211",
-      "latestReleaseDate": "2026-07-04",
+      "latest": "5.15.212",
+      "latestReleaseDate": "2026-07-24",
       "lts": false,
-      "releaseDate": "2026-07-04"
+      "releaseDate": "2026-07-24"
     },
     {
       "cycle": "5.10",
-      "latest": "5.10.260",
-      "latestReleaseDate": "2026-07-04",
+      "latest": "5.10.261",
+      "latestReleaseDate": "2026-07-24",
       "lts": false,
-      "releaseDate": "2026-07-04"
+      "releaseDate": "2026-07-24"
     },
     {
       "cycle": "7.0",
@@ -597,10 +597,10 @@
       "releaseDate": "2011-08-03"
     }
   ],
-  "fetched_at": "2026-07-24T05:36:19Z",
+  "fetched_at": "2026-07-26T11:00:22Z",
   "slug": "linux-kernel",
   "source": "release-data",
-  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
+  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/linux-kernel.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

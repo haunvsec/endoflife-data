@@ -18,22 +18,22 @@
     {
       "cycle": "21",
       "eol": "2029-12-31",
-      "latest": "21.0.11+10",
-      "latestReleaseDate": "2026-04-23",
+      "latest": "21.0.12+8",
+      "latestReleaseDate": "2026-07-24",
       "lts": false
     },
     {
       "cycle": "17",
       "eol": "2027-10-31",
-      "latest": "17.0.19+10",
-      "latestReleaseDate": "2026-04-22",
+      "latest": "17.0.20+8",
+      "latestReleaseDate": "2026-07-24",
       "lts": false
     },
     {
       "cycle": "11",
       "eol": "2027-10-31",
-      "latest": "11.0.31+11",
-      "latestReleaseDate": "2026-04-28",
+      "latest": "11.0.32+9",
+      "latestReleaseDate": "2026-07-24",
       "lts": false
     },
     {
@@ -42,10 +42,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-07-24T05:36:19Z",
+  "fetched_at": "2026-07-26T11:00:22Z",
   "slug": "eclipse-temurin",
   "source": "release-data",
-  "source_commit": "f4610f3af9f77d9a6e8577255bb1882ad984fefa",
+  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/eclipse-temurin.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
