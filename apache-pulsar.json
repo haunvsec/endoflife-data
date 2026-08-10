@@ -17,8 +17,8 @@
       "cycle": "4.2",
       "eol": "2026-09-24",
       "extendedSupport": "2026-09-24",
-      "latest": "4.2.3",
-      "latestReleaseDate": "2026-07-06",
+      "latest": "4.2.4",
+      "latestReleaseDate": "2026-08-03",
       "lts": false,
       "releaseDate": "2026-03-24"
     },
@@ -35,8 +35,8 @@
       "cycle": "4.0",
       "eol": "2026-10-21",
       "extendedSupport": "2027-10-21",
-      "latest": "4.0.12",
-      "latestReleaseDate": "2026-07-06",
+      "latest": "4.0.13",
+      "latestReleaseDate": "2026-08-03",
       "lts": false,
       "releaseDate": "2024-10-21"
     },
@@ -140,10 +140,10 @@
       "releaseDate": "2020-01-15"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "apache-pulsar",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-pulsar.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

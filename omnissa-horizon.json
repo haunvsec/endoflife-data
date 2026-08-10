@@ -1,0 +1,158 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Omnissa Horizon",
+    "mapping_source": "unmapped",
+    "product": "omnissa_horizon",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "8.2603",
+      "eol": "2029-04-14",
+      "lts": false,
+      "releaseDate": "2026-04-14",
+      "technicalGuidance": "2030-04-14"
+    },
+    {
+      "cycle": "8.2512",
+      "eol": "2028-12-16",
+      "lts": false,
+      "releaseDate": "2025-12-16",
+      "technicalGuidance": "2029-12-16"
+    },
+    {
+      "cycle": "8.2506",
+      "eol": "2028-07-31",
+      "lts": false,
+      "releaseDate": "2025-07-31",
+      "technicalGuidance": "2029-07-31"
+    },
+    {
+      "cycle": "8.2503",
+      "eol": "2028-04-15",
+      "lts": false,
+      "releaseDate": "2025-04-15",
+      "technicalGuidance": "2029-04-15"
+    },
+    {
+      "cycle": "8.2412",
+      "eol": "2028-01-28",
+      "lts": false,
+      "releaseDate": "2025-01-28",
+      "technicalGuidance": "2029-01-28"
+    },
+    {
+      "cycle": "8.2406",
+      "eol": "2027-07-25",
+      "lts": false,
+      "releaseDate": "2024-07-25",
+      "technicalGuidance": "2028-07-25"
+    },
+    {
+      "cycle": "8.2312",
+      "eol": "2027-01-23",
+      "lts": false,
+      "releaseDate": "2024-01-23",
+      "technicalGuidance": "2028-01-23"
+    },
+    {
+      "cycle": "8.2309",
+      "eol": "2026-10-26",
+      "lts": false,
+      "releaseDate": "2023-10-26",
+      "technicalGuidance": "2027-10-26"
+    },
+    {
+      "cycle": "8.2306",
+      "eol": "2026-07-06",
+      "lts": false,
+      "releaseDate": "2023-07-06",
+      "technicalGuidance": "2027-07-06"
+    },
+    {
+      "cycle": "8.2303",
+      "eol": "2026-03-30",
+      "lts": false,
+      "releaseDate": "2023-03-30",
+      "technicalGuidance": "2027-03-30"
+    },
+    {
+      "cycle": "8.2212",
+      "eol": "2026-07-12",
+      "lts": false,
+      "releaseDate": "2023-01-12",
+      "technicalGuidance": "2027-07-12"
+    },
+    {
+      "cycle": "8.2209",
+      "eol": "2025-10-20",
+      "lts": false,
+      "releaseDate": "2022-10-20",
+      "technicalGuidance": "2026-10-20"
+    },
+    {
+      "cycle": "8.2206",
+      "eol": "2025-07-19",
+      "lts": false,
+      "releaseDate": "2022-07-19",
+      "technicalGuidance": "2026-07-19"
+    },
+    {
+      "cycle": "8.2203",
+      "eol": "2025-04-05",
+      "lts": false,
+      "releaseDate": "2022-04-05",
+      "technicalGuidance": "2026-04-05"
+    },
+    {
+      "cycle": "8.2111",
+      "eol": "2024-11-30",
+      "lts": false,
+      "releaseDate": "2021-11-30",
+      "technicalGuidance": "2025-11-30"
+    },
+    {
+      "cycle": "8.2106",
+      "eol": "2024-07-15",
+      "lts": false,
+      "releaseDate": "2021-07-15",
+      "technicalGuidance": "2025-07-15"
+    },
+    {
+      "cycle": "8.2103",
+      "eol": "2024-03-23",
+      "lts": false,
+      "releaseDate": "2021-03-23",
+      "technicalGuidance": "2025-03-23"
+    },
+    {
+      "cycle": "8.2012",
+      "eol": "2024-01-07",
+      "lts": false,
+      "releaseDate": "2021-01-07",
+      "technicalGuidance": "2025-01-07"
+    },
+    {
+      "cycle": "7.13",
+      "eol": "2023-04-30",
+      "lts": false,
+      "releaseDate": "2020-10-15",
+      "technicalGuidance": "2025-04-30"
+    },
+    {
+      "cycle": "8.2006",
+      "eol": "2025-08-11",
+      "lts": false,
+      "releaseDate": "2020-08-11",
+      "technicalGuidance": "2027-08-11"
+    }
+  ],
+  "fetched_at": "2026-08-10T13:38:56Z",
+  "slug": "omnissa-horizon",
+  "source": "release-data",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/omnissa-horizon.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

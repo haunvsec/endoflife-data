@@ -9,11 +9,20 @@
   },
   "cycles": [
     {
+      "cycle": "6.1",
+      "eoas": "2027-04-30",
+      "eol": "2027-12-31",
+      "latest": "6.1",
+      "latestReleaseDate": "2026-08-05",
+      "lts": false,
+      "supportedPythonVersions": "3.12 - 3.14"
+    },
+    {
       "cycle": "6.0",
-      "eoas": "2026-08-31",
+      "eoas": "2026-08-04",
       "eol": "2027-04-30",
-      "latest": "6.0.7",
-      "latestReleaseDate": "2026-07-07",
+      "latest": "6.0.8",
+      "latestReleaseDate": "2026-08-04",
       "lts": false,
       "supportedPythonVersions": "3.12 - 3.14"
     },
@@ -21,8 +30,8 @@
       "cycle": "5.2",
       "eoas": "2025-12-03",
       "eol": "2028-04-30",
-      "latest": "5.2.16",
-      "latestReleaseDate": "2026-07-07",
+      "latest": "5.2.17",
+      "latestReleaseDate": "2026-08-04",
       "lts": false,
       "supportedPythonVersions": "3.10 - 3.14 (added in 5.2.8)"
     },
@@ -190,10 +199,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "django",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/django.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

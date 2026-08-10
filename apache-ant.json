@@ -11,36 +11,22 @@
     {
       "cycle": "1.10",
       "latest": "1.10.17",
-      "latestReleaseDate": "2026-04-06",
+      "latestReleaseDate": "2026-04-10",
       "lts": false,
-      "releaseDate": "2026-04-06"
+      "releaseDate": "2026-04-10"
     },
     {
       "cycle": "1.9",
       "latest": "1.9.16",
-      "latestReleaseDate": "2021-07-10",
+      "latestReleaseDate": "2021-07-13",
       "lts": false,
-      "releaseDate": "2021-07-10"
-    },
-    {
-      "cycle": "1.8",
-      "latest": "1.8.4",
-      "latestReleaseDate": "2012-05-22",
-      "lts": false,
-      "releaseDate": "2012-05-22"
-    },
-    {
-      "cycle": "1.7",
-      "latest": "1.7.1",
-      "latestReleaseDate": "2008-07-09",
-      "lts": false,
-      "releaseDate": "2008-07-09"
+      "releaseDate": "2021-07-13"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "apache-ant",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-ant.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

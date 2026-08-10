@@ -10,38 +10,38 @@
   "cycles": [
     {
       "cycle": "5.0",
-      "latest": "5.0.6",
-      "latestReleaseDate": "2026-05-04",
+      "latest": "5.0.8",
+      "latestReleaseDate": "2026-07-29",
       "lts": false,
-      "releaseDate": "2026-05-04"
+      "releaseDate": "2026-07-29"
     },
     {
       "cycle": "4.0",
-      "latest": "4.0.32",
-      "latestReleaseDate": "2026-05-04",
+      "latest": "4.0.33",
+      "latestReleaseDate": "2026-07-29",
       "lts": false,
-      "releaseDate": "2026-05-04"
+      "releaseDate": "2026-07-29"
     },
     {
       "cycle": "3.0",
       "latest": "3.0.25",
-      "latestReleaseDate": "2025-05-27",
+      "latestReleaseDate": "2025-05-24",
       "lts": false,
-      "releaseDate": "2025-05-27"
+      "releaseDate": "2025-05-24"
     },
     {
       "cycle": "2.5",
       "latest": "2.5.23",
-      "latestReleaseDate": "2023-08-22",
+      "latestReleaseDate": "2023-08-19",
       "lts": false,
-      "releaseDate": "2023-08-22"
+      "releaseDate": "2023-08-19"
     },
     {
       "cycle": "2.4",
       "latest": "2.4.21",
-      "latestReleaseDate": "2020-12-03",
+      "latestReleaseDate": "2020-11-30",
       "lts": false,
-      "releaseDate": "2020-12-03"
+      "releaseDate": "2020-11-30"
     },
     {
       "cycle": "2.3",
@@ -100,10 +100,10 @@
       "releaseDate": "2009-04-07"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "apache-groovy",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-groovy.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

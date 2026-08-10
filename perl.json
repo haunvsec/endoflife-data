@@ -9,25 +9,25 @@
   },
   "cycles": [
     {
+      "cycle": "5.42",
+      "latest": "5.42.3",
+      "latestReleaseDate": "2026-08-02",
+      "lts": false,
+      "releaseDate": "2026-08-02"
+    },
+    {
+      "cycle": "5.40",
+      "latest": "5.40.5",
+      "latestReleaseDate": "2026-08-02",
+      "lts": false,
+      "releaseDate": "2026-08-02"
+    },
+    {
       "cycle": "5.44",
       "latest": "5.44.0",
       "latestReleaseDate": "2026-07-15",
       "lts": false,
       "releaseDate": "2026-07-15"
-    },
-    {
-      "cycle": "5.42",
-      "latest": "5.42.2",
-      "latestReleaseDate": "2026-03-29",
-      "lts": false,
-      "releaseDate": "2026-03-29"
-    },
-    {
-      "cycle": "5.40",
-      "latest": "5.40.4",
-      "latestReleaseDate": "2026-03-29",
-      "lts": false,
-      "releaseDate": "2026-03-29"
     },
     {
       "cycle": "5.38",
@@ -247,10 +247,10 @@
       "releaseDate": "1988-06-05"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "perl",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/perl.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

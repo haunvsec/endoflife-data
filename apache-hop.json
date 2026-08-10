@@ -9,122 +9,31 @@
   },
   "cycles": [
     {
+      "cycle": "2.18",
+      "latest": "2.18.1",
+      "latestReleaseDate": "2026-06-18",
+      "lts": false,
+      "releaseDate": "2026-06-18"
+    },
+    {
       "cycle": "2.17",
       "latest": "2.17.0",
-      "latestReleaseDate": "2026-02-02",
+      "latestReleaseDate": "2026-02-06",
       "lts": false,
-      "releaseDate": "2026-02-02"
+      "releaseDate": "2026-02-06"
     },
     {
       "cycle": "2.16",
       "latest": "2.16.0",
-      "latestReleaseDate": "2025-11-10",
+      "latestReleaseDate": "2025-11-14",
       "lts": false,
-      "releaseDate": "2025-11-10"
-    },
-    {
-      "cycle": "2.15",
-      "latest": "2.15.0",
-      "latestReleaseDate": "2025-08-12",
-      "lts": false,
-      "releaseDate": "2025-08-12"
-    },
-    {
-      "cycle": "2.14",
-      "latest": "2.14.0",
-      "latestReleaseDate": "2025-05-13",
-      "lts": false,
-      "releaseDate": "2025-05-13"
-    },
-    {
-      "cycle": "2.13",
-      "latest": "2.13.0",
-      "latestReleaseDate": "2025-04-15",
-      "lts": false,
-      "releaseDate": "2025-04-15"
-    },
-    {
-      "cycle": "2.12",
-      "latest": "2.12.0",
-      "latestReleaseDate": "2025-02-13",
-      "lts": false,
-      "releaseDate": "2025-02-13"
-    },
-    {
-      "cycle": "2.11",
-      "latest": "2.11.0",
-      "latestReleaseDate": "2024-12-04",
-      "lts": false,
-      "releaseDate": "2024-12-04"
-    },
-    {
-      "cycle": "2.10",
-      "latest": "2.10.0",
-      "latestReleaseDate": "2024-10-08",
-      "lts": false,
-      "releaseDate": "2024-10-08"
-    },
-    {
-      "cycle": "2.9",
-      "latest": "2.9.0",
-      "latestReleaseDate": "2024-05-20",
-      "lts": false,
-      "releaseDate": "2024-05-20"
-    },
-    {
-      "cycle": "2.8",
-      "latest": "2.8.0",
-      "latestReleaseDate": "2024-02-28",
-      "lts": false,
-      "releaseDate": "2024-02-28"
-    },
-    {
-      "cycle": "2.7",
-      "latest": "2.7.0",
-      "latestReleaseDate": "2023-12-01",
-      "lts": false,
-      "releaseDate": "2023-12-01"
-    },
-    {
-      "cycle": "2.6",
-      "latest": "2.6.0",
-      "latestReleaseDate": "2023-09-23",
-      "lts": false,
-      "releaseDate": "2023-09-23"
-    },
-    {
-      "cycle": "2.5",
-      "latest": "2.5.0",
-      "latestReleaseDate": "2023-06-08",
-      "lts": false,
-      "releaseDate": "2023-06-08"
-    },
-    {
-      "cycle": "2.4",
-      "latest": "2.4.0",
-      "latestReleaseDate": "2023-03-27",
-      "lts": false,
-      "releaseDate": "2023-03-27"
-    },
-    {
-      "cycle": "2.3",
-      "latest": "2.3.0",
-      "latestReleaseDate": "2023-01-27",
-      "lts": false,
-      "releaseDate": "2023-01-27"
-    },
-    {
-      "cycle": "2.2",
-      "latest": "2.2.0",
-      "latestReleaseDate": "2022-12-02",
-      "lts": false,
-      "releaseDate": "2022-12-02"
+      "releaseDate": "2025-11-14"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "apache-hop",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-hop.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

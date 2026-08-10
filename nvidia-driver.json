@@ -9,17 +9,31 @@
   },
   "cycles": [
     {
+      "cycle": "r610-windows",
+      "latest": "610.88",
+      "latestReleaseDate": "2026-08-03",
+      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-610-57-04/index.html",
+      "lts": false
+    },
+    {
+      "cycle": "r610-linux",
+      "latest": "610.57.04",
+      "latestReleaseDate": "2026-08-03",
+      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-610-57-04/index.html",
+      "lts": false
+    },
+    {
       "cycle": "r595-windows",
-      "latest": "596.36",
-      "latestReleaseDate": "2026-04-28",
-      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-595-71-05/index.html",
+      "latest": "596.86",
+      "latestReleaseDate": "2026-08-03",
+      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-595-91-07/index.html",
       "lts": false
     },
     {
       "cycle": "r595-linux",
-      "latest": "595.71.05",
-      "latestReleaseDate": "2026-04-28",
-      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-595-71-05/index.html",
+      "latest": "595.91.07",
+      "latestReleaseDate": "2026-08-03",
+      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-595-91-07/index.html",
       "lts": false
     },
     {
@@ -37,10 +51,17 @@
       "lts": false
     },
     {
+      "cycle": "r580-windows",
+      "latest": "582.78",
+      "latestReleaseDate": "2026-08-03",
+      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-178-04/index.html",
+      "lts": false
+    },
+    {
       "cycle": "r580-linux",
-      "latest": "580.173.02",
-      "latestReleaseDate": "2026-06-29",
-      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-173-02/index.html",
+      "latest": "580.178.04",
+      "latestReleaseDate": "2026-08-03",
+      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-178-04/index.html",
       "lts": false
     },
     {
@@ -226,10 +247,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "nvidia-driver",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nvidia-driver.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

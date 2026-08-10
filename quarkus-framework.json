@@ -9,6 +9,27 @@
   },
   "cycles": [
     {
+      "cycle": "3.38",
+      "latest": "3.38.1",
+      "latestReleaseDate": "2026-08-04",
+      "lts": false,
+      "releaseDate": "2026-08-04"
+    },
+    {
+      "cycle": "3.33",
+      "latest": "3.33.3.1",
+      "latestReleaseDate": "2026-08-04",
+      "lts": false,
+      "releaseDate": "2026-08-04"
+    },
+    {
+      "cycle": "3.27",
+      "latest": "3.27.5.1",
+      "latestReleaseDate": "2026-08-04",
+      "lts": false,
+      "releaseDate": "2026-08-04"
+    },
+    {
       "cycle": "3.37",
       "latest": "3.37.4",
       "latestReleaseDate": "2026-07-23",
@@ -21,20 +42,6 @@
       "latestReleaseDate": "2026-06-18",
       "lts": false,
       "releaseDate": "2026-06-18"
-    },
-    {
-      "cycle": "3.33",
-      "latest": "3.33.2.1",
-      "latestReleaseDate": "2026-06-17",
-      "lts": false,
-      "releaseDate": "2026-06-17"
-    },
-    {
-      "cycle": "3.27",
-      "latest": "3.27.4.1",
-      "latestReleaseDate": "2026-06-17",
-      "lts": false,
-      "releaseDate": "2026-06-17"
     },
     {
       "cycle": "3.20",
@@ -492,10 +499,10 @@
       "releaseDate": "2019-11-28"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "quarkus-framework",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/quarkus-framework.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

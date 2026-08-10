@@ -12,8 +12,8 @@
       "cycle": "18",
       "eoas": "2027-03-25",
       "eol": "2027-06-25",
-      "latest": "18.0.2",
-      "latestReleaseDate": "2026-07-07",
+      "latest": "18.1.0",
+      "latestReleaseDate": "2026-08-05",
       "lts": false,
       "releaseDate": "2026-06-25"
     },
@@ -21,8 +21,8 @@
       "cycle": "17",
       "eoas": "2027-11-27",
       "eol": "2028-11-27",
-      "latest": "17.5.3",
-      "latestReleaseDate": "2026-07-07",
+      "latest": "17.6.0",
+      "latestReleaseDate": "2026-08-05",
       "lts": false,
       "releaseDate": "2025-11-27"
     },
@@ -117,10 +117,10 @@
       "releaseDate": "2013-11-21"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "umbraco",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/umbraco.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

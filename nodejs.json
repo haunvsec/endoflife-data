@@ -9,11 +9,46 @@
   },
   "cycles": [
     {
-      "cycle": "26.5",
-      "latest": "26.5.0",
-      "latestReleaseDate": "2026-07-08",
+      "cycle": "26.7",
+      "latest": "26.7.0",
+      "latestReleaseDate": "2026-08-05",
       "lts": false,
-      "releaseDate": "2026-07-08"
+      "releaseDate": "2026-08-05"
+    },
+    {
+      "cycle": "26.6",
+      "latest": "26.6.0",
+      "latestReleaseDate": "2026-08-03",
+      "lts": false,
+      "releaseDate": "2026-08-03"
+    },
+    {
+      "cycle": "24.19",
+      "latest": "24.19.0",
+      "latestReleaseDate": "2026-08-03",
+      "lts": false,
+      "releaseDate": "2026-08-03"
+    },
+    {
+      "cycle": "26.5",
+      "latest": "26.5.1",
+      "latestReleaseDate": "2026-07-29",
+      "lts": false,
+      "releaseDate": "2026-07-29"
+    },
+    {
+      "cycle": "24.18",
+      "latest": "24.18.1",
+      "latestReleaseDate": "2026-07-29",
+      "lts": false,
+      "releaseDate": "2026-07-29"
+    },
+    {
+      "cycle": "22.23",
+      "latest": "22.23.2",
+      "latestReleaseDate": "2026-07-29",
+      "lts": false,
+      "releaseDate": "2026-07-29"
     },
     {
       "cycle": "26.4",
@@ -21,20 +56,6 @@
       "latestReleaseDate": "2026-06-25",
       "lts": false,
       "releaseDate": "2026-06-25"
-    },
-    {
-      "cycle": "24.18",
-      "latest": "24.18.0",
-      "latestReleaseDate": "2026-06-23",
-      "lts": false,
-      "releaseDate": "2026-06-23"
-    },
-    {
-      "cycle": "22.23",
-      "latest": "22.23.1",
-      "latestReleaseDate": "2026-06-23",
-      "lts": false,
-      "releaseDate": "2026-06-23"
     },
     {
       "cycle": "26.3",
@@ -2662,10 +2683,10 @@
       "releaseDate": "2015-01-24"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "nodejs",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nodejs.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -11,24 +11,24 @@
     {
       "cycle": "7.1",
       "eol": "2027-05-04",
-      "latest": "7.1.6",
-      "latestReleaseDate": "2026-07-23",
+      "latest": "7.1.7",
+      "latestReleaseDate": "2026-08-05",
       "lts": false,
       "releaseDate": "2026-05-04"
     },
     {
       "cycle": "7.0",
       "eol": "2026-11-03",
-      "latest": "7.0.11",
-      "latestReleaseDate": "2026-07-23",
+      "latest": "7.0.12",
+      "latestReleaseDate": "2026-08-05",
       "lts": false,
       "releaseDate": "2025-11-03"
     },
     {
       "cycle": "6.3",
       "eol": "2026-06-30",
-      "latest": "6.3.14",
-      "latestReleaseDate": "2026-07-01",
+      "latest": "6.3.15",
+      "latestReleaseDate": "2026-08-05",
       "lts": false,
       "releaseDate": "2025-06-30"
     },
@@ -89,10 +89,10 @@
       "releaseDate": "2022-05-25"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "graylog",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/graylog.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

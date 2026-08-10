@@ -11,57 +11,78 @@
     {
       "cycle": "3.9",
       "latest": "3.9.5",
+      "latestReleaseDate": "2026-03-05",
+      "lts": false,
+      "releaseDate": "2026-03-05"
+    },
+    {
+      "cycle": "3.8",
+      "latest": "3.8.6",
       "latestReleaseDate": "2026-02-11",
       "lts": false,
       "releaseDate": "2026-02-11"
     },
     {
-      "cycle": "3.8",
-      "latest": "3.8.6",
-      "latestReleaseDate": "2026-01-28",
-      "lts": false,
-      "releaseDate": "2026-01-28"
-    },
-    {
       "cycle": "3.7",
       "latest": "3.7.2",
-      "latestReleaseDate": "2023-10-06",
+      "latestReleaseDate": "2023-10-09",
       "lts": false,
-      "releaseDate": "2023-10-06"
+      "releaseDate": "2023-10-09"
     },
     {
       "cycle": "3.6",
       "latest": "3.6.4",
-      "latestReleaseDate": "2022-12-18",
+      "latestReleaseDate": "2022-12-30",
       "lts": false,
-      "releaseDate": "2022-12-18"
+      "releaseDate": "2022-12-30"
     },
     {
       "cycle": "3.5",
       "latest": "3.5.10",
-      "latestReleaseDate": "2022-05-29",
+      "latestReleaseDate": "2022-06-04",
       "lts": false,
-      "releaseDate": "2022-05-29"
+      "releaseDate": "2022-06-04"
     },
     {
       "cycle": "3.4",
       "latest": "3.4.14",
-      "latestReleaseDate": "2019-03-06",
+      "latestReleaseDate": "2019-04-01",
       "lts": false,
-      "releaseDate": "2019-03-06"
+      "releaseDate": "2019-04-01"
     },
     {
       "cycle": "3.3",
       "latest": "3.3.6",
-      "latestReleaseDate": "2012-08-03",
+      "latestReleaseDate": "2012-08-01",
       "lts": false,
-      "releaseDate": "2012-08-03"
+      "releaseDate": "2012-08-01"
+    },
+    {
+      "cycle": "3.2",
+      "latest": "3.2.2",
+      "latestReleaseDate": "2010-11-24",
+      "lts": false,
+      "releaseDate": "2010-11-24"
+    },
+    {
+      "cycle": "3.1",
+      "latest": "3.1.2",
+      "latestReleaseDate": "2010-11-24",
+      "lts": false,
+      "releaseDate": "2010-11-24"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.1",
+      "latestReleaseDate": "2010-11-24",
+      "lts": false,
+      "releaseDate": "2010-11-24"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "zookeeper",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/zookeeper.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

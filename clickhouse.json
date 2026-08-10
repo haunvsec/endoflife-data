@@ -9,18 +9,39 @@
   },
   "cycles": [
     {
-      "cycle": "26.5",
-      "latest": "26.5.6.64",
-      "latestReleaseDate": "2026-07-23",
+      "cycle": "26.7",
+      "latest": "26.7.3.19",
+      "latestReleaseDate": "2026-08-06",
       "lts": false,
-      "releaseDate": "2026-07-23"
+      "releaseDate": "2026-08-06"
     },
     {
-      "cycle": "26.7",
-      "latest": "26.7.1.1315",
-      "latestReleaseDate": "2026-07-22",
+      "cycle": "26.6",
+      "latest": "26.6.2.160",
+      "latestReleaseDate": "2026-08-05",
       "lts": false,
-      "releaseDate": "2026-07-22"
+      "releaseDate": "2026-08-05"
+    },
+    {
+      "cycle": "26.3",
+      "latest": "26.3.17.110",
+      "latestReleaseDate": "2026-08-05",
+      "lts": false,
+      "releaseDate": "2026-08-05"
+    },
+    {
+      "cycle": "25.8",
+      "latest": "25.8.29.51",
+      "latestReleaseDate": "2026-08-05",
+      "lts": false,
+      "releaseDate": "2026-08-05"
+    },
+    {
+      "cycle": "26.5",
+      "latest": "26.5.6.113",
+      "latestReleaseDate": "2026-08-04",
+      "lts": false,
+      "releaseDate": "2026-08-04"
     },
     {
       "cycle": "26.4",
@@ -28,27 +49,6 @@
       "latestReleaseDate": "2026-07-22",
       "lts": false,
       "releaseDate": "2026-07-22"
-    },
-    {
-      "cycle": "26.6",
-      "latest": "26.6.2.81",
-      "latestReleaseDate": "2026-07-21",
-      "lts": false,
-      "releaseDate": "2026-07-21"
-    },
-    {
-      "cycle": "26.3",
-      "latest": "26.3.17.56",
-      "latestReleaseDate": "2026-07-20",
-      "lts": false,
-      "releaseDate": "2026-07-20"
-    },
-    {
-      "cycle": "25.8",
-      "latest": "25.8.28.1",
-      "latestReleaseDate": "2026-07-05",
-      "lts": false,
-      "releaseDate": "2026-07-05"
     },
     {
       "cycle": "26.2",
@@ -534,10 +534,10 @@
       "releaseDate": "2020-10-09"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "clickhouse",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/clickhouse.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

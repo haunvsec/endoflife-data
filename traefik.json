@@ -10,8 +10,8 @@
   "cycles": [
     {
       "cycle": "3.7",
-      "latest": "3.7.9",
-      "latestReleaseDate": "2026-07-24",
+      "latest": "3.7.10",
+      "latestReleaseDate": "2026-07-31",
       "lts": false,
       "releaseDate": "2026-05-05"
     },
@@ -19,8 +19,8 @@
       "cycle": "3.6",
       "eoas": "2026-05-05",
       "eol": "2026-05-05",
-      "latest": "3.6.24",
-      "latestReleaseDate": "2026-07-24",
+      "latest": "3.6.25",
+      "latestReleaseDate": "2026-07-31",
       "lts": false,
       "releaseDate": "2025-11-07"
     },
@@ -82,16 +82,16 @@
       "cycle": "2.11",
       "eoas": "2025-04-29",
       "eol": "2026-02-01",
-      "latest": "2.11.53",
-      "latestReleaseDate": "2026-07-24",
+      "latest": "2.11.54",
+      "latestReleaseDate": "2026-07-31",
       "lts": false,
       "releaseDate": "2024-02-12"
     }
   ],
-  "fetched_at": "2026-07-26T11:00:22Z",
+  "fetched_at": "2026-08-10T13:38:56Z",
   "slug": "traefik",
   "source": "release-data",
-  "source_commit": "71d375e2e95f0de2db669924a184481d69fe1990",
+  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/traefik.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
