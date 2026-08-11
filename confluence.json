@@ -646,10 +646,10 @@
       "releaseDate": "2004-05-05"
     }
   ],
-  "fetched_at": "2026-08-10T13:38:56Z",
+  "fetched_at": "2026-08-11T08:37:46Z",
   "slug": "confluence",
   "source": "release-data",
-  "source_commit": "8795257f2a2b9f1f1c2f6c9657c5569a8eadf678",
+  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/confluence.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -44,7 +44,7 @@
     "canonical_vendor": "",
     "cycles_total": 13,
     "display_name": "Ansible Core",
-    "latest_release_date": "2026-07-13",
+    "latest_release_date": "2026-08-10",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ansible-core.json",
     "slug": "ansible-core"
@@ -472,9 +472,9 @@
   {
     "canonical_product": "meilisearch",
     "canonical_vendor": "",
-    "cycles_total": 53,
+    "cycles_total": 54,
     "display_name": "Meilisearch",
-    "latest_release_date": "2026-08-03",
+    "latest_release_date": "2026-08-10",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/meilisearch.json",
     "slug": "meilisearch"
@@ -574,7 +574,7 @@
     "canonical_vendor": "",
     "cycles_total": 9,
     "display_name": "Phoenix Framework",
-    "latest_release_date": "2026-07-07",
+    "latest_release_date": "2026-08-10",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/phoenix-framework.json",
     "slug": "phoenix-framework"
@@ -682,9 +682,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3701,
+    "cycles_total": 3707,
     "display_name": "Renovate",
-    "latest_release_date": "2026-08-10",
+    "latest_release_date": "2026-08-11",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -824,7 +824,7 @@
     "canonical_vendor": "",
     "cycles_total": 40,
     "display_name": "Telegraf",
-    "latest_release_date": "2026-07-20",
+    "latest_release_date": "2026-08-10",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/telegraf.json",
     "slug": "telegraf"
