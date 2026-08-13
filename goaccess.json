@@ -93,10 +93,10 @@
       "releaseDate": "2016-07-04"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "goaccess",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/goaccess.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

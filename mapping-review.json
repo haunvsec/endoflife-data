@@ -74,7 +74,7 @@
     "canonical_vendor": "",
     "cycles_total": 64,
     "display_name": "Beats",
-    "latest_release_date": "2026-08-04",
+    "latest_release_date": "2026-08-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/beats.json",
     "slug": "beats"
@@ -142,9 +142,9 @@
   {
     "canonical_product": "cnspec",
     "canonical_vendor": "",
-    "cycles_total": 197,
+    "cycles_total": 198,
     "display_name": "Cnspec",
-    "latest_release_date": "2026-08-04",
+    "latest_release_date": "2026-08-11",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cnspec.json",
     "slug": "cnspec"
@@ -294,7 +294,7 @@
     "canonical_vendor": "",
     "cycles_total": 125,
     "display_name": "Gitlab Runner",
-    "latest_release_date": "2026-07-28",
+    "latest_release_date": "2026-08-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/gitlab-runner.json",
     "slug": "gitlab-runner"
@@ -344,7 +344,7 @@
     "canonical_vendor": "",
     "cycles_total": 6,
     "display_name": "Ionic",
-    "latest_release_date": "2026-08-05",
+    "latest_release_date": "2026-08-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ionic.json",
     "slug": "ionic"
@@ -434,7 +434,7 @@
     "canonical_vendor": "",
     "cycles_total": 2,
     "display_name": "Laravel",
-    "latest_release_date": "2026-07-14",
+    "latest_release_date": "2026-08-11",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/laravel.json",
     "slug": "laravel"
@@ -574,7 +574,7 @@
     "canonical_vendor": "",
     "cycles_total": 9,
     "display_name": "Phoenix Framework",
-    "latest_release_date": "2026-08-10",
+    "latest_release_date": "2026-08-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/phoenix-framework.json",
     "slug": "phoenix-framework"
@@ -672,9 +672,9 @@
   {
     "canonical_product": "react_native",
     "canonical_vendor": "",
-    "cycles_total": 88,
+    "cycles_total": 89,
     "display_name": "React Native",
-    "latest_release_date": "2026-07-27",
+    "latest_release_date": "2026-08-11",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/react-native.json",
     "slug": "react-native"
@@ -682,9 +682,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3707,
+    "cycles_total": 3711,
     "display_name": "Renovate",
-    "latest_release_date": "2026-08-11",
+    "latest_release_date": "2026-08-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -792,9 +792,9 @@
   {
     "canonical_product": "strapi",
     "canonical_vendor": "",
-    "cycles_total": 93,
+    "cycles_total": 94,
     "display_name": "Strapi",
-    "latest_release_date": "2026-08-05",
+    "latest_release_date": "2026-08-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/strapi.json",
     "slug": "strapi"

@@ -10,21 +10,21 @@
   "cycles": [
     {
       "cycle": "11.0",
-      "latest": "11.0.24",
-      "latestReleaseDate": "2026-07-03",
+      "latest": "11.0.25",
+      "latestReleaseDate": "2026-08-12",
       "lts": false,
-      "releaseDate": "2026-07-03"
+      "releaseDate": "2026-08-12"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.121",
+      "latestReleaseDate": "2026-08-12",
+      "lts": false,
+      "releaseDate": "2026-08-12"
     },
     {
       "cycle": "10.1",
       "latest": "10.1.57",
-      "latestReleaseDate": "2026-07-03",
-      "lts": false,
-      "releaseDate": "2026-07-03"
-    },
-    {
-      "cycle": "9.0",
-      "latest": "9.0.120",
       "latestReleaseDate": "2026-07-03",
       "lts": false,
       "releaseDate": "2026-07-03"
@@ -51,10 +51,10 @@
       "releaseDate": "2021-04-22"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "tomcat",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/tomcat.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

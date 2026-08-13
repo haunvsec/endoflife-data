@@ -10,8 +10,8 @@
   "cycles": [
     {
       "cycle": "8",
-      "latest": "8.8.17",
-      "latestReleaseDate": "2026-08-05",
+      "latest": "8.8.18",
+      "latestReleaseDate": "2026-08-12",
       "lts": false,
       "maxAngularVersion": "v20.x",
       "minAngularVersion": "v16",
@@ -66,10 +66,10 @@
       "minAngularVersion": "v5.2.11"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "ionic",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/ionic.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

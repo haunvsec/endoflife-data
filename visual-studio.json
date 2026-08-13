@@ -9,11 +9,39 @@
   },
   "cycles": [
     {
-      "cycle": "18.8",
-      "latest": "18.8.2",
-      "latestReleaseDate": "2026-07-28",
+      "cycle": "18.9",
+      "latest": "18.9.0",
+      "latestReleaseDate": "2026-08-11",
       "lts": false,
-      "releaseDate": "2026-07-28"
+      "releaseDate": "2026-08-11"
+    },
+    {
+      "cycle": "18.8",
+      "latest": "18.8.3",
+      "latestReleaseDate": "2026-08-11",
+      "lts": false,
+      "releaseDate": "2026-08-11"
+    },
+    {
+      "cycle": "17.14",
+      "latest": "17.14.38",
+      "latestReleaseDate": "2026-08-11",
+      "lts": false,
+      "releaseDate": "2026-08-11"
+    },
+    {
+      "cycle": "16.11",
+      "latest": "16.11.59",
+      "latestReleaseDate": "2026-08-11",
+      "lts": false,
+      "releaseDate": "2026-08-11"
+    },
+    {
+      "cycle": "15.9",
+      "latest": "15.9.82",
+      "latestReleaseDate": "2026-08-11",
+      "lts": false,
+      "releaseDate": "2026-08-11"
     },
     {
       "cycle": "18.7",
@@ -23,29 +51,8 @@
       "releaseDate": "2026-07-14"
     },
     {
-      "cycle": "17.14",
-      "latest": "17.14.36",
-      "latestReleaseDate": "2026-07-14",
-      "lts": false,
-      "releaseDate": "2026-07-14"
-    },
-    {
       "cycle": "17.12",
       "latest": "17.12.22",
-      "latestReleaseDate": "2026-07-14",
-      "lts": false,
-      "releaseDate": "2026-07-14"
-    },
-    {
-      "cycle": "16.11",
-      "latest": "16.11.58",
-      "latestReleaseDate": "2026-07-14",
-      "lts": false,
-      "releaseDate": "2026-07-14"
-    },
-    {
-      "cycle": "15.9",
-      "latest": "15.9.81",
       "latestReleaseDate": "2026-07-14",
       "lts": false,
       "releaseDate": "2026-07-14"
@@ -331,10 +338,10 @@
       "releaseDate": "2017-04-17"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "visual-studio",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/visual-studio.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

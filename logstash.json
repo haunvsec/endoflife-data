@@ -10,28 +10,28 @@
   "cycles": [
     {
       "cycle": "9.5",
-      "latest": "9.5.0",
-      "latestReleaseDate": "2026-08-04",
+      "latest": "9.5.1",
+      "latestReleaseDate": "2026-08-11",
       "lts": false,
-      "releaseDate": "2026-08-04"
+      "releaseDate": "2026-08-11"
     },
     {
       "cycle": "9.4",
-      "latest": "9.4.4",
-      "latestReleaseDate": "2026-07-21",
+      "latest": "9.4.5",
+      "latestReleaseDate": "2026-08-11",
       "lts": false,
-      "releaseDate": "2026-07-21"
+      "releaseDate": "2026-08-11"
+    },
+    {
+      "cycle": "8.19",
+      "latest": "8.19.20",
+      "latestReleaseDate": "2026-08-11",
+      "lts": false,
+      "releaseDate": "2026-08-11"
     },
     {
       "cycle": "9.3",
       "latest": "9.3.8",
-      "latestReleaseDate": "2026-07-21",
-      "lts": false,
-      "releaseDate": "2026-07-21"
-    },
-    {
-      "cycle": "8.19",
-      "latest": "8.19.19",
       "latestReleaseDate": "2026-07-21",
       "lts": false,
       "releaseDate": "2026-07-21"
@@ -310,10 +310,10 @@
       "releaseDate": "2019-07-30"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "logstash",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/logstash.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -9,11 +9,18 @@
   },
   "cycles": [
     {
-      "cycle": "5.3",
-      "latest": "5.3.0.2",
-      "latestReleaseDate": "2026-06-02",
+      "cycle": "5.4",
+      "latest": "5.4",
+      "latestReleaseDate": "2026-08-10",
       "lts": false,
-      "releaseDate": "2026-06-02"
+      "releaseDate": "2026-08-10"
+    },
+    {
+      "cycle": "5.3",
+      "latest": "5.3.0.3",
+      "latestReleaseDate": "2026-07-17",
+      "lts": false,
+      "releaseDate": "2026-07-17"
     },
     {
       "cycle": "5.2",
@@ -100,10 +107,10 @@
       "releaseDate": "2019-12-15"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "nutanix-files",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nutanix-files.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

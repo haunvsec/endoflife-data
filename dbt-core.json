@@ -10,24 +10,24 @@
   "cycles": [
     {
       "cycle": "1.12",
-      "latest": "1.12.0",
-      "latestReleaseDate": "2026-07-16",
+      "latest": "1.12.2",
+      "latestReleaseDate": "2026-08-12",
       "lts": false,
-      "releaseDate": "2026-07-16"
+      "releaseDate": "2026-08-12"
     },
     {
       "cycle": "1.11",
-      "latest": "1.11.12",
-      "latestReleaseDate": "2026-07-01",
+      "latest": "1.11.13",
+      "latestReleaseDate": "2026-08-12",
       "lts": false,
-      "releaseDate": "2026-07-01"
+      "releaseDate": "2026-08-12"
     },
     {
       "cycle": "1.10",
-      "latest": "1.10.22",
-      "latestReleaseDate": "2026-05-20",
+      "latest": "1.10.23",
+      "latestReleaseDate": "2026-08-12",
       "lts": false,
-      "releaseDate": "2026-05-20"
+      "releaseDate": "2026-08-12"
     },
     {
       "cycle": "1.9",
@@ -100,10 +100,10 @@
       "releaseDate": "2023-01-05"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "dbt-core",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/dbt-core.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "2.35",
-      "latest": "2.35.1",
-      "latestReleaseDate": "2026-07-14",
+      "latest": "2.35.2",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
-      "releaseDate": "2026-07-14"
+      "releaseDate": "2026-08-13"
     },
     {
       "cycle": "2.34",
@@ -345,10 +345,10 @@
       "releaseDate": "2012-05-11"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "nix",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nix.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

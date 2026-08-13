@@ -27,24 +27,24 @@
     {
       "cycle": "3.12",
       "eol": "2028-10-31",
-      "latest": "3.12.13",
-      "latestReleaseDate": "2026-03-03",
+      "latest": "3.12.14",
+      "latestReleaseDate": "2026-08-12",
       "lts": false,
       "releaseDate": "2023-10-02"
     },
     {
       "cycle": "3.11",
       "eol": "2027-10-31",
-      "latest": "3.11.15",
-      "latestReleaseDate": "2026-03-03",
+      "latest": "3.11.16",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
       "releaseDate": "2022-10-24"
     },
     {
       "cycle": "3.10",
       "eol": "2026-10-31",
-      "latest": "3.10.20",
-      "latestReleaseDate": "2026-03-03",
+      "latest": "3.10.21",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
       "releaseDate": "2021-10-04"
     },
@@ -145,10 +145,10 @@
       "releaseDate": "2008-10-01"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "python",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/python.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

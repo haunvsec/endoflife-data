@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "9.0",
-      "latest": "9.0",
-      "latestReleaseDate": "2026-08-03",
+      "latest": "9.0.1",
+      "latestReleaseDate": "2026-08-12",
       "lts": false,
-      "releaseDate": "2026-08-03"
+      "releaseDate": "2026-08-12"
     },
     {
       "cycle": "5.1",
@@ -226,10 +226,10 @@
       "releaseDate": "2014-07-20"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "ffmpeg",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/ffmpeg.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

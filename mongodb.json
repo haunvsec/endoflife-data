@@ -11,8 +11,8 @@
     {
       "cycle": "8.3",
       "eol": "2029-10-31",
-      "latest": "8.3.7",
-      "latestReleaseDate": "2026-07-24",
+      "latest": "8.3.8",
+      "latestReleaseDate": "2026-08-11",
       "lts": false,
       "releaseDate": "2026-05-31"
     },
@@ -35,8 +35,8 @@
     {
       "cycle": "8.0",
       "eol": "2029-10-31",
-      "latest": "8.0.28",
-      "latestReleaseDate": "2026-07-28",
+      "latest": "8.0.29",
+      "latestReleaseDate": "2026-08-11",
       "lts": false,
       "releaseDate": "2024-10-31"
     },
@@ -67,8 +67,8 @@
     {
       "cycle": "7.0",
       "eol": "2027-08-31",
-      "latest": "7.0.39",
-      "latestReleaseDate": "2026-07-28",
+      "latest": "7.0.40",
+      "latestReleaseDate": "2026-08-11",
       "lts": false,
       "releaseDate": "2023-08-31"
     },
@@ -193,10 +193,10 @@
       "releaseDate": "2015-03-31"
     }
   ],
-  "fetched_at": "2026-08-11T08:37:46Z",
+  "fetched_at": "2026-08-13T08:02:41Z",
   "slug": "mongodb",
   "source": "release-data",
-  "source_commit": "87f9642a88efe609fb5e5e586f9c16a819c11b0b",
+  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/mongodb.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
