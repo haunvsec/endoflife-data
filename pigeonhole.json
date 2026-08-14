@@ -51,10 +51,10 @@
       "releaseDate": "2009-03-21"
     }
   ],
-  "fetched_at": "2026-08-13T08:02:41Z",
+  "fetched_at": "2026-08-14T04:02:59Z",
   "slug": "pigeonhole",
   "source": "release-data",
-  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
+  "source_commit": "5c15cc1ca77ec9a42e5cbfd2de5e4ecfc6d32eb4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/pigeonhole.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

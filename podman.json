@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "5.8",
+      "latest": "5.8.6",
+      "latestReleaseDate": "2026-08-13",
+      "lts": false,
+      "releaseDate": "2026-08-13"
+    },
+    {
       "cycle": "6.1",
       "latest": "6.1.0",
       "latestReleaseDate": "2026-08-12",
@@ -21,13 +28,6 @@
       "latestReleaseDate": "2026-07-21",
       "lts": false,
       "releaseDate": "2026-07-21"
-    },
-    {
-      "cycle": "5.8",
-      "latest": "5.8.5",
-      "latestReleaseDate": "2026-07-08",
-      "lts": false,
-      "releaseDate": "2026-07-08"
     },
     {
       "cycle": "5.7",
@@ -282,10 +282,10 @@
       "releaseDate": "2019-03-04"
     }
   ],
-  "fetched_at": "2026-08-13T08:02:41Z",
+  "fetched_at": "2026-08-14T04:02:59Z",
   "slug": "podman",
   "source": "release-data",
-  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
+  "source_commit": "5c15cc1ca77ec9a42e5cbfd2de5e4ecfc6d32eb4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/podman.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

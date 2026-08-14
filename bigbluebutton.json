@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "3.0",
-      "latest": "3.0.34",
-      "latestReleaseDate": "2026-08-05",
+      "latest": "3.0.35",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
-      "releaseDate": "2026-08-05"
+      "releaseDate": "2026-08-13"
     },
     {
       "cycle": "2.7",
@@ -65,10 +65,10 @@
       "releaseDate": "2019-04-08"
     }
   ],
-  "fetched_at": "2026-08-13T08:02:41Z",
+  "fetched_at": "2026-08-14T04:02:59Z",
   "slug": "bigbluebutton",
   "source": "release-data",
-  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
+  "source_commit": "5c15cc1ca77ec9a42e5cbfd2de5e4ecfc6d32eb4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/bigbluebutton.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

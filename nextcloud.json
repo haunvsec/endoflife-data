@@ -11,24 +11,24 @@
     {
       "cycle": "34",
       "eol": "2027-06-30",
-      "latest": "34.0.2",
-      "latestReleaseDate": "2026-07-23",
+      "latest": "34.0.3",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
       "releaseDate": "2026-06-09"
     },
     {
       "cycle": "33",
       "eol": "2027-02-28",
-      "latest": "33.0.7",
-      "latestReleaseDate": "2026-07-23",
+      "latest": "33.0.8",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
       "releaseDate": "2026-02-18"
     },
     {
       "cycle": "32",
       "eol": "2026-09-30",
-      "latest": "32.0.13",
-      "latestReleaseDate": "2026-07-23",
+      "latest": "32.0.14",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
       "releaseDate": "2025-09-27"
     },
@@ -217,10 +217,10 @@
       "releaseDate": "2016-08-03"
     }
   ],
-  "fetched_at": "2026-08-13T08:02:41Z",
+  "fetched_at": "2026-08-14T04:02:59Z",
   "slug": "nextcloud",
   "source": "release-data",
-  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
+  "source_commit": "5c15cc1ca77ec9a42e5cbfd2de5e4ecfc6d32eb4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nextcloud.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -12,8 +12,8 @@
       "cycle": "22",
       "eoas": "2027-06-30",
       "eol": "2028-06-30",
-      "latest": "22.1.1",
-      "latestReleaseDate": "2026-08-07",
+      "latest": "22.1.2",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
       "releaseDate": "2026-06-03"
     },
@@ -30,16 +30,16 @@
       "cycle": "20",
       "eoas": "2025-11-19",
       "eol": "2026-11-28",
-      "latest": "20.3.27",
-      "latestReleaseDate": "2026-07-29",
+      "latest": "20.3.28",
+      "latestReleaseDate": "2026-08-13",
       "lts": false,
       "releaseDate": "2025-05-28"
     }
   ],
-  "fetched_at": "2026-08-13T08:02:41Z",
+  "fetched_at": "2026-08-14T04:02:59Z",
   "slug": "angular",
   "source": "release-data",
-  "source_commit": "eae01aff9bae9b0269b5778f71fd9b21b7fdcfce",
+  "source_commit": "5c15cc1ca77ec9a42e5cbfd2de5e4ecfc6d32eb4",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/angular.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

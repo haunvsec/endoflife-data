@@ -134,7 +134,7 @@
     "canonical_vendor": "",
     "cycles_total": 60,
     "display_name": "Cloud Sql Auth Proxy",
-    "latest_release_date": "2026-08-08",
+    "latest_release_date": "2026-08-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cloud-sql-auth-proxy.json",
     "slug": "cloud-sql-auth-proxy"
@@ -144,7 +144,7 @@
     "canonical_vendor": "",
     "cycles_total": 198,
     "display_name": "Cnspec",
-    "latest_release_date": "2026-08-11",
+    "latest_release_date": "2026-08-14",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cnspec.json",
     "slug": "cnspec"
@@ -444,7 +444,7 @@
     "canonical_vendor": "",
     "cycles_total": 13,
     "display_name": "Longhorn",
-    "latest_release_date": "2026-07-01",
+    "latest_release_date": "2026-08-14",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/longhorn.json",
     "slug": "longhorn"
@@ -474,7 +474,7 @@
     "canonical_vendor": "",
     "cycles_total": 54,
     "display_name": "Meilisearch",
-    "latest_release_date": "2026-08-10",
+    "latest_release_date": "2026-08-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/meilisearch.json",
     "slug": "meilisearch"
@@ -654,7 +654,7 @@
     "canonical_vendor": "",
     "cycles_total": 70,
     "display_name": "Quarkus Framework",
-    "latest_release_date": "2026-08-04",
+    "latest_release_date": "2026-08-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quarkus-framework.json",
     "slug": "quarkus-framework"
@@ -682,9 +682,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3711,
+    "cycles_total": 3713,
     "display_name": "Renovate",
-    "latest_release_date": "2026-08-12",
+    "latest_release_date": "2026-08-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
