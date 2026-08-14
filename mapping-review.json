@@ -684,7 +684,7 @@
     "canonical_vendor": "",
     "cycles_total": 3713,
     "display_name": "Renovate",
-    "latest_release_date": "2026-08-13",
+    "latest_release_date": "2026-08-14",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
