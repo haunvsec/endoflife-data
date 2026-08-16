@@ -12,8 +12,8 @@
       "cycle": "7.6",
       "dotnetVersion": ".NET 10.0",
       "eol": "2028-11-14",
-      "latest": "7.6.4",
-      "latestReleaseDate": "2026-07-20",
+      "latest": "7.6.5",
+      "latestReleaseDate": "2026-08-14",
       "lts": false,
       "releaseDate": "2026-03-18"
     },
@@ -21,8 +21,8 @@
       "cycle": "7.5",
       "dotnetVersion": ".NET 9.0",
       "eol": "2026-11-10",
-      "latest": "7.5.9",
-      "latestReleaseDate": "2026-07-20",
+      "latest": "7.5.10",
+      "latestReleaseDate": "2026-08-14",
       "lts": false,
       "releaseDate": "2025-01-23"
     },
@@ -30,8 +30,8 @@
       "cycle": "7.4",
       "dotnetVersion": ".NET 8.0",
       "eol": "2026-11-10",
-      "latest": "7.4.18",
-      "latestReleaseDate": "2026-07-20",
+      "latest": "7.4.19",
+      "latestReleaseDate": "2026-08-14",
       "lts": false,
       "releaseDate": "2023-11-16"
     },
@@ -99,10 +99,10 @@
       "releaseDate": "2018-01-20"
     }
   ],
-  "fetched_at": "2026-08-14T13:37:06Z",
+  "fetched_at": "2026-08-16T14:50:42Z",
   "slug": "powershell",
   "source": "release-data",
-  "source_commit": "79c05c976f5f2542101675bf0b196e96c72d29d1",
+  "source_commit": "97bc4d7b85b1e1a7b680d60af1f76249d158b130",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/powershell.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "5.1",
-      "latest": "5.1.0",
-      "latestReleaseDate": "2026-08-06",
+      "latest": "5.1.1",
+      "latestReleaseDate": "2026-08-16",
       "lts": false,
-      "releaseDate": "2026-08-06"
+      "releaseDate": "2026-08-16"
     },
     {
       "cycle": "4.2",
@@ -156,10 +156,10 @@
       "releaseDate": "2019-03-27"
     }
   ],
-  "fetched_at": "2026-08-14T13:37:06Z",
+  "fetched_at": "2026-08-16T14:50:42Z",
   "slug": "fluent-bit",
   "source": "release-data",
-  "source_commit": "79c05c976f5f2542101675bf0b196e96c72d29d1",
+  "source_commit": "97bc4d7b85b1e1a7b680d60af1f76249d158b130",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/fluent-bit.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

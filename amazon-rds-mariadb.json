@@ -38,7 +38,7 @@
     },
     {
       "cycle": "10.6",
-      "eol": "2026-11-30",
+      "eol": "2026-12-31",
       "latest": "10.6.27",
       "latestReleaseDate": "2026-06-05",
       "lts": false
@@ -51,10 +51,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-08-14T13:37:06Z",
+  "fetched_at": "2026-08-16T14:50:42Z",
   "slug": "amazon-rds-mariadb",
   "source": "release-data",
-  "source_commit": "79c05c976f5f2542101675bf0b196e96c72d29d1",
+  "source_commit": "97bc4d7b85b1e1a7b680d60af1f76249d158b130",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-rds-mariadb.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -108,14 +108,14 @@
     },
     {
       "cycle": "motorola-razr-fold-2026",
-      "eol": "2030-03-31",
+      "eol": "2033-03-31",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12556",
       "lts": false,
       "releaseDate": "2026-03-01"
     },
     {
       "cycle": "motorola-razr-fold",
-      "eol": "2030-03-31",
+      "eol": "2033-03-31",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12524",
       "lts": false,
       "releaseDate": "2026-03-01"
@@ -793,10 +793,10 @@
       "releaseDate": "2022-08-01"
     }
   ],
-  "fetched_at": "2026-08-14T13:37:06Z",
+  "fetched_at": "2026-08-16T14:50:42Z",
   "slug": "motorola-mobility",
   "source": "release-data",
-  "source_commit": "79c05c976f5f2542101675bf0b196e96c72d29d1",
+  "source_commit": "97bc4d7b85b1e1a7b680d60af1f76249d158b130",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/motorola-mobility.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

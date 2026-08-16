@@ -37,10 +37,10 @@
       "releaseDate": "2025-08-18"
     }
   ],
-  "fetched_at": "2026-08-14T13:37:06Z",
+  "fetched_at": "2026-08-16T14:50:42Z",
   "slug": "eclipse-jetty",
   "source": "release-data",
-  "source_commit": "79c05c976f5f2542101675bf0b196e96c72d29d1",
+  "source_commit": "97bc4d7b85b1e1a7b680d60af1f76249d158b130",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/eclipse-jetty.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
