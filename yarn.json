@@ -387,10 +387,10 @@
       "releaseDate": "2017-09-13"
     }
   ],
-  "fetched_at": "2026-08-16T14:50:42Z",
+  "fetched_at": "2026-08-17T01:54:33Z",
   "slug": "yarn",
   "source": "release-data",
-  "source_commit": "97bc4d7b85b1e1a7b680d60af1f76249d158b130",
+  "source_commit": "c84b1f8fe6a17a1d41f3d1ae3fd3059419bdd8b0",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/yarn.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -5550,7 +5550,7 @@
     "slug": "tomcat"
   },
   {
-    "active": true,
+    "active": false,
     "canonical_product": "traefik",
     "canonical_vendor": "traefik",
     "cpe": "cpe:2.3:a:traefik:traefik:*:*:*:*:*:*:*:*",
