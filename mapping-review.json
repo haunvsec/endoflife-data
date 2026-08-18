@@ -142,9 +142,9 @@
   {
     "canonical_product": "cnspec",
     "canonical_vendor": "",
-    "cycles_total": 198,
+    "cycles_total": 199,
     "display_name": "Cnspec",
-    "latest_release_date": "2026-08-14",
+    "latest_release_date": "2026-08-17",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cnspec.json",
     "slug": "cnspec"
@@ -662,9 +662,9 @@
   {
     "canonical_product": "quasar",
     "canonical_vendor": "",
-    "cycles_total": 48,
+    "cycles_total": 49,
     "display_name": "Quasar",
-    "latest_release_date": "2026-08-05",
+    "latest_release_date": "2026-08-17",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quasar.json",
     "slug": "quasar"
@@ -682,9 +682,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3714,
+    "cycles_total": 3716,
     "display_name": "Renovate",
-    "latest_release_date": "2026-08-16",
+    "latest_release_date": "2026-08-17",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"

@@ -324,10 +324,10 @@
       "releaseDate": "2016-03-31"
     }
   ],
-  "fetched_at": "2026-08-17T01:54:33Z",
+  "fetched_at": "2026-08-18T04:04:55Z",
   "slug": "wagtail",
   "source": "release-data",
-  "source_commit": "c84b1f8fe6a17a1d41f3d1ae3fd3059419bdd8b0",
+  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/wagtail.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
