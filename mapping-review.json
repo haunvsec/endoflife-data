@@ -2,9 +2,9 @@
   {
     "canonical_product": "adonisjs",
     "canonical_vendor": "",
-    "cycles_total": 46,
+    "cycles_total": 47,
     "display_name": "Adonisjs",
-    "latest_release_date": "2026-08-09",
+    "latest_release_date": "2026-08-21",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/adonisjs.json",
     "slug": "adonisjs"
@@ -74,7 +74,7 @@
     "canonical_vendor": "",
     "cycles_total": 64,
     "display_name": "Beats",
-    "latest_release_date": "2026-08-12",
+    "latest_release_date": "2026-08-20",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/beats.json",
     "slug": "beats"
@@ -92,9 +92,9 @@
   {
     "canonical_product": "bellsoft_liberica",
     "canonical_vendor": "",
-    "cycles_total": 74,
+    "cycles_total": 75,
     "display_name": "Bellsoft Liberica",
-    "latest_release_date": "2026-07-22",
+    "latest_release_date": "2026-08-19",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/bellsoft-liberica.json",
     "slug": "bellsoft-liberica"
@@ -102,9 +102,9 @@
   {
     "canonical_product": "bun",
     "canonical_vendor": "",
-    "cycles_total": 13,
+    "cycles_total": 14,
     "display_name": "Bun",
-    "latest_release_date": "2026-05-12",
+    "latest_release_date": "2026-08-19",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/bun.json",
     "slug": "bun"
@@ -124,7 +124,7 @@
     "canonical_vendor": "",
     "cycles_total": 13,
     "display_name": "Citrix Vad",
-    "latest_release_date": "2026-08-07",
+    "latest_release_date": "2026-08-18",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/citrix-vad.json",
     "slug": "citrix-vad"
@@ -134,7 +134,7 @@
     "canonical_vendor": "",
     "cycles_total": 60,
     "display_name": "Cloud Sql Auth Proxy",
-    "latest_release_date": "2026-08-13",
+    "latest_release_date": "2026-08-20",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cloud-sql-auth-proxy.json",
     "slug": "cloud-sql-auth-proxy"
@@ -142,9 +142,9 @@
   {
     "canonical_product": "cnspec",
     "canonical_vendor": "",
-    "cycles_total": 199,
+    "cycles_total": 201,
     "display_name": "Cnspec",
-    "latest_release_date": "2026-08-17",
+    "latest_release_date": "2026-08-25",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cnspec.json",
     "slug": "cnspec"
@@ -234,7 +234,7 @@
     "canonical_vendor": "",
     "cycles_total": 10,
     "display_name": "Eslint",
-    "latest_release_date": "2026-08-07",
+    "latest_release_date": "2026-08-24",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/eslint.json",
     "slug": "eslint"
@@ -254,7 +254,7 @@
     "canonical_vendor": "",
     "cycles_total": 8,
     "display_name": "Freedesktop Sdk",
-    "latest_release_date": "2026-08-16",
+    "latest_release_date": "2026-08-21",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/freedesktop-sdk.json",
     "slug": "freedesktop-sdk"
@@ -292,9 +292,9 @@
   {
     "canonical_product": "gitlab_runner",
     "canonical_vendor": "",
-    "cycles_total": 125,
+    "cycles_total": 126,
     "display_name": "Gitlab Runner",
-    "latest_release_date": "2026-08-12",
+    "latest_release_date": "2026-08-24",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/gitlab-runner.json",
     "slug": "gitlab-runner"
@@ -342,9 +342,9 @@
   {
     "canonical_product": "ionic",
     "canonical_vendor": "",
-    "cycles_total": 6,
+    "cycles_total": 7,
     "display_name": "Ionic",
-    "latest_release_date": "2026-08-12",
+    "latest_release_date": "2026-08-19",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ionic.json",
     "slug": "ionic"
@@ -394,7 +394,7 @@
     "canonical_vendor": "",
     "cycles_total": 15,
     "display_name": "Karpenter",
-    "latest_release_date": "2026-07-11",
+    "latest_release_date": "2026-08-21",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/karpenter.json",
     "slug": "karpenter"
@@ -414,7 +414,7 @@
     "canonical_vendor": "",
     "cycles_total": 25,
     "display_name": "Keycloak",
-    "latest_release_date": "2026-08-05",
+    "latest_release_date": "2026-08-19",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/keycloak.json",
     "slug": "keycloak"
@@ -434,7 +434,7 @@
     "canonical_vendor": "",
     "cycles_total": 2,
     "display_name": "Laravel",
-    "latest_release_date": "2026-08-11",
+    "latest_release_date": "2026-08-20",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/laravel.json",
     "slug": "laravel"
@@ -514,7 +514,7 @@
     "canonical_vendor": "",
     "cycles_total": 41,
     "display_name": "Nvm",
-    "latest_release_date": "2026-07-15",
+    "latest_release_date": "2026-08-17",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/nvm.json",
     "slug": "nvm"
@@ -522,9 +522,9 @@
   {
     "canonical_product": "omnissa_horizon",
     "canonical_vendor": "",
-    "cycles_total": 20,
+    "cycles_total": 21,
     "display_name": "Omnissa Horizon",
-    "latest_release_date": "2026-04-14",
+    "latest_release_date": "2026-08-24",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/omnissa-horizon.json",
     "slug": "omnissa-horizon"
@@ -534,7 +534,7 @@
     "canonical_vendor": "",
     "cycles_total": 7,
     "display_name": "Opentofu",
-    "latest_release_date": "2026-07-21",
+    "latest_release_date": "2026-08-19",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/opentofu.json",
     "slug": "opentofu"
@@ -574,7 +574,7 @@
     "canonical_vendor": "",
     "cycles_total": 9,
     "display_name": "Phoenix Framework",
-    "latest_release_date": "2026-08-12",
+    "latest_release_date": "2026-08-25",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/phoenix-framework.json",
     "slug": "phoenix-framework"
@@ -592,9 +592,9 @@
   {
     "canonical_product": "postmarketos",
     "canonical_vendor": "",
-    "cycles_total": 8,
+    "cycles_total": 13,
     "display_name": "Postmarketos",
-    "latest_release_date": "2025-12-23",
+    "latest_release_date": "2026-06-21",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/postmarketos.json",
     "slug": "postmarketos"
@@ -654,7 +654,7 @@
     "canonical_vendor": "",
     "cycles_total": 70,
     "display_name": "Quarkus Framework",
-    "latest_release_date": "2026-08-13",
+    "latest_release_date": "2026-08-19",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quarkus-framework.json",
     "slug": "quarkus-framework"
@@ -662,9 +662,9 @@
   {
     "canonical_product": "quasar",
     "canonical_vendor": "",
-    "cycles_total": 49,
+    "cycles_total": 50,
     "display_name": "Quasar",
-    "latest_release_date": "2026-08-17",
+    "latest_release_date": "2026-08-21",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quasar.json",
     "slug": "quasar"
@@ -674,7 +674,7 @@
     "canonical_vendor": "",
     "cycles_total": 89,
     "display_name": "React Native",
-    "latest_release_date": "2026-08-11",
+    "latest_release_date": "2026-08-24",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/react-native.json",
     "slug": "react-native"
@@ -682,9 +682,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3716,
+    "cycles_total": 3727,
     "display_name": "Renovate",
-    "latest_release_date": "2026-08-17",
+    "latest_release_date": "2026-08-25",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -724,7 +724,7 @@
     "canonical_vendor": "",
     "cycles_total": 34,
     "display_name": "Sapmachine",
-    "latest_release_date": "2026-07-22",
+    "latest_release_date": "2026-08-19",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/sapmachine.json",
     "slug": "sapmachine"
@@ -794,7 +794,7 @@
     "canonical_vendor": "",
     "cycles_total": 94,
     "display_name": "Strapi",
-    "latest_release_date": "2026-08-12",
+    "latest_release_date": "2026-08-19",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/strapi.json",
     "slug": "strapi"
@@ -852,9 +852,9 @@
   {
     "canonical_product": "weakforced",
     "canonical_vendor": "",
-    "cycles_total": 11,
+    "cycles_total": 12,
     "display_name": "Weakforced",
-    "latest_release_date": "2026-04-27",
+    "latest_release_date": "2026-08-20",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/weakforced.json",
     "slug": "weakforced"

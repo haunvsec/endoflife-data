@@ -9,6 +9,20 @@
   },
   "cycles": [
     {
+      "cycle": "2.579",
+      "latest": "2.579",
+      "latestReleaseDate": "2026-08-25",
+      "lts": false,
+      "releaseDate": "2026-08-25"
+    },
+    {
+      "cycle": "2.578",
+      "latest": "2.578",
+      "latestReleaseDate": "2026-08-18",
+      "lts": false,
+      "releaseDate": "2026-08-18"
+    },
+    {
       "cycle": "2.577",
       "latest": "2.577",
       "latestReleaseDate": "2026-08-11",
@@ -5728,10 +5742,10 @@
       "releaseDate": "2011-06-17"
     }
   ],
-  "fetched_at": "2026-08-18T04:04:55Z",
+  "fetched_at": "2026-08-25T14:02:21Z",
   "slug": "jenkins",
   "source": "release-data",
-  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/jenkins.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

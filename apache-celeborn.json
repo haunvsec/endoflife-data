@@ -1,0 +1,53 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:apache:celeborn:*:*:*:*:*:*:*:*",
+    "display_name": "Apache Celeborn",
+    "mapping_source": "slug_prefix",
+    "product": "celeborn",
+    "purl": "",
+    "vendor": "apache"
+  },
+  "cycles": [
+    {
+      "cycle": "0.7",
+      "latest": "0.7.0",
+      "latestReleaseDate": "2026-08-17",
+      "lts": false,
+      "releaseDate": "2026-08-17"
+    },
+    {
+      "cycle": "0.6",
+      "latest": "0.6.3",
+      "latestReleaseDate": "2026-04-23",
+      "lts": false,
+      "releaseDate": "2026-04-23"
+    },
+    {
+      "cycle": "0.5",
+      "latest": "0.5.4",
+      "latestReleaseDate": "2025-03-13",
+      "lts": false,
+      "releaseDate": "2025-03-13"
+    },
+    {
+      "cycle": "0.4",
+      "latest": "0.4.3",
+      "latestReleaseDate": "2024-12-10",
+      "lts": false,
+      "releaseDate": "2024-12-10"
+    },
+    {
+      "cycle": "0.1",
+      "latest": "0.1.4",
+      "latestReleaseDate": "2022-10-25",
+      "lts": false,
+      "releaseDate": "2022-10-25"
+    }
+  ],
+  "fetched_at": "2026-08-25T14:02:21Z",
+  "slug": "apache-celeborn",
+  "source": "release-data",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-celeborn.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

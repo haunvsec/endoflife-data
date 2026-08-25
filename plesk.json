@@ -10,16 +10,16 @@
   "cycles": [
     {
       "cycle": "18.0",
-      "latest": "18.0.80.3",
-      "latestReleaseDate": "2026-08-14",
+      "latest": "18.0.80.4",
+      "latestReleaseDate": "2026-08-24",
       "lts": false,
-      "releaseDate": "2026-08-14"
+      "releaseDate": "2026-08-24"
     }
   ],
-  "fetched_at": "2026-08-18T04:04:55Z",
+  "fetched_at": "2026-08-25T14:02:21Z",
   "slug": "plesk",
   "source": "release-data",
-  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/plesk.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

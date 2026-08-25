@@ -9,11 +9,18 @@
   },
   "cycles": [
     {
-      "cycle": "19.2",
-      "latest": "19.2.2",
-      "latestReleaseDate": "2026-08-12",
+      "cycle": "19.3",
+      "latest": "19.3.1",
+      "latestReleaseDate": "2026-08-24",
       "lts": false,
-      "releaseDate": "2026-08-12"
+      "releaseDate": "2026-08-24"
+    },
+    {
+      "cycle": "19.2",
+      "latest": "19.2.3",
+      "latestReleaseDate": "2026-08-24",
+      "lts": false,
+      "releaseDate": "2026-08-24"
     },
     {
       "cycle": "19.1",
@@ -884,10 +891,10 @@
       "releaseDate": "2016-02-10"
     }
   ],
-  "fetched_at": "2026-08-18T04:04:55Z",
+  "fetched_at": "2026-08-25T14:02:21Z",
   "slug": "gitlab-runner",
   "source": "release-data",
-  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/gitlab-runner.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

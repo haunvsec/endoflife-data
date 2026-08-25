@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "6.11",
-      "latest": "6.11.1",
-      "latestReleaseDate": "2026-05-13",
+      "latest": "6.11.2",
+      "latestReleaseDate": "2026-08-18",
       "lts": false,
-      "releaseDate": "2026-05-13"
+      "releaseDate": "2026-08-18"
     },
     {
       "cycle": "6.10",
@@ -198,10 +198,10 @@
       "releaseDate": "2013-08-28"
     }
   ],
-  "fetched_at": "2026-08-18T04:04:55Z",
+  "fetched_at": "2026-08-25T14:02:21Z",
   "slug": "qt",
   "source": "release-data",
-  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/qt.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

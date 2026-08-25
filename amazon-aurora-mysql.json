@@ -1,0 +1,46 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:amazon:aurora_mysql:*:*:*:*:*:*:*:*",
+    "display_name": "Aurora MySQL",
+    "mapping_source": "advisory-data",
+    "product": "aurora_mysql",
+    "purl": "",
+    "vendor": "amazon"
+  },
+  "cycles": [
+    {
+      "cycle": "8.4",
+      "eol": "2032-04-30",
+      "latest": "8.4.7",
+      "latestReleaseDate": "2026-05-21",
+      "lts": false
+    },
+    {
+      "cycle": "3",
+      "eol": "2028-04-30",
+      "extendedSupport": "2029-07-31",
+      "latest": "3.12",
+      "latestReleaseDate": "2026-02-17",
+      "lts": false
+    },
+    {
+      "cycle": "2",
+      "eol": "2024-10-31",
+      "extendedSupport": "2029-06-30",
+      "latest": "2.12",
+      "latestReleaseDate": "2023-07-25",
+      "lts": false
+    },
+    {
+      "cycle": "1",
+      "eol": "2023-02-28",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-08-25T14:02:21Z",
+  "slug": "amazon-aurora-mysql",
+  "source": "release-data",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-aurora-mysql.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -9,66 +9,76 @@
   },
   "cycles": [
     {
+      "cycle": "26.06",
+      "eol": "2027-01-31",
+      "lts": false,
+      "releaseDate": "2026-06-21"
+    },
+    {
       "cycle": "25.12",
-      "latest": "25.12",
-      "latestReleaseDate": "2025-12-23",
       "lts": false,
       "releaseDate": "2025-12-23"
     },
     {
       "cycle": "25.06",
-      "latest": "25.06",
-      "latestReleaseDate": "2025-06-23",
       "lts": false,
-      "releaseDate": "2025-06-23"
+      "releaseDate": "2025-06-22"
     },
     {
       "cycle": "24.12",
-      "latest": "24.12",
-      "latestReleaseDate": "2024-12-23",
       "lts": false,
       "releaseDate": "2024-12-23"
     },
     {
       "cycle": "24.06",
-      "latest": "24.06",
-      "latestReleaseDate": "2024-06-16",
       "lts": false,
       "releaseDate": "2024-06-16"
     },
     {
       "cycle": "23.12",
-      "latest": "23.12",
-      "latestReleaseDate": "2023-12-19",
       "lts": false,
-      "releaseDate": "2023-12-19"
+      "releaseDate": "2023-12-18"
     },
     {
       "cycle": "23.06",
-      "latest": "23.06",
-      "latestReleaseDate": "2023-06-07",
       "lts": false,
       "releaseDate": "2023-06-07"
     },
     {
       "cycle": "22.12",
-      "latest": "22.12",
-      "latestReleaseDate": "2022-12-18",
       "lts": false,
       "releaseDate": "2022-12-18"
     },
     {
       "cycle": "22.06",
-      "latest": "22.06",
-      "latestReleaseDate": "2022-06-12",
       "lts": false,
       "releaseDate": "2022-06-12"
+    },
+    {
+      "cycle": "21.12",
+      "lts": false,
+      "releaseDate": "2021-12-29"
+    },
+    {
+      "cycle": "21.06",
+      "lts": false,
+      "releaseDate": "2021-07-04"
+    },
+    {
+      "cycle": "21.03",
+      "lts": false,
+      "releaseDate": "2021-03-31"
+    },
+    {
+      "cycle": "20.05",
+      "lts": false,
+      "releaseDate": "2020-05-31"
     }
   ],
-  "fetched_at": "2026-08-18T04:04:55Z",
+  "fetched_at": "2026-08-25T14:02:21Z",
   "slug": "postmarketos",
   "source": "release-data",
-  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/postmarketos.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

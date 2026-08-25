@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "26.7",
-      "latest": "26.7.1",
-      "latestReleaseDate": "2026-08-05",
+      "latest": "26.7.2",
+      "latestReleaseDate": "2026-08-19",
       "lts": false,
-      "releaseDate": "2026-08-05"
+      "releaseDate": "2026-08-19"
     },
     {
       "cycle": "26.6",
@@ -184,10 +184,10 @@
       "releaseDate": "2021-03-01"
     }
   ],
-  "fetched_at": "2026-08-18T04:04:55Z",
+  "fetched_at": "2026-08-25T14:02:21Z",
   "slug": "keycloak",
   "source": "release-data",
-  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/keycloak.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

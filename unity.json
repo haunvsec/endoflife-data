@@ -9,25 +9,25 @@
   },
   "cycles": [
     {
+      "cycle": "6000.5",
+      "latest": "6000.5.9f1",
+      "latestReleaseDate": "2026-08-19",
+      "lts": false,
+      "releaseDate": "2026-08-19"
+    },
+    {
+      "cycle": "6000.0",
+      "latest": "6000.0.82f1",
+      "latestReleaseDate": "2026-08-19",
+      "lts": false,
+      "releaseDate": "2026-08-19"
+    },
+    {
       "cycle": "6000.3",
       "latest": "6000.3.22f1",
       "latestReleaseDate": "2026-08-13",
       "lts": false,
       "releaseDate": "2026-08-13"
-    },
-    {
-      "cycle": "6000.5",
-      "latest": "6000.5.8f1",
-      "latestReleaseDate": "2026-08-12",
-      "lts": false,
-      "releaseDate": "2026-08-12"
-    },
-    {
-      "cycle": "6000.0",
-      "latest": "6000.0.81f1",
-      "latestReleaseDate": "2026-08-06",
-      "lts": false,
-      "releaseDate": "2026-08-06"
     },
     {
       "cycle": "6000.4",
@@ -261,10 +261,10 @@
       "releaseDate": "2015-07-06"
     }
   ],
-  "fetched_at": "2026-08-18T04:04:55Z",
+  "fetched_at": "2026-08-25T14:02:21Z",
   "slug": "unity",
   "source": "release-data",
-  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/unity.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -11,36 +11,36 @@
     {
       "cycle": "25",
       "eol": "2030-09-30",
-      "latest": "25.0.4",
-      "latestReleaseDate": "2026-07-21",
+      "latest": "25.0.4.1",
+      "latestReleaseDate": "2026-08-07",
       "lts": false
     },
     {
       "cycle": "21",
       "eol": "2028-09-30",
-      "latest": "21.0.12",
-      "latestReleaseDate": "2026-07-21",
+      "latest": "21.0.12.1",
+      "latestReleaseDate": "2026-08-07",
       "lts": false
     },
     {
       "cycle": "17",
       "eol": "2027-09-30",
-      "latest": "17.0.20",
-      "latestReleaseDate": "2026-07-21",
+      "latest": "17.0.20.1",
+      "latestReleaseDate": "2026-08-07",
       "lts": false
     },
     {
       "cycle": "11",
       "eol": "2027-09-30",
-      "latest": "11.0.32",
-      "latestReleaseDate": "2026-07-21",
+      "latest": "11.0.32.1",
+      "latestReleaseDate": "2026-08-19",
       "lts": false
     }
   ],
-  "fetched_at": "2026-08-18T04:04:55Z",
+  "fetched_at": "2026-08-25T14:02:21Z",
   "slug": "microsoft-build-of-openjdk",
   "source": "release-data",
-  "source_commit": "4faabcc8d06f3c3216baaf33f0aa9919c47140ed",
+  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/microsoft-build-of-openjdk.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
