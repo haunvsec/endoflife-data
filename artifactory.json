@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "7.161",
-      "latest": "7.161.16",
-      "latestReleaseDate": "2026-08-12",
+      "latest": "7.161.19",
+      "latestReleaseDate": "2026-08-25",
       "lts": false,
-      "releaseDate": "2026-08-12"
+      "releaseDate": "2026-08-25"
     },
     {
       "cycle": "7.146",
-      "latest": "7.146.34",
-      "latestReleaseDate": "2026-07-27",
+      "latest": "7.146.36",
+      "latestReleaseDate": "2026-08-25",
       "lts": false,
-      "releaseDate": "2026-07-27"
+      "releaseDate": "2026-08-25"
     },
     {
       "cycle": "7.133",
@@ -807,10 +807,10 @@
       "releaseDate": "2009-09-08"
     }
   ],
-  "fetched_at": "2026-08-25T14:02:21Z",
+  "fetched_at": "2026-08-27T01:37:40Z",
   "slug": "artifactory",
   "source": "release-data",
-  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
+  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/artifactory.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -312,9 +312,9 @@
   {
     "canonical_product": "graalvm_ce",
     "canonical_vendor": "",
-    "cycles_total": 14,
+    "cycles_total": 15,
     "display_name": "Graalvm Ce",
-    "latest_release_date": "2026-07-28",
+    "latest_release_date": "2026-08-25",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/graalvm-ce.json",
     "slug": "graalvm-ce"
@@ -344,7 +344,7 @@
     "canonical_vendor": "",
     "cycles_total": 7,
     "display_name": "Ionic",
-    "latest_release_date": "2026-08-19",
+    "latest_release_date": "2026-08-26",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ionic.json",
     "slug": "ionic"
@@ -434,7 +434,7 @@
     "canonical_vendor": "",
     "cycles_total": 2,
     "display_name": "Laravel",
-    "latest_release_date": "2026-08-20",
+    "latest_release_date": "2026-08-25",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/laravel.json",
     "slug": "laravel"
@@ -652,9 +652,9 @@
   {
     "canonical_product": "quarkus_framework",
     "canonical_vendor": "",
-    "cycles_total": 70,
+    "cycles_total": 71,
     "display_name": "Quarkus Framework",
-    "latest_release_date": "2026-08-19",
+    "latest_release_date": "2026-08-26",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quarkus-framework.json",
     "slug": "quarkus-framework"
@@ -662,9 +662,9 @@
   {
     "canonical_product": "quasar",
     "canonical_vendor": "",
-    "cycles_total": 50,
+    "cycles_total": 51,
     "display_name": "Quasar",
-    "latest_release_date": "2026-08-21",
+    "latest_release_date": "2026-08-25",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quasar.json",
     "slug": "quasar"
@@ -674,7 +674,7 @@
     "canonical_vendor": "",
     "cycles_total": 89,
     "display_name": "React Native",
-    "latest_release_date": "2026-08-24",
+    "latest_release_date": "2026-08-26",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/react-native.json",
     "slug": "react-native"
@@ -682,9 +682,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3727,
+    "cycles_total": 3730,
     "display_name": "Renovate",
-    "latest_release_date": "2026-08-25",
+    "latest_release_date": "2026-08-26",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -794,7 +794,7 @@
     "canonical_vendor": "",
     "cycles_total": 94,
     "display_name": "Strapi",
-    "latest_release_date": "2026-08-19",
+    "latest_release_date": "2026-08-26",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/strapi.json",
     "slug": "strapi"

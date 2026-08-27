@@ -12,8 +12,8 @@
       "cycle": "6",
       "eoas": "2027-03-31",
       "eol": "2027-12-31",
-      "latest": "6.28.0",
-      "latestReleaseDate": "2026-08-19",
+      "latest": "6.29.0",
+      "latestReleaseDate": "2026-08-25",
       "lts": false,
       "releaseDate": "2026-01-28",
       "supportedLaravelVersions": "12-13",
@@ -60,10 +60,10 @@
       "releaseDate": "2022-03-14"
     }
   ],
-  "fetched_at": "2026-08-25T14:02:21Z",
+  "fetched_at": "2026-08-27T01:37:40Z",
   "slug": "statamic",
   "source": "release-data",
-  "source_commit": "d3bbeb6db56caf9086dec6f7e844c04634cff4fa",
+  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/statamic.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
