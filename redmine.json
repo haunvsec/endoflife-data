@@ -184,10 +184,10 @@
       "releaseDate": "2010-12-23"
     }
   ],
-  "fetched_at": "2026-09-08T04:20:57Z",
+  "fetched_at": "2026-09-08T16:00:09Z",
   "slug": "redmine",
   "source": "release-data",
-  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
+  "source_commit": "bed62cc333a53a28d37be165b2eecfe5ed444853",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/redmine.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

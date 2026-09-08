@@ -216,7 +216,7 @@
     },
     {
       "cycle": "galaxy-z-fold3-5g",
-      "eol": false,
+      "eol": "2026-09-08",
       "lts": false,
       "releaseLabel": "Galaxy Z Fold3 5G"
     },
@@ -268,7 +268,7 @@
     },
     {
       "cycle": "galaxy-z-flip3-5g",
-      "eol": false,
+      "eol": "2026-09-08",
       "lts": false,
       "releaseLabel": "Galaxy Z Flip3 5G"
     },
@@ -391,6 +391,12 @@
       "eol": "2033-03-06",
       "lts": false,
       "releaseLabel": "Galaxy S26 Ultra"
+    },
+    {
+      "cycle": "galaxy-s26-fe",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy S26 FE"
     },
     {
       "cycle": "galaxy-s26+",
@@ -1482,6 +1488,12 @@
       "releaseLabel": "Galaxy F70e 5G"
     },
     {
+      "cycle": "galaxy-f70-pro-5g",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy F70 Pro 5G"
+    },
+    {
       "cycle": "galaxy-f62",
       "eol": "2024-02-22",
       "lts": false
@@ -2353,10 +2365,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-09-08T04:20:57Z",
+  "fetched_at": "2026-09-08T16:00:09Z",
   "slug": "samsung-mobile",
   "source": "release-data",
-  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
+  "source_commit": "bed62cc333a53a28d37be165b2eecfe5ed444853",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/samsung-mobile.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

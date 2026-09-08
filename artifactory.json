@@ -9,46 +9,46 @@
   },
   "cycles": [
     {
-      "cycle": "7.161",
-      "latest": "7.161.20",
-      "latestReleaseDate": "2026-08-28",
-      "lts": false,
-      "releaseDate": "2026-08-28"
-    },
-    {
-      "cycle": "7.146",
-      "latest": "7.146.38",
-      "latestReleaseDate": "2026-08-28",
-      "lts": false,
-      "releaseDate": "2026-08-28"
-    },
-    {
-      "cycle": "7.133",
-      "latest": "7.133.29",
-      "latestReleaseDate": "2026-08-28",
-      "lts": false,
-      "releaseDate": "2026-08-28"
-    },
-    {
-      "cycle": "7.125",
-      "latest": "7.125.20",
-      "latestReleaseDate": "2026-08-28",
-      "lts": false,
-      "releaseDate": "2026-08-28"
-    },
-    {
       "cycle": "7.117",
-      "latest": "7.117.28",
-      "latestReleaseDate": "2026-08-28",
+      "latest": "7.117.29",
+      "latestReleaseDate": "2026-09-07",
       "lts": false,
-      "releaseDate": "2026-08-28"
+      "releaseDate": "2026-09-07"
     },
     {
       "cycle": "7.111",
-      "latest": "7.111.21",
-      "latestReleaseDate": "2026-08-28",
+      "latest": "7.111.22",
+      "latestReleaseDate": "2026-09-07",
       "lts": false,
-      "releaseDate": "2026-08-28"
+      "releaseDate": "2026-09-07"
+    },
+    {
+      "cycle": "7.161",
+      "latest": "7.161.24",
+      "latestReleaseDate": "2026-09-05",
+      "lts": false,
+      "releaseDate": "2026-09-05"
+    },
+    {
+      "cycle": "7.146",
+      "latest": "7.146.39",
+      "latestReleaseDate": "2026-09-05",
+      "lts": false,
+      "releaseDate": "2026-09-05"
+    },
+    {
+      "cycle": "7.133",
+      "latest": "7.133.30",
+      "latestReleaseDate": "2026-09-05",
+      "lts": false,
+      "releaseDate": "2026-09-05"
+    },
+    {
+      "cycle": "7.125",
+      "latest": "7.125.21",
+      "latestReleaseDate": "2026-09-05",
+      "lts": false,
+      "releaseDate": "2026-09-05"
     },
     {
       "cycle": "7.104",
@@ -807,10 +807,10 @@
       "releaseDate": "2009-09-08"
     }
   ],
-  "fetched_at": "2026-09-08T04:20:57Z",
+  "fetched_at": "2026-09-08T16:00:09Z",
   "slug": "artifactory",
   "source": "release-data",
-  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
+  "source_commit": "bed62cc333a53a28d37be165b2eecfe5ed444853",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/artifactory.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

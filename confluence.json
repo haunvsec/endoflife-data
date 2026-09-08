@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "10.2",
-      "latest": "10.2.17",
-      "latestReleaseDate": "2026-09-06",
+      "latest": "10.2.18",
+      "latestReleaseDate": "2026-09-08",
       "lts": false,
-      "releaseDate": "2026-09-06"
+      "releaseDate": "2026-09-08"
     },
     {
       "cycle": "9.2",
-      "latest": "9.2.24",
-      "latestReleaseDate": "2026-09-01",
+      "latest": "9.2.25",
+      "latestReleaseDate": "2026-09-08",
       "lts": false,
-      "releaseDate": "2026-09-01"
+      "releaseDate": "2026-09-08"
     },
     {
       "cycle": "8.5",
@@ -646,10 +646,10 @@
       "releaseDate": "2004-05-05"
     }
   ],
-  "fetched_at": "2026-09-08T04:20:57Z",
+  "fetched_at": "2026-09-08T16:00:09Z",
   "slug": "confluence",
   "source": "release-data",
-  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
+  "source_commit": "bed62cc333a53a28d37be165b2eecfe5ed444853",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/confluence.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
