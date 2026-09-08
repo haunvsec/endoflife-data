@@ -2,10 +2,10 @@
   "advisory_dir": "/Volumes/DATA/security_advisory/advisory-data",
   "cache_dir": "/Volumes/DATA/security_advisory/cache/endoflife-release-data",
   "cycles_total": 18173,
-  "duration_seconds": 24.47,
+  "duration_seconds": 26.26,
   "errors": [],
   "errors_count": 0,
-  "last_crawl_time": "2026-09-08T03:35:53Z",
+  "last_crawl_time": "2026-09-08T04:20:57Z",
   "mapping_review_file": "/Volumes/DATA/security_advisory/endoflife-data/mapping-review.json",
   "mapping_sources": {
     "advisory-data": 13,
