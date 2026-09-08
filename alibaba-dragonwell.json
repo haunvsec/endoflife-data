@@ -11,15 +11,15 @@
     {
       "cycle": "21",
       "eol": "2029-11-30",
-      "latest": "21.0.11.0.11+10",
-      "latestReleaseDate": "2026-05-18",
+      "latest": "21.0.12.0.12+8",
+      "latestReleaseDate": "2026-09-01",
       "lts": false
     },
     {
       "cycle": "17",
       "eol": "2027-09-30",
-      "latest": "17.0.19.0.20+10",
-      "latestReleaseDate": "2026-05-06",
+      "latest": "17.0.20.0.21+8",
+      "latestReleaseDate": "2026-09-01",
       "lts": false
     },
     {
@@ -37,10 +37,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-08-27T01:37:40Z",
+  "fetched_at": "2026-09-08T02:05:54Z",
   "slug": "alibaba-dragonwell",
   "source": "release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/alibaba-dragonwell.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

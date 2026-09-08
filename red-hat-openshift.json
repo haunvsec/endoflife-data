@@ -9,81 +9,81 @@
   },
   "cycles": [
     {
+      "cycle": "4.12",
+      "latest": "4.12.97",
+      "latestReleaseDate": "2026-09-03",
+      "lts": false,
+      "releaseDate": "2026-09-03"
+    },
+    {
+      "cycle": "4.20",
+      "latest": "4.20.36",
+      "latestReleaseDate": "2026-09-01",
+      "lts": false,
+      "releaseDate": "2026-09-01"
+    },
+    {
+      "cycle": "4.16",
+      "latest": "4.16.69",
+      "latestReleaseDate": "2026-08-31",
+      "lts": false,
+      "releaseDate": "2026-08-31"
+    },
+    {
+      "cycle": "4.15",
+      "latest": "4.15.68",
+      "latestReleaseDate": "2026-08-31",
+      "lts": false,
+      "releaseDate": "2026-08-31"
+    },
+    {
+      "cycle": "4.19",
+      "latest": "4.19.44",
+      "latestReleaseDate": "2026-08-26",
+      "lts": false,
+      "releaseDate": "2026-08-26"
+    },
+    {
+      "cycle": "4.18",
+      "latest": "4.18.54",
+      "latestReleaseDate": "2026-08-26",
+      "lts": false,
+      "releaseDate": "2026-08-26"
+    },
+    {
+      "cycle": "4.14",
+      "latest": "4.14.72",
+      "latestReleaseDate": "2026-08-26",
+      "lts": false,
+      "releaseDate": "2026-08-26"
+    },
+    {
       "cycle": "4.21",
-      "latest": "4.21.29",
+      "latest": "4.21.30",
+      "latestReleaseDate": "2026-08-25",
+      "lts": false,
+      "releaseDate": "2026-08-25"
+    },
+    {
+      "cycle": "4.13",
+      "latest": "4.13.70",
+      "latestReleaseDate": "2026-08-20",
+      "lts": false,
+      "releaseDate": "2026-08-20"
+    },
+    {
+      "cycle": "4.22",
+      "latest": "4.22.10",
       "latestReleaseDate": "2026-08-18",
       "lts": false,
       "releaseDate": "2026-08-18"
     },
     {
-      "cycle": "4.16",
-      "latest": "4.16.68",
-      "latestReleaseDate": "2026-08-13",
-      "lts": false,
-      "releaseDate": "2026-08-13"
-    },
-    {
-      "cycle": "4.14",
-      "latest": "4.14.71",
-      "latestReleaseDate": "2026-08-13",
-      "lts": false,
-      "releaseDate": "2026-08-13"
-    },
-    {
-      "cycle": "4.19",
-      "latest": "4.19.42",
-      "latestReleaseDate": "2026-08-12",
-      "lts": false,
-      "releaseDate": "2026-08-12"
-    },
-    {
-      "cycle": "4.18",
-      "latest": "4.18.52",
-      "latestReleaseDate": "2026-08-12",
-      "lts": false,
-      "releaseDate": "2026-08-12"
-    },
-    {
-      "cycle": "4.22",
-      "latest": "4.22.9",
-      "latestReleaseDate": "2026-08-11",
-      "lts": false,
-      "releaseDate": "2026-08-11"
-    },
-    {
-      "cycle": "4.20",
-      "latest": "4.20.33",
-      "latestReleaseDate": "2026-08-11",
-      "lts": false,
-      "releaseDate": "2026-08-11"
-    },
-    {
-      "cycle": "4.12",
-      "latest": "4.12.95",
+      "cycle": "4.17",
+      "latest": "4.17.56",
       "latestReleaseDate": "2026-08-06",
       "lts": false,
       "releaseDate": "2026-08-06"
-    },
-    {
-      "cycle": "4.15",
-      "latest": "4.15.67",
-      "latestReleaseDate": "2026-07-30",
-      "lts": false,
-      "releaseDate": "2026-07-30"
-    },
-    {
-      "cycle": "4.13",
-      "latest": "4.13.69",
-      "latestReleaseDate": "2026-07-23",
-      "lts": false,
-      "releaseDate": "2026-07-23"
-    },
-    {
-      "cycle": "4.17",
-      "latest": "4.17.55",
-      "latestReleaseDate": "2026-07-09",
-      "lts": false,
-      "releaseDate": "2026-07-09"
     },
     {
       "cycle": "4.11",
@@ -163,10 +163,10 @@
       "releaseDate": "2020-04-22"
     }
   ],
-  "fetched_at": "2026-08-27T01:37:40Z",
+  "fetched_at": "2026-09-08T02:05:54Z",
   "slug": "red-hat-openshift",
   "source": "release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/red-hat-openshift.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

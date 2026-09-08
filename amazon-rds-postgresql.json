@@ -53,7 +53,7 @@
       "eol": "2026-02-28",
       "extendedSupport": "2029-02-28",
       "latest": "13.23",
-      "latestReleaseDate": "2026-05-15",
+      "latestReleaseDate": "2025-11-13",
       "lts": false
     },
     {
@@ -61,7 +61,7 @@
       "eol": "2025-02-28",
       "extendedSupport": "2028-02-29",
       "latest": "12.22",
-      "latestReleaseDate": "2025-04-03",
+      "latestReleaseDate": "2024-11-21",
       "lts": false
     },
     {
@@ -69,7 +69,7 @@
       "eol": "2024-02-29",
       "extendedSupport": "2027-03-31",
       "latest": "11.22",
-      "latestReleaseDate": "2025-04-03",
+      "latestReleaseDate": "2023-11-17",
       "lts": false
     },
     {
@@ -83,10 +83,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-08-27T01:37:40Z",
+  "fetched_at": "2026-09-08T02:05:54Z",
   "slug": "amazon-rds-postgresql",
   "source": "release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-rds-postgresql.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

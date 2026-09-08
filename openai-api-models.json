@@ -1,0 +1,934 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Openai Api Models",
+    "mapping_source": "unmapped",
+    "product": "openai_api_models",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "aliases": [
+        "whisper-1"
+      ],
+      "cycle": "whisper-1",
+      "eoas": "2026-08-26",
+      "eol": "2027-02-26",
+      "link": "https://developers.openai.com/api/docs/models/whisper-1",
+      "lts": false,
+      "recommendedReplacement": "gpt-live-transcribe or gpt-transcribe",
+      "releaseLabel": "Whisper"
+    },
+    {
+      "aliases": [
+        "tts-1-hd"
+      ],
+      "cycle": "tts-1-hd",
+      "link": "https://developers.openai.com/api/docs/models/tts-1-hd",
+      "lts": false,
+      "releaseLabel": "TTS-1 HD"
+    },
+    {
+      "aliases": [
+        "tts-1"
+      ],
+      "cycle": "tts-1",
+      "link": "https://developers.openai.com/api/docs/models/tts-1",
+      "lts": false,
+      "releaseLabel": "TTS-1"
+    },
+    {
+      "aliases": [
+        "text-moderation-007"
+      ],
+      "cycle": "text-moderation-stable",
+      "eoas": "2025-04-28",
+      "eol": "2025-10-27",
+      "link": "https://developers.openai.com/api/docs/models/text-moderation-stable",
+      "lts": false,
+      "recommendedReplacement": "omni-moderation",
+      "releaseLabel": "text-moderation-stable"
+    },
+    {
+      "aliases": [
+        "text-moderation-007"
+      ],
+      "cycle": "text-moderation-latest",
+      "eoas": "2025-04-28",
+      "eol": "2025-10-27",
+      "link": "https://developers.openai.com/api/docs/models/text-moderation-latest",
+      "lts": false,
+      "recommendedReplacement": "omni-moderation",
+      "releaseLabel": "text-moderation"
+    },
+    {
+      "aliases": [
+        "text-embedding-ada-002"
+      ],
+      "cycle": "text-embedding-ada-002",
+      "link": "https://developers.openai.com/api/docs/models/text-embedding-ada-002",
+      "lts": false,
+      "releaseLabel": "text-embedding-ada-002"
+    },
+    {
+      "aliases": [
+        "text-embedding-3-small"
+      ],
+      "cycle": "text-embedding-3-small",
+      "link": "https://developers.openai.com/api/docs/models/text-embedding-3-small",
+      "lts": false,
+      "releaseLabel": "text-embedding-3-small"
+    },
+    {
+      "aliases": [
+        "text-embedding-3-large"
+      ],
+      "cycle": "text-embedding-3-large",
+      "link": "https://developers.openai.com/api/docs/models/text-embedding-3-large",
+      "lts": false,
+      "releaseLabel": "text-embedding-3-large"
+    },
+    {
+      "aliases": [
+        "sora-2-pro-2025-10-06",
+        "sora-2-pro"
+      ],
+      "cycle": "sora-2-pro",
+      "eoas": "2026-03-24",
+      "eol": "2026-09-24",
+      "link": "https://developers.openai.com/api/docs/models/sora-2-pro",
+      "lts": false,
+      "releaseLabel": "Sora 2 Pro"
+    },
+    {
+      "aliases": [
+        "sora-2-2025-12-08",
+        "sora-2-2025-10-06",
+        "sora-2"
+      ],
+      "cycle": "sora-2",
+      "eoas": "2026-03-24",
+      "eol": "2026-09-24",
+      "link": "https://developers.openai.com/api/docs/models/sora-2",
+      "lts": false,
+      "releaseLabel": "Sora 2"
+    },
+    {
+      "aliases": [
+        "omni-moderation-2024-09-26"
+      ],
+      "cycle": "omni-moderation-latest",
+      "link": "https://developers.openai.com/api/docs/models/omni-moderation-latest",
+      "lts": false,
+      "releaseLabel": "omni-moderation"
+    },
+    {
+      "aliases": [
+        "o4-mini-deep-research-2025-06-26"
+      ],
+      "cycle": "o4-mini-deep-research",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/o4-mini-deep-research",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "o4-mini-deep-research"
+    },
+    {
+      "aliases": [
+        "o4-mini-2025-04-16"
+      ],
+      "cycle": "o4-mini",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/o4-mini",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-terra",
+      "releaseLabel": "o4-mini"
+    },
+    {
+      "aliases": [
+        "o3-pro-2025-06-10"
+      ],
+      "cycle": "o3-pro",
+      "eoas": "2026-06-11",
+      "eol": "2026-12-11",
+      "link": "https://developers.openai.com/api/docs/models/o3-pro",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol ( reasoning.mode: pro )",
+      "releaseLabel": "o3-pro"
+    },
+    {
+      "aliases": [
+        "o3-mini-2025-01-31"
+      ],
+      "cycle": "o3-mini",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/o3-mini",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "o3-mini"
+    },
+    {
+      "aliases": [
+        "o3-deep-research-2025-06-26"
+      ],
+      "cycle": "o3-deep-research",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/o3-deep-research",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "o3-deep-research"
+    },
+    {
+      "aliases": [
+        "o3-2025-04-16"
+      ],
+      "cycle": "o3",
+      "eoas": "2026-06-11",
+      "eol": "2026-12-11",
+      "link": "https://developers.openai.com/api/docs/models/o3",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "o3"
+    },
+    {
+      "aliases": [
+        "o1-pro-2025-03-19"
+      ],
+      "cycle": "o1-pro",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/o1-pro",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol ( reasoning.mode: pro )",
+      "releaseLabel": "o1-pro"
+    },
+    {
+      "aliases": [
+        "o1-mini-2024-09-12"
+      ],
+      "cycle": "o1-mini",
+      "eoas": "2025-04-28",
+      "eol": "2025-10-27",
+      "link": "https://developers.openai.com/api/docs/models/o1-mini",
+      "lts": false,
+      "recommendedReplacement": "o4-mini",
+      "releaseLabel": "o1-mini"
+    },
+    {
+      "aliases": [
+        "o1-2024-12-17"
+      ],
+      "cycle": "o1",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/o1",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "o1"
+    },
+    {
+      "aliases": [
+        "gpt-transcribe"
+      ],
+      "cycle": "gpt-transcribe",
+      "link": "https://developers.openai.com/api/docs/models/gpt-transcribe",
+      "lts": false,
+      "releaseLabel": "GPT-Transcribe"
+    },
+    {
+      "aliases": [
+        "gpt-realtime-whisper"
+      ],
+      "cycle": "gpt-realtime-whisper",
+      "link": "https://developers.openai.com/api/docs/models/gpt-realtime-whisper",
+      "lts": false,
+      "releaseLabel": "GPT-Realtime-Whisper"
+    },
+    {
+      "aliases": [
+        "gpt-realtime-translate"
+      ],
+      "cycle": "gpt-realtime-translate",
+      "link": "https://developers.openai.com/api/docs/models/gpt-realtime-translate",
+      "lts": false,
+      "releaseLabel": "GPT-Realtime-Translate"
+    },
+    {
+      "aliases": [
+        "gpt-realtime-mini-2025-10-06",
+        "gpt-realtime-mini-2025-12-15"
+      ],
+      "cycle": "gpt-realtime-mini",
+      "eoas": "2026-07-20",
+      "eol": "2027-01-20",
+      "link": "https://developers.openai.com/api/docs/models/gpt-realtime-mini",
+      "lts": false,
+      "recommendedReplacement": "gpt-realtime-2.1-mini",
+      "releaseLabel": "GPT-Realtime Mini"
+    },
+    {
+      "aliases": [
+        "gpt-realtime-2.1-mini"
+      ],
+      "cycle": "gpt-realtime-2.1-mini",
+      "link": "https://developers.openai.com/api/docs/models/gpt-realtime-2.1-mini",
+      "lts": false,
+      "releaseLabel": "GPT-Realtime-2.1 Mini"
+    },
+    {
+      "aliases": [
+        "gpt-realtime-2.1"
+      ],
+      "cycle": "gpt-realtime-2.1",
+      "link": "https://developers.openai.com/api/docs/models/gpt-realtime-2.1",
+      "lts": false,
+      "releaseLabel": "GPT-Realtime-2.1"
+    },
+    {
+      "aliases": [
+        "gpt-realtime-2"
+      ],
+      "cycle": "gpt-realtime-2",
+      "link": "https://developers.openai.com/api/docs/models/gpt-realtime-2",
+      "lts": false,
+      "releaseLabel": "GPT-Realtime-2"
+    },
+    {
+      "aliases": [
+        "gpt-realtime-1.5"
+      ],
+      "cycle": "gpt-realtime-1.5",
+      "link": "https://developers.openai.com/api/docs/models/gpt-realtime-1.5",
+      "lts": false,
+      "releaseLabel": "GPT-Realtime-1.5"
+    },
+    {
+      "aliases": [
+        "gpt-realtime-2025-08-28"
+      ],
+      "cycle": "gpt-realtime",
+      "eoas": "2026-07-20",
+      "eol": "2027-01-20",
+      "link": "https://developers.openai.com/api/docs/models/gpt-realtime",
+      "lts": false,
+      "recommendedReplacement": "gpt-realtime-2.1",
+      "releaseLabel": "GPT-Realtime"
+    },
+    {
+      "aliases": [
+        "gpt-oss-120b"
+      ],
+      "cycle": "gpt-oss-120b",
+      "link": "https://developers.openai.com/api/docs/models/gpt-oss-120b",
+      "lts": false,
+      "releaseLabel": "gpt-oss-120b"
+    },
+    {
+      "aliases": [
+        "gpt-oss-20b"
+      ],
+      "cycle": "gpt-oss-20b",
+      "link": "https://developers.openai.com/api/docs/models/gpt-oss-20b",
+      "lts": false,
+      "releaseLabel": "gpt-oss-20b"
+    },
+    {
+      "aliases": [
+        "gpt-live-transcribe"
+      ],
+      "cycle": "gpt-live-transcribe",
+      "link": "https://developers.openai.com/api/docs/models/gpt-live-transcribe",
+      "lts": false,
+      "releaseLabel": "GPT-Live-Transcribe"
+    },
+    {
+      "aliases": [
+        "gpt-image-2-2026-04-21"
+      ],
+      "cycle": "gpt-image-2",
+      "link": "https://developers.openai.com/api/docs/models/gpt-image-2",
+      "lts": false,
+      "releaseLabel": "GPT-Image-2"
+    },
+    {
+      "aliases": [
+        "gpt-image-1.5-2025-12-16"
+      ],
+      "cycle": "gpt-image-1.5",
+      "eoas": "2026-06-02",
+      "eol": "2026-12-01",
+      "link": "https://developers.openai.com/api/docs/models/gpt-image-1.5",
+      "lts": false,
+      "recommendedReplacement": "gpt-image-2",
+      "releaseLabel": "GPT-Image-1.5"
+    },
+    {
+      "aliases": [
+        "gpt-image-1-mini"
+      ],
+      "cycle": "gpt-image-1-mini",
+      "eoas": "2026-06-02",
+      "eol": "2026-12-01",
+      "link": "https://developers.openai.com/api/docs/models/gpt-image-1-mini",
+      "lts": false,
+      "recommendedReplacement": "gpt-image-2",
+      "releaseLabel": "GPT-Image-1 Mini"
+    },
+    {
+      "aliases": [
+        "gpt-image-1"
+      ],
+      "cycle": "gpt-image-1",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-image-1",
+      "lts": false,
+      "recommendedReplacement": "gpt-image-2",
+      "releaseLabel": "GPT-Image-1"
+    },
+    {
+      "aliases": [
+        "gpt-audio-mini-2025-10-06",
+        "gpt-audio-mini-2025-12-15"
+      ],
+      "cycle": "gpt-audio-mini",
+      "eoas": "2026-07-20",
+      "eol": "2027-01-20",
+      "link": "https://developers.openai.com/api/docs/models/gpt-audio-mini",
+      "lts": false,
+      "recommendedReplacement": "gpt-audio-1.5",
+      "releaseLabel": "GPT-Audio Mini"
+    },
+    {
+      "aliases": [
+        "gpt-audio-1.5"
+      ],
+      "cycle": "gpt-audio-1.5",
+      "link": "https://developers.openai.com/api/docs/models/gpt-audio-1.5",
+      "lts": false,
+      "releaseLabel": "GPT-Audio-1.5"
+    },
+    {
+      "aliases": [
+        "gpt-audio-2025-08-28"
+      ],
+      "cycle": "gpt-audio",
+      "eoas": "2026-07-20",
+      "eol": "2027-01-20",
+      "link": "https://developers.openai.com/api/docs/models/gpt-audio",
+      "lts": false,
+      "recommendedReplacement": "gpt-audio-1.5",
+      "releaseLabel": "GPT-Audio"
+    },
+    {
+      "aliases": [
+        "gpt-6-astra"
+      ],
+      "cycle": "gpt-6-astra",
+      "link": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+      "lts": false,
+      "releaseLabel": "GPT-6 Astra"
+    },
+    {
+      "aliases": [
+        "gpt-5.6-terra"
+      ],
+      "cycle": "gpt-5.6-terra",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.6-terra",
+      "lts": false,
+      "releaseLabel": "GPT-5.6 Terra"
+    },
+    {
+      "aliases": [
+        "gpt-5.6-sol"
+      ],
+      "cycle": "gpt-5.6-sol",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+      "lts": false,
+      "releaseLabel": "GPT-5.6 Sol"
+    },
+    {
+      "aliases": [
+        "gpt-5.6-luna"
+      ],
+      "cycle": "gpt-5.6-luna",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+      "lts": false,
+      "releaseLabel": "GPT-5.6 Luna"
+    },
+    {
+      "aliases": [
+        "gpt-5.6-cyber"
+      ],
+      "cycle": "gpt-5.6-cyber",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.6-cyber",
+      "lts": false,
+      "releaseLabel": "GPT-5.6 Cyber"
+    },
+    {
+      "aliases": [
+        "gpt-5.5-pro-2026-04-23"
+      ],
+      "cycle": "gpt-5.5-pro",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.5-pro",
+      "lts": false,
+      "releaseLabel": "GPT-5.5 Pro"
+    },
+    {
+      "aliases": [
+        "gpt-5.5-2026-04-23"
+      ],
+      "cycle": "gpt-5.5",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.5",
+      "lts": false,
+      "releaseLabel": "GPT-5.5"
+    },
+    {
+      "aliases": [
+        "gpt-5.4-pro-2026-03-05"
+      ],
+      "cycle": "gpt-5.4-pro",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.4-pro",
+      "lts": false,
+      "releaseLabel": "GPT-5.4 Pro"
+    },
+    {
+      "aliases": [
+        "gpt-5.4-nano-2026-03-17"
+      ],
+      "cycle": "gpt-5.4-nano",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.4-nano",
+      "lts": false,
+      "releaseLabel": "GPT-5.4 nano"
+    },
+    {
+      "aliases": [
+        "gpt-5.4-mini-2026-03-17"
+      ],
+      "cycle": "gpt-5.4-mini",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.4-mini",
+      "lts": false,
+      "releaseLabel": "GPT-5.4 Mini"
+    },
+    {
+      "aliases": [
+        "gpt-5.4-2026-03-05"
+      ],
+      "cycle": "gpt-5.4",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.4",
+      "lts": false,
+      "releaseLabel": "GPT-5.4"
+    },
+    {
+      "aliases": [
+        "gpt-5.3-codex"
+      ],
+      "cycle": "gpt-5.3-codex",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.3-codex",
+      "lts": false,
+      "releaseLabel": "GPT-5.3-Codex"
+    },
+    {
+      "aliases": [
+        "gpt-5.3-chat-latest"
+      ],
+      "cycle": "gpt-5.3-chat-latest",
+      "eoas": "2026-05-08",
+      "eol": "2026-08-10",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.3-chat-latest",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5.3 Chat"
+    },
+    {
+      "aliases": [
+        "gpt-5.2-pro-2025-12-11"
+      ],
+      "cycle": "gpt-5.2-pro",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.2-pro",
+      "lts": false,
+      "releaseLabel": "GPT-5.2 Pro"
+    },
+    {
+      "aliases": [
+        "gpt-5.2-codex"
+      ],
+      "cycle": "gpt-5.2-codex",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.2-codex",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5.2-Codex"
+    },
+    {
+      "aliases": [
+        "gpt-5.2-chat-latest"
+      ],
+      "cycle": "gpt-5.2-chat-latest",
+      "eoas": "2026-05-08",
+      "eol": "2026-08-10",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.2-chat-latest",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5.2 Chat"
+    },
+    {
+      "aliases": [
+        "gpt-5.2-2025-12-11"
+      ],
+      "cycle": "gpt-5.2",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.2",
+      "lts": false,
+      "releaseLabel": "GPT-5.2"
+    },
+    {
+      "aliases": [
+        "gpt-5.1-codex-mini"
+      ],
+      "cycle": "gpt-5.1-codex-mini",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.1-codex-mini",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-terra",
+      "releaseLabel": "GPT-5.1-Codex Mini"
+    },
+    {
+      "aliases": [
+        "gpt-5.1-codex-max"
+      ],
+      "cycle": "gpt-5.1-codex-max",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.1-codex-max",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5.1-Codex-Max"
+    },
+    {
+      "aliases": [
+        "gpt-5.1-codex"
+      ],
+      "cycle": "gpt-5.1-codex",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.1-codex",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5.1-Codex"
+    },
+    {
+      "aliases": [
+        "gpt-5.1-chat-latest"
+      ],
+      "cycle": "gpt-5.1-chat-latest",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.1-chat-latest",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5.1 Chat"
+    },
+    {
+      "aliases": [
+        "gpt-5.1-2025-11-13"
+      ],
+      "cycle": "gpt-5.1",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5.1",
+      "lts": false,
+      "releaseLabel": "GPT-5.1"
+    },
+    {
+      "aliases": [
+        "gpt-5-pro-2025-10-06"
+      ],
+      "cycle": "gpt-5-pro",
+      "eoas": "2026-06-11",
+      "eol": "2026-12-11",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5-pro",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol ( reasoning.mode: pro )",
+      "releaseLabel": "GPT-5 Pro"
+    },
+    {
+      "aliases": [
+        "gpt-5-nano-2025-08-07"
+      ],
+      "cycle": "gpt-5-nano",
+      "eoas": "2026-06-11",
+      "eol": "2026-12-11",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5-nano",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-luna",
+      "releaseLabel": "GPT-5 nano"
+    },
+    {
+      "aliases": [
+        "gpt-5-mini-2025-08-07"
+      ],
+      "cycle": "gpt-5-mini",
+      "eoas": "2026-06-11",
+      "eol": "2026-12-11",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5-mini",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-terra",
+      "releaseLabel": "GPT-5 Mini"
+    },
+    {
+      "aliases": [
+        "gpt-5-codex"
+      ],
+      "cycle": "gpt-5-codex",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5-codex",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5-Codex"
+    },
+    {
+      "aliases": [
+        "gpt-5-chat-latest"
+      ],
+      "cycle": "gpt-5-chat-latest",
+      "eoas": "2026-04-22",
+      "eol": "2026-07-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5-chat-latest",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5 Chat"
+    },
+    {
+      "aliases": [
+        "gpt-5-2025-08-07"
+      ],
+      "cycle": "gpt-5",
+      "eoas": "2026-06-11",
+      "eol": "2026-12-11",
+      "link": "https://developers.openai.com/api/docs/models/gpt-5",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-5"
+    },
+    {
+      "aliases": [
+        "gpt-4o-transcribe-diarize"
+      ],
+      "cycle": "gpt-4o-transcribe-diarize",
+      "eoas": "2026-08-26",
+      "eol": "2027-02-26",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4o-transcribe-diarize",
+      "lts": false,
+      "recommendedReplacement": "gpt-live-transcribe or gpt-transcribe",
+      "releaseLabel": "GPT-4o Transcribe Diarize"
+    },
+    {
+      "aliases": [
+        "gpt-4o-transcribe"
+      ],
+      "cycle": "gpt-4o-transcribe",
+      "eoas": "2026-08-26",
+      "eol": "2027-02-26",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4o-transcribe",
+      "lts": false,
+      "recommendedReplacement": "gpt-live-transcribe or gpt-transcribe",
+      "releaseLabel": "GPT-4o Transcribe"
+    },
+    {
+      "aliases": [
+        "gpt-4o-mini-tts-2025-03-20",
+        "gpt-4o-mini-tts-2025-12-15"
+      ],
+      "cycle": "gpt-4o-mini-tts",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4o-mini-tts",
+      "lts": false,
+      "releaseLabel": "GPT-4o Mini TTS"
+    },
+    {
+      "aliases": [
+        "gpt-4o-mini-transcribe-2025-03-20",
+        "gpt-4o-mini-transcribe-2025-12-15"
+      ],
+      "cycle": "gpt-4o-mini-transcribe",
+      "eoas": "2026-08-26",
+      "eol": "2027-02-26",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4o-mini-transcribe",
+      "lts": false,
+      "recommendedReplacement": "gpt-live-transcribe or gpt-transcribe",
+      "releaseLabel": "GPT-4o Mini Transcribe"
+    },
+    {
+      "aliases": [
+        "gpt-4o-mini-2024-07-18"
+      ],
+      "cycle": "gpt-4o-mini",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+      "lts": false,
+      "releaseLabel": "GPT-4o Mini"
+    },
+    {
+      "aliases": [
+        "gpt-4o-2024-11-20",
+        "gpt-4o-2024-08-06",
+        "gpt-4o-2024-05-13"
+      ],
+      "cycle": "gpt-4o",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4o",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-4o"
+    },
+    {
+      "aliases": [
+        "gpt-4.1-nano-2025-04-14"
+      ],
+      "cycle": "gpt-4.1-nano",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4.1-nano",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-luna",
+      "releaseLabel": "GPT-4.1 nano"
+    },
+    {
+      "aliases": [
+        "gpt-4.1-mini-2025-04-14"
+      ],
+      "cycle": "gpt-4.1-mini",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4.1-mini",
+      "lts": false,
+      "releaseLabel": "GPT-4.1 Mini"
+    },
+    {
+      "aliases": [
+        "gpt-4.1-2025-04-14"
+      ],
+      "cycle": "gpt-4.1",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4.1",
+      "lts": false,
+      "releaseLabel": "GPT-4.1"
+    },
+    {
+      "aliases": [
+        "gpt-4-turbo-2024-04-09"
+      ],
+      "cycle": "gpt-4-turbo",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4-turbo",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-4 Turbo"
+    },
+    {
+      "aliases": [
+        "gpt-4-0613",
+        "gpt-4-0314"
+      ],
+      "cycle": "gpt-4",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-4",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-sol",
+      "releaseLabel": "GPT-4"
+    },
+    {
+      "aliases": [
+        "gpt-3.5-turbo-0125",
+        "gpt-3.5-turbo-1106",
+        "gpt-3.5-turbo-instruct"
+      ],
+      "cycle": "gpt-3.5-turbo",
+      "eoas": "2026-04-22",
+      "eol": "2026-10-23",
+      "link": "https://developers.openai.com/api/docs/models/gpt-3.5-turbo",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-terra",
+      "releaseLabel": "GPT-3.5 Turbo"
+    },
+    {
+      "aliases": [
+        "davinci-002"
+      ],
+      "cycle": "davinci-002",
+      "eoas": "2025-09-26",
+      "eol": "2026-09-28",
+      "link": "https://developers.openai.com/api/docs/models/davinci-002",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-terra",
+      "releaseLabel": "davinci-002"
+    },
+    {
+      "aliases": [
+        "codex-mini-latest"
+      ],
+      "cycle": "codex-mini-latest",
+      "eoas": "2025-11-17",
+      "eol": "2026-02-12",
+      "link": "https://developers.openai.com/api/docs/models/codex-mini-latest",
+      "lts": false,
+      "recommendedReplacement": "gpt-5-codex-mini",
+      "releaseLabel": "codex-mini-latest"
+    },
+    {
+      "aliases": [
+        "chatgpt-image-latest"
+      ],
+      "cycle": "chatgpt-image-latest",
+      "eoas": "2026-06-02",
+      "eol": "2026-12-01",
+      "link": "https://developers.openai.com/api/docs/models/chatgpt-image-latest",
+      "lts": false,
+      "recommendedReplacement": "gpt-image-2",
+      "releaseLabel": "chatgpt-image-latest"
+    },
+    {
+      "aliases": [
+        "chatgpt-4o-latest"
+      ],
+      "cycle": "chatgpt-4o-latest",
+      "eoas": "2025-11-18",
+      "eol": "2026-02-17",
+      "link": "https://developers.openai.com/api/docs/models/chatgpt-4o-latest",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.1-chat-latest",
+      "releaseLabel": "ChatGPT-4o"
+    },
+    {
+      "aliases": [
+        "chat-latest"
+      ],
+      "cycle": "chat-latest",
+      "link": "https://developers.openai.com/api/docs/models/chat-latest",
+      "lts": false,
+      "releaseLabel": "Chat Latest"
+    },
+    {
+      "aliases": [
+        "babbage-002"
+      ],
+      "cycle": "babbage-002",
+      "eoas": "2025-09-26",
+      "eol": "2026-09-28",
+      "link": "https://developers.openai.com/api/docs/models/babbage-002",
+      "lts": false,
+      "recommendedReplacement": "gpt-5.6-terra",
+      "releaseLabel": "babbage-002"
+    }
+  ],
+  "fetched_at": "2026-09-08T02:05:54Z",
+  "slug": "openai-api-models",
+  "source": "release-data",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/openai-api-models.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

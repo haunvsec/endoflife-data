@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "2026.8",
-      "latest": "2026.8.0",
-      "latestReleaseDate": "2026-08-18",
+      "latest": "2026.8.1",
+      "latestReleaseDate": "2026-09-01",
       "lts": false,
-      "releaseDate": "2026-08-18"
+      "releaseDate": "2026-09-01"
     },
     {
       "cycle": "2026.5",
@@ -317,10 +317,10 @@
       "releaseDate": "2021-03-16"
     }
   ],
-  "fetched_at": "2026-08-27T01:37:40Z",
+  "fetched_at": "2026-09-08T02:05:54Z",
   "slug": "authentik",
   "source": "release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/authentik.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

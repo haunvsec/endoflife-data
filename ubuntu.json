@@ -9,20 +9,15 @@
   },
   "cycles": [
     {
+      "codename": "Resolute Raccoon",
       "cycle": "26.04",
-      "latest": "26.04",
-      "latestReleaseDate": "2026-04-23",
+      "latest": "26.04.1",
+      "latestReleaseDate": "2026-08-31",
       "lts": false,
       "releaseDate": "2026-04-23"
     },
     {
-      "cycle": "24.04",
-      "latest": "24.04.4",
-      "latestReleaseDate": "2026-02-12",
-      "lts": false,
-      "releaseDate": "2026-02-12"
-    },
-    {
+      "codename": "Questing Quokka",
       "cycle": "25.10",
       "latest": "25.10",
       "latestReleaseDate": "2025-10-09",
@@ -30,6 +25,7 @@
       "releaseDate": "2025-10-09"
     },
     {
+      "codename": "Plucky Puffin",
       "cycle": "25.04",
       "latest": "25.04",
       "latestReleaseDate": "2025-04-17",
@@ -37,6 +33,7 @@
       "releaseDate": "2025-04-17"
     },
     {
+      "codename": "Oracular Oriole",
       "cycle": "24.10",
       "latest": "24.10",
       "latestReleaseDate": "2024-10-10",
@@ -44,13 +41,15 @@
       "releaseDate": "2024-10-10"
     },
     {
-      "cycle": "22.04",
-      "latest": "22.04.5",
-      "latestReleaseDate": "2024-09-12",
+      "codename": "Noble Numbat",
+      "cycle": "24.04",
+      "latest": "24.04.4",
+      "latestReleaseDate": "2026-02-12",
       "lts": false,
-      "releaseDate": "2024-09-12"
+      "releaseDate": "2024-04-25"
     },
     {
+      "codename": "Mantic Minotaur",
       "cycle": "23.10",
       "latest": "23.10",
       "latestReleaseDate": "2023-10-12",
@@ -58,6 +57,7 @@
       "releaseDate": "2023-10-12"
     },
     {
+      "codename": "Lunar Lobster",
       "cycle": "23.04",
       "latest": "23.04",
       "latestReleaseDate": "2023-04-20",
@@ -65,13 +65,7 @@
       "releaseDate": "2023-04-20"
     },
     {
-      "cycle": "20.04",
-      "latest": "20.04.6",
-      "latestReleaseDate": "2023-03-23",
-      "lts": false,
-      "releaseDate": "2023-03-23"
-    },
-    {
+      "codename": "Kinetic Kudu",
       "cycle": "22.10",
       "latest": "22.10",
       "latestReleaseDate": "2022-10-20",
@@ -79,6 +73,15 @@
       "releaseDate": "2022-10-20"
     },
     {
+      "codename": "Jammy Jellyfish",
+      "cycle": "22.04",
+      "latest": "22.04.5",
+      "latestReleaseDate": "2024-09-12",
+      "lts": false,
+      "releaseDate": "2022-04-21"
+    },
+    {
+      "codename": "Impish Indri",
       "cycle": "21.10",
       "latest": "21.10",
       "latestReleaseDate": "2021-10-14",
@@ -86,13 +89,7 @@
       "releaseDate": "2021-10-14"
     },
     {
-      "cycle": "18.04",
-      "latest": "18.04.6",
-      "latestReleaseDate": "2021-09-17",
-      "lts": false,
-      "releaseDate": "2021-09-17"
-    },
-    {
+      "codename": "Hirsute Hippo",
       "cycle": "21.04",
       "latest": "21.04",
       "latestReleaseDate": "2021-04-22",
@@ -100,6 +97,7 @@
       "releaseDate": "2021-04-22"
     },
     {
+      "codename": "Groovy Gorilla",
       "cycle": "20.10",
       "latest": "20.10",
       "latestReleaseDate": "2020-10-22",
@@ -107,13 +105,15 @@
       "releaseDate": "2020-10-22"
     },
     {
-      "cycle": "16.04",
-      "latest": "16.04.7",
-      "latestReleaseDate": "2020-08-13",
+      "codename": "Focal Fossa",
+      "cycle": "20.04",
+      "latest": "20.04.6",
+      "latestReleaseDate": "2023-03-23",
       "lts": false,
-      "releaseDate": "2020-08-13"
+      "releaseDate": "2020-04-23"
     },
     {
+      "codename": "Eoan Ermine",
       "cycle": "19.10",
       "latest": "19.10",
       "latestReleaseDate": "2019-10-17",
@@ -121,6 +121,7 @@
       "releaseDate": "2019-10-17"
     },
     {
+      "codename": "Disco Dingo",
       "cycle": "19.04",
       "latest": "19.04",
       "latestReleaseDate": "2019-04-18",
@@ -128,13 +129,7 @@
       "releaseDate": "2019-04-18"
     },
     {
-      "cycle": "14.04",
-      "latest": "14.04.6",
-      "latestReleaseDate": "2019-03-07",
-      "lts": false,
-      "releaseDate": "2019-03-07"
-    },
-    {
+      "codename": "Cosmic Cuttlefish",
       "cycle": "18.10",
       "latest": "18.10",
       "latestReleaseDate": "2018-10-18",
@@ -142,6 +137,15 @@
       "releaseDate": "2018-10-18"
     },
     {
+      "codename": "Bionic Beaver",
+      "cycle": "18.04",
+      "latest": "18.04.6",
+      "latestReleaseDate": "2021-09-17",
+      "lts": false,
+      "releaseDate": "2018-04-26"
+    },
+    {
+      "codename": "Artful Aardvark",
       "cycle": "17.10",
       "latest": "17.10",
       "latestReleaseDate": "2017-10-19",
@@ -149,6 +153,7 @@
       "releaseDate": "2017-10-19"
     },
     {
+      "codename": "Zesty Zapus",
       "cycle": "17.04",
       "latest": "17.04",
       "latestReleaseDate": "2017-04-13",
@@ -156,6 +161,7 @@
       "releaseDate": "2017-04-13"
     },
     {
+      "codename": "Yakkety Yak",
       "cycle": "16.10",
       "latest": "16.10",
       "latestReleaseDate": "2016-10-13",
@@ -163,6 +169,15 @@
       "releaseDate": "2016-10-13"
     },
     {
+      "codename": "Xenial Xerus",
+      "cycle": "16.04",
+      "latest": "16.04.7",
+      "latestReleaseDate": "2020-08-13",
+      "lts": false,
+      "releaseDate": "2016-04-21"
+    },
+    {
+      "codename": "Wily Werewolf",
       "cycle": "15.10",
       "latest": "15.10",
       "latestReleaseDate": "2015-10-22",
@@ -170,6 +185,7 @@
       "releaseDate": "2015-10-22"
     },
     {
+      "codename": "Vivid Vervet",
       "cycle": "15.04",
       "latest": "15.04",
       "latestReleaseDate": "2015-04-23",
@@ -177,6 +193,7 @@
       "releaseDate": "2015-04-23"
     },
     {
+      "codename": "Utopic Unicorn",
       "cycle": "14.10",
       "latest": "14.10",
       "latestReleaseDate": "2014-10-23",
@@ -184,13 +201,15 @@
       "releaseDate": "2014-10-23"
     },
     {
-      "cycle": "12.04",
-      "latest": "12.04.5",
-      "latestReleaseDate": "2014-08-08",
+      "codename": "Trusty Tahr",
+      "cycle": "14.04",
+      "latest": "14.04.6",
+      "latestReleaseDate": "2019-03-07",
       "lts": false,
-      "releaseDate": "2014-08-08"
+      "releaseDate": "2014-04-17"
     },
     {
+      "codename": "Saucy Salamander",
       "cycle": "13.10",
       "latest": "13.10",
       "latestReleaseDate": "2013-10-17",
@@ -198,6 +217,7 @@
       "releaseDate": "2013-10-17"
     },
     {
+      "codename": "Raring Ringtail",
       "cycle": "13.04",
       "latest": "13.04",
       "latestReleaseDate": "2013-04-25",
@@ -205,6 +225,7 @@
       "releaseDate": "2013-04-25"
     },
     {
+      "codename": "Quantal Quetzal",
       "cycle": "12.10",
       "latest": "12.10",
       "latestReleaseDate": "2012-10-18",
@@ -212,13 +233,15 @@
       "releaseDate": "2012-10-18"
     },
     {
-      "cycle": "10.04",
-      "latest": "10.04.4",
-      "latestReleaseDate": "2012-02-16",
+      "codename": "Precise Pangolin",
+      "cycle": "12.04",
+      "latest": "12.04.5",
+      "latestReleaseDate": "2014-08-07",
       "lts": false,
-      "releaseDate": "2012-02-16"
+      "releaseDate": "2012-04-26"
     },
     {
+      "codename": "Oneiric Ocelot",
       "cycle": "11.10",
       "latest": "11.10",
       "latestReleaseDate": "2011-10-13",
@@ -226,6 +249,7 @@
       "releaseDate": "2011-10-13"
     },
     {
+      "codename": "Natty Narwhal",
       "cycle": "11.04",
       "latest": "11.04",
       "latestReleaseDate": "2011-04-28",
@@ -233,6 +257,7 @@
       "releaseDate": "2011-04-28"
     },
     {
+      "codename": "Maverick Meerkat",
       "cycle": "10.10",
       "latest": "10.10",
       "latestReleaseDate": "2010-10-10",
@@ -240,13 +265,15 @@
       "releaseDate": "2010-10-10"
     },
     {
-      "cycle": "8.04",
-      "latest": "8.04.4",
-      "latestReleaseDate": "2010-01-29",
+      "codename": "Lucid Lynx",
+      "cycle": "10.04",
+      "latest": "10.04.4",
+      "latestReleaseDate": "2012-02-16",
       "lts": false,
-      "releaseDate": "2010-01-29"
+      "releaseDate": "2010-04-29"
     },
     {
+      "codename": "Karmic Koala",
       "cycle": "9.10",
       "latest": "9.10",
       "latestReleaseDate": "2009-10-29",
@@ -254,6 +281,7 @@
       "releaseDate": "2009-10-29"
     },
     {
+      "codename": "Jaunty Jackalope",
       "cycle": "9.04",
       "latest": "9.04",
       "latestReleaseDate": "2009-04-23",
@@ -261,6 +289,7 @@
       "releaseDate": "2009-04-23"
     },
     {
+      "codename": "Intrepid Ibex",
       "cycle": "8.10",
       "latest": "8.10",
       "latestReleaseDate": "2008-10-30",
@@ -268,13 +297,15 @@
       "releaseDate": "2008-10-30"
     },
     {
-      "cycle": "6.06",
-      "latest": "6.06.2",
-      "latestReleaseDate": "2008-01-22",
+      "codename": "Hardy Heron",
+      "cycle": "8.04",
+      "latest": "8.04.4",
+      "latestReleaseDate": "2010-01-28",
       "lts": false,
-      "releaseDate": "2008-01-22"
+      "releaseDate": "2008-04-24"
     },
     {
+      "codename": "Gutsy Gibbon",
       "cycle": "7.10",
       "latest": "7.10",
       "latestReleaseDate": "2007-10-18",
@@ -282,6 +313,7 @@
       "releaseDate": "2007-10-18"
     },
     {
+      "codename": "Feisty Fawn",
       "cycle": "7.04",
       "latest": "7.04",
       "latestReleaseDate": "2007-04-19",
@@ -289,6 +321,7 @@
       "releaseDate": "2007-04-19"
     },
     {
+      "codename": "Edgy Eft",
       "cycle": "6.10",
       "latest": "6.10",
       "latestReleaseDate": "2006-10-26",
@@ -296,13 +329,23 @@
       "releaseDate": "2006-10-26"
     },
     {
-      "cycle": "5.10",
-      "latest": "5.10",
-      "latestReleaseDate": "2005-10-13",
+      "codename": "Dapper Drake",
+      "cycle": "6.06",
+      "latest": "6.06.2",
+      "latestReleaseDate": "2008-01-21",
       "lts": false,
-      "releaseDate": "2005-10-13"
+      "releaseDate": "2006-06-01"
     },
     {
+      "codename": "Breezy Badger",
+      "cycle": "5.10",
+      "latest": "5.10",
+      "latestReleaseDate": "2005-10-12",
+      "lts": false,
+      "releaseDate": "2005-10-12"
+    },
+    {
+      "codename": "Hoary Hedgehog",
       "cycle": "5.04",
       "latest": "5.04",
       "latestReleaseDate": "2005-04-08",
@@ -310,17 +353,18 @@
       "releaseDate": "2005-04-08"
     },
     {
+      "codename": "Warty Warthog",
       "cycle": "4.10",
       "latest": "4.10",
-      "latestReleaseDate": "2004-10-20",
+      "latestReleaseDate": "2004-10-26",
       "lts": false,
-      "releaseDate": "2004-10-20"
+      "releaseDate": "2004-10-26"
     }
   ],
-  "fetched_at": "2026-08-27T01:37:40Z",
+  "fetched_at": "2026-09-08T02:05:54Z",
   "slug": "ubuntu",
   "source": "release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/ubuntu.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -10,45 +10,45 @@
   "cycles": [
     {
       "cycle": "3.4",
-      "latest": "3.4.3",
-      "latestReleaseDate": "2026-07-29",
+      "latest": "3.4.4",
+      "latestReleaseDate": "2026-08-27",
       "lts": false,
-      "releaseDate": "2026-07-29"
+      "releaseDate": "2026-08-27"
     },
     {
       "cycle": "3.3",
-      "latest": "3.3.13",
-      "latestReleaseDate": "2026-07-29",
+      "latest": "3.3.14",
+      "latestReleaseDate": "2026-08-27",
       "lts": false,
-      "releaseDate": "2026-07-29"
+      "releaseDate": "2026-08-27"
     },
     {
       "cycle": "3.2",
-      "latest": "3.2.22",
-      "latestReleaseDate": "2026-07-29",
+      "latest": "3.2.23",
+      "latestReleaseDate": "2026-08-27",
       "lts": false,
-      "releaseDate": "2026-07-29"
+      "releaseDate": "2026-08-27"
     },
     {
       "cycle": "3.0",
-      "latest": "3.0.26",
-      "latestReleaseDate": "2026-07-29",
+      "latest": "3.0.27",
+      "latestReleaseDate": "2026-08-27",
       "lts": false,
-      "releaseDate": "2026-07-29"
+      "releaseDate": "2026-08-27"
     },
     {
       "cycle": "2.8",
-      "latest": "2.8.27",
-      "latestReleaseDate": "2026-07-29",
+      "latest": "2.8.28",
+      "latestReleaseDate": "2026-08-27",
       "lts": false,
-      "releaseDate": "2026-07-29"
+      "releaseDate": "2026-08-27"
     },
     {
       "cycle": "2.6",
-      "latest": "2.6.32",
-      "latestReleaseDate": "2026-07-29",
+      "latest": "2.6.33",
+      "latestReleaseDate": "2026-08-27",
       "lts": false,
-      "releaseDate": "2026-07-29"
+      "releaseDate": "2026-08-27"
     },
     {
       "cycle": "2.4",
@@ -177,10 +177,10 @@
       "releaseDate": "2006-01-29"
     }
   ],
-  "fetched_at": "2026-08-27T01:37:40Z",
+  "fetched_at": "2026-09-08T02:05:54Z",
   "slug": "haproxy",
   "source": "release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/haproxy.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "2.5",
-      "latest": "2.5.2",
-      "latestReleaseDate": "2026-08-09",
+      "latest": "2.5.3",
+      "latestReleaseDate": "2026-09-06",
       "lts": false,
-      "releaseDate": "2026-08-09"
+      "releaseDate": "2026-09-06"
     },
     {
       "cycle": "2.4",
@@ -226,10 +226,10 @@
       "releaseDate": "2006-12-02"
     }
   ],
-  "fetched_at": "2026-08-27T01:37:40Z",
+  "fetched_at": "2026-09-08T02:05:54Z",
   "slug": "numpy",
   "source": "release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/numpy.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

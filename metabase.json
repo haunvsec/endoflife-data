@@ -1,0 +1,98 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Metabase",
+    "mapping_source": "unmapped",
+    "product": "metabase",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "0.63",
+      "eol": "2026-11-01",
+      "latest": "0.63.16.7",
+      "latestReleaseDate": "2026-09-07",
+      "lts": false,
+      "releaseDate": "2026-07-07"
+    },
+    {
+      "cycle": "0.62",
+      "eol": "2026-09-01",
+      "latest": "0.62.19.3",
+      "latestReleaseDate": "2026-09-04",
+      "lts": false,
+      "releaseDate": "2026-06-01"
+    },
+    {
+      "cycle": "0.61",
+      "eol": "2026-09-01",
+      "latest": "0.61.21",
+      "latestReleaseDate": "2026-09-01",
+      "lts": false,
+      "releaseDate": "2026-04-30"
+    },
+    {
+      "cycle": "0.60",
+      "eol": "2026-09-01",
+      "latest": "0.60.27",
+      "latestReleaseDate": "2026-09-01",
+      "lts": false,
+      "releaseDate": "2026-03-26"
+    },
+    {
+      "cycle": "0.59",
+      "eol": "2026-09-01",
+      "latest": "0.59.31",
+      "latestReleaseDate": "2026-09-01",
+      "lts": false,
+      "releaseDate": "2026-02-12"
+    },
+    {
+      "cycle": "0.58",
+      "eol": "2027-02-17",
+      "latest": "0.58.32.2",
+      "latestReleaseDate": "2026-09-04",
+      "lts": true,
+      "releaseDate": "2025-12-17"
+    },
+    {
+      "cycle": "0.57",
+      "eol": "2026-05-31",
+      "latest": "0.57.20",
+      "latestReleaseDate": "2026-06-08",
+      "lts": false,
+      "releaseDate": "2025-11-01"
+    },
+    {
+      "cycle": "0.56",
+      "eol": "2026-05-31",
+      "latest": "0.56.25.1",
+      "latestReleaseDate": "2026-05-08",
+      "lts": false,
+      "releaseDate": "2025-08-01"
+    },
+    {
+      "cycle": "0.55",
+      "eol": "2026-05-31",
+      "latest": "0.55.24.1",
+      "latestReleaseDate": "2026-05-08",
+      "lts": false,
+      "releaseDate": "2025-06-02"
+    },
+    {
+      "cycle": "0.54",
+      "eol": "2026-05-31",
+      "latest": "0.54.24",
+      "latestReleaseDate": "2026-05-06",
+      "lts": false,
+      "releaseDate": "2025-03-25"
+    }
+  ],
+  "fetched_at": "2026-09-08T02:05:54Z",
+  "slug": "metabase",
+  "source": "release-data",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/metabase.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -1,0 +1,33 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Heroku Postgres",
+    "mapping_source": "unmapped",
+    "product": "heroku_postgres",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "15",
+      "eol": "2027-02-28",
+      "lts": false
+    },
+    {
+      "cycle": "14",
+      "eol": "2025-11-28",
+      "lts": false
+    },
+    {
+      "cycle": "13",
+      "eol": "2024-10-29",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-09-08T02:05:54Z",
+  "slug": "heroku-postgres",
+  "source": "release-data",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/heroku-postgres.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

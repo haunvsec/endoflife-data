@@ -1,27 +1,27 @@
 {
   "advisory_dir": "/Volumes/DATA/security_advisory/advisory-data",
   "cache_dir": "/Volumes/DATA/security_advisory/cache/endoflife-release-data",
-  "cycles_total": 18109,
-  "duration_seconds": 25.59,
+  "cycles_total": 18173,
+  "duration_seconds": 34.34,
   "errors": [],
   "errors_count": 0,
-  "last_crawl_time": "2026-08-27T01:37:40Z",
+  "last_crawl_time": "2026-09-08T02:05:54Z",
   "mapping_review_file": "/Volumes/DATA/security_advisory/endoflife-data/mapping-review.json",
   "mapping_sources": {
     "advisory-data": 13,
     "eol_product_mapping": 243,
     "product_rule": 1,
     "slug_prefix": 59,
-    "unmapped": 89
+    "unmapped": 94
   },
   "output_dir": "/Volumes/DATA/security_advisory/endoflife-data",
-  "products_crawled": 405,
+  "products_crawled": 410,
   "products_mapped": 316,
-  "products_mapped_percent": 78.02,
-  "products_needing_mapping_review": 89,
-  "products_needing_mapping_review_percent": 21.98,
+  "products_mapped_percent": 77.07,
+  "products_needing_mapping_review": 94,
+  "products_needing_mapping_review_percent": 22.93,
   "source": "endoflife-date/release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_url": "https://github.com/endoflife-date/release-data.git",
   "warnings": [
     {
@@ -121,6 +121,158 @@
       "warning": "github-actions-runner-images[17]: no lifecycle date fields"
     },
     {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[1]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[2]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[5]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[6]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[7]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[10]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[20]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[21]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[22]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[24]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[25]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[26]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[27]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[29]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[30]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[31]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[32]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[37]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[39]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[40]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[41]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[42]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[43]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[44]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[45]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[46]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[47]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[48]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[49]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[50]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[52]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[55]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[60]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[69]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[71]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[74]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[75]: no lifecycle date fields"
+    },
+    {
+      "product": "openai-api-models",
+      "warning": "openai-api-models[83]: no lifecycle date fields"
+    },
+    {
       "product": "proxmox-datacenter-manager",
       "warning": "proxmox-datacenter-manager[0]: no lifecycle date fields"
     },
@@ -153,5 +305,5 @@
       "warning": "proxmox-mail-gateway[5]: no lifecycle date fields"
     }
   ],
-  "warnings_count": 32
+  "warnings_count": 70
 }

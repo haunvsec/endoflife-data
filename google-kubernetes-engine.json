@@ -10,45 +10,45 @@
   "cycles": [
     {
       "cycle": "1.36",
-      "latest": "1.36.3-gke.1640000",
-      "latestReleaseDate": "2026-08-20",
+      "latest": "1.36.3-gke.1767000",
+      "latestReleaseDate": "2026-08-26",
       "lts": false,
-      "releaseDate": "2026-08-20"
+      "releaseDate": "2026-08-26"
     },
     {
       "cycle": "1.35",
-      "latest": "1.35.7-gke.1222000",
-      "latestReleaseDate": "2026-08-20",
+      "latest": "1.35.8-gke.1036000",
+      "latestReleaseDate": "2026-08-26",
       "lts": false,
-      "releaseDate": "2026-08-20"
+      "releaseDate": "2026-08-26"
     },
     {
       "cycle": "1.34",
-      "latest": "1.34.10-gke.1236000",
-      "latestReleaseDate": "2026-08-20",
+      "latest": "1.34.10-gke.1328000",
+      "latestReleaseDate": "2026-08-26",
       "lts": false,
-      "releaseDate": "2026-08-20"
+      "releaseDate": "2026-08-26"
     },
     {
       "cycle": "1.33",
-      "latest": "1.33.13-gke.1499000",
-      "latestReleaseDate": "2026-08-20",
+      "latest": "1.33.13-gke.1547000",
+      "latestReleaseDate": "2026-08-26",
       "lts": false,
-      "releaseDate": "2026-08-20"
+      "releaseDate": "2026-08-26"
     },
     {
       "cycle": "1.32",
-      "latest": "1.32.13-gke.2314000",
-      "latestReleaseDate": "2026-08-20",
+      "latest": "1.32.13-gke.2337000",
+      "latestReleaseDate": "2026-08-26",
       "lts": false,
-      "releaseDate": "2026-08-20"
+      "releaseDate": "2026-08-26"
     },
     {
       "cycle": "1.31",
-      "latest": "1.31.14-gke.2613000",
-      "latestReleaseDate": "2026-08-20",
+      "latest": "1.31.14-gke.2630000",
+      "latestReleaseDate": "2026-08-26",
       "lts": false,
-      "releaseDate": "2026-08-20"
+      "releaseDate": "2026-08-26"
     },
     {
       "cycle": "1.30",
@@ -156,10 +156,10 @@
       "releaseDate": "2021-04-06"
     }
   ],
-  "fetched_at": "2026-08-27T01:37:40Z",
+  "fetched_at": "2026-09-08T02:05:54Z",
   "slug": "google-kubernetes-engine",
   "source": "release-data",
-  "source_commit": "50da304ab02d64e3a1032037e36e6e344c71e269",
+  "source_commit": "cd229f940aae3e91f4e08a792e8d9a1c5b6f3aef",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/google-kubernetes-engine.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
