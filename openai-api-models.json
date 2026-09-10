@@ -348,6 +348,26 @@
     },
     {
       "aliases": [
+        "gpt-image-2.5-sunburst",
+        "gpt-image-2.5-sunburst-2026-09-08"
+      ],
+      "cycle": "gpt-image-2.5-sunburst",
+      "link": "https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst",
+      "lts": false,
+      "releaseLabel": "GPT-Image-2.5 Sunburst"
+    },
+    {
+      "aliases": [
+        "gpt-image-2.5-flare",
+        "gpt-image-2.5-flare-2026-09-08"
+      ],
+      "cycle": "gpt-image-2.5-flare",
+      "link": "https://developers.openai.com/api/docs/models/gpt-image-2.5-flare",
+      "lts": false,
+      "releaseLabel": "GPT-Image-2.5 Flare"
+    },
+    {
+      "aliases": [
         "gpt-image-2-2026-04-21"
       ],
       "cycle": "gpt-image-2",
@@ -925,10 +945,10 @@
       "releaseLabel": "babbage-002"
     }
   ],
-  "fetched_at": "2026-09-08T16:00:09Z",
+  "fetched_at": "2026-09-10T01:24:43Z",
   "slug": "openai-api-models",
   "source": "release-data",
-  "source_commit": "bed62cc333a53a28d37be165b2eecfe5ed444853",
+  "source_commit": "7ead44369f8e7f9bca3228a00fd081302c017e35",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/openai-api-models.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

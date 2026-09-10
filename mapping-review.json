@@ -44,7 +44,7 @@
     "canonical_vendor": "",
     "cycles_total": 13,
     "display_name": "Ansible Core",
-    "latest_release_date": "2026-08-10",
+    "latest_release_date": "2026-09-08",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ansible-core.json",
     "slug": "ansible-core"
@@ -364,7 +364,7 @@
     "canonical_vendor": "",
     "cycles_total": 7,
     "display_name": "Ionic",
-    "latest_release_date": "2026-09-02",
+    "latest_release_date": "2026-09-09",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/ionic.json",
     "slug": "ionic"
@@ -504,7 +504,7 @@
     "canonical_vendor": "",
     "cycles_total": 10,
     "display_name": "Metabase",
-    "latest_release_date": "2026-09-07",
+    "latest_release_date": "2026-09-08",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/metabase.json",
     "slug": "metabase"
@@ -562,7 +562,7 @@
   {
     "canonical_product": "openai_api_models",
     "canonical_vendor": "",
-    "cycles_total": 85,
+    "cycles_total": 87,
     "display_name": "Openai Api Models",
     "latest_release_date": "",
     "mapping_source": "unmapped",
@@ -702,9 +702,9 @@
   {
     "canonical_product": "quasar",
     "canonical_vendor": "",
-    "cycles_total": 54,
+    "cycles_total": 55,
     "display_name": "Quasar",
-    "latest_release_date": "2026-09-07",
+    "latest_release_date": "2026-09-08",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quasar.json",
     "slug": "quasar"
@@ -722,9 +722,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3753,
+    "cycles_total": 3758,
     "display_name": "Renovate",
-    "latest_release_date": "2026-09-08",
+    "latest_release_date": "2026-09-09",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -832,9 +832,9 @@
   {
     "canonical_product": "strapi",
     "canonical_vendor": "",
-    "cycles_total": 94,
+    "cycles_total": 95,
     "display_name": "Strapi",
-    "latest_release_date": "2026-09-02",
+    "latest_release_date": "2026-09-09",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/strapi.json",
     "slug": "strapi"

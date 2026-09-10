@@ -107,10 +107,10 @@
       "releaseDate": "2009-04-07"
     }
   ],
-  "fetched_at": "2026-09-08T16:00:09Z",
+  "fetched_at": "2026-09-10T01:24:43Z",
   "slug": "apache-groovy",
   "source": "release-data",
-  "source_commit": "bed62cc333a53a28d37be165b2eecfe5ed444853",
+  "source_commit": "7ead44369f8e7f9bca3228a00fd081302c017e35",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-groovy.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

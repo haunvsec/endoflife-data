@@ -9,11 +9,46 @@
   },
   "cycles": [
     {
-      "cycle": "44.69",
-      "latest": "44.69.8",
-      "latestReleaseDate": "2026-09-08",
+      "cycle": "44.74",
+      "latest": "44.74.0",
+      "latestReleaseDate": "2026-09-09",
       "lts": false,
-      "releaseDate": "2026-09-08"
+      "releaseDate": "2026-09-09"
+    },
+    {
+      "cycle": "44.73",
+      "latest": "44.73.0",
+      "latestReleaseDate": "2026-09-09",
+      "lts": false,
+      "releaseDate": "2026-09-09"
+    },
+    {
+      "cycle": "44.72",
+      "latest": "44.72.0",
+      "latestReleaseDate": "2026-09-09",
+      "lts": false,
+      "releaseDate": "2026-09-09"
+    },
+    {
+      "cycle": "44.71",
+      "latest": "44.71.3",
+      "latestReleaseDate": "2026-09-09",
+      "lts": false,
+      "releaseDate": "2026-09-09"
+    },
+    {
+      "cycle": "44.70",
+      "latest": "44.70.2",
+      "latestReleaseDate": "2026-09-09",
+      "lts": false,
+      "releaseDate": "2026-09-09"
+    },
+    {
+      "cycle": "44.69",
+      "latest": "44.69.14",
+      "latestReleaseDate": "2026-09-09",
+      "lts": false,
+      "releaseDate": "2026-09-09"
     },
     {
       "cycle": "44.68",
@@ -26280,10 +26315,10 @@
       "releaseDate": "2015-10-21"
     }
   ],
-  "fetched_at": "2026-09-08T16:00:09Z",
+  "fetched_at": "2026-09-10T01:24:43Z",
   "slug": "renovate",
   "source": "release-data",
-  "source_commit": "bed62cc333a53a28d37be165b2eecfe5ed444853",
+  "source_commit": "7ead44369f8e7f9bca3228a00fd081302c017e35",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/renovate.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
