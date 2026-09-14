@@ -10,8 +10,8 @@
   "cycles": [
     {
       "cycle": "6",
-      "latest": "6.2.6",
-      "latestReleaseDate": "2026-07-03",
+      "latest": "6.2.7",
+      "latestReleaseDate": "2026-09-12",
       "lts": false,
       "releaseDate": "2021-12-17"
     },
@@ -43,10 +43,10 @@
       "releaseDate": "2004-04-25"
     }
   ],
-  "fetched_at": "2026-09-10T01:24:43Z",
+  "fetched_at": "2026-09-14T03:20:29Z",
   "slug": "unrealircd",
   "source": "release-data",
-  "source_commit": "7ead44369f8e7f9bca3228a00fd081302c017e35",
+  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/unrealircd.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

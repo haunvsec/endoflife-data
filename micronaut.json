@@ -9,25 +9,32 @@
   },
   "cycles": [
     {
-      "cycle": "5.1",
-      "latest": "5.1.14",
-      "latestReleaseDate": "2026-09-09",
+      "cycle": "5.2",
+      "latest": "5.2.1",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
-      "releaseDate": "2026-09-09"
+      "releaseDate": "2026-09-11"
+    },
+    {
+      "cycle": "5.1",
+      "latest": "5.1.15",
+      "latestReleaseDate": "2026-09-11",
+      "lts": false,
+      "releaseDate": "2026-09-11"
     },
     {
       "cycle": "4.10",
-      "latest": "4.10.27",
-      "latestReleaseDate": "2026-09-09",
+      "latest": "4.10.28",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
-      "releaseDate": "2026-09-09"
+      "releaseDate": "2026-09-11"
     },
     {
       "cycle": "3.10",
-      "latest": "3.10.11",
-      "latestReleaseDate": "2026-09-09",
+      "latest": "3.10.12",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
-      "releaseDate": "2026-09-09"
+      "releaseDate": "2026-09-11"
     },
     {
       "cycle": "5.0",
@@ -247,10 +254,10 @@
       "releaseDate": "2019-03-27"
     }
   ],
-  "fetched_at": "2026-09-10T01:24:43Z",
+  "fetched_at": "2026-09-14T03:20:29Z",
   "slug": "micronaut",
   "source": "release-data",
-  "source_commit": "7ead44369f8e7f9bca3228a00fd081302c017e35",
+  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/micronaut.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

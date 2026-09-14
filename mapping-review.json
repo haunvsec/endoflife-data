@@ -64,7 +64,7 @@
     "canonical_vendor": "",
     "cycles_total": 19,
     "display_name": "Api Platform",
-    "latest_release_date": "2026-09-04",
+    "latest_release_date": "2026-09-12",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/api-platform.json",
     "slug": "api-platform"
@@ -304,7 +304,7 @@
     "canonical_vendor": "",
     "cycles_total": 126,
     "display_name": "Gitlab Runner",
-    "latest_release_date": "2026-08-24",
+    "latest_release_date": "2026-09-10",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/gitlab-runner.json",
     "slug": "gitlab-runner"
@@ -504,7 +504,7 @@
     "canonical_vendor": "",
     "cycles_total": 10,
     "display_name": "Metabase",
-    "latest_release_date": "2026-09-08",
+    "latest_release_date": "2026-09-11",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/metabase.json",
     "slug": "metabase"
@@ -562,7 +562,7 @@
   {
     "canonical_product": "openai_api_models",
     "canonical_vendor": "",
-    "cycles_total": 87,
+    "cycles_total": 88,
     "display_name": "Openai Api Models",
     "latest_release_date": "",
     "mapping_source": "unmapped",
@@ -694,7 +694,7 @@
     "canonical_vendor": "",
     "cycles_total": 71,
     "display_name": "Quarkus Framework",
-    "latest_release_date": "2026-09-04",
+    "latest_release_date": "2026-09-10",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quarkus-framework.json",
     "slug": "quarkus-framework"
@@ -702,9 +702,9 @@
   {
     "canonical_product": "quasar",
     "canonical_vendor": "",
-    "cycles_total": 55,
+    "cycles_total": 56,
     "display_name": "Quasar",
-    "latest_release_date": "2026-09-08",
+    "latest_release_date": "2026-09-11",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quasar.json",
     "slug": "quasar"
@@ -722,9 +722,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3758,
+    "cycles_total": 3767,
     "display_name": "Renovate",
-    "latest_release_date": "2026-09-09",
+    "latest_release_date": "2026-09-13",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"

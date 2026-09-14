@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "17.7",
+      "latest": "17.7.29",
+      "latestReleaseDate": "2026-09-09",
+      "lts": false,
+      "releaseDate": "2026-09-09"
+    },
+    {
       "cycle": "18.11",
       "latest": "18.11.0",
       "latestReleaseDate": "2026-08-25",
@@ -18,13 +25,6 @@
     {
       "cycle": "18.10",
       "latest": "18.10.7",
-      "latestReleaseDate": "2026-08-20",
-      "lts": false,
-      "releaseDate": "2026-08-20"
-    },
-    {
-      "cycle": "17.7",
-      "latest": "17.7.28",
       "latestReleaseDate": "2026-08-20",
       "lts": false,
       "releaseDate": "2026-08-20"
@@ -653,10 +653,10 @@
       "releaseDate": "2016-08-19"
     }
   ],
-  "fetched_at": "2026-09-10T01:24:43Z",
+  "fetched_at": "2026-09-14T03:20:29Z",
   "slug": "teleport",
   "source": "release-data",
-  "source_commit": "7ead44369f8e7f9bca3228a00fd081302c017e35",
+  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/teleport.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

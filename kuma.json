@@ -19,24 +19,24 @@
     {
       "cycle": "2.13",
       "eol": "2027-12-22",
-      "latest": "2.13.10",
-      "latestReleaseDate": "2026-08-01",
+      "latest": "2.13.11",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
       "releaseDate": "2025-12-22"
     },
     {
       "cycle": "2.12",
       "eol": "2026-09-09",
-      "latest": "2.12.14",
-      "latestReleaseDate": "2026-08-01",
+      "latest": "2.12.15",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
       "releaseDate": "2025-09-09"
     },
     {
       "cycle": "2.11",
       "eol": "2026-12-10",
-      "latest": "2.11.18",
-      "latestReleaseDate": "2026-08-01",
+      "latest": "2.11.19",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
       "releaseDate": "2025-06-10"
     },
@@ -51,8 +51,8 @@
     {
       "cycle": "2.9",
       "eol": "2026-10-22",
-      "latest": "2.9.19",
-      "latestReleaseDate": "2026-08-01",
+      "latest": "2.9.20",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
       "releaseDate": "2024-10-22"
     },
@@ -67,8 +67,8 @@
     {
       "cycle": "2.7",
       "eol": "2026-10-19",
-      "latest": "2.7.29",
-      "latestReleaseDate": "2026-08-01",
+      "latest": "2.7.30",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
       "releaseDate": "2024-04-19"
     },
@@ -113,10 +113,10 @@
       "releaseDate": "2023-04-14"
     }
   ],
-  "fetched_at": "2026-09-10T01:24:43Z",
+  "fetched_at": "2026-09-14T03:20:29Z",
   "slug": "kuma",
   "source": "release-data",
-  "source_commit": "7ead44369f8e7f9bca3228a00fd081302c017e35",
+  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/kuma.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

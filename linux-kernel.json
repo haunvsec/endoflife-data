@@ -10,28 +10,28 @@
   "cycles": [
     {
       "cycle": "7.2",
-      "latest": "7.2.3",
-      "latestReleaseDate": "2026-09-02",
+      "latest": "7.2.5",
+      "latestReleaseDate": "2026-09-11",
       "lts": false,
-      "releaseDate": "2026-09-02"
+      "releaseDate": "2026-09-11"
+    },
+    {
+      "cycle": "6.18",
+      "latest": "6.18.51",
+      "latestReleaseDate": "2026-09-11",
+      "lts": false,
+      "releaseDate": "2026-09-11"
+    },
+    {
+      "cycle": "6.12",
+      "latest": "6.12.109",
+      "latestReleaseDate": "2026-09-07",
+      "lts": false,
+      "releaseDate": "2026-09-07"
     },
     {
       "cycle": "7.1",
       "latest": "7.1.13",
-      "latestReleaseDate": "2026-09-02",
-      "lts": false,
-      "releaseDate": "2026-09-02"
-    },
-    {
-      "cycle": "6.18",
-      "latest": "6.18.49",
-      "latestReleaseDate": "2026-09-02",
-      "lts": false,
-      "releaseDate": "2026-09-02"
-    },
-    {
-      "cycle": "6.12",
-      "latest": "6.12.108",
       "latestReleaseDate": "2026-09-02",
       "lts": false,
       "releaseDate": "2026-09-02"
@@ -604,10 +604,10 @@
       "releaseDate": "2011-08-03"
     }
   ],
-  "fetched_at": "2026-09-10T01:24:43Z",
+  "fetched_at": "2026-09-14T03:20:29Z",
   "slug": "linux-kernel",
   "source": "release-data",
-  "source_commit": "7ead44369f8e7f9bca3228a00fd081302c017e35",
+  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/linux-kernel.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
