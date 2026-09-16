@@ -1,9 +1,9 @@
 {
   "canonical": {
-    "cpe": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+    "cpe": "cpe:/o:redhat:enterprise_linux_eus:10.0",
     "display_name": "Apache Tomcat",
     "mapping_source": "advisory-data",
-    "product": "tomcat",
+    "product": "apache_tomcat",
     "purl": "",
     "vendor": "apache"
   },
@@ -51,10 +51,10 @@
       "releaseDate": "2021-04-22"
     }
   ],
-  "fetched_at": "2026-09-14T03:20:29Z",
+  "fetched_at": "2026-09-16T06:55:50Z",
   "slug": "tomcat",
   "source": "release-data",
-  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
+  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/tomcat.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

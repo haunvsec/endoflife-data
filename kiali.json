@@ -1,0 +1,25 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Kiali",
+    "mapping_source": "unmapped",
+    "product": "kiali",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "",
+      "latest": "",
+      "latestReleaseDate": "2025-04-28",
+      "lts": false,
+      "releaseDate": "2025-04-28"
+    }
+  ],
+  "fetched_at": "2026-09-16T06:55:50Z",
+  "slug": "kiali",
+  "source": "release-data",
+  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/kiali.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

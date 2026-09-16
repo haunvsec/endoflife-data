@@ -9,18 +9,18 @@
   },
   "cycles": [
     {
+      "cycle": "4.0",
+      "latest": "4.0.7",
+      "latestReleaseDate": "2026-09-14",
+      "lts": false,
+      "releaseDate": "2026-09-14"
+    },
+    {
       "cycle": "3.3",
       "latest": "3.3.12",
       "latestReleaseDate": "2026-07-16",
       "lts": false,
       "releaseDate": "2026-07-16"
-    },
-    {
-      "cycle": "4.0",
-      "latest": "4.0.6",
-      "latestReleaseDate": "2026-07-13",
-      "lts": false,
-      "releaseDate": "2026-07-13"
     },
     {
       "cycle": "3.4",
@@ -184,10 +184,10 @@
       "releaseDate": "2007-02-12"
     }
   ],
-  "fetched_at": "2026-09-14T03:20:29Z",
+  "fetched_at": "2026-09-16T06:55:50Z",
   "slug": "ruby",
   "source": "release-data",
-  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
+  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/ruby.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -9,6 +9,12 @@
   },
   "cycles": [
     {
+      "cycle": "2.4",
+      "eol": "2027-05-15",
+      "lts": false,
+      "releaseDate": "2026-09-15"
+    },
+    {
       "cycle": "2.3",
       "eol": "2028-04-30",
       "latest": "2.3.5",
@@ -103,10 +109,10 @@
       "releaseDate": "2017-12-05"
     }
   ],
-  "fetched_at": "2026-09-14T03:20:29Z",
+  "fetched_at": "2026-09-16T06:55:50Z",
   "slug": "containerd",
   "source": "release-data",
-  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
+  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/containerd.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

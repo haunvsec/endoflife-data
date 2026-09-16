@@ -1,27 +1,27 @@
 {
   "advisory_dir": "/Volumes/DATA/security_advisory/advisory-data",
   "cache_dir": "/Volumes/DATA/security_advisory/cache/endoflife-release-data",
-  "cycles_total": 18213,
-  "duration_seconds": 27.36,
+  "cycles_total": 18247,
+  "duration_seconds": 26.74,
   "errors": [],
   "errors_count": 0,
-  "last_crawl_time": "2026-09-14T03:20:29Z",
+  "last_crawl_time": "2026-09-16T06:55:50Z",
   "mapping_review_file": "/Volumes/DATA/security_advisory/endoflife-data/mapping-review.json",
   "mapping_sources": {
-    "advisory-data": 13,
+    "advisory-data": 1,
     "eol_product_mapping": 243,
-    "product_rule": 1,
-    "slug_prefix": 59,
-    "unmapped": 94
+    "product_rule": 3,
+    "slug_prefix": 69,
+    "unmapped": 95
   },
   "output_dir": "/Volumes/DATA/security_advisory/endoflife-data",
-  "products_crawled": 410,
+  "products_crawled": 411,
   "products_mapped": 316,
-  "products_mapped_percent": 77.07,
-  "products_needing_mapping_review": 94,
-  "products_needing_mapping_review_percent": 22.93,
+  "products_mapped_percent": 76.89,
+  "products_needing_mapping_review": 95,
+  "products_needing_mapping_review_percent": 23.11,
   "source": "endoflife-date/release-data",
-  "source_commit": "02a52aeb27b5f9eec68ecab7723c58cf137a6711",
+  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
   "source_url": "https://github.com/endoflife-date/release-data.git",
   "warnings": [
     {
@@ -119,6 +119,10 @@
     {
       "product": "github-actions-runner-images",
       "warning": "github-actions-runner-images[17]: no lifecycle date fields"
+    },
+    {
+      "product": "kiali",
+      "warning": "kiali[0]: missing cycle"
     },
     {
       "product": "openai-api-models",
@@ -317,5 +321,5 @@
       "warning": "proxmox-mail-gateway[5]: no lifecycle date fields"
     }
   ],
-  "warnings_count": 73
+  "warnings_count": 74
 }

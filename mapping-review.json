@@ -74,7 +74,7 @@
     "canonical_vendor": "",
     "cycles_total": 64,
     "display_name": "Beats",
-    "latest_release_date": "2026-09-03",
+    "latest_release_date": "2026-09-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/beats.json",
     "slug": "beats"
@@ -142,9 +142,9 @@
   {
     "canonical_product": "cnspec",
     "canonical_vendor": "",
-    "cycles_total": 203,
+    "cycles_total": 204,
     "display_name": "Cnspec",
-    "latest_release_date": "2026-09-08",
+    "latest_release_date": "2026-09-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/cnspec.json",
     "slug": "cnspec"
@@ -264,7 +264,7 @@
     "canonical_vendor": "",
     "cycles_total": 9,
     "display_name": "Freedesktop Sdk",
-    "latest_release_date": "2026-09-01",
+    "latest_release_date": "2026-09-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/freedesktop-sdk.json",
     "slug": "freedesktop-sdk"
@@ -304,7 +304,7 @@
     "canonical_vendor": "",
     "cycles_total": 126,
     "display_name": "Gitlab Runner",
-    "latest_release_date": "2026-09-10",
+    "latest_release_date": "2026-09-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/gitlab-runner.json",
     "slug": "gitlab-runner"
@@ -312,9 +312,9 @@
   {
     "canonical_product": "goaccess",
     "canonical_vendor": "",
-    "cycles_total": 12,
+    "cycles_total": 13,
     "display_name": "Goaccess",
-    "latest_release_date": "2026-07-20",
+    "latest_release_date": "2026-09-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/goaccess.json",
     "slug": "goaccess"
@@ -440,6 +440,16 @@
     "slug": "keycloak"
   },
   {
+    "canonical_product": "kiali",
+    "canonical_vendor": "",
+    "cycles_total": 1,
+    "display_name": "Kiali",
+    "latest_release_date": "2025-04-28",
+    "mapping_source": "unmapped",
+    "record_file": "/Volumes/DATA/security_advisory/endoflife-data/kiali.json",
+    "slug": "kiali"
+  },
+  {
     "canonical_product": "knative",
     "canonical_vendor": "",
     "cycles_total": 38,
@@ -504,7 +514,7 @@
     "canonical_vendor": "",
     "cycles_total": 10,
     "display_name": "Metabase",
-    "latest_release_date": "2026-09-11",
+    "latest_release_date": "2026-09-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/metabase.json",
     "slug": "metabase"
@@ -614,7 +624,7 @@
     "canonical_vendor": "",
     "cycles_total": 9,
     "display_name": "Phoenix Framework",
-    "latest_release_date": "2026-08-25",
+    "latest_release_date": "2026-09-14",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/phoenix-framework.json",
     "slug": "phoenix-framework"
@@ -704,7 +714,7 @@
     "canonical_vendor": "",
     "cycles_total": 56,
     "display_name": "Quasar",
-    "latest_release_date": "2026-09-11",
+    "latest_release_date": "2026-09-14",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/quasar.json",
     "slug": "quasar"
@@ -722,9 +732,9 @@
   {
     "canonical_product": "renovate",
     "canonical_vendor": "",
-    "cycles_total": 3767,
+    "cycles_total": 3777,
     "display_name": "Renovate",
-    "latest_release_date": "2026-09-13",
+    "latest_release_date": "2026-09-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/renovate.json",
     "slug": "renovate"
@@ -762,9 +772,9 @@
   {
     "canonical_product": "sapmachine",
     "canonical_vendor": "",
-    "cycles_total": 34,
+    "cycles_total": 35,
     "display_name": "Sapmachine",
-    "latest_release_date": "2026-08-19",
+    "latest_release_date": "2026-09-15",
     "mapping_source": "unmapped",
     "record_file": "/Volumes/DATA/security_advisory/endoflife-data/sapmachine.json",
     "slug": "sapmachine"
