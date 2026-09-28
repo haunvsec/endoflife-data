@@ -9,66 +9,73 @@
   },
   "cycles": [
     {
-      "cycle": "24.10",
-      "latest": "24.10.8",
-      "latestReleaseDate": "2026-07-25",
-      "lts": false,
-      "releaseDate": "2026-07-25"
-    },
-    {
       "cycle": "25.12",
       "latest": "25.12.5",
       "latestReleaseDate": "2026-06-30",
       "lts": false,
-      "releaseDate": "2026-06-30"
+      "releaseDate": "2026-03-06"
+    },
+    {
+      "cycle": "24.10",
+      "eol": "2026-09-30",
+      "latest": "24.10.8",
+      "latestReleaseDate": "2026-07-25",
+      "lts": false,
+      "releaseDate": "2025-02-06"
     },
     {
       "cycle": "23.05",
+      "eol": "2025-08-31",
       "latest": "23.05.6",
       "latestReleaseDate": "2025-08-16",
       "lts": false,
-      "releaseDate": "2025-08-16"
+      "releaseDate": "2023-10-13"
     },
     {
       "cycle": "22.03",
+      "eol": "2024-07-31",
       "latest": "22.03.7",
       "latestReleaseDate": "2024-07-23",
       "lts": false,
-      "releaseDate": "2024-07-23"
+      "releaseDate": "2022-09-06"
     },
     {
       "cycle": "21.02",
+      "eol": "2023-05-31",
       "latest": "21.02.7",
       "latestReleaseDate": "2023-04-27",
       "lts": false,
-      "releaseDate": "2023-04-27"
+      "releaseDate": "2021-09-04"
     },
     {
       "cycle": "19.07",
+      "eol": "2022-04-30",
       "latest": "19.07.10",
       "latestReleaseDate": "2022-04-17",
       "lts": false,
-      "releaseDate": "2022-04-17"
+      "releaseDate": "2020-01-06"
     },
     {
       "cycle": "18.06",
+      "eol": "2020-12-31",
       "latest": "18.06.9",
       "latestReleaseDate": "2020-11-17",
       "lts": false,
-      "releaseDate": "2020-11-17"
+      "releaseDate": "2018-07-31"
     },
     {
       "cycle": "17.01",
+      "eol": "2019-06-30",
       "latest": "17.01.7",
       "latestReleaseDate": "2019-06-21",
       "lts": false,
-      "releaseDate": "2019-06-21"
+      "releaseDate": "2017-02-22"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "openwrt",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/openwrt.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

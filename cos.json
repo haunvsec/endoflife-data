@@ -9,17 +9,108 @@
   },
   "cycles": [
     {
-      "cycle": "cos",
-      "latest": "cos-129-19506-448-20",
-      "latestReleaseDate": "2026-09-08",
-      "lts": false,
-      "releaseDate": "2026-09-08"
+      "cycle": "cos-129",
+      "eol": "2028-07-01",
+      "latest": "cos-129-19506-448-36",
+      "latestReleaseDate": "2026-09-17",
+      "lts": false
+    },
+    {
+      "cycle": "cos-125",
+      "eol": "2028-02-01",
+      "latest": "cos-125-19216-655-28",
+      "latestReleaseDate": "2026-09-17",
+      "lts": false
+    },
+    {
+      "cycle": "cos-121",
+      "eol": "2027-03-01",
+      "latest": "cos-121-18867-584-23",
+      "latestReleaseDate": "2026-09-17",
+      "lts": false
+    },
+    {
+      "cycle": "cos-117",
+      "eol": "2026-09-01",
+      "latest": "cos-117-18613-731-21",
+      "latestReleaseDate": "2026-09-17",
+      "lts": false
+    },
+    {
+      "cycle": "cos-113",
+      "eol": "2026-03-01",
+      "latest": "cos-113-18244-582-104",
+      "latestReleaseDate": "2026-05-12",
+      "lts": false
+    },
+    {
+      "cycle": "cos-109",
+      "eol": "2025-09-01",
+      "latest": "cos-109-17800-570-50",
+      "latestReleaseDate": "2025-09-24",
+      "lts": false
+    },
+    {
+      "cycle": "cos-105",
+      "eol": "2025-03-01",
+      "latest": "cos-105-17412-535-98",
+      "latestReleaseDate": "2025-03-31",
+      "lts": false
+    },
+    {
+      "cycle": "cos-101",
+      "eol": "2024-10-01",
+      "latest": "cos-101-17162-528-64",
+      "latestReleaseDate": "2024-10-21",
+      "lts": false
+    },
+    {
+      "cycle": "cos-97",
+      "eol": "2024-04-01",
+      "latest": "cos-97-16919-450-41",
+      "latestReleaseDate": "2024-03-27",
+      "lts": false
+    },
+    {
+      "cycle": "cos-93",
+      "eol": "2023-10-01",
+      "latest": "cos-93-16623-461-42",
+      "latestReleaseDate": "2023-10-24",
+      "lts": false
+    },
+    {
+      "cycle": "cos-89",
+      "eol": "2023-03-01",
+      "latest": "cos-89-16108-798-22",
+      "latestReleaseDate": "2023-04-03",
+      "lts": false
+    },
+    {
+      "cycle": "cos-85",
+      "eol": "2022-09-01",
+      "latest": "cos-85-13310-1498-13",
+      "latestReleaseDate": "2022-08-22",
+      "lts": false
+    },
+    {
+      "cycle": "cos-73",
+      "eol": "2020-06-01",
+      "latest": "cos-73-11647-656-0",
+      "latestReleaseDate": "2020-09-05",
+      "lts": false
+    },
+    {
+      "cycle": "cos-69",
+      "eol": "2019-12-01",
+      "latest": "cos-69-10895-385-0",
+      "latestReleaseDate": "2019-10-08",
+      "lts": false
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "cos",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/cos.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

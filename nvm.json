@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "0.40",
-      "latest": "0.40.7",
-      "latestReleaseDate": "2026-08-17",
+      "latest": "0.40.8",
+      "latestReleaseDate": "2026-09-21",
       "lts": false,
-      "releaseDate": "2026-08-17"
+      "releaseDate": "2026-09-21"
     },
     {
       "cycle": "0.39",
@@ -296,10 +296,10 @@
       "releaseDate": "2011-01-04"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "nvm",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nvm.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

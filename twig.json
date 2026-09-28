@@ -9,6 +9,20 @@
   },
   "cycles": [
     {
+      "cycle": "3.30",
+      "latest": "3.30.0",
+      "latestReleaseDate": "2026-09-25",
+      "lts": false,
+      "releaseDate": "2026-09-25"
+    },
+    {
+      "cycle": "3.29",
+      "latest": "3.29.0",
+      "latestReleaseDate": "2026-09-18",
+      "lts": false,
+      "releaseDate": "2026-09-18"
+    },
+    {
       "cycle": "3.28",
       "latest": "3.28.0",
       "latestReleaseDate": "2026-07-03",
@@ -646,10 +660,10 @@
       "releaseDate": "2011-03-27"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "twig",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/twig.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -73,6 +73,7 @@
       "cycle": "7",
       "eoas": "2016-04-25",
       "eol": "2018-05-31",
+      "extendedSupport": "2020-06-30",
       "lts": false,
       "releaseDate": "2013-05-04"
     },
@@ -150,12 +151,18 @@
       "cycle": "1.1",
       "lts": false,
       "releaseDate": "1996-06-17"
+    },
+    {
+      "codename": "—",
+      "cycle": "0.91",
+      "lts": false,
+      "releaseDate": "1994-01-01"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "debian",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/debian.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

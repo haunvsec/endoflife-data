@@ -1,0 +1,172 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Bind 9",
+    "mapping_source": "unmapped",
+    "product": "bind_9",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "9.20",
+      "latest": "9.20.29",
+      "latestReleaseDate": "2026-09-11",
+      "lts": false,
+      "releaseDate": "2026-09-11"
+    },
+    {
+      "cycle": "9.21",
+      "latest": "9.21.26",
+      "latestReleaseDate": "2026-09-03",
+      "lts": false,
+      "releaseDate": "2026-09-03"
+    },
+    {
+      "cycle": "9.18",
+      "latest": "9.18.50",
+      "latestReleaseDate": "2026-06-08",
+      "lts": false,
+      "releaseDate": "2026-06-08"
+    },
+    {
+      "cycle": "9.19",
+      "latest": "9.19.24",
+      "latestReleaseDate": "2024-05-03",
+      "lts": false,
+      "releaseDate": "2024-05-03"
+    },
+    {
+      "cycle": "9.16",
+      "latest": "9.16.50",
+      "latestReleaseDate": "2024-04-03",
+      "lts": false,
+      "releaseDate": "2024-04-03"
+    },
+    {
+      "cycle": "9.17",
+      "latest": "9.17.22",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.15",
+      "latest": "9.15.8",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.14",
+      "latest": "9.14.12",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.13",
+      "latest": "9.13.7",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.12",
+      "latest": "9.12.4",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.11",
+      "latest": "9.11.37",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.10",
+      "latest": "9.10.8",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.9",
+      "latest": "9.9.13",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.8",
+      "latest": "9.8.8",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.7",
+      "latest": "9.7.7",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.6",
+      "latest": "9.6.3",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.5",
+      "latest": "9.5.2",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.4",
+      "latest": "9.4.3",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.3",
+      "latest": "9.3.6",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.2",
+      "latest": "9.2.9",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.1",
+      "latest": "9.1.3",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.1",
+      "latestReleaseDate": "2023-03-16",
+      "lts": false,
+      "releaseDate": "2023-03-16"
+    }
+  ],
+  "fetched_at": "2026-09-28T11:40:35Z",
+  "slug": "bind-9",
+  "source": "release-data",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/bind-9.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

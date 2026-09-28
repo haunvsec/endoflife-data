@@ -9,12 +9,6 @@
   },
   "cycles": [
     {
-      "cycle": "2026.0",
-      "eol": "2027-12-31",
-      "extendedSupport": "2028-12-31",
-      "lts": false
-    },
-    {
       "cycle": "2025.1",
       "eol": "2027-07-31",
       "extendedSupport": "2028-07-31",
@@ -55,10 +49,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "spring-cloud",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/spring-cloud.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -17,12 +17,20 @@
       "upgradeVersion": "N/A"
     },
     {
+      "cycle": "1.4.7.1",
+      "eol": "2027-06-03",
+      "latest": "1.4.7.1",
+      "latestReleaseDate": "2026-09-18",
+      "lts": false,
+      "upgradeVersion": "1.4.8.0"
+    },
+    {
       "cycle": "1.4.7.0",
       "eol": "2027-06-03",
       "latest": "1.4.7.0",
       "latestReleaseDate": "2026-03-03",
       "lts": false,
-      "upgradeVersion": "1.4.8.0"
+      "upgradeVersion": "1.4.7.1"
     },
     {
       "cycle": "1.4.6.3",
@@ -297,10 +305,10 @@
       "upgradeVersion": "1.0.3.0"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "amazon-neptune",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-neptune.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

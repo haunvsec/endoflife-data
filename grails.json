@@ -10,24 +10,24 @@
   "cycles": [
     {
       "cycle": "7.2",
-      "latest": "7.2.3",
-      "latestReleaseDate": "2026-08-23",
+      "latest": "7.2.4",
+      "latestReleaseDate": "2026-09-22",
       "lts": false,
-      "releaseDate": "2026-08-23"
+      "releaseDate": "2026-09-22"
     },
     {
       "cycle": "7.1",
-      "latest": "7.1.6",
-      "latestReleaseDate": "2026-08-23",
+      "latest": "7.1.7",
+      "latestReleaseDate": "2026-09-21",
       "lts": false,
-      "releaseDate": "2026-08-23"
+      "releaseDate": "2026-09-21"
     },
     {
       "cycle": "7.0",
-      "latest": "7.0.16",
-      "latestReleaseDate": "2026-08-23",
+      "latest": "7.0.17",
+      "latestReleaseDate": "2026-09-21",
       "lts": false,
-      "releaseDate": "2026-08-23"
+      "releaseDate": "2026-09-21"
     },
     {
       "cycle": "6.2",
@@ -198,10 +198,10 @@
       "releaseDate": "2009-11-26"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "grails",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/grails.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

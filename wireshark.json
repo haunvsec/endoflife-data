@@ -10,17 +10,24 @@
   "cycles": [
     {
       "cycle": "4.4",
-      "latest": "4.4.9",
-      "latestReleaseDate": "2025-08-28",
+      "latest": "4.4.19",
+      "latestReleaseDate": "2026-09-23",
       "lts": false,
-      "releaseDate": "2025-08-28"
+      "releaseDate": "2026-09-23"
+    },
+    {
+      "cycle": "4.6",
+      "latest": "4.6.16",
+      "latestReleaseDate": "2026-05-19",
+      "lts": false,
+      "releaseDate": "2026-05-19"
     },
     {
       "cycle": "4.2",
-      "latest": "4.2.13",
-      "latestReleaseDate": "2025-08-28",
+      "latest": "4.2.14",
+      "latestReleaseDate": "2025-10-08",
       "lts": false,
-      "releaseDate": "2025-08-28"
+      "releaseDate": "2025-10-08"
     },
     {
       "cycle": "4.0",
@@ -135,10 +142,10 @@
       "releaseDate": "2010-08-29"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "wireshark",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/wireshark.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

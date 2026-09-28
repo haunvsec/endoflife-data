@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "5.57",
-      "latest": "5.57.0",
-      "latestReleaseDate": "2026-08-28",
+      "latest": "5.57.1",
+      "latestReleaseDate": "2026-09-18",
       "lts": false,
-      "releaseDate": "2026-08-28"
+      "releaseDate": "2026-09-18"
     },
     {
       "cycle": "5.56",
@@ -1430,10 +1430,10 @@
       "releaseDate": "2016-12-02"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "svelte",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/svelte.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

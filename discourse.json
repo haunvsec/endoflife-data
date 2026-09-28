@@ -9,29 +9,36 @@
   },
   "cycles": [
     {
-      "cycle": "2026.8",
-      "latest": "2026.8.0",
-      "latestReleaseDate": "2026-08-25",
+      "cycle": "2026.9",
+      "latest": "2026.9.0",
+      "latestReleaseDate": "2026-09-22",
       "lts": false,
-      "releaseDate": "2026-08-25"
+      "releaseDate": "2026-09-22"
+    },
+    {
+      "cycle": "2026.8",
+      "latest": "2026.8.1",
+      "latestReleaseDate": "2026-09-22",
+      "lts": false,
+      "releaseDate": "2026-09-22"
     },
     {
       "cycle": "2026.7",
-      "latest": "2026.7.2",
-      "latestReleaseDate": "2026-08-25",
+      "latest": "2026.7.3",
+      "latestReleaseDate": "2026-09-22",
       "lts": false,
-      "releaseDate": "2026-08-25"
+      "releaseDate": "2026-09-22"
+    },
+    {
+      "cycle": "2026.1",
+      "latest": "2026.1.9",
+      "latestReleaseDate": "2026-09-22",
+      "lts": false,
+      "releaseDate": "2026-09-22"
     },
     {
       "cycle": "2026.6",
       "latest": "2026.6.3",
-      "latestReleaseDate": "2026-08-25",
-      "lts": false,
-      "releaseDate": "2026-08-25"
-    },
-    {
-      "cycle": "2026.1",
-      "latest": "2026.1.8",
       "latestReleaseDate": "2026-08-25",
       "lts": false,
       "releaseDate": "2026-08-25"
@@ -254,10 +261,10 @@
       "releaseDate": "2014-10-30"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "discourse",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/discourse.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

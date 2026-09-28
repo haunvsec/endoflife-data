@@ -10,35 +10,35 @@
   "cycles": [
     {
       "cycle": "7.4",
-      "latest": "7.4.8",
-      "latestReleaseDate": "2026-09-13",
+      "latest": "7.4.11",
+      "latestReleaseDate": "2026-09-27",
       "lts": false,
-      "releaseDate": "2026-09-13"
+      "releaseDate": "2026-09-27"
     },
     {
       "cycle": "6.6",
-      "latest": "6.6.57",
-      "latestReleaseDate": "2026-09-13",
+      "latest": "6.6.58",
+      "latestReleaseDate": "2026-09-20",
       "lts": false,
-      "releaseDate": "2026-09-13"
+      "releaseDate": "2026-09-20"
+    },
+    {
+      "cycle": "7.2",
+      "latest": "7.2.25",
+      "latestReleaseDate": "2026-09-17",
+      "lts": false,
+      "releaseDate": "2026-09-17"
+    },
+    {
+      "cycle": "7.1",
+      "latest": "7.1.36",
+      "latestReleaseDate": "2026-09-17",
+      "lts": false,
+      "releaseDate": "2026-09-17"
     },
     {
       "cycle": "7.3",
       "latest": "7.3.13",
-      "latestReleaseDate": "2026-08-02",
-      "lts": false,
-      "releaseDate": "2026-08-02"
-    },
-    {
-      "cycle": "7.2",
-      "latest": "7.2.24",
-      "latestReleaseDate": "2026-08-02",
-      "lts": false,
-      "releaseDate": "2026-08-02"
-    },
-    {
-      "cycle": "7.1",
-      "latest": "7.1.35",
       "latestReleaseDate": "2026-08-02",
       "lts": false,
       "releaseDate": "2026-08-02"
@@ -156,10 +156,10 @@
       "releaseDate": "2012-01-11"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "hibernate-orm",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/hibernate-orm.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

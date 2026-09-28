@@ -152,13 +152,13 @@
       "cycle": "2.1",
       "eol": "1994-06-30",
       "lts": false,
-      "releaseDate": "1992-03-06"
+      "releaseDate": "1991-05-24"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "ibm-i",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/ibm-i.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

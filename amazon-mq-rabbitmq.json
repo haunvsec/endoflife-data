@@ -1,0 +1,23 @@
+{
+  "canonical": {
+    "cpe": "cpe:2.3:a:amazon:mq_rabbitmq:*:*:*:*:*:*:*:*",
+    "display_name": "Amazon Mq Rabbitmq",
+    "mapping_source": "slug_prefix",
+    "product": "mq_rabbitmq",
+    "purl": "",
+    "vendor": "amazon"
+  },
+  "cycles": [
+    {
+      "cycle": "3.12",
+      "eol": "2025-03-17",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-09-28T11:40:35Z",
+  "slug": "amazon-mq-rabbitmq",
+  "source": "release-data",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-mq-rabbitmq.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

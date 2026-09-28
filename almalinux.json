@@ -9,101 +9,36 @@
   },
   "cycles": [
     {
-      "cycle": "9.6",
-      "latest": "9.6",
-      "latestReleaseDate": "2025-05-20",
+      "cycle": "10",
+      "eoas": "2030-05-31",
+      "eol": "2035-05-31",
+      "latest": "10.2",
+      "latestReleaseDate": "2026-05-26",
       "lts": false,
-      "releaseDate": "2025-05-20"
+      "releaseDate": "2025-05-27"
     },
     {
-      "cycle": "9.5",
-      "latest": "9.5",
-      "latestReleaseDate": "2024-11-18",
-      "lts": false,
-      "releaseDate": "2024-11-18"
-    },
-    {
-      "cycle": "8.10",
-      "latest": "8.10",
-      "latestReleaseDate": "2024-05-28",
-      "lts": false,
-      "releaseDate": "2024-05-28"
-    },
-    {
-      "cycle": "9.4",
-      "latest": "9.4",
-      "latestReleaseDate": "2024-05-06",
-      "lts": false,
-      "releaseDate": "2024-05-06"
-    },
-    {
-      "cycle": "9.3",
-      "latest": "9.3",
-      "latestReleaseDate": "2023-11-13",
-      "lts": false,
-      "releaseDate": "2023-11-13"
-    },
-    {
-      "cycle": "9.2",
-      "latest": "9.2",
-      "latestReleaseDate": "2023-05-11",
-      "lts": false,
-      "releaseDate": "2023-05-11"
-    },
-    {
-      "cycle": "9.1",
-      "latest": "9.1",
-      "latestReleaseDate": "2022-11-17",
-      "lts": false,
-      "releaseDate": "2022-11-17"
-    },
-    {
-      "cycle": "8.7",
-      "latest": "8.7",
-      "latestReleaseDate": "2022-11-10",
-      "lts": false,
-      "releaseDate": "2022-11-10"
-    },
-    {
-      "cycle": "9.0",
-      "latest": "9.0",
-      "latestReleaseDate": "2022-05-26",
+      "cycle": "9",
+      "eoas": "2027-05-31",
+      "eol": "2032-05-31",
+      "latest": "9.8",
+      "latestReleaseDate": "2026-05-26",
       "lts": false,
       "releaseDate": "2022-05-26"
     },
     {
-      "cycle": "8.6",
-      "latest": "8.6",
-      "latestReleaseDate": "2022-05-12",
-      "lts": false,
-      "releaseDate": "2022-05-12"
-    },
-    {
-      "cycle": "8.5",
-      "latest": "8.5",
-      "latestReleaseDate": "2021-11-12",
-      "lts": false,
-      "releaseDate": "2021-11-12"
-    },
-    {
-      "cycle": "8.4",
-      "latest": "8.4",
-      "latestReleaseDate": "2021-05-26",
-      "lts": false,
-      "releaseDate": "2021-05-26"
-    },
-    {
-      "cycle": "8.3",
-      "latest": "8.3",
-      "latestReleaseDate": "2021-03-30",
-      "lts": false,
-      "releaseDate": "2021-03-30"
+      "cycle": "8",
+      "eoas": "2024-05-31",
+      "eol": "2029-05-31",
+      "latest": "8.10",
+      "latestReleaseDate": "2024-05-28",
+      "lts": false
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "almalinux",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/almalinux.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

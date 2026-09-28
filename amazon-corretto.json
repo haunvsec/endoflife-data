@@ -9,36 +9,43 @@
   },
   "cycles": [
     {
-      "cycle": "26.0",
-      "latest": "26.0.2.11.1",
-      "latestReleaseDate": "2026-08-18",
-      "lts": false,
-      "releaseDate": "2026-08-18"
-    },
-    {
       "cycle": "25.0",
-      "latest": "25.0.4.8.1",
-      "latestReleaseDate": "2026-08-18",
+      "latest": "25.0.4.10.1",
+      "latestReleaseDate": "2026-09-26",
       "lts": false,
-      "releaseDate": "2026-08-18"
+      "releaseDate": "2026-09-26"
     },
     {
       "cycle": "21.0",
-      "latest": "21.0.12.9.1",
-      "latestReleaseDate": "2026-08-18",
+      "latest": "21.0.12.12.1",
+      "latestReleaseDate": "2026-09-26",
       "lts": false,
-      "releaseDate": "2026-08-18"
+      "releaseDate": "2026-09-26"
     },
     {
       "cycle": "17.0",
-      "latest": "17.0.20.10.1",
-      "latestReleaseDate": "2026-08-18",
+      "latest": "17.0.20.12.1",
+      "latestReleaseDate": "2026-09-26",
       "lts": false,
-      "releaseDate": "2026-08-18"
+      "releaseDate": "2026-09-26"
     },
     {
       "cycle": "11.0",
-      "latest": "11.0.32.10.1",
+      "latest": "11.0.32.12.1",
+      "latestReleaseDate": "2026-09-25",
+      "lts": false,
+      "releaseDate": "2026-09-25"
+    },
+    {
+      "cycle": "27.0",
+      "latest": "27.0.0.35.1",
+      "latestReleaseDate": "2026-09-16",
+      "lts": false,
+      "releaseDate": "2026-09-16"
+    },
+    {
+      "cycle": "26.0",
+      "latest": "26.0.2.11.1",
       "latestReleaseDate": "2026-08-18",
       "lts": false,
       "releaseDate": "2026-08-18"
@@ -338,10 +345,10 @@
       "releaseDate": "2019-02-20"
     }
   ],
-  "fetched_at": "2026-09-16T06:55:50Z",
+  "fetched_at": "2026-09-28T11:40:35Z",
   "slug": "amazon-corretto",
   "source": "release-data",
-  "source_commit": "3d8a65933d36c71f5d33c4f764eb73883881cd6f",
+  "source_commit": "41180278be660146025a9ea323e0555088042b47",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-corretto.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
