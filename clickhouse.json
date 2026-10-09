@@ -10,31 +10,31 @@
   "cycles": [
     {
       "cycle": "26.9",
-      "latest": "26.9.4.3",
-      "latestReleaseDate": "2026-09-27",
+      "latest": "26.9.13.15",
+      "latestReleaseDate": "2026-10-08",
       "lts": false,
-      "releaseDate": "2026-09-27"
+      "releaseDate": "2026-10-08"
     },
     {
       "cycle": "26.8",
-      "latest": "26.8.13.2",
-      "latestReleaseDate": "2026-09-27",
+      "latest": "26.8.21.10",
+      "latestReleaseDate": "2026-10-08",
       "lts": false,
-      "releaseDate": "2026-09-27"
+      "releaseDate": "2026-10-08"
     },
     {
       "cycle": "26.7",
-      "latest": "26.7.15.52",
-      "latestReleaseDate": "2026-09-26",
+      "latest": "26.7.25.6",
+      "latestReleaseDate": "2026-10-08",
       "lts": false,
-      "releaseDate": "2026-09-26"
+      "releaseDate": "2026-10-08"
     },
     {
       "cycle": "26.3",
-      "latest": "26.3.34.136",
-      "latestReleaseDate": "2026-09-26",
+      "latest": "26.3.45.3",
+      "latestReleaseDate": "2026-10-08",
       "lts": false,
-      "releaseDate": "2026-09-26"
+      "releaseDate": "2026-10-08"
     },
     {
       "cycle": "26.6",
@@ -548,10 +548,10 @@
       "releaseDate": "2020-10-09"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "clickhouse",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/clickhouse.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

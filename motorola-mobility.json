@@ -632,13 +632,6 @@
       "releaseDate": "2023-09-01"
     },
     {
-      "cycle": "motorola-edge-2023",
-      "eol": "2026-09-30",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11576",
-      "lts": false,
-      "releaseDate": "2023-09-01"
-    },
-    {
       "cycle": "motorola-edge-40-neo",
       "eol": "2027-06-30",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11590",
@@ -660,13 +653,6 @@
       "releaseDate": "2023-08-01"
     },
     {
-      "cycle": "moto-g14",
-      "eol": "2026-08-31",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11597",
-      "lts": false,
-      "releaseDate": "2023-08-01"
-    },
-    {
       "cycle": "motorola-razr-40",
       "eol": "2027-07-31",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11591",
@@ -684,13 +670,6 @@
       "cycle": "motorola-razr+-2023",
       "eol": "2027-06-30",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11489",
-      "lts": false,
-      "releaseDate": "2023-06-01"
-    },
-    {
-      "cycle": "moto-g-stylus-5g-2023",
-      "eol": "2026-06-30",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11492",
       "lts": false,
       "releaseDate": "2023-06-01"
     },
@@ -730,13 +709,6 @@
       "releaseDate": "2023-05-01"
     },
     {
-      "cycle": "moto-g-5g-2023",
-      "eol": "2026-05-31",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11494",
-      "lts": false,
-      "releaseDate": "2023-05-01"
-    },
-    {
       "cycle": "motorola-edge-40-pro",
       "eol": "2027-04-30",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11491",
@@ -744,22 +716,8 @@
       "releaseDate": "2023-04-01"
     },
     {
-      "cycle": "moto-g-stylus-2023",
-      "eol": "2026-04-30",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11493",
-      "lts": false,
-      "releaseDate": "2023-04-01"
-    },
-    {
-      "cycle": "moto-g-power-5g-2023",
-      "eol": "2026-04-30",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11490",
-      "lts": false,
-      "releaseDate": "2023-04-01"
-    },
-    {
       "cycle": "thinkphone-by-motorola",
-      "eol": "2027-01-31",
+      "eol": "2028-01-31",
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11418",
       "lts": false,
       "releaseDate": "2023-01-01"
@@ -777,26 +735,12 @@
       "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11426",
       "lts": false,
       "releaseDate": "2023-01-01"
-    },
-    {
-      "cycle": "motorola-edge-30-ultra",
-      "eol": "2026-09-30",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11368",
-      "lts": false,
-      "releaseDate": "2022-09-01"
-    },
-    {
-      "cycle": "motorola-edge-2022",
-      "eol": "2026-08-31",
-      "link": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11319",
-      "lts": false,
-      "releaseDate": "2022-08-01"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "motorola-mobility",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/motorola-mobility.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

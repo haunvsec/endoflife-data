@@ -24,10 +24,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "heroku-postgres",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/heroku-postgres.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

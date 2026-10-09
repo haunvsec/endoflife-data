@@ -9,6 +9,237 @@
   },
   "cycles": [
     {
+      "cycle": "44.148",
+      "latest": "44.148.3",
+      "latestReleaseDate": "2026-10-08",
+      "lts": false,
+      "releaseDate": "2026-10-08"
+    },
+    {
+      "cycle": "44.147",
+      "latest": "44.147.0",
+      "latestReleaseDate": "2026-10-08",
+      "lts": false,
+      "releaseDate": "2026-10-08"
+    },
+    {
+      "cycle": "44.146",
+      "latest": "44.146.3",
+      "latestReleaseDate": "2026-10-08",
+      "lts": false,
+      "releaseDate": "2026-10-08"
+    },
+    {
+      "cycle": "44.145",
+      "latest": "44.145.3",
+      "latestReleaseDate": "2026-10-08",
+      "lts": false,
+      "releaseDate": "2026-10-08"
+    },
+    {
+      "cycle": "44.144",
+      "latest": "44.144.1",
+      "latestReleaseDate": "2026-10-07",
+      "lts": false,
+      "releaseDate": "2026-10-07"
+    },
+    {
+      "cycle": "44.143",
+      "latest": "44.143.0",
+      "latestReleaseDate": "2026-10-07",
+      "lts": false,
+      "releaseDate": "2026-10-07"
+    },
+    {
+      "cycle": "44.142",
+      "latest": "44.142.1",
+      "latestReleaseDate": "2026-10-07",
+      "lts": false,
+      "releaseDate": "2026-10-07"
+    },
+    {
+      "cycle": "44.141",
+      "latest": "44.141.0",
+      "latestReleaseDate": "2026-10-06",
+      "lts": false,
+      "releaseDate": "2026-10-06"
+    },
+    {
+      "cycle": "44.140",
+      "latest": "44.140.0",
+      "latestReleaseDate": "2026-10-06",
+      "lts": false,
+      "releaseDate": "2026-10-06"
+    },
+    {
+      "cycle": "44.139",
+      "latest": "44.139.0",
+      "latestReleaseDate": "2026-10-06",
+      "lts": false,
+      "releaseDate": "2026-10-06"
+    },
+    {
+      "cycle": "44.138",
+      "latest": "44.138.1",
+      "latestReleaseDate": "2026-10-06",
+      "lts": false,
+      "releaseDate": "2026-10-06"
+    },
+    {
+      "cycle": "44.137",
+      "latest": "44.137.0",
+      "latestReleaseDate": "2026-10-05",
+      "lts": false,
+      "releaseDate": "2026-10-05"
+    },
+    {
+      "cycle": "44.136",
+      "latest": "44.136.0",
+      "latestReleaseDate": "2026-10-05",
+      "lts": false,
+      "releaseDate": "2026-10-05"
+    },
+    {
+      "cycle": "44.135",
+      "latest": "44.135.0",
+      "latestReleaseDate": "2026-10-05",
+      "lts": false,
+      "releaseDate": "2026-10-05"
+    },
+    {
+      "cycle": "44.134",
+      "latest": "44.134.3",
+      "latestReleaseDate": "2026-10-05",
+      "lts": false,
+      "releaseDate": "2026-10-05"
+    },
+    {
+      "cycle": "44.133",
+      "latest": "44.133.1",
+      "latestReleaseDate": "2026-10-05",
+      "lts": false,
+      "releaseDate": "2026-10-05"
+    },
+    {
+      "cycle": "44.132",
+      "latest": "44.132.6",
+      "latestReleaseDate": "2026-10-04",
+      "lts": false,
+      "releaseDate": "2026-10-04"
+    },
+    {
+      "cycle": "44.131",
+      "latest": "44.131.4",
+      "latestReleaseDate": "2026-10-02",
+      "lts": false,
+      "releaseDate": "2026-10-02"
+    },
+    {
+      "cycle": "44.130",
+      "latest": "44.130.0",
+      "latestReleaseDate": "2026-10-01",
+      "lts": false,
+      "releaseDate": "2026-10-01"
+    },
+    {
+      "cycle": "44.129",
+      "latest": "44.129.0",
+      "latestReleaseDate": "2026-10-01",
+      "lts": false,
+      "releaseDate": "2026-10-01"
+    },
+    {
+      "cycle": "44.128",
+      "latest": "44.128.3",
+      "latestReleaseDate": "2026-10-01",
+      "lts": false,
+      "releaseDate": "2026-10-01"
+    },
+    {
+      "cycle": "44.127",
+      "latest": "44.127.2",
+      "latestReleaseDate": "2026-10-01",
+      "lts": false,
+      "releaseDate": "2026-10-01"
+    },
+    {
+      "cycle": "44.126",
+      "latest": "44.126.1",
+      "latestReleaseDate": "2026-10-01",
+      "lts": false,
+      "releaseDate": "2026-10-01"
+    },
+    {
+      "cycle": "44.125",
+      "latest": "44.125.2",
+      "latestReleaseDate": "2026-09-30",
+      "lts": false,
+      "releaseDate": "2026-09-30"
+    },
+    {
+      "cycle": "44.124",
+      "latest": "44.124.2",
+      "latestReleaseDate": "2026-09-30",
+      "lts": false,
+      "releaseDate": "2026-09-30"
+    },
+    {
+      "cycle": "44.123",
+      "latest": "44.123.1",
+      "latestReleaseDate": "2026-09-30",
+      "lts": false,
+      "releaseDate": "2026-09-30"
+    },
+    {
+      "cycle": "44.122",
+      "latest": "44.122.1",
+      "latestReleaseDate": "2026-09-30",
+      "lts": false,
+      "releaseDate": "2026-09-30"
+    },
+    {
+      "cycle": "44.121",
+      "latest": "44.121.4",
+      "latestReleaseDate": "2026-09-29",
+      "lts": false,
+      "releaseDate": "2026-09-29"
+    },
+    {
+      "cycle": "44.120",
+      "latest": "44.120.0",
+      "latestReleaseDate": "2026-09-29",
+      "lts": false,
+      "releaseDate": "2026-09-29"
+    },
+    {
+      "cycle": "44.119",
+      "latest": "44.119.1",
+      "latestReleaseDate": "2026-09-29",
+      "lts": false,
+      "releaseDate": "2026-09-29"
+    },
+    {
+      "cycle": "44.118",
+      "latest": "44.118.2",
+      "latestReleaseDate": "2026-09-29",
+      "lts": false,
+      "releaseDate": "2026-09-29"
+    },
+    {
+      "cycle": "44.117",
+      "latest": "44.117.2",
+      "latestReleaseDate": "2026-09-29",
+      "lts": false,
+      "releaseDate": "2026-09-29"
+    },
+    {
+      "cycle": "44.116",
+      "latest": "44.116.1",
+      "latestReleaseDate": "2026-09-28",
+      "lts": false,
+      "releaseDate": "2026-09-28"
+    },
+    {
       "cycle": "44.115",
       "latest": "44.115.13",
       "latestReleaseDate": "2026-09-27",
@@ -26602,10 +26833,10 @@
       "releaseDate": "2015-10-21"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "renovate",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/renovate.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

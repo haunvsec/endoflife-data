@@ -1980,7 +1980,7 @@
     },
     {
       "cycle": "galaxy-a23-5g",
-      "eol": false,
+      "eol": "2026-10-06",
       "lts": false,
       "releaseLabel": "Galaxy A23 5G"
     },
@@ -2026,6 +2026,12 @@
       "cycle": "galaxy-a20",
       "eol": true,
       "lts": false
+    },
+    {
+      "cycle": "galaxy-a18",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy A18"
     },
     {
       "cycle": "galaxy-a17-5g",
@@ -2183,6 +2189,18 @@
       "lts": false
     },
     {
+      "cycle": "galaxy-a08",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy A08"
+    },
+    {
+      "cycle": "galaxy-a07s",
+      "eol": false,
+      "lts": false,
+      "releaseLabel": "Galaxy A07s"
+    },
+    {
       "cycle": "galaxy-a7-duos",
       "eol": true,
       "lts": false
@@ -2275,7 +2293,7 @@
     },
     {
       "cycle": "galaxy-a04s",
-      "eol": false,
+      "eol": "2026-10-06",
       "lts": false,
       "releaseLabel": "Galaxy A04s"
     },
@@ -2365,10 +2383,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "samsung-mobile",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/samsung-mobile.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

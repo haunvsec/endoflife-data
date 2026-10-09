@@ -9,25 +9,25 @@
   },
   "cycles": [
     {
-      "cycle": "9.0",
-      "latest": "9.0.122",
-      "latestReleaseDate": "2026-09-10",
-      "lts": false,
-      "releaseDate": "2026-09-10"
-    },
-    {
       "cycle": "11.0",
-      "latest": "11.0.26",
-      "latestReleaseDate": "2026-09-09",
+      "latest": "11.0.27",
+      "latestReleaseDate": "2026-10-06",
       "lts": false,
-      "releaseDate": "2026-09-09"
+      "releaseDate": "2026-10-06"
     },
     {
       "cycle": "10.1",
-      "latest": "10.1.60",
-      "latestReleaseDate": "2026-09-09",
+      "latest": "10.1.61",
+      "latestReleaseDate": "2026-10-06",
       "lts": false,
-      "releaseDate": "2026-09-09"
+      "releaseDate": "2026-10-06"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.123",
+      "latestReleaseDate": "2026-10-06",
+      "lts": false,
+      "releaseDate": "2026-10-06"
     },
     {
       "cycle": "8.5",
@@ -51,10 +51,10 @@
       "releaseDate": "2021-04-22"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "tomcat",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/tomcat.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

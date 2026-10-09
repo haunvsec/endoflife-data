@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "11.3",
+      "latest": "11.3.18",
+      "latestReleaseDate": "2026-09-28",
+      "lts": false,
+      "releaseDate": "2026-09-28"
+    },
+    {
       "cycle": "11.4",
       "latest": "11.4.8",
       "latestReleaseDate": "2026-09-26",
@@ -21,13 +28,6 @@
       "latestReleaseDate": "2026-09-26",
       "lts": false,
       "releaseDate": "2026-09-26"
-    },
-    {
-      "cycle": "11.3",
-      "latest": "11.3.17",
-      "latestReleaseDate": "2026-09-16",
-      "lts": false,
-      "releaseDate": "2026-09-16"
     },
     {
       "cycle": "11.2",
@@ -1416,10 +1416,10 @@
       "releaseDate": "2001-01-15"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "drupal",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/drupal.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

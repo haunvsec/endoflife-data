@@ -10,24 +10,24 @@
   "cycles": [
     {
       "cycle": "8.1",
-      "latest": "8.1.7",
-      "latestReleaseDate": "2026-09-15",
+      "latest": "8.1.8",
+      "latestReleaseDate": "2026-09-29",
       "lts": false,
-      "releaseDate": "2026-09-15"
+      "releaseDate": "2026-09-29"
     },
     {
       "cycle": "7.4",
-      "latest": "7.4.19",
-      "latestReleaseDate": "2026-09-15",
+      "latest": "7.4.20",
+      "latestReleaseDate": "2026-09-29",
       "lts": false,
-      "releaseDate": "2026-09-15"
+      "releaseDate": "2026-09-29"
     },
     {
       "cycle": "6.4",
-      "latest": "6.4.46",
-      "latestReleaseDate": "2026-09-15",
+      "latest": "6.4.47",
+      "latestReleaseDate": "2026-09-29",
       "lts": false,
-      "releaseDate": "2026-09-15"
+      "releaseDate": "2026-09-29"
     },
     {
       "cycle": "8.0",
@@ -261,10 +261,10 @@
       "releaseDate": "2013-10-10"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "symfony",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/symfony.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

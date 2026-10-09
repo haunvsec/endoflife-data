@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "2.9",
-      "latest": "2.9.5",
-      "latestReleaseDate": "2026-08-31",
+      "latest": "2.9.6",
+      "latestReleaseDate": "2026-10-01",
       "lts": false,
-      "releaseDate": "2026-08-31"
+      "releaseDate": "2026-10-01"
     },
     {
       "cycle": "2.8",
@@ -261,10 +261,10 @@
       "releaseDate": "2017-10-18"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "flux",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/flux.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

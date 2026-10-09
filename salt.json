@@ -12,23 +12,23 @@
       "cycle": "3008",
       "eoas": "2027-06-30",
       "eol": "2028-06-30",
-      "latest": "3008.2",
-      "latestReleaseDate": "2026-07-01",
+      "latest": "3008.3",
+      "latestReleaseDate": "2026-09-30",
       "lts": false
     },
     {
       "cycle": "3007",
       "eoas": "2026-06-30",
-      "latest": "3007.14",
-      "latestReleaseDate": "2026-04-29",
+      "latest": "3007.15",
+      "latestReleaseDate": "2026-09-30",
       "lts": false
     },
     {
       "cycle": "3006",
       "eoas": "2026-07-31",
       "eol": "2027-06-30",
-      "latest": "3006.27",
-      "latestReleaseDate": "2026-07-01",
+      "latest": "3006.28",
+      "latestReleaseDate": "2026-09-30",
       "lts": false
     },
     {
@@ -136,10 +136,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "salt",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/salt.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "7.0",
-      "latest": "7.0.1",
-      "latestReleaseDate": "2026-08-26",
+      "latest": "7.0.2",
+      "latestReleaseDate": "2026-09-30",
       "lts": false,
-      "releaseDate": "2026-08-26"
+      "releaseDate": "2026-09-30"
     },
     {
       "cycle": "6.1",
-      "latest": "6.1.4",
-      "latestReleaseDate": "2026-08-26",
+      "latest": "6.1.5",
+      "latestReleaseDate": "2026-09-30",
       "lts": false,
-      "releaseDate": "2026-08-26"
+      "releaseDate": "2026-09-30"
     },
     {
       "cycle": "6.0",
@@ -184,10 +184,10 @@
       "releaseDate": "2010-12-23"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "redmine",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/redmine.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

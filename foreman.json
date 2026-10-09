@@ -10,17 +10,17 @@
   "cycles": [
     {
       "cycle": "5.0",
-      "latest": "5.0.0",
-      "latestReleaseDate": "2026-09-08",
+      "latest": "5.0.1",
+      "latestReleaseDate": "2026-10-02",
       "lts": false,
-      "releaseDate": "2026-09-08"
+      "releaseDate": "2026-10-02"
     },
     {
       "cycle": "3.19",
-      "latest": "3.19.1",
-      "latestReleaseDate": "2026-07-01",
+      "latest": "3.19.2",
+      "latestReleaseDate": "2026-10-02",
       "lts": false,
-      "releaseDate": "2026-07-01"
+      "releaseDate": "2026-10-02"
     },
     {
       "cycle": "3.18",
@@ -373,10 +373,10 @@
       "releaseDate": "2012-08-09"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "foreman",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/foreman.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

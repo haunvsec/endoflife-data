@@ -12,8 +12,8 @@
       "cycle": "4.23",
       "eoas": "2026-09-30",
       "eol": "2027-03-31",
-      "latest": "4.23.12",
-      "latestReleaseDate": "2026-09-01",
+      "latest": "4.23.13",
+      "latestReleaseDate": "2026-10-01",
       "lts": false,
       "releaseDate": "2025-09-12"
     },
@@ -295,10 +295,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "samba",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/samba.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

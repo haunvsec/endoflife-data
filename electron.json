@@ -12,8 +12,8 @@
       "chromeVersion": "M152",
       "cycle": "44",
       "eol": "2027-03-02",
-      "latest": "44.4.5",
-      "latestReleaseDate": "2026-09-23",
+      "latest": "44.7.0",
+      "latestReleaseDate": "2026-10-07",
       "lts": false,
       "nodeVersion": "24",
       "releaseDate": "2026-08-25"
@@ -22,8 +22,8 @@
       "chromeVersion": "M150",
       "cycle": "43",
       "eol": "2027-01-05",
-      "latest": "43.7.5",
-      "latestReleaseDate": "2026-09-23",
+      "latest": "43.7.9",
+      "latestReleaseDate": "2026-10-07",
       "lts": false,
       "nodeVersion": "24",
       "releaseDate": "2026-06-30"
@@ -32,8 +32,8 @@
       "chromeVersion": "M148",
       "cycle": "42",
       "eol": "2026-10-20",
-      "latest": "42.11.8",
-      "latestReleaseDate": "2026-09-23",
+      "latest": "42.11.12",
+      "latestReleaseDate": "2026-10-07",
       "lts": false,
       "nodeVersion": "24",
       "releaseDate": "2026-05-05"
@@ -439,10 +439,10 @@
       "releaseDate": "2018-05-01"
     }
   ],
-  "fetched_at": "2026-09-28T11:40:35Z",
+  "fetched_at": "2026-10-09T03:12:16Z",
   "slug": "electron",
   "source": "release-data",
-  "source_commit": "41180278be660146025a9ea323e0555088042b47",
+  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/electron.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
