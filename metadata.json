@@ -1,27 +1,27 @@
 {
   "advisory_dir": "/Volumes/DATA/security_advisory/advisory-data",
   "cache_dir": "/Volumes/DATA/security_advisory/cache/endoflife-release-data",
-  "cycles_total": 18524,
-  "duration_seconds": 30.43,
+  "cycles_total": 18624,
+  "duration_seconds": 27.32,
   "errors": [],
   "errors_count": 0,
-  "last_crawl_time": "2026-10-09T03:12:16Z",
+  "last_crawl_time": "2026-10-13T14:12:27Z",
   "mapping_review_file": "/Volumes/DATA/security_advisory/endoflife-data/mapping-review.json",
   "mapping_sources": {
     "advisory-data": 2,
     "eol_product_mapping": 243,
     "product_rule": 3,
     "slug_prefix": 70,
-    "unmapped": 103
+    "unmapped": 107
   },
   "output_dir": "/Volumes/DATA/security_advisory/endoflife-data",
-  "products_crawled": 421,
+  "products_crawled": 425,
   "products_mapped": 318,
-  "products_mapped_percent": 75.53,
-  "products_needing_mapping_review": 103,
-  "products_needing_mapping_review_percent": 24.47,
+  "products_mapped_percent": 74.82,
+  "products_needing_mapping_review": 107,
+  "products_needing_mapping_review_percent": 25.18,
   "source": "endoflife-date/release-data",
-  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
   "source_url": "https://github.com/endoflife-date/release-data.git",
   "warnings": [
     {
@@ -47,10 +47,6 @@
     {
       "product": "drush",
       "warning": "drush[0]: no lifecycle date fields"
-    },
-    {
-      "product": "external-dns",
-      "warning": "external-dns[0]: no lifecycle date fields"
     },
     {
       "product": "github-actions-runner-images",
@@ -313,5 +309,5 @@
       "warning": "proxmox-mail-gateway[5]: no lifecycle date fields"
     }
   ],
-  "warnings_count": 72
+  "warnings_count": 71
 }

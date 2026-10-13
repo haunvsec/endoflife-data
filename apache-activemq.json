@@ -1,6 +1,6 @@
 {
   "canonical": {
-    "cpe": "cpe:/a:redhat:rhel_e4s:9.2::appstream",
+    "cpe": "cpe:/a:redhat:rhel_eus_long_life:8.4::appstream",
     "display_name": "Apache ActiveMQ",
     "mapping_source": "advisory-data",
     "product": "apache_activemq",
@@ -191,10 +191,10 @@
       "releaseDate": "2007-02-01"
     }
   ],
-  "fetched_at": "2026-10-09T03:12:16Z",
+  "fetched_at": "2026-10-13T14:12:27Z",
   "slug": "apache-activemq",
   "source": "release-data",
-  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-activemq.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

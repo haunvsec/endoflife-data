@@ -1,0 +1,81 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Jfrog Xray",
+    "mapping_source": "unmapped",
+    "product": "jfrog_xray",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "3.150",
+      "latest": "3.150.17",
+      "latestReleaseDate": "2026-07-29",
+      "lts": false,
+      "releaseDate": "2026-07-29"
+    },
+    {
+      "cycle": "3.137",
+      "latest": "3.137.36",
+      "latestReleaseDate": "2026-07-05",
+      "lts": false,
+      "releaseDate": "2026-07-05"
+    },
+    {
+      "cycle": "3.143",
+      "latest": "3.143.28",
+      "latestReleaseDate": "2026-06-28",
+      "lts": false,
+      "releaseDate": "2026-06-28"
+    },
+    {
+      "cycle": "3.118",
+      "latest": "3.118.44",
+      "latestReleaseDate": "2026-05-24",
+      "lts": false,
+      "releaseDate": "2026-05-24"
+    },
+    {
+      "cycle": "3.131",
+      "latest": "3.131.42",
+      "latestReleaseDate": "2026-04-19",
+      "lts": false,
+      "releaseDate": "2026-04-19"
+    },
+    {
+      "cycle": "3.124",
+      "latest": "3.124.42",
+      "latestReleaseDate": "2026-04-19",
+      "lts": false,
+      "releaseDate": "2026-04-19"
+    },
+    {
+      "cycle": "3.111",
+      "latest": "3.111.31",
+      "latestReleaseDate": "2025-08-06",
+      "lts": false,
+      "releaseDate": "2025-08-06"
+    },
+    {
+      "cycle": "3.107",
+      "latest": "3.107.36",
+      "latestReleaseDate": "2025-05-15",
+      "lts": false,
+      "releaseDate": "2025-05-15"
+    },
+    {
+      "cycle": "3.104",
+      "latest": "3.104.19",
+      "latestReleaseDate": "2024-11-20",
+      "lts": false,
+      "releaseDate": "2024-11-20"
+    }
+  ],
+  "fetched_at": "2026-10-13T14:12:27Z",
+  "slug": "jfrog-xray",
+  "source": "release-data",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/jfrog-xray.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

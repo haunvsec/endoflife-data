@@ -447,76 +447,20 @@
       "releaseLabel": "releng/4.1"
     },
     {
-      "cycle": "3.5",
-      "lts": false,
-      "releaseDate": "2000-06-30",
-      "releaseLabel": "releng/3.5"
-    },
-    {
       "cycle": "4.0",
       "lts": false,
       "releaseDate": "2000-03-14",
       "releaseLabel": "releng/4.0"
     },
     {
-      "cycle": "3.4",
-      "lts": false,
-      "releaseDate": "1999-12-31",
-      "releaseLabel": "releng/3.4"
-    },
-    {
-      "cycle": "3.3",
-      "lts": false,
-      "releaseDate": "1999-09-30",
-      "releaseLabel": "releng/3.3"
-    },
-    {
-      "cycle": "3.2",
-      "lts": false,
-      "releaseDate": "1999-05-31",
-      "releaseLabel": "releng/3.2"
-    },
-    {
-      "cycle": "3.1",
-      "lts": false,
-      "releaseDate": "1999-02-28",
-      "releaseLabel": "releng/3.1"
-    },
-    {
       "cycle": "3.0",
       "lts": false,
-      "releaseDate": "1998-10-16",
-      "releaseLabel": "releng/3.0"
-    },
-    {
-      "cycle": "2.2",
-      "lts": false,
-      "releaseDate": "1997-03-31",
-      "releaseLabel": "releng/2.2"
-    },
-    {
-      "cycle": "2.1",
-      "lts": false,
-      "releaseDate": "1995-11-30",
-      "releaseLabel": "releng/2.1"
+      "releaseDate": "1998-10-16"
     },
     {
       "cycle": "2.0",
       "lts": false,
-      "releaseDate": "1994-11-22",
-      "releaseLabel": "releng/2.0"
-    },
-    {
-      "cycle": "1.1",
-      "lts": false,
-      "releaseDate": "1994-05-31",
-      "releaseLabel": "releng/1.1"
-    },
-    {
-      "cycle": "1.0",
-      "lts": false,
-      "releaseDate": "1993-11-30",
-      "releaseLabel": "releng/1.0"
+      "releaseDate": "1994-11-22"
     },
     {
       "cycle": "13",
@@ -569,10 +513,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-10-09T03:12:16Z",
+  "fetched_at": "2026-10-13T14:12:27Z",
   "slug": "freebsd",
   "source": "release-data",
-  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/freebsd.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

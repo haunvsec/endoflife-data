@@ -9,6 +9,27 @@
   },
   "cycles": [
     {
+      "cycle": "10.34",
+      "latest": "10.34.7",
+      "latestReleaseDate": "2026-10-12",
+      "lts": false,
+      "releaseDate": "2026-10-12"
+    },
+    {
+      "cycle": "12.12",
+      "latest": "12.12.1",
+      "latestReleaseDate": "2026-10-11",
+      "lts": false,
+      "releaseDate": "2026-10-11"
+    },
+    {
+      "cycle": "12.11",
+      "latest": "12.11.2",
+      "latestReleaseDate": "2026-10-09",
+      "lts": false,
+      "releaseDate": "2026-10-09"
+    },
+    {
       "cycle": "12.10",
       "latest": "12.10.1",
       "latestReleaseDate": "2026-10-06",
@@ -35,13 +56,6 @@
       "latestReleaseDate": "2026-09-30",
       "lts": false,
       "releaseDate": "2026-09-30"
-    },
-    {
-      "cycle": "10.34",
-      "latest": "10.34.6",
-      "latestReleaseDate": "2026-09-28",
-      "lts": false,
-      "releaseDate": "2026-09-28"
     },
     {
       "cycle": "12.7",
@@ -2039,10 +2053,10 @@
       "releaseDate": "2017-06-29"
     }
   ],
-  "fetched_at": "2026-10-09T03:12:16Z",
+  "fetched_at": "2026-10-13T14:12:27Z",
   "slug": "pnpm",
   "source": "release-data",
-  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/pnpm.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

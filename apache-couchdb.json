@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "3.5",
-      "latest": "3.5.2",
-      "latestReleaseDate": "2026-05-14",
+      "latest": "3.5.3",
+      "latestReleaseDate": "2026-10-09",
       "lts": false,
-      "releaseDate": "2026-05-14"
+      "releaseDate": "2026-10-09"
     },
     {
       "cycle": "3.4",
@@ -135,10 +135,10 @@
       "releaseDate": "2013-01-09"
     }
   ],
-  "fetched_at": "2026-10-09T03:12:16Z",
+  "fetched_at": "2026-10-13T14:12:27Z",
   "slug": "apache-couchdb",
   "source": "release-data",
-  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/apache-couchdb.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

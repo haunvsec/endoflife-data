@@ -1,0 +1,60 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Msexchange",
+    "mapping_source": "unmapped",
+    "product": "msexchange",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "2019",
+      "eoas": "2024-01-09",
+      "eol": "2025-10-14",
+      "lts": false,
+      "releaseDate": "2018-10-22"
+    },
+    {
+      "cycle": "2016",
+      "eoas": "2020-10-13",
+      "eol": "2025-10-14",
+      "lts": false,
+      "releaseDate": "2015-10-01"
+    },
+    {
+      "cycle": "2013",
+      "eoas": "2018-04-10",
+      "eol": "2023-04-11",
+      "lts": false,
+      "releaseDate": "2013-01-09"
+    },
+    {
+      "cycle": "2010",
+      "eoas": "2015-01-13",
+      "eol": "2020-10-13",
+      "lts": false,
+      "releaseDate": "2009-11-09"
+    },
+    {
+      "cycle": "2007",
+      "eoas": "2012-04-10",
+      "eol": "2017-04-11",
+      "lts": false,
+      "releaseDate": "2007-03-08"
+    },
+    {
+      "cycle": "2003",
+      "eoas": "2009-04-14",
+      "eol": "2014-04-08",
+      "lts": false,
+      "releaseDate": "2003-09-28"
+    }
+  ],
+  "fetched_at": "2026-10-13T14:12:27Z",
+  "slug": "msexchange",
+  "source": "release-data",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/msexchange.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

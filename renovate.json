@@ -9,11 +9,60 @@
   },
   "cycles": [
     {
-      "cycle": "44.148",
-      "latest": "44.148.3",
-      "latestReleaseDate": "2026-10-08",
+      "cycle": "44.155",
+      "latest": "44.155.1",
+      "latestReleaseDate": "2026-10-12",
       "lts": false,
-      "releaseDate": "2026-10-08"
+      "releaseDate": "2026-10-12"
+    },
+    {
+      "cycle": "44.154",
+      "latest": "44.154.1",
+      "latestReleaseDate": "2026-10-12",
+      "lts": false,
+      "releaseDate": "2026-10-12"
+    },
+    {
+      "cycle": "44.153",
+      "latest": "44.153.1",
+      "latestReleaseDate": "2026-10-12",
+      "lts": false,
+      "releaseDate": "2026-10-12"
+    },
+    {
+      "cycle": "44.152",
+      "latest": "44.152.0",
+      "latestReleaseDate": "2026-10-12",
+      "lts": false,
+      "releaseDate": "2026-10-12"
+    },
+    {
+      "cycle": "44.151",
+      "latest": "44.151.5",
+      "latestReleaseDate": "2026-10-12",
+      "lts": false,
+      "releaseDate": "2026-10-12"
+    },
+    {
+      "cycle": "44.150",
+      "latest": "44.150.1",
+      "latestReleaseDate": "2026-10-11",
+      "lts": false,
+      "releaseDate": "2026-10-11"
+    },
+    {
+      "cycle": "44.149",
+      "latest": "44.149.3",
+      "latestReleaseDate": "2026-10-10",
+      "lts": false,
+      "releaseDate": "2026-10-10"
+    },
+    {
+      "cycle": "44.148",
+      "latest": "44.148.6",
+      "latestReleaseDate": "2026-10-09",
+      "lts": false,
+      "releaseDate": "2026-10-09"
     },
     {
       "cycle": "44.147",
@@ -26833,10 +26882,10 @@
       "releaseDate": "2015-10-21"
     }
   ],
-  "fetched_at": "2026-10-09T03:12:16Z",
+  "fetched_at": "2026-10-13T14:12:27Z",
   "slug": "renovate",
   "source": "release-data",
-  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/renovate.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

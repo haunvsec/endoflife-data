@@ -1,0 +1,90 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Liquibase Secure",
+    "mapping_source": "unmapped",
+    "product": "liquibase_secure",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "6.0",
+      "eol": "2028-09-29",
+      "latest": "6.0.0",
+      "latestReleaseDate": "2026-09-29",
+      "lts": false,
+      "releaseDate": "2026-09-29"
+    },
+    {
+      "cycle": "5.2",
+      "eol": "2028-08-12",
+      "latest": "5.2.2",
+      "latestReleaseDate": "2026-08-12",
+      "lts": false,
+      "releaseDate": "2026-06-09"
+    },
+    {
+      "cycle": "5.1",
+      "eol": "2028-03-26",
+      "latest": "5.1.1",
+      "latestReleaseDate": "2026-03-26",
+      "lts": false,
+      "releaseDate": "2026-02-18"
+    },
+    {
+      "cycle": "5.0",
+      "eol": "2027-11-24",
+      "latest": "5.0.3",
+      "latestReleaseDate": "2025-11-24",
+      "lts": false,
+      "releaseDate": "2025-09-30"
+    },
+    {
+      "cycle": "4.33",
+      "eol": "2027-07-09",
+      "latest": "4.33.0",
+      "latestReleaseDate": "2025-07-09",
+      "lts": false,
+      "releaseDate": "2025-07-09"
+    },
+    {
+      "cycle": "4.32",
+      "eol": "2027-07-03",
+      "latest": "4.32.1",
+      "latestReleaseDate": "2025-07-03",
+      "lts": false,
+      "releaseDate": "2025-05-21"
+    },
+    {
+      "cycle": "4.31",
+      "eol": "2027-02-17",
+      "latest": "4.31.1",
+      "latestReleaseDate": "2025-02-17",
+      "lts": false,
+      "releaseDate": "2025-01-16"
+    },
+    {
+      "cycle": "4.30",
+      "eol": "2026-11-05",
+      "latest": "4.30.0",
+      "latestReleaseDate": "2024-11-05",
+      "lts": false,
+      "releaseDate": "2024-11-05"
+    },
+    {
+      "cycle": "4.29",
+      "eol": "2026-10-16",
+      "latest": "4.29.3",
+      "latestReleaseDate": "2024-10-16",
+      "lts": false,
+      "releaseDate": "2024-07-25"
+    }
+  ],
+  "fetched_at": "2026-10-13T14:12:27Z",
+  "slug": "liquibase-secure",
+  "source": "release-data",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/liquibase-secure.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

@@ -9,14 +9,171 @@
   },
   "cycles": [
     {
-      "cycle": "0",
-      "lts": false
+      "cycle": "0.23",
+      "latest": "0.23.0",
+      "latestReleaseDate": "2026-09-18",
+      "lts": false,
+      "releaseDate": "2026-09-18"
+    },
+    {
+      "cycle": "0.22",
+      "latest": "0.22.0",
+      "latestReleaseDate": "2026-08-19",
+      "lts": false,
+      "releaseDate": "2026-08-19"
+    },
+    {
+      "cycle": "0.21",
+      "latest": "0.21.0",
+      "latestReleaseDate": "2026-04-06",
+      "lts": false,
+      "releaseDate": "2026-04-06"
+    },
+    {
+      "cycle": "0.20",
+      "latest": "0.20.0",
+      "latestReleaseDate": "2025-11-14",
+      "lts": false,
+      "releaseDate": "2025-11-14"
+    },
+    {
+      "cycle": "0.19",
+      "latest": "0.19.0",
+      "latestReleaseDate": "2025-09-02",
+      "lts": false,
+      "releaseDate": "2025-09-02"
+    },
+    {
+      "cycle": "0.18",
+      "latest": "0.18.0",
+      "latestReleaseDate": "2025-06-25",
+      "lts": false,
+      "releaseDate": "2025-06-25"
+    },
+    {
+      "cycle": "0.17",
+      "latest": "0.17.0",
+      "latestReleaseDate": "2025-05-14",
+      "lts": false,
+      "releaseDate": "2025-05-14"
+    },
+    {
+      "cycle": "0.16",
+      "latest": "0.16.1",
+      "latestReleaseDate": "2025-03-14",
+      "lts": false,
+      "releaseDate": "2025-03-14"
+    },
+    {
+      "cycle": "0.15",
+      "latest": "0.15.1",
+      "latestReleaseDate": "2024-12-19",
+      "lts": false,
+      "releaseDate": "2024-12-19"
+    },
+    {
+      "cycle": "0.14",
+      "latest": "0.14.2",
+      "latestReleaseDate": "2024-05-16",
+      "lts": false,
+      "releaseDate": "2024-05-16"
+    },
+    {
+      "cycle": "0.13",
+      "latest": "0.13.6",
+      "latestReleaseDate": "2023-09-05",
+      "lts": false,
+      "releaseDate": "2023-09-05"
+    },
+    {
+      "cycle": "0.12",
+      "latest": "0.12.2",
+      "latestReleaseDate": "2022-07-27",
+      "lts": false,
+      "releaseDate": "2022-07-27"
+    },
+    {
+      "cycle": "0.11",
+      "latest": "0.11.1",
+      "latestReleaseDate": "2022-04-13",
+      "lts": false,
+      "releaseDate": "2022-04-13"
+    },
+    {
+      "cycle": "0.10",
+      "latest": "0.10.2",
+      "latestReleaseDate": "2021-12-10",
+      "lts": false,
+      "releaseDate": "2021-12-10"
+    },
+    {
+      "cycle": "0.9",
+      "latest": "0.9.0",
+      "latestReleaseDate": "2021-08-04",
+      "lts": false,
+      "releaseDate": "2021-08-04"
+    },
+    {
+      "cycle": "0.8",
+      "latest": "0.8.0",
+      "latestReleaseDate": "2021-05-04",
+      "lts": false,
+      "releaseDate": "2021-05-04"
+    },
+    {
+      "cycle": "0.7",
+      "latest": "0.7.6",
+      "latestReleaseDate": "2021-01-13",
+      "lts": false,
+      "releaseDate": "2021-01-13"
+    },
+    {
+      "cycle": "0.6",
+      "latest": "0.6.0",
+      "latestReleaseDate": "2020-02-11",
+      "lts": false,
+      "releaseDate": "2020-02-11"
+    },
+    {
+      "cycle": "0.5",
+      "latest": "0.5.18",
+      "latestReleaseDate": "2020-01-10",
+      "lts": false,
+      "releaseDate": "2020-01-10"
+    },
+    {
+      "cycle": "0.4",
+      "latest": "0.4.8",
+      "latestReleaseDate": "2017-11-22",
+      "lts": false,
+      "releaseDate": "2017-11-22"
+    },
+    {
+      "cycle": "0.3",
+      "latest": "0.3.0",
+      "latestReleaseDate": "2017-05-08",
+      "lts": false,
+      "releaseDate": "2017-05-08"
+    },
+    {
+      "cycle": "0.2",
+      "latest": "0.2.1",
+      "latestReleaseDate": "2017-04-14",
+      "lts": false,
+      "releaseDate": "2017-04-14"
+    },
+    {
+      "cycle": "0.1",
+      "latest": "0.1.1",
+      "latestReleaseDate": "2017-04-03",
+      "lts": false,
+      "releaseDate": "2017-04-03"
     }
   ],
-  "fetched_at": "2026-10-09T03:12:16Z",
+  "fetched_at": "2026-10-13T14:12:27Z",
   "slug": "external-dns",
   "source": "release-data",
-  "source_commit": "f20de6461f7eb7f10519f4131cf35856eddf72d1",
+  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/external-dns.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
