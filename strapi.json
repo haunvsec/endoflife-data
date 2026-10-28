@@ -9,6 +9,27 @@
   },
   "cycles": [
     {
+      "cycle": "5.60",
+      "latest": "5.60.0",
+      "latestReleaseDate": "2026-10-28",
+      "lts": false,
+      "releaseDate": "2026-10-28"
+    },
+    {
+      "cycle": "5.59",
+      "latest": "5.59.0",
+      "latestReleaseDate": "2026-10-21",
+      "lts": false,
+      "releaseDate": "2026-10-21"
+    },
+    {
+      "cycle": "5.58",
+      "latest": "5.58.0",
+      "latestReleaseDate": "2026-10-14",
+      "lts": false,
+      "releaseDate": "2026-10-14"
+    },
+    {
       "cycle": "5.57",
       "latest": "5.57.0",
       "latestReleaseDate": "2026-10-07",
@@ -702,10 +723,10 @@
       "releaseDate": "2015-10-05"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "strapi",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/strapi.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

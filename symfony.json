@@ -9,25 +9,32 @@
   },
   "cycles": [
     {
-      "cycle": "8.1",
-      "latest": "8.1.8",
-      "latestReleaseDate": "2026-09-29",
+      "cycle": "5.4",
+      "latest": "5.4.54",
+      "latestReleaseDate": "2026-10-15",
       "lts": false,
-      "releaseDate": "2026-09-29"
+      "releaseDate": "2026-10-15"
+    },
+    {
+      "cycle": "8.1",
+      "latest": "8.1.9",
+      "latestReleaseDate": "2026-10-14",
+      "lts": false,
+      "releaseDate": "2026-10-14"
     },
     {
       "cycle": "7.4",
-      "latest": "7.4.20",
-      "latestReleaseDate": "2026-09-29",
+      "latest": "7.4.21",
+      "latestReleaseDate": "2026-10-14",
       "lts": false,
-      "releaseDate": "2026-09-29"
+      "releaseDate": "2026-10-14"
     },
     {
       "cycle": "6.4",
-      "latest": "6.4.47",
-      "latestReleaseDate": "2026-09-29",
+      "latest": "6.4.48",
+      "latestReleaseDate": "2026-10-14",
       "lts": false,
-      "releaseDate": "2026-09-29"
+      "releaseDate": "2026-10-14"
     },
     {
       "cycle": "8.0",
@@ -35,13 +42,6 @@
       "latestReleaseDate": "2026-07-29",
       "lts": false,
       "releaseDate": "2026-07-29"
-    },
-    {
-      "cycle": "5.4",
-      "latest": "5.4.53",
-      "latestReleaseDate": "2026-05-27",
-      "lts": false,
-      "releaseDate": "2026-05-27"
     },
     {
       "cycle": "7.3",
@@ -261,10 +261,10 @@
       "releaseDate": "2013-10-10"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "symfony",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/symfony.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

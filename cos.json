@@ -11,29 +11,29 @@
     {
       "cycle": "cos-133",
       "eol": "2028-11-01",
-      "latest": "cos-133-19999-44-106",
-      "latestReleaseDate": "2026-10-06",
+      "latest": "cos-133-19999-44-159",
+      "latestReleaseDate": "2026-10-22",
       "lts": false
     },
     {
       "cycle": "cos-129",
       "eol": "2028-07-01",
-      "latest": "cos-129-19506-505-25",
-      "latestReleaseDate": "2026-10-06",
+      "latest": "cos-129-19506-578-9",
+      "latestReleaseDate": "2026-10-22",
       "lts": false
     },
     {
       "cycle": "cos-125",
       "eol": "2028-02-01",
-      "latest": "cos-125-19216-700-23",
-      "latestReleaseDate": "2026-10-06",
+      "latest": "cos-125-19216-760-8",
+      "latestReleaseDate": "2026-10-22",
       "lts": false
     },
     {
       "cycle": "cos-121",
       "eol": "2027-03-01",
-      "latest": "cos-121-18867-624-8",
-      "latestReleaseDate": "2026-10-06",
+      "latest": "cos-121-18867-652-7",
+      "latestReleaseDate": "2026-10-22",
       "lts": false
     },
     {
@@ -114,10 +114,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "cos",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/cos.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

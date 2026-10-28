@@ -452,7 +452,15 @@
     },
     {
       "aliases": [
-        "gpt-6.1-sol",
+        "gpt-6.1-terra"
+      ],
+      "cycle": "gpt-6.1-terra",
+      "link": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+      "lts": false,
+      "releaseLabel": "GPT-6.1 Terra"
+    },
+    {
+      "aliases": [
         "gpt-6.1-sol"
       ],
       "cycle": "gpt-6.1-sol",
@@ -462,7 +470,6 @@
     },
     {
       "aliases": [
-        "gpt-6-sol",
         "gpt-6-sol"
       ],
       "cycle": "gpt-6-sol",
@@ -472,7 +479,6 @@
     },
     {
       "aliases": [
-        "gpt-6-luna",
         "gpt-6-luna"
       ],
       "cycle": "gpt-6-luna",
@@ -835,8 +841,11 @@
         "gpt-4o-mini-2024-07-18"
       ],
       "cycle": "gpt-4o-mini",
+      "eoas": "2026-10-14",
+      "eol": "2027-01-14",
       "link": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
       "lts": false,
+      "recommendedReplacement": "gpt-6-luna",
       "releaseLabel": "GPT-4o Mini"
     },
     {
@@ -846,11 +855,11 @@
         "gpt-4o-2024-05-13"
       ],
       "cycle": "gpt-4o",
-      "eoas": "2026-04-22",
-      "eol": "2026-10-23",
+      "eoas": "2026-10-14",
+      "eol": "2027-01-14",
       "link": "https://developers.openai.com/api/docs/models/gpt-4o",
       "lts": false,
-      "recommendedReplacement": "gpt-5.6-sol",
+      "recommendedReplacement": "gpt-6-luna",
       "releaseLabel": "GPT-4o"
     },
     {
@@ -870,8 +879,11 @@
         "gpt-4.1-mini-2025-04-14"
       ],
       "cycle": "gpt-4.1-mini",
+      "eoas": "2026-10-14",
+      "eol": "2027-01-14",
       "link": "https://developers.openai.com/api/docs/models/gpt-4.1-mini",
       "lts": false,
+      "recommendedReplacement": "gpt-6-luna",
       "releaseLabel": "GPT-4.1 Mini"
     },
     {
@@ -879,8 +891,11 @@
         "gpt-4.1-2025-04-14"
       ],
       "cycle": "gpt-4.1",
+      "eoas": "2026-10-14",
+      "eol": "2027-01-14",
       "link": "https://developers.openai.com/api/docs/models/gpt-4.1",
       "lts": false,
+      "recommendedReplacement": "gpt-6-luna",
       "releaseLabel": "GPT-4.1"
     },
     {
@@ -992,10 +1007,10 @@
       "releaseLabel": "babbage-002"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "openai-api-models",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/openai-api-models.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

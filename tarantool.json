@@ -9,25 +9,32 @@
   },
   "cycles": [
     {
+      "cycle": "3.9",
+      "latest": "3.9.0",
+      "latestReleaseDate": "2026-10-23",
+      "lts": false,
+      "releaseDate": "2026-10-23"
+    },
+    {
+      "cycle": "3.8",
+      "latest": "3.8.2",
+      "latestReleaseDate": "2026-10-23",
+      "lts": false,
+      "releaseDate": "2026-10-23"
+    },
+    {
+      "cycle": "3.7",
+      "latest": "3.7.2",
+      "latestReleaseDate": "2026-10-23",
+      "lts": false,
+      "releaseDate": "2026-10-23"
+    },
+    {
       "cycle": "2.11",
       "latest": "2.11.10",
       "latestReleaseDate": "2026-09-21",
       "lts": false,
       "releaseDate": "2026-09-21"
-    },
-    {
-      "cycle": "3.8",
-      "latest": "3.8.1",
-      "latestReleaseDate": "2026-09-04",
-      "lts": false,
-      "releaseDate": "2026-09-04"
-    },
-    {
-      "cycle": "3.7",
-      "latest": "3.7.1",
-      "latestReleaseDate": "2026-07-09",
-      "lts": false,
-      "releaseDate": "2026-07-09"
     },
     {
       "cycle": "3.6",
@@ -205,10 +212,10 @@
       "releaseDate": "2013-04-08"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "tarantool",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/tarantool.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

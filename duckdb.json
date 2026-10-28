@@ -9,6 +9,13 @@
   },
   "cycles": [
     {
+      "cycle": "2.0",
+      "latest": "2.0.0",
+      "latestReleaseDate": "2026-10-21",
+      "lts": false,
+      "releaseDate": "2026-10-21"
+    },
+    {
       "cycle": "1.5",
       "latest": "1.5.6",
       "latestReleaseDate": "2026-09-28",
@@ -51,10 +58,10 @@
       "releaseDate": "2024-06-03"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "duckdb",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/duckdb.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

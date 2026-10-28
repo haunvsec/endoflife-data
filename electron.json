@@ -9,31 +9,38 @@
   },
   "cycles": [
     {
-      "chromeVersion": "M152",
-      "cycle": "44",
-      "eol": "2027-03-02",
-      "latest": "44.7.0",
-      "latestReleaseDate": "2026-10-07",
+      "chromeVersion": "M156",
+      "cycle": "45",
+      "latest": "45.1.0",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
       "nodeVersion": "24",
-      "releaseDate": "2026-08-25"
+      "releaseDate": "2026-10-20"
+    },
+    {
+      "chromeVersion": "M152",
+      "cycle": "44",
+      "latest": "44.10.0",
+      "latestReleaseDate": "2026-10-27",
+      "lts": false,
+      "nodeVersion": "24",
+      "releaseDate": "2026-08-24"
     },
     {
       "chromeVersion": "M150",
       "cycle": "43",
-      "eol": "2027-01-05",
-      "latest": "43.7.9",
-      "latestReleaseDate": "2026-10-07",
+      "latest": "43.8.4",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
       "nodeVersion": "24",
-      "releaseDate": "2026-06-30"
+      "releaseDate": "2026-06-29"
     },
     {
       "chromeVersion": "M148",
       "cycle": "42",
       "eol": "2026-10-20",
-      "latest": "42.11.12",
-      "latestReleaseDate": "2026-10-07",
+      "latest": "42.11.18",
+      "latestReleaseDate": "2026-10-21",
       "lts": false,
       "nodeVersion": "24",
       "releaseDate": "2026-05-05"
@@ -437,12 +444,24 @@
       "lts": false,
       "nodeVersion": "8",
       "releaseDate": "2018-05-01"
+    },
+    {
+      "chromeVersion": "M164",
+      "cycle": "47",
+      "lts": false,
+      "nodeVersion": "24"
+    },
+    {
+      "chromeVersion": "M160",
+      "cycle": "46",
+      "lts": false,
+      "nodeVersion": "24"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "electron",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/electron.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

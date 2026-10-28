@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "4.2",
-      "latest": "4.2.0",
-      "latestReleaseDate": "2026-04-28",
+      "latest": "4.2.8",
+      "latestReleaseDate": "2026-10-02",
       "lts": false,
-      "releaseDate": "2026-04-28"
+      "releaseDate": "2026-10-02"
     },
     {
       "cycle": "4.1",
@@ -114,10 +114,10 @@
       "releaseDate": "2021-04-02"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "proxmox-backup-server",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/proxmox-backup-server.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

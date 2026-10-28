@@ -12,8 +12,8 @@
       "cycle": "11",
       "eoas": "2025-09-03",
       "eol": "2026-03-12",
-      "latest": "11.57.0",
-      "latestReleaseDate": "2026-09-29",
+      "latest": "11.57.1",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
       "supportedPhpVersions": "8.2 - 8.4"
     },
@@ -21,16 +21,16 @@
       "cycle": "10",
       "eoas": "2024-08-06",
       "eol": "2025-02-04",
-      "latest": "10.50.3",
-      "latestReleaseDate": "2026-08-11",
+      "latest": "10.50.4",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
       "supportedPhpVersions": "8.1 - 8.3"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "laravel",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/laravel.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

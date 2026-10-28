@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "13.1",
-      "latest": "13.1.0.7233",
-      "latestReleaseDate": "2026-08-25",
+      "latest": "13.1.0.7940",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
-      "releaseDate": "2026-08-25"
+      "releaseDate": "2026-10-27"
     },
     {
       "cycle": "13.0",
@@ -107,10 +107,10 @@
       "releaseDate": "2012-04-23"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "veeam-one",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/veeam-one.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

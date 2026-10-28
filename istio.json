@@ -11,23 +11,24 @@
     {
       "cycle": "1.31",
       "eol": "2027-02-28",
-      "latest": "1.31.1",
-      "latestReleaseDate": "2026-09-21",
+      "latest": "1.31.3",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
       "supportedKubernetesVersions": "1.32 - 1.37"
     },
     {
       "cycle": "1.30",
       "eol": "2026-12-31",
-      "latest": "1.30.5",
-      "latestReleaseDate": "2026-09-21",
+      "latest": "1.30.7",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
       "supportedKubernetesVersions": "1.32 - 1.36"
     },
     {
       "cycle": "1.29",
-      "latest": "1.29.8",
-      "latestReleaseDate": "2026-09-21",
+      "eol": "2026-10-15",
+      "latest": "1.29.10",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
       "supportedKubernetesVersions": "1.31 - 1.35"
     },
@@ -160,10 +161,10 @@
       "supportedKubernetesVersions": "1.20 - 1.23"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "istio",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/istio.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -9,46 +9,53 @@
   },
   "cycles": [
     {
-      "cycle": "8.504",
-      "latest": "8.504.04.1",
-      "latestReleaseDate": "2026-10-01",
+      "cycle": "27.0",
+      "latest": "27.0.1.0.11",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
-      "releaseDate": "2026-10-01"
+      "releaseDate": "2026-10-27"
     },
     {
       "cycle": "25.0",
-      "latest": "25.0.4.10.1",
-      "latestReleaseDate": "2026-09-26",
+      "latest": "25.0.5.0.10",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
-      "releaseDate": "2026-09-26"
+      "releaseDate": "2026-10-27"
     },
     {
       "cycle": "21.0",
-      "latest": "21.0.12.12.1",
-      "latestReleaseDate": "2026-09-26",
+      "latest": "21.0.13.0.11",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
-      "releaseDate": "2026-09-26"
+      "releaseDate": "2026-10-27"
     },
     {
       "cycle": "17.0",
-      "latest": "17.0.20.12.1",
-      "latestReleaseDate": "2026-09-26",
+      "latest": "17.0.21.0.11",
+      "latestReleaseDate": "2026-10-27",
       "lts": false,
-      "releaseDate": "2026-09-26"
+      "releaseDate": "2026-10-27"
     },
     {
       "cycle": "11.0",
-      "latest": "11.0.32.12.1",
-      "latestReleaseDate": "2026-09-25",
+      "latest": "11.0.33.0.10",
+      "latestReleaseDate": "2026-10-26",
       "lts": false,
-      "releaseDate": "2026-09-25"
+      "releaseDate": "2026-10-26"
     },
     {
-      "cycle": "27.0",
-      "latest": "27.0.0.35.1",
-      "latestReleaseDate": "2026-09-16",
+      "cycle": "8.512",
+      "latest": "8.512.09.1",
+      "latestReleaseDate": "2026-10-26",
       "lts": false,
-      "releaseDate": "2026-09-16"
+      "releaseDate": "2026-10-26"
+    },
+    {
+      "cycle": "8.504",
+      "latest": "8.504.05.1",
+      "latestReleaseDate": "2026-10-13",
+      "lts": false,
+      "releaseDate": "2026-10-13"
     },
     {
       "cycle": "26.0",
@@ -345,10 +352,10 @@
       "releaseDate": "2019-02-20"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "amazon-corretto",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/amazon-corretto.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

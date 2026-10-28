@@ -9,29 +9,36 @@
   },
   "cycles": [
     {
-      "cycle": "18.10",
-      "latest": "18.10.3",
-      "latestReleaseDate": "2026-09-29",
+      "cycle": "18.11",
+      "latest": "18.11.2",
+      "latestReleaseDate": "2026-10-25",
       "lts": false,
-      "releaseDate": "2026-09-29"
+      "releaseDate": "2026-10-25"
+    },
+    {
+      "cycle": "17.14",
+      "latest": "17.14.43",
+      "latestReleaseDate": "2026-10-25",
+      "lts": false,
+      "releaseDate": "2026-10-25"
+    },
+    {
+      "cycle": "16.11",
+      "latest": "16.11.61",
+      "latestReleaseDate": "2026-10-25",
+      "lts": false,
+      "releaseDate": "2026-10-25"
+    },
+    {
+      "cycle": "18.10",
+      "latest": "18.10.4",
+      "latestReleaseDate": "2026-10-13",
+      "lts": false,
+      "releaseDate": "2026-10-13"
     },
     {
       "cycle": "18.9",
       "latest": "18.9.3",
-      "latestReleaseDate": "2026-09-08",
-      "lts": false,
-      "releaseDate": "2026-09-08"
-    },
-    {
-      "cycle": "17.14",
-      "latest": "17.14.40",
-      "latestReleaseDate": "2026-09-08",
-      "lts": false,
-      "releaseDate": "2026-09-08"
-    },
-    {
-      "cycle": "16.11",
-      "latest": "16.11.60",
       "latestReleaseDate": "2026-09-08",
       "lts": false,
       "releaseDate": "2026-09-08"
@@ -345,10 +352,10 @@
       "releaseDate": "2017-04-17"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "visual-studio",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/visual-studio.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

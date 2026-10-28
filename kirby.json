@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "5.6",
-      "latest": "5.6.1",
-      "latestReleaseDate": "2026-10-06",
+      "latest": "5.6.2",
+      "latestReleaseDate": "2026-10-26",
       "lts": false,
-      "releaseDate": "2026-10-06"
+      "releaseDate": "2026-10-26"
     },
     {
       "cycle": "4.9",
@@ -205,10 +205,10 @@
       "releaseDate": "2019-03-05"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "kirby",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/kirby.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

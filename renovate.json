@@ -9,11 +9,256 @@
   },
   "cycles": [
     {
-      "cycle": "44.155",
-      "latest": "44.155.1",
-      "latestReleaseDate": "2026-10-12",
+      "cycle": "44.190",
+      "latest": "44.190.2",
+      "latestReleaseDate": "2026-10-28",
       "lts": false,
-      "releaseDate": "2026-10-12"
+      "releaseDate": "2026-10-28"
+    },
+    {
+      "cycle": "44.189",
+      "latest": "44.189.0",
+      "latestReleaseDate": "2026-10-27",
+      "lts": false,
+      "releaseDate": "2026-10-27"
+    },
+    {
+      "cycle": "44.188",
+      "latest": "44.188.4",
+      "latestReleaseDate": "2026-10-27",
+      "lts": false,
+      "releaseDate": "2026-10-27"
+    },
+    {
+      "cycle": "44.187",
+      "latest": "44.187.0",
+      "latestReleaseDate": "2026-10-27",
+      "lts": false,
+      "releaseDate": "2026-10-27"
+    },
+    {
+      "cycle": "44.186",
+      "latest": "44.186.8",
+      "latestReleaseDate": "2026-10-27",
+      "lts": false,
+      "releaseDate": "2026-10-27"
+    },
+    {
+      "cycle": "44.185",
+      "latest": "44.185.0",
+      "latestReleaseDate": "2026-10-26",
+      "lts": false,
+      "releaseDate": "2026-10-26"
+    },
+    {
+      "cycle": "44.184",
+      "latest": "44.184.1",
+      "latestReleaseDate": "2026-10-26",
+      "lts": false,
+      "releaseDate": "2026-10-26"
+    },
+    {
+      "cycle": "44.183",
+      "latest": "44.183.0",
+      "latestReleaseDate": "2026-10-26",
+      "lts": false,
+      "releaseDate": "2026-10-26"
+    },
+    {
+      "cycle": "44.182",
+      "latest": "44.182.2",
+      "latestReleaseDate": "2026-10-26",
+      "lts": false,
+      "releaseDate": "2026-10-26"
+    },
+    {
+      "cycle": "44.181",
+      "latest": "44.181.12",
+      "latestReleaseDate": "2026-10-26",
+      "lts": false,
+      "releaseDate": "2026-10-26"
+    },
+    {
+      "cycle": "44.180",
+      "latest": "44.180.0",
+      "latestReleaseDate": "2026-10-23",
+      "lts": false,
+      "releaseDate": "2026-10-23"
+    },
+    {
+      "cycle": "44.179",
+      "latest": "44.179.2",
+      "latestReleaseDate": "2026-10-23",
+      "lts": false,
+      "releaseDate": "2026-10-23"
+    },
+    {
+      "cycle": "44.178",
+      "latest": "44.178.5",
+      "latestReleaseDate": "2026-10-23",
+      "lts": false,
+      "releaseDate": "2026-10-23"
+    },
+    {
+      "cycle": "44.177",
+      "latest": "44.177.0",
+      "latestReleaseDate": "2026-10-22",
+      "lts": false,
+      "releaseDate": "2026-10-22"
+    },
+    {
+      "cycle": "44.176",
+      "latest": "44.176.4",
+      "latestReleaseDate": "2026-10-22",
+      "lts": false,
+      "releaseDate": "2026-10-22"
+    },
+    {
+      "cycle": "44.175",
+      "latest": "44.175.5",
+      "latestReleaseDate": "2026-10-21",
+      "lts": false,
+      "releaseDate": "2026-10-21"
+    },
+    {
+      "cycle": "44.174",
+      "latest": "44.174.0",
+      "latestReleaseDate": "2026-10-21",
+      "lts": false,
+      "releaseDate": "2026-10-21"
+    },
+    {
+      "cycle": "44.173",
+      "latest": "44.173.1",
+      "latestReleaseDate": "2026-10-21",
+      "lts": false,
+      "releaseDate": "2026-10-21"
+    },
+    {
+      "cycle": "44.172",
+      "latest": "44.172.2",
+      "latestReleaseDate": "2026-10-20",
+      "lts": false,
+      "releaseDate": "2026-10-20"
+    },
+    {
+      "cycle": "44.171",
+      "latest": "44.171.9",
+      "latestReleaseDate": "2026-10-20",
+      "lts": false,
+      "releaseDate": "2026-10-20"
+    },
+    {
+      "cycle": "44.170",
+      "latest": "44.170.0",
+      "latestReleaseDate": "2026-10-19",
+      "lts": false,
+      "releaseDate": "2026-10-19"
+    },
+    {
+      "cycle": "44.169",
+      "latest": "44.169.0",
+      "latestReleaseDate": "2026-10-19",
+      "lts": false,
+      "releaseDate": "2026-10-19"
+    },
+    {
+      "cycle": "44.168",
+      "latest": "44.168.4",
+      "latestReleaseDate": "2026-10-19",
+      "lts": false,
+      "releaseDate": "2026-10-19"
+    },
+    {
+      "cycle": "44.167",
+      "latest": "44.167.7",
+      "latestReleaseDate": "2026-10-19",
+      "lts": false,
+      "releaseDate": "2026-10-19"
+    },
+    {
+      "cycle": "44.166",
+      "latest": "44.166.0",
+      "latestReleaseDate": "2026-10-17",
+      "lts": false,
+      "releaseDate": "2026-10-17"
+    },
+    {
+      "cycle": "44.165",
+      "latest": "44.165.3",
+      "latestReleaseDate": "2026-10-17",
+      "lts": false,
+      "releaseDate": "2026-10-17"
+    },
+    {
+      "cycle": "44.164",
+      "latest": "44.164.10",
+      "latestReleaseDate": "2026-10-16",
+      "lts": false,
+      "releaseDate": "2026-10-16"
+    },
+    {
+      "cycle": "44.163",
+      "latest": "44.163.0",
+      "latestReleaseDate": "2026-10-15",
+      "lts": false,
+      "releaseDate": "2026-10-15"
+    },
+    {
+      "cycle": "44.162",
+      "latest": "44.162.0",
+      "latestReleaseDate": "2026-10-15",
+      "lts": false,
+      "releaseDate": "2026-10-15"
+    },
+    {
+      "cycle": "44.161",
+      "latest": "44.161.2",
+      "latestReleaseDate": "2026-10-15",
+      "lts": false,
+      "releaseDate": "2026-10-15"
+    },
+    {
+      "cycle": "44.160",
+      "latest": "44.160.1",
+      "latestReleaseDate": "2026-10-14",
+      "lts": false,
+      "releaseDate": "2026-10-14"
+    },
+    {
+      "cycle": "44.159",
+      "latest": "44.159.0",
+      "latestReleaseDate": "2026-10-14",
+      "lts": false,
+      "releaseDate": "2026-10-14"
+    },
+    {
+      "cycle": "44.158",
+      "latest": "44.158.3",
+      "latestReleaseDate": "2026-10-14",
+      "lts": false,
+      "releaseDate": "2026-10-14"
+    },
+    {
+      "cycle": "44.157",
+      "latest": "44.157.1",
+      "latestReleaseDate": "2026-10-14",
+      "lts": false,
+      "releaseDate": "2026-10-14"
+    },
+    {
+      "cycle": "44.156",
+      "latest": "44.156.3",
+      "latestReleaseDate": "2026-10-14",
+      "lts": false,
+      "releaseDate": "2026-10-14"
+    },
+    {
+      "cycle": "44.155",
+      "latest": "44.155.9",
+      "latestReleaseDate": "2026-10-13",
+      "lts": false,
+      "releaseDate": "2026-10-13"
     },
     {
       "cycle": "44.154",
@@ -26882,10 +27127,10 @@
       "releaseDate": "2015-10-21"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "renovate",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/renovate.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

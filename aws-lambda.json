@@ -143,7 +143,7 @@
     {
       "cycle": "nodejs22.x",
       "eoas": "2027-04-30",
-      "eol": "2027-07-01",
+      "eol": "2027-08-31",
       "lts": false
     },
     {
@@ -333,10 +333,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "aws-lambda",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/aws-lambda.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

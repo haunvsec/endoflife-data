@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "pc.7",
-      "latest": "pc.7.6.0.6",
-      "latestReleaseDate": "2026-08-31",
+      "latest": "pc.7.6.0.8",
+      "latestReleaseDate": "2026-10-06",
       "lts": false,
-      "releaseDate": "2026-08-31"
+      "releaseDate": "2026-10-06"
     },
     {
       "cycle": "pc.2024",
@@ -79,10 +79,10 @@
       "releaseDate": "2018-11-30"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "nutanix-prism",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nutanix-prism.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

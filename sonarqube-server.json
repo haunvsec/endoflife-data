@@ -10,24 +10,24 @@
   "cycles": [
     {
       "cycle": "2026.5",
-      "latest": "2026.5.2",
-      "latestReleaseDate": "2026-10-06",
+      "latest": "2026.5.3",
+      "latestReleaseDate": "2026-10-23",
       "lts": false,
-      "releaseDate": "2026-10-06"
+      "releaseDate": "2026-10-23"
     },
     {
       "cycle": "2026.1",
-      "latest": "2026.1.6",
-      "latestReleaseDate": "2026-09-23",
+      "latest": "2026.1.7",
+      "latestReleaseDate": "2026-10-23",
       "lts": false,
-      "releaseDate": "2026-09-23"
+      "releaseDate": "2026-10-23"
     },
     {
       "cycle": "2025.4",
-      "latest": "2025.4.9",
-      "latestReleaseDate": "2026-09-23",
+      "latest": "2025.4.10",
+      "latestReleaseDate": "2026-10-23",
       "lts": false,
-      "releaseDate": "2026-09-23"
+      "releaseDate": "2026-10-23"
     },
     {
       "cycle": "2026.4",
@@ -49,19 +49,12 @@
       "latestReleaseDate": "2026-05-29",
       "lts": false,
       "releaseDate": "2026-05-29"
-    },
-    {
-      "cycle": "2026.2",
-      "latest": "2026.2.1",
-      "latestReleaseDate": "2026-03-30",
-      "lts": false,
-      "releaseDate": "2026-03-30"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "sonarqube-server",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/sonarqube-server.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

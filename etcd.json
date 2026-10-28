@@ -10,24 +10,24 @@
   "cycles": [
     {
       "cycle": "3.7",
-      "latest": "3.7.2",
-      "latestReleaseDate": "2026-09-22",
+      "latest": "3.7.3",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
-      "releaseDate": "2026-09-22"
+      "releaseDate": "2026-10-22"
     },
     {
       "cycle": "3.6",
-      "latest": "3.6.15",
-      "latestReleaseDate": "2026-09-22",
+      "latest": "3.6.16",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
-      "releaseDate": "2026-09-22"
+      "releaseDate": "2026-10-22"
     },
     {
       "cycle": "3.5",
-      "latest": "3.5.34",
-      "latestReleaseDate": "2026-09-22",
+      "latest": "3.5.35",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
-      "releaseDate": "2026-09-22"
+      "releaseDate": "2026-10-22"
     },
     {
       "cycle": "3.4",
@@ -93,10 +93,10 @@
       "releaseDate": "2015-06-25"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "etcd",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/etcd.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

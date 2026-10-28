@@ -9,6 +9,20 @@
   },
   "cycles": [
     {
+      "cycle": "8.6",
+      "latest": "8.6.3",
+      "latestReleaseDate": "2026-10-16",
+      "lts": false,
+      "releaseDate": "2026-10-16"
+    },
+    {
+      "cycle": "8.5",
+      "latest": "8.5.4",
+      "latestReleaseDate": "2026-10-16",
+      "lts": false,
+      "releaseDate": "2026-10-16"
+    },
+    {
       "cycle": "8.9",
       "latest": "8.9.0",
       "latestReleaseDate": "2026-10-05",
@@ -32,20 +46,6 @@
     {
       "cycle": "8.7",
       "latest": "8.7.1",
-      "latestReleaseDate": "2026-08-19",
-      "lts": false,
-      "releaseDate": "2026-08-19"
-    },
-    {
-      "cycle": "8.6",
-      "latest": "8.6.2",
-      "latestReleaseDate": "2026-08-19",
-      "lts": false,
-      "releaseDate": "2026-08-19"
-    },
-    {
-      "cycle": "8.5",
-      "latest": "8.5.3",
       "latestReleaseDate": "2026-08-19",
       "lts": false,
       "releaseDate": "2026-08-19"
@@ -569,10 +569,10 @@
       "releaseDate": "2019-08-08"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "rocket-chat",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/rocket-chat.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

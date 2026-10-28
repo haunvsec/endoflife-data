@@ -10,16 +10,16 @@
   "cycles": [
     {
       "cycle": "1.3",
-      "latest": "1.3.9d",
-      "latestReleaseDate": "2026-08-14",
+      "latest": "1.3.9e",
+      "latestReleaseDate": "2026-10-26",
       "lts": false,
-      "releaseDate": "2026-08-14"
+      "releaseDate": "2026-10-26"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "proftpd",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/proftpd.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

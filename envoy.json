@@ -9,26 +9,34 @@
   },
   "cycles": [
     {
+      "cycle": "1.40",
+      "eol": "2027-10-13",
+      "latest": "1.40.2",
+      "latestReleaseDate": "2026-10-26",
+      "lts": false,
+      "releaseDate": "2026-10-13"
+    },
+    {
       "cycle": "1.39",
       "eol": "2027-07-14",
-      "latest": "1.39.4",
-      "latestReleaseDate": "2026-10-12",
+      "latest": "1.39.6",
+      "latestReleaseDate": "2026-10-26",
       "lts": false,
       "releaseDate": "2026-07-14"
     },
     {
       "cycle": "1.38",
       "eol": "2027-04-23",
-      "latest": "1.38.7",
-      "latestReleaseDate": "2026-10-12",
+      "latest": "1.38.9",
+      "latestReleaseDate": "2026-10-26",
       "lts": false,
       "releaseDate": "2026-04-23"
     },
     {
       "cycle": "1.37",
       "eol": "2027-01-13",
-      "latest": "1.37.9",
-      "latestReleaseDate": "2026-10-12",
+      "latest": "1.37.11",
+      "latestReleaseDate": "2026-10-26",
       "lts": false,
       "releaseDate": "2026-01-13"
     },
@@ -233,10 +241,10 @@
       "releaseDate": "2019-10-31"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "envoy",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/envoy.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

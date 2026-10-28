@@ -11,22 +11,22 @@
     {
       "cycle": "9",
       "eol": "2028-12-31",
-      "latest": "9.3.0",
-      "latestReleaseDate": "2026-10-07",
+      "latest": "9.3.1",
+      "latestReleaseDate": "2026-10-20",
       "lts": false
     },
     {
       "cycle": "8",
       "eol": "2027-12-31",
-      "latest": "8.8.1",
-      "latestReleaseDate": "2026-09-24",
+      "latest": "8.8.2",
+      "latestReleaseDate": "2026-10-20",
       "lts": false
     },
     {
       "cycle": "7",
       "eol": "2026-12-31",
-      "latest": "7.7.1",
-      "latestReleaseDate": "2025-11-12",
+      "latest": "7.7.2",
+      "latestReleaseDate": "2026-10-23",
       "lts": false
     },
     {
@@ -51,10 +51,10 @@
       "lts": false
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "bazel",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/bazel.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

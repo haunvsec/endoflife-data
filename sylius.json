@@ -12,8 +12,8 @@
       "cycle": "2.2",
       "eoas": "2026-11-30",
       "eol": "2027-03-31",
-      "latest": "2.2.10",
-      "latestReleaseDate": "2026-09-28",
+      "latest": "2.2.12",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
       "releaseDate": "2025-12-17"
     },
@@ -21,8 +21,8 @@
       "cycle": "2.1",
       "eoas": "2026-03-31",
       "eol": "2026-09-30",
-      "latest": "2.1.16",
-      "latestReleaseDate": "2026-09-02",
+      "latest": "2.1.17",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
       "releaseDate": "2025-06-04"
     },
@@ -30,16 +30,16 @@
       "cycle": "1.14",
       "eoas": "2025-12-31",
       "eol": "2026-12-31",
-      "latest": "1.14.20",
-      "latestReleaseDate": "2026-09-02",
+      "latest": "1.14.21",
+      "latestReleaseDate": "2026-10-22",
       "lts": false,
       "releaseDate": "2024-11-12"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "sylius",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/sylius.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

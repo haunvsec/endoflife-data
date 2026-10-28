@@ -10,24 +10,24 @@
   "cycles": [
     {
       "cycle": "29.1",
-      "latest": "29.1.1",
-      "latestReleaseDate": "2026-09-21",
+      "latest": "29.1.2",
+      "latestReleaseDate": "2026-10-14",
       "lts": false,
-      "releaseDate": "2026-09-21"
+      "releaseDate": "2026-10-14"
     },
     {
       "cycle": "28.5",
-      "latest": "28.5.0.7",
-      "latestReleaseDate": "2026-09-21",
+      "latest": "28.5.0.8",
+      "latestReleaseDate": "2026-10-14",
       "lts": false,
-      "releaseDate": "2026-09-21"
+      "releaseDate": "2026-10-14"
     },
     {
       "cycle": "27.3",
-      "latest": "27.3.4.18",
-      "latestReleaseDate": "2026-09-21",
+      "latest": "27.3.4.19",
+      "latestReleaseDate": "2026-10-14",
       "lts": false,
-      "releaseDate": "2026-09-21"
+      "releaseDate": "2026-10-14"
     },
     {
       "cycle": "29.0",
@@ -380,10 +380,10 @@
       "releaseDate": "2014-05-27"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "erlang",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/erlang.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

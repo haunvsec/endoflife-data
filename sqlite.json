@@ -10,10 +10,10 @@
   "cycles": [
     {
       "cycle": "3.54",
-      "latest": "3.54.0",
-      "latestReleaseDate": "2026-10-09",
+      "latest": "3.54.1",
+      "latestReleaseDate": "2026-10-16",
       "lts": false,
-      "releaseDate": "2026-10-09"
+      "releaseDate": "2026-10-16"
     },
     {
       "cycle": "3.53",
@@ -464,10 +464,10 @@
       "releaseDate": "2001-07-23"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "sqlite",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/sqlite.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

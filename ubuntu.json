@@ -9,6 +9,14 @@
   },
   "cycles": [
     {
+      "codename": "Stonking Stingray",
+      "cycle": "26.10",
+      "latest": "26.10",
+      "latestReleaseDate": "2026-10-15",
+      "lts": false,
+      "releaseDate": "2026-10-15"
+    },
+    {
       "codename": "Resolute Raccoon",
       "cycle": "26.04",
       "latest": "26.04.1",
@@ -361,10 +369,10 @@
       "releaseDate": "2004-10-26"
     }
   ],
-  "fetched_at": "2026-10-13T14:12:27Z",
+  "fetched_at": "2026-10-28T14:37:30Z",
   "slug": "ubuntu",
   "source": "release-data",
-  "source_commit": "2974fc62a57b4253420f2f6c57e59e0616a500a3",
+  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/ubuntu.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
