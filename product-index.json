@@ -5145,6 +5145,21 @@
     "slug": "renovate"
   },
   {
+    "active": true,
+    "canonical_product": "enterprise_linux",
+    "canonical_vendor": "redhat",
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux:*:*:*:*:*:*:*:*",
+    "cycles_total": 7,
+    "display_name": "Red Hat Enterprise Linux",
+    "latest_cycle": "10",
+    "latest_release_date": "2026-05-20",
+    "latest_version": "10.2",
+    "mapping_source": "eol_product_mapping",
+    "needs_mapping_review": false,
+    "purl": "",
+    "slug": "rhel"
+  },
+  {
     "active": false,
     "canonical_product": "robo",
     "canonical_vendor": "",
