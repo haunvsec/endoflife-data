@@ -23,6 +23,13 @@
       "releaseDate": "2026-10-27"
     },
     {
+      "cycle": "115.44",
+      "latest": "115.44.0",
+      "latestReleaseDate": "2026-10-27",
+      "lts": false,
+      "releaseDate": "2026-10-27"
+    },
+    {
       "cycle": "158.0",
       "latest": "158.0.1",
       "latestReleaseDate": "2026-10-20",
@@ -32,6 +39,13 @@
     {
       "cycle": "153.5",
       "latest": "153.5.1",
+      "latestReleaseDate": "2026-10-20",
+      "lts": false,
+      "releaseDate": "2026-10-20"
+    },
+    {
+      "cycle": "115.43",
+      "latest": "115.43.1",
       "latestReleaseDate": "2026-10-20",
       "lts": false,
       "releaseDate": "2026-10-20"
@@ -58,6 +72,13 @@
       "releaseDate": "2026-09-29"
     },
     {
+      "cycle": "115.42",
+      "latest": "115.42.0",
+      "latestReleaseDate": "2026-09-29",
+      "lts": false,
+      "releaseDate": "2026-09-29"
+    },
+    {
       "cycle": "156.0",
       "latest": "156.0.1",
       "latestReleaseDate": "2026-09-22",
@@ -74,6 +95,13 @@
     {
       "cycle": "140.16",
       "latest": "140.16.0",
+      "latestReleaseDate": "2026-09-15",
+      "lts": false,
+      "releaseDate": "2026-09-15"
+    },
+    {
+      "cycle": "115.41",
+      "latest": "115.41.0",
       "latestReleaseDate": "2026-09-15",
       "lts": false,
       "releaseDate": "2026-09-15"
@@ -100,6 +128,13 @@
       "releaseDate": "2026-09-01"
     },
     {
+      "cycle": "115.40",
+      "latest": "115.40.0",
+      "latestReleaseDate": "2026-09-01",
+      "lts": false,
+      "releaseDate": "2026-09-01"
+    },
+    {
       "cycle": "154.0",
       "latest": "154.0.1",
       "latestReleaseDate": "2026-08-25",
@@ -116,6 +151,13 @@
     {
       "cycle": "140.14",
       "latest": "140.14.0",
+      "latestReleaseDate": "2026-08-18",
+      "lts": false,
+      "releaseDate": "2026-08-18"
+    },
+    {
+      "cycle": "115.39",
+      "latest": "115.39.0",
       "latestReleaseDate": "2026-08-18",
       "lts": false,
       "releaseDate": "2026-08-18"
@@ -1068,9 +1110,9 @@
     {
       "cycle": "102.0",
       "latest": "102.0.1",
-      "latestReleaseDate": "2022-07-06",
+      "latestReleaseDate": "2022-07-13",
       "lts": false,
-      "releaseDate": "2022-07-06"
+      "releaseDate": "2022-07-13"
     },
     {
       "cycle": "91.11",
@@ -1362,16 +1404,16 @@
     {
       "cycle": "82.0",
       "latest": "82.0.3",
-      "latestReleaseDate": "2020-11-10",
+      "latestReleaseDate": "2020-11-09",
       "lts": false,
-      "releaseDate": "2020-11-10"
+      "releaseDate": "2020-11-09"
     },
     {
       "cycle": "78.4",
       "latest": "78.4.1",
-      "latestReleaseDate": "2020-11-10",
+      "latestReleaseDate": "2020-11-09",
       "lts": false,
-      "releaseDate": "2020-11-10"
+      "releaseDate": "2020-11-09"
     },
     {
       "cycle": "81.0",
@@ -1761,9 +1803,9 @@
     {
       "cycle": "52.4",
       "latest": "52.4.1",
-      "latestReleaseDate": "2017-10-09",
+      "latestReleaseDate": "2017-10-10",
       "lts": false,
-      "releaseDate": "2017-10-09"
+      "releaseDate": "2017-10-10"
     },
     {
       "cycle": "55.0",
@@ -1817,9 +1859,9 @@
     {
       "cycle": "52.0",
       "latest": "52.0.2",
-      "latestReleaseDate": "2017-03-28",
+      "latestReleaseDate": "2017-03-29",
       "lts": false,
-      "releaseDate": "2017-03-28"
+      "releaseDate": "2017-03-29"
     },
     {
       "cycle": "45.8",
@@ -1873,9 +1915,9 @@
     {
       "cycle": "47.0",
       "latest": "47.0.2",
-      "latestReleaseDate": "2016-11-01",
+      "latestReleaseDate": "2016-11-03",
       "lts": false,
-      "releaseDate": "2016-11-01"
+      "releaseDate": "2016-11-03"
     },
     {
       "cycle": "49.0",
@@ -1943,9 +1985,9 @@
     {
       "cycle": "38.7",
       "latest": "38.7.1",
-      "latestReleaseDate": "2016-03-16",
+      "latestReleaseDate": "2016-03-17",
       "lts": false,
-      "releaseDate": "2016-03-16"
+      "releaseDate": "2016-03-17"
     },
     {
       "cycle": "44.0",
@@ -1983,18 +2025,18 @@
       "releaseDate": "2015-11-03"
     },
     {
-      "cycle": "38.4",
-      "latest": "38.4.0",
-      "latestReleaseDate": "2015-11-03",
-      "lts": false,
-      "releaseDate": "2015-11-03"
-    },
-    {
       "cycle": "41.0",
       "latest": "41.0.2",
       "latestReleaseDate": "2015-10-15",
       "lts": false,
       "releaseDate": "2015-10-15"
+    },
+    {
+      "cycle": "38.4",
+      "latest": "38.4.0",
+      "latestReleaseDate": "2015-10-03",
+      "lts": false,
+      "releaseDate": "2015-10-03"
     },
     {
       "cycle": "38.3",
@@ -2137,18 +2179,18 @@
       "releaseDate": "2014-09-24"
     },
     {
-      "cycle": "24.8",
-      "latest": "24.8.1",
+      "cycle": "31.1",
+      "latest": "31.1.1",
       "latestReleaseDate": "2014-09-24",
       "lts": false,
       "releaseDate": "2014-09-24"
     },
     {
-      "cycle": "31.1",
-      "latest": "31.1.1",
-      "latestReleaseDate": "2014-09-23",
+      "cycle": "24.8",
+      "latest": "24.8.1",
+      "latestReleaseDate": "2014-09-24",
       "lts": false,
-      "releaseDate": "2014-09-23"
+      "releaseDate": "2014-09-24"
     },
     {
       "cycle": "31.0",
@@ -2209,9 +2251,9 @@
     {
       "cycle": "27.0",
       "latest": "27.0.1",
-      "latestReleaseDate": "2014-02-13",
+      "latestReleaseDate": "2014-02-14",
       "lts": false,
-      "releaseDate": "2014-02-13"
+      "releaseDate": "2014-02-14"
     },
     {
       "cycle": "24.3",
@@ -2354,17 +2396,94 @@
       "releaseDate": "2012-03-13"
     },
     {
-      "cycle": "9.0",
-      "latest": "9.0",
-      "latestReleaseDate": "2012-01-31",
+      "cycle": "3.6",
+      "latest": "3.6.28",
+      "latestReleaseDate": "2012-03-13",
       "lts": false,
-      "releaseDate": "2012-01-31"
+      "releaseDate": "2012-03-13"
+    },
+    {
+      "cycle": "9.0",
+      "latest": "9.0.1",
+      "latestReleaseDate": "2011-12-21",
+      "lts": false,
+      "releaseDate": "2011-12-21"
+    },
+    {
+      "cycle": "8.0",
+      "latest": "8.0.1",
+      "latestReleaseDate": "2011-11-21",
+      "lts": false,
+      "releaseDate": "2011-11-21"
+    },
+    {
+      "cycle": "7.0",
+      "latest": "7.0.1",
+      "latestReleaseDate": "2011-09-29",
+      "lts": false,
+      "releaseDate": "2011-09-29"
+    },
+    {
+      "cycle": "6.0",
+      "latest": "6.0.2",
+      "latestReleaseDate": "2011-09-06",
+      "lts": false,
+      "releaseDate": "2011-09-06"
+    },
+    {
+      "cycle": "5.0",
+      "latest": "5.0.1",
+      "latestReleaseDate": "2011-07-11",
+      "lts": false,
+      "releaseDate": "2011-07-11"
+    },
+    {
+      "cycle": "4.0",
+      "latest": "4.0.1",
+      "latestReleaseDate": "2011-04-28",
+      "lts": false,
+      "releaseDate": "2011-04-28"
+    },
+    {
+      "cycle": "3.5",
+      "latest": "3.5.19",
+      "latestReleaseDate": "2011-04-28",
+      "lts": false,
+      "releaseDate": "2011-04-28"
+    },
+    {
+      "cycle": "3.0",
+      "latest": "3.0.19",
+      "latestReleaseDate": "2010-03-30",
+      "lts": false,
+      "releaseDate": "2010-03-30"
+    },
+    {
+      "cycle": "2.0",
+      "latest": "2.0.0.20",
+      "latestReleaseDate": "2008-12-18",
+      "lts": false,
+      "releaseDate": "2008-12-18"
+    },
+    {
+      "cycle": "1.5",
+      "latest": "1.5.0.12",
+      "latestReleaseDate": "2007-05-30",
+      "lts": false,
+      "releaseDate": "2007-05-30"
+    },
+    {
+      "cycle": "1.0",
+      "latest": "1.0.8",
+      "latestReleaseDate": "2006-04-13",
+      "lts": false,
+      "releaseDate": "2006-04-13"
     }
   ],
-  "fetched_at": "2026-10-28T14:37:30Z",
+  "fetched_at": "2026-11-02T09:41:59Z",
   "slug": "firefox",
   "source": "release-data",
-  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/firefox.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

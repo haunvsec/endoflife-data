@@ -9,18 +9,18 @@
   },
   "cycles": [
     {
+      "cycle": "1.17",
+      "latest": "1.17.1",
+      "latestReleaseDate": "2026-10-28",
+      "lts": false,
+      "releaseDate": "2026-10-28"
+    },
+    {
       "cycle": "1.16",
       "latest": "1.16.7",
       "latestReleaseDate": "2026-10-22",
       "lts": false,
       "releaseDate": "2026-10-22"
-    },
-    {
-      "cycle": "1.17",
-      "latest": "1.17.0",
-      "latestReleaseDate": "2026-10-21",
-      "lts": false,
-      "releaseDate": "2026-10-21"
     },
     {
       "cycle": "1.15",
@@ -135,10 +135,10 @@
       "releaseDate": "2021-11-10"
     }
   ],
-  "fetched_at": "2026-10-28T14:37:30Z",
+  "fetched_at": "2026-11-02T09:41:59Z",
   "slug": "terraform",
   "source": "release-data",
-  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/terraform.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

@@ -206,112 +206,42 @@
     },
     {
       "cycle": "6.6",
-      "latest": "6.6.9",
+      "latest": "6.6",
       "latestReleaseDate": "2015-03-27",
       "lts": false,
       "releaseDate": "2015-03-27"
     },
     {
       "cycle": "6.5",
-      "latest": "6.5.5",
+      "latest": "6.5",
       "latestReleaseDate": "2015-03-27",
       "lts": false,
       "releaseDate": "2015-03-27"
     },
     {
       "cycle": "6.4",
-      "latest": "6.4.5",
+      "latest": "6.4",
       "latestReleaseDate": "2015-03-27",
       "lts": false,
       "releaseDate": "2015-03-27"
     },
     {
       "cycle": "6.3",
-      "latest": "6.3.3",
+      "latest": "6.3",
       "latestReleaseDate": "2015-03-27",
       "lts": false,
       "releaseDate": "2015-03-27"
     },
     {
       "cycle": "6.2",
-      "latest": "6.2.2",
+      "latest": "6.2",
       "latestReleaseDate": "2015-03-27",
       "lts": false,
       "releaseDate": "2015-03-27"
     },
     {
       "cycle": "6.1",
-      "latest": "6.1.8",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.9",
-      "latest": "5.9.8",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.8",
-      "latest": "5.8.7",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.7",
-      "latest": "5.7",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.6",
-      "latest": "5.6.8",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.5",
-      "latest": "5.5.1",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.4",
-      "latest": "5.4.5",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.3",
-      "latest": "5.3.1",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.2",
-      "latest": "5.2",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.1",
-      "latest": "5.1.4",
-      "latestReleaseDate": "2015-03-27",
-      "lts": false,
-      "releaseDate": "2015-03-27"
-    },
-    {
-      "cycle": "5.0",
-      "latest": "5.0.3",
+      "latest": "6.1",
       "latestReleaseDate": "2015-03-27",
       "lts": false,
       "releaseDate": "2015-03-27"
@@ -324,10 +254,10 @@
       "releaseDate": "2015-03-27"
     }
   ],
-  "fetched_at": "2026-10-28T14:37:30Z",
+  "fetched_at": "2026-11-02T09:41:59Z",
   "slug": "notepad-plus-plus",
   "source": "release-data",
-  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/notepad-plus-plus.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

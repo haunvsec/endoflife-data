@@ -13,8 +13,8 @@
       "eoas": "2028-02-05",
       "eol": "2031-02-05",
       "extendedSupport": "2033-02-05",
-      "latest": "8.1.8",
-      "latestReleaseDate": "2026-09-22",
+      "latest": "8.1.9",
+      "latestReleaseDate": "2026-10-28",
       "lts": false,
       "releaseDate": "2024-02-05"
     },
@@ -69,10 +69,10 @@
       "releaseDate": "2007-06-01"
     }
   ],
-  "fetched_at": "2026-10-28T14:37:30Z",
+  "fetched_at": "2026-11-02T09:41:59Z",
   "slug": "red-hat-jboss-eap",
   "source": "release-data",
-  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/red-hat-jboss-eap.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

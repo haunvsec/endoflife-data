@@ -16,15 +16,15 @@
       "releaseDate": "2026-10-28"
     },
     {
-      "cycle": "26.12",
-      "latest": "26.12.1",
-      "latestReleaseDate": "2026-10-21",
+      "cycle": "24.22",
+      "latest": "24.22.2",
+      "latestReleaseDate": "2026-10-28",
       "lts": false,
-      "releaseDate": "2026-10-21"
+      "releaseDate": "2026-10-28"
     },
     {
-      "cycle": "24.22",
-      "latest": "24.22.1",
+      "cycle": "26.12",
+      "latest": "26.12.1",
       "latestReleaseDate": "2026-10-21",
       "lts": false,
       "releaseDate": "2026-10-21"
@@ -2746,10 +2746,10 @@
       "releaseDate": "2015-01-24"
     }
   ],
-  "fetched_at": "2026-10-28T14:37:30Z",
+  "fetched_at": "2026-11-02T09:41:59Z",
   "slug": "nodejs",
   "source": "release-data",
-  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/nodejs.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

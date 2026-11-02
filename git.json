@@ -1,0 +1,74 @@
+{
+  "canonical": {
+    "cpe": "",
+    "display_name": "Git",
+    "mapping_source": "unmapped",
+    "product": "git",
+    "purl": "",
+    "vendor": ""
+  },
+  "cycles": [
+    {
+      "cycle": "2.56",
+      "lts": false
+    },
+    {
+      "cycle": "2.55",
+      "lts": false
+    },
+    {
+      "cycle": "2.54",
+      "lts": false
+    },
+    {
+      "cycle": "2.53",
+      "lts": false
+    },
+    {
+      "cycle": "2.52",
+      "lts": false
+    },
+    {
+      "cycle": "2.51",
+      "lts": false
+    },
+    {
+      "cycle": "2.50",
+      "lts": false
+    },
+    {
+      "cycle": "2.49",
+      "lts": false
+    },
+    {
+      "cycle": "2.48",
+      "lts": false
+    },
+    {
+      "cycle": "2.47",
+      "lts": false
+    },
+    {
+      "cycle": "2.46",
+      "lts": false
+    },
+    {
+      "cycle": "2.45",
+      "lts": false
+    },
+    {
+      "cycle": "2.44",
+      "lts": false
+    },
+    {
+      "cycle": "2.43",
+      "lts": false
+    }
+  ],
+  "fetched_at": "2026-11-02T09:41:59Z",
+  "slug": "git",
+  "source": "release-data",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
+  "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/git.json",
+  "source_url": "https://github.com/endoflife-date/release-data.git"
+}

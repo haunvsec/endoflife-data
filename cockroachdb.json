@@ -18,8 +18,8 @@
       "cycle": "26.2",
       "eoas": "2027-09-23",
       "eol": "2028-09-23",
-      "latest": "26.2.9",
-      "latestReleaseDate": "2026-10-21",
+      "latest": "26.2.10",
+      "latestReleaseDate": "2026-10-27",
       "lts": "2026-09-23",
       "releaseDate": "2026-04-27"
     },
@@ -35,8 +35,8 @@
       "cycle": "25.4",
       "eoas": "2027-05-03",
       "eol": "2028-05-03",
-      "latest": "25.4.18",
-      "latestReleaseDate": "2026-10-20",
+      "latest": "25.4.19",
+      "latestReleaseDate": "2026-10-27",
       "lts": "2026-05-03",
       "releaseDate": "2025-11-03"
     },
@@ -52,8 +52,8 @@
       "cycle": "25.2",
       "eoas": "2026-12-17",
       "eol": "2027-12-17",
-      "latest": "25.2.25",
-      "latestReleaseDate": "2026-10-20",
+      "latest": "25.2.26",
+      "latestReleaseDate": "2026-10-27",
       "lts": "2025-12-17",
       "releaseDate": "2025-05-09"
     },
@@ -218,10 +218,10 @@
       "releaseDate": "2017-05-10"
     }
   ],
-  "fetched_at": "2026-10-28T14:37:30Z",
+  "fetched_at": "2026-11-02T09:41:59Z",
   "slug": "cockroachdb",
   "source": "release-data",
-  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/cockroachdb.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

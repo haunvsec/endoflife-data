@@ -9,6 +9,14 @@
   },
   "cycles": [
     {
+      "cycle": "26.3",
+      "eol": "2027-01-30",
+      "latest": "26.3.1.1",
+      "latestReleaseDate": "2026-10-19",
+      "lts": false,
+      "releaseDate": "2026-10-31"
+    },
+    {
       "cycle": "26.2",
       "eol": "2026-10-31",
       "latest": "26.2.1.5",
@@ -217,10 +225,10 @@
       "releaseDate": "2020-07-31"
     }
   ],
-  "fetched_at": "2026-10-28T14:37:30Z",
+  "fetched_at": "2026-11-02T09:41:59Z",
   "slug": "rtpengine",
   "source": "release-data",
-  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/rtpengine.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }

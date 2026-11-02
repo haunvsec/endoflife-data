@@ -10,31 +10,31 @@
   "cycles": [
     {
       "cycle": "4.7",
-      "latest": "4.7.3",
-      "latestReleaseDate": "2026-10-01",
+      "latest": "4.7.4",
+      "latestReleaseDate": "2026-10-29",
       "lts": false,
-      "releaseDate": "2026-10-01"
+      "releaseDate": "2026-10-29"
     },
     {
       "cycle": "4.6",
-      "latest": "4.6.9",
-      "latestReleaseDate": "2026-10-01",
+      "latest": "4.6.10",
+      "latestReleaseDate": "2026-10-29",
       "lts": false,
-      "releaseDate": "2026-10-01"
+      "releaseDate": "2026-10-29"
     },
     {
       "cycle": "4.5",
-      "latest": "4.5.19",
-      "latestReleaseDate": "2026-10-01",
+      "latest": "4.5.20",
+      "latestReleaseDate": "2026-10-29",
       "lts": false,
-      "releaseDate": "2026-10-01"
+      "releaseDate": "2026-10-29"
     },
     {
       "cycle": "4.4",
-      "latest": "4.4.26",
-      "latestReleaseDate": "2026-10-01",
+      "latest": "4.4.27",
+      "latestReleaseDate": "2026-10-29",
       "lts": false,
-      "releaseDate": "2026-10-01"
+      "releaseDate": "2026-10-29"
     },
     {
       "cycle": "4.3",
@@ -226,10 +226,10 @@
       "releaseDate": "2017-02-05"
     }
   ],
-  "fetched_at": "2026-10-28T14:37:30Z",
+  "fetched_at": "2026-11-02T09:41:59Z",
   "slug": "mastodon",
   "source": "release-data",
-  "source_commit": "df2c377f213a29a54320793e07ff0e59195ace0f",
+  "source_commit": "f7b419670bb01f9dbe958bc162bc81ff1d7f2da1",
   "source_file": "/Volumes/DATA/security_advisory/cache/endoflife-release-data/releases/mastodon.json",
   "source_url": "https://github.com/endoflife-date/release-data.git"
 }
